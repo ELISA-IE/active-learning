@@ -113,15 +113,12 @@ class ActiveLearning(object):
 			return select_info_div(size)
 
 
-	## Needs refactor still
+
 	def select_entropy(size):
 		if self.verbose:
 			print 'INFO: Selecting', size, 'sentences via entropy'
 
-		all_file = []
-		for root, dirs, files in os.walk(PROBS_DIR):
-			for file in files:
-				all_file.append(file)
+		all_file = os.listdir(PROBS_DIR)
 
 		prob_mul_list = [[]]
 		len_chunk = len(all_file)/self.num_process
@@ -139,22 +136,20 @@ class ActiveLearning(object):
 		sum_TK = results[0].copy()
 		for item in results[1:]:
 			sum_TK.update(item)
+
 		sorted_entropy = sorted(sum_TK.items(), key=operator.itemgetter(1), reverse=True)
 		############################################
-		print 'top 3 of sorted_entropy:'
-		print sorted_entropy[:3]
+
 		training_set_to_add = []
-		sample_size = size
-		if len(sorted_entropy) < size:
-			sample_size = len(sorted_entropy)
+		sample_size = size if len(sorted_entropy) >= size else len(sorted_entropy)
+
 		for item in sorted_entropy[:sample_size]:
-			sent_doc = item[0]
+			sent_doc = item
 			sent_doc_xml = sent_doc.replace('probs', 'laf')
-			add_one = self.train_set.index(LAF_DIR + '/'+sent_doc_xml + '\n')
+			add_one = self.train_set.index(os.path.join(LAF_DIR,sent_doc_xml) + '\n')
 			if add_one not in self.current_train_set:
 				training_set_to_add.append(add_one)
-			else:
-				print 'add_one is in current_training_set'
+
 		print training_set_to_add
 		return training_set_to_add
 
@@ -167,7 +162,7 @@ class ActiveLearning(object):
 		if sub < size:
 			sample_size = sub
 
-		candidates = list(self.train_set - self.current_train_set)
+		candidates = list(set(os.listdir(LAF_DIR)) - self.current_train_set)
 
 		while len(training_set_to_add) < size:
 			temp = random.randint(0, len(candidates) - 1)
@@ -266,6 +261,7 @@ def prob_score((probs_dir, file_list)):
         f.close()
     print 'finish calculate score'
     return sum_score
+
 ##########
 # run CRFs training
 # select new unlabeled_data
