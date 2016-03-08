@@ -101,7 +101,7 @@ class ActiveLearning(object):
 		self.current_train_set = set()
 
 	def init_set(self):
-		return self.select_random(self.init_size)
+		return self.select_random(self.init_size, LTF_DIR)
 
 	def select(self, size):
 		if self.mode == 'select_entropy':
@@ -153,7 +153,7 @@ class ActiveLearning(object):
 		print training_set_to_add
 		return training_set_to_add
 
-	def select_random(self, size):
+	def select_random(self, size, dir):
 		if self.verbose:
 			print 'INFO: Randomly selecting', size, 'sentences'
 		training_set_to_add = []
@@ -162,10 +162,10 @@ class ActiveLearning(object):
 		if sub < size:
 			sample_size = sub
 
-		candidates = list(set(os.listdir(LAF_DIR)) - self.current_train_set)
+		candidates = list(set(os.listdir(dir)) - self.current_train_set)
 
 		while len(training_set_to_add) < size:
-			temp = random.randint(0, len(candidates) - 1)
+			temp = random.randint(0, (len(candidates) - 1))
 			training_set_to_add.append(candidates[temp])
 
 		return set(training_set_to_add)
@@ -181,7 +181,7 @@ class ActiveLearning(object):
 		if self.verbose:
 			print 'INFO: Beginning Training'
 
-		train_command = [TRAIN, self.MODEL_DIR, os.path.join(WORKING_DIR, 'frequency.txt'), LTF_DIR] + train_list
+		train_command = [TRAIN, MODEL_DIR, os.path.join(WORKING_DIR, 'frequency.txt'), LTF_DIR] + train_list
 
 		subprocess.call(train_command)
 		subprocess.call(self.cmd_del_syslaf)

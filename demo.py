@@ -25,8 +25,11 @@ LAF_DIR = os.path.join(WORKING_DIR,'laf')
 LAF_SRC = os.path.join(WORKING_DIR,'laf_src')
 
 def annotate(files):
+	ann_files = []
 	for file in files:
-		subprocess.call(['mv', os.path.join(LAF_SRC, file), os.path.join(LAF_DIR, file)])
+		subprocess.call(['mv', os.path.join(LAF_SRC, file.replace('ltf','laf')), os.path.join(LAF_DIR, file.replace('ltf','laf'))])
+		ann_files.append(file.replace('lft','laf'))
+	return ann_files
 
 ##################################
 # DRIVER FUNCTION EXAMPLE
