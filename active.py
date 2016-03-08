@@ -21,7 +21,7 @@ from itertools import repeat
 
 FS = '/'
 NUM_PROC = 2
-WORKING_DIR = FS
+WORKING_DIR = './hau'
 PROBS_DIR = os.path.join(WORKING_DIR,'probs')
 MODEL_DIR = os.path.join(WORKING_DIR,'model')
 LAF_DIR = os.path.join(WORKING_DIR,'laf')
@@ -42,7 +42,7 @@ class ActiveLearning(object):
 	## batch_size - The numer of samples per iteration
 	## select - The selection mode. Default mode entropy
 	## verbose - Debugging purposes
-	def __init__(working_dir=None, unlabeled_data=[], max_iter=50, 
+	def __init__(self, working_dir=None, unlabeled_data=[], max_iter=50, 
 		init_size=50, max_size=100, batch_size=5, select='select_entropy', verbose=False):
 
 		if not working_dir == None:
@@ -56,17 +56,17 @@ class ActiveLearning(object):
 		self.train_set = set(unlabeled_data)
 
 		if verbose:
-			print "INFO: Unlabeled data: " + len(unlabeled_data)
+			print "INFO: Unlabeled data: " + str(len(unlabeled_data))
 
 		self.frequency = dict()
 		sum = 0.0
 		for f in self.train_set:
 			try:
-				contents = open(f).read()
+				contents = open(os.path.join(LTF_DIR,f)).read()
 			except IOError:
 				print "ERROR: Skipping training file (not found): " + f
 				continue
-			soup = BeautifulSoup(contents, 'html.parser'))
+			soup = BeautifulSoup(contents, 'html.parser')
 			for token in soup.find_all('token'):
 				tmp = token.string
 				if tmp in self.frequency.keys():
@@ -87,6 +87,7 @@ class ActiveLearning(object):
 		self.verbose = verbose
 		self.mode = select
 		self.iter_num = 0
+		self.init_size = init_size
 
 		#COMMANDS FOR MODEL PROCESSING
 		self.cmd_del_model = ['rm', '-r', MODEL_DIR]
@@ -99,10 +100,10 @@ class ActiveLearning(object):
 		self.init_train_set = set()
 		self.current_train_set = set()
 
-	def init_set():
-		return select_random(init_size)
+	def init_set(self):
+		return self.select_random(self.init_size)
 
-	def select(size):
+	def select(self, size):
 		if self.mode == 'select_entropy':
 			return select_entropy(size)
 		if self.mode == 'select_random':
@@ -114,7 +115,7 @@ class ActiveLearning(object):
 
 
 
-	def select_entropy(size):
+	def select_entropy(self, size):
 		if self.verbose:
 			print 'INFO: Selecting', size, 'sentences via entropy'
 
@@ -146,14 +147,13 @@ class ActiveLearning(object):
 		for item in sorted_entropy[:sample_size]:
 			sent_doc = item
 			sent_doc_xml = sent_doc.replace('probs', 'laf')
-			add_one = self.train_set.index(os.path.join(LAF_DIR,sent_doc_xml) + '\n')
-			if add_one not in self.current_train_set:
-				training_set_to_add.append(add_one)
+			if sent_doc_xml not in self.current_train_set:
+				training_set_to_add.append(sent_doc_xml)
 
 		print training_set_to_add
 		return training_set_to_add
 
-	def select_random(size):
+	def select_random(self, size):
 		if self.verbose:
 			print 'INFO: Randomly selecting', size, 'sentences'
 		training_set_to_add = []
@@ -170,13 +170,13 @@ class ActiveLearning(object):
 
 		return set(training_set_to_add)
 
-	def select_info_div(size):
+	def select_info_div(self, size):
 		pass
 
-	def retrain(annotated_files):
+	def retrain(self, annotated_files):
 		subprocess.call(self.cmd_del_model)
 		self.current_train_set.update(annotated_files)
-		train_list = list(self.current_train_set) # get the name list of training set
+		train_list = [os.path.join(LAF_DIR, file) for file in self.current_train_set] # get the name list of training set
 
 		if self.verbose:
 			print 'INFO: Beginning Training'
@@ -211,17 +211,13 @@ class ActiveLearning(object):
 
 		if self.verbose:
 			print 'INFO: Finished Tagging'
-		
-		#new_dir = os.path.join(work_dir, sampling_method) + '/round' + str(len(self.current_train_set))
-		#subprocess.call(['mkdir', new_dir])
-		#subprocess.call(['cp', '-r', OUT_DIR, new_dir])
 
-	def done():
+	def done(self):
 		if self.iter_num >= self.max_iter or len(self.current_train_set) >= self.max_size:
 			return True
 		return False
 
-	def iterate():
+	def iterate(self):
 		self.iter_num += 1
 		selection = select(self.increment)
 		return selection
