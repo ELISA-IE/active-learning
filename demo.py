@@ -28,7 +28,7 @@ def annotate(files):
 	ann_files = []
 	for file in files:
 		subprocess.call(['mv', os.path.join(LAF_SRC, file.replace('ltf','laf')), os.path.join(LAF_DIR, file.replace('ltf','laf'))])
-		ann_files.append(file.replace('lft','laf'))
+		ann_files.append(file.replace('ltf','laf'))
 	return ann_files
 
 ##################################
@@ -38,5 +38,6 @@ annotated_files = annotate(learner.init_set())
 learner.retrain(annotated_files)
 while not learner.done():
 	files = learner.iterate() #LTF filename list to annotate
+	print 'ITERATION COMPLETED ##########################################################################3'
 	annotated_files = annotate(files) #LAF filename list from annotator to give to retrainer
 	learner.retrain(annotated_files) #A list of LAF filenames to retrain with

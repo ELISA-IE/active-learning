@@ -88,6 +88,7 @@ class ActiveLearning(object):
 		self.mode = select
 		self.iter_num = 0
 		self.init_size = init_size
+		self.max_size = max_size
 
 		#COMMANDS FOR MODEL PROCESSING
 		self.cmd_del_model = ['rm', '-r', MODEL_DIR]
@@ -105,13 +106,13 @@ class ActiveLearning(object):
 
 	def select(self, size):
 		if self.mode == 'select_entropy':
-			return select_entropy(size)
+			return self.select_entropy(size)
 		if self.mode == 'select_random':
-			return select_random(size)
+			return self.select_random(size)
 		if self.mode == 'select_sequential':
-			return select_sequential(size)
+			return self.select_sequential(size)
 		if self.mode == 'select_info_div':
-			return select_info_div(size)
+			return self.select_info_div(size)
 
 
 
@@ -122,15 +123,15 @@ class ActiveLearning(object):
 		all_file = os.listdir(PROBS_DIR)
 
 		prob_mul_list = [[]]
-		len_chunk = len(all_file)/self.num_process
-		for i in range(self.num_process):
+		len_chunk = len(all_file)/NUM_PROC
+		for i in range(NUM_PROC):
 			prob_mul_list.append(all_file[i*len_chunk:(i+1)*len_chunk])
 		if (i+1)*len_chunk < len(all_file):
 			prob_mul_list.append(all_file[(i+1)*len_chunk:])
 		prob_mul_list.pop(0)
 
-		pool = mp.Pool(processes=self.num_process)
-		results = pool.map(prob_score, zip(repeat(self.PROBS_DIR), prob_mul_list))
+		pool = mp.Pool(processes=NUM_PROC)
+		results = pool.map(prob_score, zip(repeat(PROBS_DIR), prob_mul_list))
 
 		pool.close()
 		pool.join()
@@ -150,7 +151,6 @@ class ActiveLearning(object):
 			if sent_doc_xml not in self.current_train_set:
 				training_set_to_add.append(sent_doc_xml)
 
-		print training_set_to_add
 		return training_set_to_add
 
 	def select_random(self, size, dir):
@@ -176,6 +176,7 @@ class ActiveLearning(object):
 	def retrain(self, annotated_files):
 		subprocess.call(self.cmd_del_model)
 		self.current_train_set.update(annotated_files)
+		print annotated_files
 		train_list = [os.path.join(LAF_DIR, file) for file in self.current_train_set] # get the name list of training set
 
 		if self.verbose:
@@ -188,13 +189,12 @@ class ActiveLearning(object):
 		subprocess.call(self.cmd_mk_syslaf)
 		subprocess.call(self.cmd_del_probs)
 		subprocess.call(self.cmd_mk_probs)
-		# subprocess.call(self.cmd_del_maxprobs)
-		# subprocess.call(self.cmd_mk_maxprobs)
+
 		if self.verbose:
 			print 'INFO: Training Completed'
 			print 'INFO: Beginning Tagging'
 
-		test_set = self.train_set - self.current_train_set
+		test_set = list(self.train_set - self.current_train_set)
 		tag_mul_list = [[]]
 		len_chunk = len(test_set)/NUM_PROC
 		for i in range(NUM_PROC):
@@ -219,7 +219,7 @@ class ActiveLearning(object):
 
 	def iterate(self):
 		self.iter_num += 1
-		selection = select(self.increment)
+		selection = self.select(self.increment)
 		return selection
 
 # END ACTIVE LEARNING CLASS
