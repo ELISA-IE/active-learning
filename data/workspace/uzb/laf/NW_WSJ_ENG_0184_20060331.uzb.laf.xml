@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_WSJ_ENG_0184_20060331.uzb" lang="UZB">
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE1" task="NE">
+      <EXTENT start_char="0" end_char="5">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE2" task="NE">
+      <EXTENT start_char="44" end_char="48">mayor</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE3" task="NE">
+      <EXTENT start_char="50" end_char="63">Moyzes Jiroldi</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE4" task="NE">
+      <EXTENT start_char="199" end_char="204">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE5" task="NE">
+      <EXTENT start_char="206" end_char="210">lider</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE6" task="NE">
+      <EXTENT start_char="213" end_char="236">Manuyel Antonio Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE7" task="NE">
+      <EXTENT start_char="281" end_char="286">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE8" task="NE">
+      <EXTENT start_char="288" end_char="308">batalʼon-2000 boʻlimi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE9" task="NE">
+      <EXTENT start_char="361" end_char="367">general</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE10" task="NE">
+      <EXTENT start_char="369" end_char="376">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE11" task="NE">
+      <EXTENT start_char="434" end_char="437">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE12" task="NE">
+      <EXTENT start_char="501" end_char="503">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE13" task="NE">
+      <EXTENT start_char="505" end_char="512">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE14" task="NE">
+      <EXTENT start_char="589" end_char="601">Panama shahri</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE15" task="NE">
+      <EXTENT start_char="657" end_char="660">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE16" task="NE">
+      <EXTENT start_char="877" end_char="886">Viki Amado</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE17" task="NE">
+      <EXTENT start_char="905" end_char="909">Norma</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE18" task="NE">
+      <EXTENT start_char="1112" end_char="1115">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE19" task="NE">
+      <EXTENT start_char="1179" end_char="1181">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE20" task="NE">
+      <EXTENT start_char="1183" end_char="1190">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE21" task="NE">
+      <EXTENT start_char="1309" end_char="1312">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE22" task="NE">
+      <EXTENT start_char="1404" end_char="1406">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE23" task="NE">
+      <EXTENT start_char="1408" end_char="1415">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE24" task="NE">
+      <EXTENT start_char="1420" end_char="1429">Vashington</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE25" task="NE">
+      <EXTENT start_char="1494" end_char="1500">Amerika</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE26" task="NE">
+      <EXTENT start_char="1660" end_char="1666">Amerika</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE27" task="NE">
+      <EXTENT start_char="1684" end_char="1691">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE28" task="NE">
+      <EXTENT start_char="1767" end_char="1772">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE29" task="NE">
+      <EXTENT start_char="1940" end_char="1942">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE30" task="NE">
+      <EXTENT start_char="1944" end_char="1951">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE31" task="NE">
+      <EXTENT start_char="1953" end_char="1973">Peru harbiy Akademiya</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE32" task="NE">
+      <EXTENT start_char="1987" end_char="2017">AQSh Mudofaa Razvedka Agentligi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE33" task="NE">
+      <EXTENT start_char="2040" end_char="2043">Lima</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE34" task="NE">
+      <EXTENT start_char="2136" end_char="2151">AQSh elchixonasi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE35" task="NE">
+      <EXTENT start_char="2239" end_char="2253">AQSh razvedkasi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE36" task="NE">
+      <EXTENT start_char="2367" end_char="2370">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE37" task="NE">
+      <EXTENT start_char="2390" end_char="2392">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE38" task="NE">
+      <EXTENT start_char="2394" end_char="2401">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE39" task="NE">
+      <EXTENT start_char="2513" end_char="2516">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE40" task="NE">
+      <EXTENT start_char="2575" end_char="2578">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE41" task="NE">
+      <EXTENT start_char="2703" end_char="2705">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE42" task="NE">
+      <EXTENT start_char="2707" end_char="2714">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE43" task="NE">
+      <EXTENT start_char="2716" end_char="2719">Eron</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE44" task="NE">
+      <EXTENT start_char="2743" end_char="2751">Nikaragua</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE45" task="NE">
+      <EXTENT start_char="2753" end_char="2771">Anastasio Somozaday</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE46" task="NE">
+      <EXTENT start_char="2789" end_char="2797">Filippina</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE47" task="NE">
+      <EXTENT start_char="2799" end_char="2817">Ferdinand Markosday</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE48" task="NE">
+      <EXTENT start_char="2838" end_char="2842">Gaiti</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE49" task="NE">
+      <EXTENT start_char="2844" end_char="2864">Bebi Dok Dyuvalʼerday</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE50" task="NE">
+      <EXTENT start_char="2971" end_char="2974">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE51" task="NE">
+      <EXTENT start_char="3100" end_char="3103">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE52" task="NE">
+      <EXTENT start_char="3105" end_char="3112">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE53" task="NE">
+      <EXTENT start_char="3143" end_char="3153">Embler Moss</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE54" task="NE">
+      <EXTENT start_char="3162" end_char="3167">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE55" task="NE">
+      <EXTENT start_char="3171" end_char="3175">elchi</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE56" task="NE">
+      <EXTENT start_char="3216" end_char="3222">Amerika</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE57" task="NE">
+      <EXTENT start_char="3228" end_char="3230">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE58" task="NE">
+      <EXTENT start_char="3232" end_char="3239">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE59" task="NE">
+      <EXTENT start_char="3275" end_char="3278">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE60" task="NE">
+      <EXTENT start_char="3358" end_char="3360">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE61" task="NE">
+      <EXTENT start_char="3362" end_char="3369">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE62" task="NE">
+      <EXTENT start_char="3425" end_char="3430">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE63" task="NE">
+      <EXTENT start_char="3479" end_char="3481">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE64" task="NE">
+      <EXTENT start_char="3483" end_char="3486">Moss</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE65" task="NE">
+      <EXTENT start_char="3641" end_char="3644">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE66" task="NE">
+      <EXTENT start_char="3735" end_char="3737">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE67" task="NE">
+      <EXTENT start_char="3739" end_char="3742">Moss</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE68" task="NE">
+      <EXTENT start_char="3792" end_char="3794">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE69" task="NE">
+      <EXTENT start_char="3796" end_char="3803">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE70" task="NE">
+      <EXTENT start_char="3930" end_char="3938">Kolumbiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE71" task="NE">
+      <EXTENT start_char="3971" end_char="3977">general</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE72" task="NE">
+      <EXTENT start_char="3979" end_char="3986">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE73" task="NE">
+      <EXTENT start_char="3988" end_char="3991">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE74" task="NE">
+      <EXTENT start_char="4200" end_char="4207">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE75" task="NE">
+      <EXTENT start_char="4218" end_char="4232">Katolik Cherkov</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE76" task="NE">
+      <EXTENT start_char="4273" end_char="4288">Fernando Guardia</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE77" task="NE">
+      <EXTENT start_char="4439" end_char="4445">Amerika</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE78" task="NE">
+      <EXTENT start_char="4495" end_char="4497">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE79" task="NE">
+      <EXTENT start_char="4499" end_char="4506">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE80" task="NE">
+      <EXTENT start_char="4645" end_char="4648">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE81" task="NE">
+      <EXTENT start_char="4655" end_char="4662">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE82" task="NE">
+      <EXTENT start_char="4694" end_char="4697">Lima</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE83" task="NE">
+      <EXTENT start_char="4701" end_char="4727">Chorrillos harbiy akademiya</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE84" task="NE">
+      <EXTENT start_char="4772" end_char="4784">AQSh razvedka</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE85" task="NE">
+      <EXTENT start_char="4819" end_char="4821">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE86" task="NE">
+      <EXTENT start_char="4823" end_char="4830">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE87" task="NE">
+      <EXTENT start_char="4864" end_char="4867">Peru</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE88" task="NE">
+      <EXTENT start_char="4882" end_char="4887">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE89" task="NE">
+      <EXTENT start_char="4889" end_char="4896">diplomat</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE90" task="NE">
+      <EXTENT start_char="4899" end_char="4926">Luis Karlos Nuriyega Xurtado</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE91" task="NE">
+      <EXTENT start_char="4942" end_char="4952">Luis Karlos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE92" task="NE">
+      <EXTENT start_char="4992" end_char="4997">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE93" task="NE">
+      <EXTENT start_char="5051" end_char="5054">Toni</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE94" task="NE">
+      <EXTENT start_char="5249" end_char="5260">Kara la Pina</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE95" task="NE">
+      <EXTENT start_char="5324" end_char="5326">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE96" task="NE">
+      <EXTENT start_char="5328" end_char="5335">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE97" task="NE">
+      <EXTENT start_char="5416" end_char="5428">Panama shahri</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE98" task="NE">
+      <EXTENT start_char="5498" end_char="5501">Toni</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE99" task="NE">
+      <EXTENT start_char="5955" end_char="5960">Fransa</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE100" task="NE">
+      <EXTENT start_char="5984" end_char="5991">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE101" task="NE">
+      <EXTENT start_char="6231" end_char="6243">Dariyen Ayala</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE102" task="NE">
+      <EXTENT start_char="6246" end_char="6249">Peru</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE103" task="NE">
+      <EXTENT start_char="6298" end_char="6300">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE104" task="NE">
+      <EXTENT start_char="6302" end_char="6309">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE105" task="NE">
+      <EXTENT start_char="6315" end_char="6321">Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE106" task="NE">
+      <EXTENT start_char="6415" end_char="6430">Chiriki viloyati</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE107" task="NE">
+      <EXTENT start_char="6453" end_char="6459">ofitser</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE108" task="NE">
+      <EXTENT start_char="6463" end_char="6467">mayor</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE109" task="NE">
+      <EXTENT start_char="6469" end_char="6481">Omar Torrixos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE110" task="NE">
+      <EXTENT start_char="6524" end_char="6526">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE111" task="NE">
+      <EXTENT start_char="6528" end_char="6535">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE112" task="NE">
+      <EXTENT start_char="6696" end_char="6709">Panama davlati</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE113" task="NE">
+      <EXTENT start_char="6717" end_char="6720">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE114" task="NE">
+      <EXTENT start_char="6725" end_char="6739">Bokas del Toros</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE115" task="NE">
+      <EXTENT start_char="6744" end_char="6761">Puyerto Armuyelles</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE116" task="NE">
+      <EXTENT start_char="6768" end_char="6783">Yunayted Frut Ko</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE117" task="NE">
+      <EXTENT start_char="6896" end_char="6908">Yunayted Frut</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE118" task="NE">
+      <EXTENT start_char="6910" end_char="6915">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE119" task="NE">
+      <EXTENT start_char="7017" end_char="7022">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE120" task="NE">
+      <EXTENT start_char="7055" end_char="7057">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE121" task="NE">
+      <EXTENT start_char="7059" end_char="7066">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE122" task="NE">
+      <EXTENT start_char="7151" end_char="7163">Amerikan Peks</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE123" task="NE">
+      <EXTENT start_char="7236" end_char="7242">Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE124" task="NE">
+      <EXTENT start_char="7467" end_char="7480">Boris Martinez</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE125" task="NE">
+      <EXTENT start_char="7483" end_char="7485">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE126" task="NE">
+      <EXTENT start_char="7487" end_char="7494">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE127" task="NE">
+      <EXTENT start_char="7543" end_char="7548">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE128" task="NE">
+      <EXTENT start_char="7550" end_char="7558">polkovnig</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE129" task="NE">
+      <EXTENT start_char="7635" end_char="7641">Kapitan</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE130" task="NE">
+      <EXTENT start_char="7643" end_char="7650">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE131" task="NE">
+      <EXTENT start_char="7676" end_char="7690">Milliy Gvardiya</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE132" task="NE">
+      <EXTENT start_char="7703" end_char="7717">Chiriki viloyat</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE133" task="NE">
+      <EXTENT start_char="7728" end_char="7737">Devid Siti</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE134" task="NE">
+      <EXTENT start_char="8054" end_char="8068">Panama hukumati</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE135" task="NE">
+      <EXTENT start_char="8219" end_char="8221">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE136" task="NE">
+      <EXTENT start_char="8223" end_char="8230">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE137" task="NE">
+      <EXTENT start_char="8370" end_char="8386">Yunayted Frut Ko.</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE138" task="NE">
+      <EXTENT start_char="8429" end_char="8453">Puyeblo Armuyelles shahri</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE139" task="NE">
+      <EXTENT start_char="8586" end_char="8592">Brodvey</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE140" task="NE">
+      <EXTENT start_char="8627" end_char="8629">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE141" task="NE">
+      <EXTENT start_char="8631" end_char="8638">Martinez</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE142" task="NE">
+      <EXTENT start_char="8643" end_char="8650">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE143" task="NE">
+      <EXTENT start_char="8694" end_char="8701">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE144" task="NE">
+      <EXTENT start_char="8757" end_char="8763">Chiriki</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE145" task="NE">
+      <EXTENT start_char="8791" end_char="8793">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE146" task="NE">
+      <EXTENT start_char="8795" end_char="8802">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE147" task="NE">
+      <EXTENT start_char="8878" end_char="8892">Rodrigo Miranda</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE148" task="NE">
+      <EXTENT start_char="8904" end_char="8914">huquqshunos</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE149" task="NE">
+      <EXTENT start_char="8935" end_char="8944">kuzatuvchi</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE150" task="NE">
+      <EXTENT start_char="8956" end_char="8963">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE151" task="NE">
+      <EXTENT start_char="8965" end_char="8969">Devid</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE152" task="NE">
+      <EXTENT start_char="8975" end_char="9005">5chi Zona Garnizon bosh idorasi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE153" task="NE">
+      <EXTENT start_char="9084" end_char="9086">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE154" task="NE">
+      <EXTENT start_char="9088" end_char="9095">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE155" task="NE">
+      <EXTENT start_char="9303" end_char="9305">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE156" task="NE">
+      <EXTENT start_char="9307" end_char="9313">Miranda</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE157" task="NE">
+      <EXTENT start_char="9369" end_char="9371">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE158" task="NE">
+      <EXTENT start_char="9373" end_char="9380">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE159" task="NE">
+      <EXTENT start_char="9406" end_char="9412">Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE160" task="NE">
+      <EXTENT start_char="9496" end_char="9512">fort Galik Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE161" task="NE">
+      <EXTENT start_char="9546" end_char="9548">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE162" task="NE">
+      <EXTENT start_char="9550" end_char="9557">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE163" task="NE">
+      <EXTENT start_char="9627" end_char="9636">fort Bregg</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE164" task="NE">
+      <EXTENT start_char="9639" end_char="9655">Shimoliy Karolina</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE165" task="NE">
+      <EXTENT start_char="9722" end_char="9739">Amerikalar Maktabi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE166" task="NE">
+      <EXTENT start_char="9969" end_char="9974">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE167" task="NE">
+      <EXTENT start_char="9996" end_char="10000">Dji-2</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE168" task="NE">
+      <EXTENT start_char="10060" end_char="10067">diktator</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE169" task="NE">
+      <EXTENT start_char="10069" end_char="10076">Torrixos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE170" task="NE">
+      <EXTENT start_char="10176" end_char="10182">general</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE171" task="NE">
+      <EXTENT start_char="10184" end_char="10191">Torrixos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE172" task="NE">
+      <EXTENT start_char="10227" end_char="10232">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE173" task="NE">
+      <EXTENT start_char="10268" end_char="10270">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE174" task="NE">
+      <EXTENT start_char="10272" end_char="10279">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE175" task="NE">
+      <EXTENT start_char="10428" end_char="10431">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE176" task="NE">
+      <EXTENT start_char="10446" end_char="10449">TsRU</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE177" task="NE">
+      <EXTENT start_char="10453" end_char="10461">polkovnik</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE178" task="NE">
+      <EXTENT start_char="10463" end_char="10470">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE179" task="NE">
+      <EXTENT start_char="10575" end_char="10581">Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE180" task="NE">
+      <EXTENT start_char="10695" end_char="10698">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE181" task="NE">
+      <EXTENT start_char="10703" end_char="10706">Kuba</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE182" task="NE">
+      <EXTENT start_char="10779" end_char="10797">Frensis Djey Maknil</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE183" task="NE">
+      <EXTENT start_char="10800" end_char="10843">Amerika ichki ishlar boʻyicha Davlat Boʻlimi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE184" task="NE">
+      <EXTENT start_char="10885" end_char="10887">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE185" task="NE">
+      <EXTENT start_char="10889" end_char="10896">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE186" task="NE">
+      <EXTENT start_char="11192" end_char="11197">Nikson</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE187" task="NE">
+      <EXTENT start_char="11221" end_char="11289">Giyoxvand Moddalar toʻgʻrisidagi qonunlarni nazorat Maʼmuriyati Dji-2</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE188" task="NE">
+      <EXTENT start_char="11370" end_char="11372">GMM</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE189" task="NE">
+      <EXTENT start_char="11381" end_char="11389">polkovnik</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE190" task="NE">
+      <EXTENT start_char="11391" end_char="11398">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE191" task="NE">
+      <EXTENT start_char="11485" end_char="11487">GMM</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE192" task="NE">
+      <EXTENT start_char="11489" end_char="11494">rahbar</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE193" task="NE">
+      <EXTENT start_char="11505" end_char="11518">Djon Ingersoyl</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE194" task="NE">
+      <EXTENT start_char="11569" end_char="11576">Torrixos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE195" task="NE">
+      <EXTENT start_char="11580" end_char="11585">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE196" task="NE">
+      <EXTENT start_char="11601" end_char="11603">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE197" task="NE">
+      <EXTENT start_char="11605" end_char="11612">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE198" task="NE">
+      <EXTENT start_char="11678" end_char="11683">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE199" task="NE">
+      <EXTENT start_char="11701" end_char="11703">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE200" task="NE">
+      <EXTENT start_char="11705" end_char="11713">Ingersoyl</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE201" task="NE">
+      <EXTENT start_char="11732" end_char="11738">general</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE202" task="NE">
+      <EXTENT start_char="11740" end_char="11747">Torrixos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE203" task="NE">
+      <EXTENT start_char="11749" end_char="11752">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE204" task="NE">
+      <EXTENT start_char="11848" end_char="11850">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE205" task="NE">
+      <EXTENT start_char="11852" end_char="11860">Ingersoyl</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE206" task="NE">
+      <EXTENT start_char="11871" end_char="11873">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE207" task="NE">
+      <EXTENT start_char="11875" end_char="11882">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE208" task="NE">
+      <EXTENT start_char="11930" end_char="11933">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE209" task="NE">
+      <EXTENT start_char="11957" end_char="11997">AQSh armiya 470chi harbiy Razvedka Guruhi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE210" task="NE">
+      <EXTENT start_char="12118" end_char="12124">Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE211" task="NE">
+      <EXTENT start_char="12174" end_char="12180">general</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE212" task="NE">
+      <EXTENT start_char="12182" end_char="12189">Torrixos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE213" task="NE">
+      <EXTENT start_char="12322" end_char="12325">TsRU</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE214" task="NE">
+      <EXTENT start_char="12327" end_char="12334">direktor</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE215" task="NE">
+      <EXTENT start_char="12337" end_char="12352">Stensfild Terner</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE216" task="NE">
+      <EXTENT start_char="12372" end_char="12375">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE217" task="NE">
+      <EXTENT start_char="12377" end_char="12379">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE218" task="NE">
+      <EXTENT start_char="12381" end_char="12388">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE219" task="NE">
+      <EXTENT start_char="12485" end_char="12487">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE220" task="NE">
+      <EXTENT start_char="12489" end_char="12494">Terner</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE221" task="NE">
+      <EXTENT start_char="12726" end_char="12728">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE222" task="NE">
+      <EXTENT start_char="12730" end_char="12737">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE223" task="NE">
+      <EXTENT start_char="12834" end_char="12836">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE224" task="NE">
+      <EXTENT start_char="12838" end_char="12843">Terner</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE225" task="NE">
+      <EXTENT start_char="12867" end_char="12870">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE226" task="NE">
+      <EXTENT start_char="12892" end_char="12897">Karter</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE227" task="NE">
+      <EXTENT start_char="12973" end_char="12976">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE228" task="NE">
+      <EXTENT start_char="13045" end_char="13059">Janubiy Florida</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE229" task="NE">
+      <EXTENT start_char="13097" end_char="13099">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE230" task="NE">
+      <EXTENT start_char="13101" end_char="13107">Sormoza</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE231" task="NE">
+      <EXTENT start_char="13244" end_char="13246">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE232" task="NE">
+      <EXTENT start_char="13248" end_char="13255">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE233" task="NE">
+      <EXTENT start_char="13310" end_char="13323">Karlos Vitgrin</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE234" task="NE">
+      <EXTENT start_char="13361" end_char="13363">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE235" task="NE">
+      <EXTENT start_char="13365" end_char="13372">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE236" task="NE">
+      <EXTENT start_char="13444" end_char="13447">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE237" task="NE">
+      <EXTENT start_char="13513" end_char="13515">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE238" task="NE">
+      <EXTENT start_char="13517" end_char="13524">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE239" task="NE">
+      <EXTENT start_char="13526" end_char="13535">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE240" task="NE">
+      <EXTENT start_char="13539" end_char="13546">Pentagon</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE241" task="NE">
+      <EXTENT start_char="13616" end_char="13626">Deyd Kaunti</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE242" task="NE">
+      <EXTENT start_char="13653" end_char="13658">Mayami</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE243" task="NE">
+      <EXTENT start_char="13694" end_char="13697">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE244" task="NE">
+      <EXTENT start_char="13820" end_char="13827">Pentagon</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE245" task="NE">
+      <EXTENT start_char="13887" end_char="13889">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE246" task="NE">
+      <EXTENT start_char="13891" end_char="13898">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE247" task="NE">
+      <EXTENT start_char="13994" end_char="13997">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE248" task="NE">
+      <EXTENT start_char="14011" end_char="14016">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE249" task="NE">
+      <EXTENT start_char="14100" end_char="14118">leytenant-polkovnik</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE250" task="NE">
+      <EXTENT start_char="14120" end_char="14127">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE251" task="NE">
+      <EXTENT start_char="14129" end_char="14138">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE252" task="NE">
+      <EXTENT start_char="14198" end_char="14203">Mayami</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE253" task="NE">
+      <EXTENT start_char="14269" end_char="14271">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE254" task="NE">
+      <EXTENT start_char="14273" end_char="14280">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE255" task="NE">
+      <EXTENT start_char="14293" end_char="14295">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE256" task="NE">
+      <EXTENT start_char="14297" end_char="14303">Vitgrin</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE257" task="NE">
+      <EXTENT start_char="14411" end_char="14413">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE258" task="NE">
+      <EXTENT start_char="14415" end_char="14422">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE259" task="NE">
+      <EXTENT start_char="14472" end_char="14474">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE260" task="NE">
+      <EXTENT start_char="14476" end_char="14483">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE261" task="NE">
+      <EXTENT start_char="14620" end_char="14633">Djerom Senford</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE262" task="NE">
+      <EXTENT start_char="14636" end_char="14639">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE263" task="NE">
+      <EXTENT start_char="14674" end_char="14679">Mayami</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE264" task="NE">
+      <EXTENT start_char="14685" end_char="14733">Sharbat, Tamaki, va Oʻq otadigan qurollar Byurosi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE265" task="NE">
+      <EXTENT start_char="14749" end_char="14751">FBR</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE266" task="NE">
+      <EXTENT start_char="14797" end_char="14802">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE267" task="NE">
+      <EXTENT start_char="14804" end_char="14811">diktator</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE268" task="NE">
+      <EXTENT start_char="14814" end_char="14821">Torrixos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE269" task="NE">
+      <EXTENT start_char="14844" end_char="14853">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE270" task="NE">
+      <EXTENT start_char="14873" end_char="14876">Eron</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE271" task="NE">
+      <EXTENT start_char="14886" end_char="14891">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE272" task="NE">
+      <EXTENT start_char="14913" end_char="14915">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE273" task="NE">
+      <EXTENT start_char="14917" end_char="14923">Senford</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE274" task="NE">
+      <EXTENT start_char="14927" end_char="14929">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE275" task="NE">
+      <EXTENT start_char="14931" end_char="14938">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE276" task="NE">
+      <EXTENT start_char="14951" end_char="14953">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE277" task="NE">
+      <EXTENT start_char="14955" end_char="14961">Vitgrin</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE278" task="NE">
+      <EXTENT start_char="15076" end_char="15078">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE279" task="NE">
+      <EXTENT start_char="15080" end_char="15087">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE280" task="NE">
+      <EXTENT start_char="15104" end_char="15106">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE281" task="NE">
+      <EXTENT start_char="15108" end_char="15114">Senford</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE282" task="NE">
+      <EXTENT start_char="15147" end_char="15150">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE283" task="NE">
+      <EXTENT start_char="15152" end_char="15158">advokat</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE284" task="NE">
+      <EXTENT start_char="15161" end_char="15173">Djek Eskenazi</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE285" task="NE">
+      <EXTENT start_char="15175" end_char="15184">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE286" task="NE">
+      <EXTENT start_char="15190" end_char="15205">Adliya Vazirligi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE287" task="NE">
+      <EXTENT start_char="15284" end_char="15286">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE288" task="NE">
+      <EXTENT start_char="15288" end_char="15295">Eskenazi</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE289" task="NE">
+      <EXTENT start_char="15313" end_char="15318">Mayami</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE290" task="NE">
+      <EXTENT start_char="15352" end_char="15367">Qoʻshma Shtatlar</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE291" task="NE">
+      <EXTENT start_char="15727" end_char="15729">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE292" task="NE">
+      <EXTENT start_char="15731" end_char="15737">Senford</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE293" task="NE">
+      <EXTENT start_char="15823" end_char="15825">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE294" task="NE">
+      <EXTENT start_char="15827" end_char="15834">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE295" task="NE">
+      <EXTENT start_char="15850" end_char="15855">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE296" task="NE">
+      <EXTENT start_char="15906" end_char="15913">xoʻjayin</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE297" task="NE">
+      <EXTENT start_char="15916" end_char="15928">Omar Torrixos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE298" task="NE">
+      <EXTENT start_char="16145" end_char="16150">Reygan</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE299" task="NE">
+      <EXTENT start_char="16170" end_char="16172">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE300" task="NE">
+      <EXTENT start_char="16174" end_char="16181">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE301" task="NE">
+      <EXTENT start_char="16187" end_char="16191">Dji-2</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE302" task="NE">
+      <EXTENT start_char="16195" end_char="16198">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE303" task="NE">
+      <EXTENT start_char="16233" end_char="16263">AQSh mudofaa razvedka agentligi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE304" task="NE">
+      <EXTENT start_char="16271" end_char="16274">TsRU</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE305" task="NE">
+      <EXTENT start_char="16344" end_char="16347">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE306" task="NE">
+      <EXTENT start_char="16386" end_char="16388">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE307" task="NE">
+      <EXTENT start_char="16390" end_char="16397">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE308" task="NE">
+      <EXTENT start_char="16405" end_char="16408">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE309" task="NE">
+      <EXTENT start_char="16434" end_char="16439">Reygan</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE310" task="NE">
+      <EXTENT start_char="16555" end_char="16560">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE311" task="NE">
+      <EXTENT start_char="16642" end_char="16654">Floyd Karlton</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE312" task="NE">
+      <EXTENT start_char="16672" end_char="16674">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE313" task="NE">
+      <EXTENT start_char="16676" end_char="16683">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE314" task="NE">
+      <EXTENT start_char="16704" end_char="16709">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE315" task="NE">
+      <EXTENT start_char="16765" end_char="16768">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE316" task="NE">
+      <EXTENT start_char="16770" end_char="16780">Buyuk Jyuri</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE317" task="NE">
+      <EXTENT start_char="16789" end_char="16794">Mayami</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE318" task="NE">
+      <EXTENT start_char="16850" end_char="16852">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE319" task="NE">
+      <EXTENT start_char="16854" end_char="16868">Nuriyega Reygan</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE320" task="NE">
+      <EXTENT start_char="16870" end_char="16875">Oq Uyi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE321" task="NE">
+      <EXTENT start_char="16950" end_char="16961">Xose Blandon</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE322" task="NE">
+      <EXTENT start_char="17008" end_char="17016">Nikaragua</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE323" task="NE">
+      <EXTENT start_char="17061" end_char="17063">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE324" task="NE">
+      <EXTENT start_char="17065" end_char="17071">Blandon</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE325" task="NE">
+      <EXTENT start_char="17093" end_char="17098">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE326" task="NE">
+      <EXTENT start_char="17173" end_char="17175">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE327" task="NE">
+      <EXTENT start_char="17177" end_char="17184">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE328" task="NE">
+      <EXTENT start_char="17186" end_char="17194">Nikaragua</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE329" task="NE">
+      <EXTENT start_char="17205" end_char="17211">Managua</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE330" task="NE">
+      <EXTENT start_char="17319" end_char="17327">Nikaragua</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE331" task="NE">
+      <EXTENT start_char="17460" end_char="17465">Reygan</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE332" task="NE">
+      <EXTENT start_char="17543" end_char="17549">senator</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE333" task="NE">
+      <EXTENT start_char="17551" end_char="17559">Patrik Li</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE334" task="NE">
+      <EXTENT start_char="17574" end_char="17596">Senat Razvedka Qumitasi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE335" task="NE">
+      <EXTENT start_char="17614" end_char="17620">Vermont</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE336" task="NE">
+      <EXTENT start_char="17622" end_char="17629">demokrat</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE337" task="NE">
+      <EXTENT start_char="17635" end_char="17642">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE338" task="NE">
+      <EXTENT start_char="17644" end_char="17647">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE339" task="NE">
+      <EXTENT start_char="17675" end_char="17686">AQSh davlati</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE340" task="NE">
+      <EXTENT start_char="17755" end_char="17757">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE341" task="NE">
+      <EXTENT start_char="17759" end_char="17766">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE342" task="NE">
+      <EXTENT start_char="17768" end_char="17777">Vashington</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE343" task="NE">
+      <EXTENT start_char="17867" end_char="17870">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE344" task="NE">
+      <EXTENT start_char="17908" end_char="17921">Kertin Vindzor</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE345" task="NE">
+      <EXTENT start_char="17931" end_char="17940">Kosta Rika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE346" task="NE">
+      <EXTENT start_char="17951" end_char="17956">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE347" task="NE">
+      <EXTENT start_char="17960" end_char="17962">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE348" task="NE">
+      <EXTENT start_char="17964" end_char="17971">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE349" task="NE">
+      <EXTENT start_char="17983" end_char="17993">Luis Karlos</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE350" task="NE">
+      <EXTENT start_char="18050" end_char="18066">Asvara yarimoroli</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE351" task="NE">
+      <EXTENT start_char="18129" end_char="18131">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE352" task="NE">
+      <EXTENT start_char="18133" end_char="18158">Vindzor Everett YE. Briggs</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE353" task="NE">
+      <EXTENT start_char="18163" end_char="18168">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE354" task="NE">
+      <EXTENT start_char="18219" end_char="18224">Briggs</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE355" task="NE">
+      <EXTENT start_char="18237" end_char="18239">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE356" task="NE">
+      <EXTENT start_char="18241" end_char="18247">Vindzor</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE357" task="NE">
+      <EXTENT start_char="18259" end_char="18261">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE358" task="NE">
+      <EXTENT start_char="18263" end_char="18268">Briggs</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE359" task="NE">
+      <EXTENT start_char="18275" end_char="18277">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE360" task="NE">
+      <EXTENT start_char="18279" end_char="18286">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE361" task="NE">
+      <EXTENT start_char="18436" end_char="18438">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE362" task="NE">
+      <EXTENT start_char="18440" end_char="18445">Briggs</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE363" task="NE">
+      <EXTENT start_char="18561" end_char="18563">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE364" task="NE">
+      <EXTENT start_char="18565" end_char="18572">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE365" task="NE">
+      <EXTENT start_char="18653" end_char="18662">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE366" task="NE">
+      <EXTENT start_char="18743" end_char="18748">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE367" task="NE">
+      <EXTENT start_char="18903" end_char="18913">Oliver Nort</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE368" task="NE">
+      <EXTENT start_char="18919" end_char="18928">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE369" task="NE">
+      <EXTENT start_char="19052" end_char="19054">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE370" task="NE">
+      <EXTENT start_char="19056" end_char="19063">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE371" task="NE">
+      <EXTENT start_char="19110" end_char="19112">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE372" task="NE">
+      <EXTENT start_char="19114" end_char="19121">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE373" task="NE">
+      <EXTENT start_char="19229" end_char="19242">Xugo Spadafora</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE374" task="NE">
+      <EXTENT start_char="19297" end_char="19300">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE375" task="NE">
+      <EXTENT start_char="19343" end_char="19353">Dunyo Banki</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE376" task="NE">
+      <EXTENT start_char="19434" end_char="19442">prezident</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE377" task="NE">
+      <EXTENT start_char="19444" end_char="19466">Nikolas Ardito Barletta</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE378" task="NE">
+      <EXTENT start_char="19508" end_char="19513">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE379" task="NE">
+      <EXTENT start_char="19558" end_char="19560">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE380" task="NE">
+      <EXTENT start_char="19562" end_char="19569">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE381" task="NE">
+      <EXTENT start_char="19634" end_char="19637">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE382" task="NE">
+      <EXTENT start_char="19677" end_char="19685">Nort sudi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE383" task="NE">
+      <EXTENT start_char="19778" end_char="19780">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE384" task="NE">
+      <EXTENT start_char="19782" end_char="19789">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE385" task="NE">
+      <EXTENT start_char="19855" end_char="19857">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE386" task="NE">
+      <EXTENT start_char="19859" end_char="19866">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE387" task="NE">
+      <EXTENT start_char="19913" end_char="19918">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE388" task="NE">
+      <EXTENT start_char="19959" end_char="19962">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE389" task="NE">
+      <EXTENT start_char="20006" end_char="20009">Nort</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE390" task="NE">
+      <EXTENT start_char="20020" end_char="20030">Oliver Nort</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE391" task="NE">
+      <EXTENT start_char="20062" end_char="20069">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE392" task="NE">
+      <EXTENT start_char="20084" end_char="20087">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE393" task="NE">
+      <EXTENT start_char="20150" end_char="20157">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE394" task="NE">
+      <EXTENT start_char="20163" end_char="20171">Nikaragua</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE395" task="NE">
+      <EXTENT start_char="20276" end_char="20283">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE396" task="NE">
+      <EXTENT start_char="20324" end_char="20327">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE397" task="NE">
+      <EXTENT start_char="20363" end_char="20371">Polkovnik</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE398" task="NE">
+      <EXTENT start_char="20373" end_char="20376">Nort</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE399" task="NE">
+      <EXTENT start_char="20427" end_char="20435">yordamchi</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE400" task="NE">
+      <EXTENT start_char="20439" end_char="20451">Elliot Abrams</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE401" task="NE">
+      <EXTENT start_char="20465" end_char="20469">Kotib</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE402" task="NE">
+      <EXTENT start_char="20472" end_char="20485">Djordj Shulʼts</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE403" task="NE">
+      <EXTENT start_char="20491" end_char="20493">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE404" task="NE">
+      <EXTENT start_char="20495" end_char="20502">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE405" task="NE">
+      <EXTENT start_char="20540" end_char="20542">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE406" task="NE">
+      <EXTENT start_char="20544" end_char="20550">Shulʼts</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE407" task="NE">
+      <EXTENT start_char="20561" end_char="20563">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE408" task="NE">
+      <EXTENT start_char="20565" end_char="20570">Abrams</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE409" task="NE">
+      <EXTENT start_char="20714" end_char="20724">Eron-kontra</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE410" task="NE">
+      <EXTENT start_char="20734" end_char="20736">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE411" task="NE">
+      <EXTENT start_char="20738" end_char="20745">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE412" task="NE">
+      <EXTENT start_char="20778" end_char="20781">TsRU</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE413" task="NE">
+      <EXTENT start_char="20783" end_char="20790">direktor</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE414" task="NE">
+      <EXTENT start_char="20793" end_char="20805">Vilʼyam Keysi</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE415" task="NE">
+      <EXTENT start_char="20821" end_char="20831">Oliver Nort</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE416" task="NE">
+      <EXTENT start_char="20960" end_char="20967">boshligʻ</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE417" task="NE">
+      <EXTENT start_char="20970" end_char="20981">Diaz Xerrera</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE418" task="NE">
+      <EXTENT start_char="20987" end_char="20989">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE419" task="NE">
+      <EXTENT start_char="20991" end_char="20996">Nuriye</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE420" task="NE">
+      <EXTENT start_char="21040" end_char="21047">janoblar</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE421" task="NE">
+      <EXTENT start_char="21049" end_char="21057">Spadafora</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE422" task="NE">
+      <EXTENT start_char="21062" end_char="21072">Torrixoslar</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE423" task="NE">
+      <EXTENT start_char="21190" end_char="21195">Mayami</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE424" task="NE">
+      <EXTENT start_char="21432" end_char="21435">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE425" task="NE">
+      <EXTENT start_char="21479" end_char="21481">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE426" task="NE">
+      <EXTENT start_char="21483" end_char="21490">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE427" task="NE">
+      <EXTENT start_char="21637" end_char="21640">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE428" task="NE">
+      <EXTENT start_char="21645" end_char="21647">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE429" task="NE">
+      <EXTENT start_char="21649" end_char="21656">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE430" task="NE">
+      <EXTENT start_char="21683" end_char="21691">Prezident</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE431" task="NE">
+      <EXTENT start_char="21693" end_char="21696">Bush</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE432" task="NE">
+      <EXTENT start_char="21742" end_char="21744">J-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE433" task="NE">
+      <EXTENT start_char="21746" end_char="21753">Nuriyega</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE434" task="NE">
+      <EXTENT start_char="21896" end_char="21898">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE435" task="NE">
+      <EXTENT start_char="21900" end_char="21921">Nuriyega Frankenshteyn</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE436" task="NE">
+      <EXTENT start_char="22058" end_char="22064">senator</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE437" task="NE">
+      <EXTENT start_char="22066" end_char="22067">Li</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE438" task="NE">
+      <EXTENT start_char="10626" end_char="10639">Davlat Boʻlimi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE439" task="NE">
+      <EXTENT start_char="13113" end_char="13130">Nikaragua hukumati</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0184_20060331.uzb-NE440" task="NE">
+      <EXTENT start_char="18172" end_char="18175">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

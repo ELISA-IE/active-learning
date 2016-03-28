@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_VOA_HAU_005149_20140629" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="692" raw_text_md5="d89f2b4ec0206b81ef751bb5872b8cc8">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="14">
+<ORIGINAL_TEXT>WASHINGTON, DC—</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="WASHINGTON:washington=NOUN" start_char="0" end_char="9">WASHINGTON</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="10" end_char="10">,</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="DC:dc=NOUN" start_char="12" end_char="13">DC</TOKEN>
+<TOKEN id="token-0-3" pos="punct" morph="none" start_char="14" end_char="14">—</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="17" end_char="188">
+<ORIGINAL_TEXT>Kimanin kashi ashirin da biyar a cikin dari na yawan yaran da ake Haifa a Najeriya ne ke mutuwa sanadiyar cututtuka dake da dangantaka da iyaye mata, da kuma cutar maleria.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="ADV" morph="Kimanin:kimanin=ADV" start_char="17" end_char="23">Kimanin</TOKEN>
+<TOKEN id="token-1-1" pos="NOUN" morph="kashi:kashi=NOUN" start_char="25" end_char="29">kashi</TOKEN>
+<TOKEN id="token-1-2" pos="NUM" morph="ashirin:ashirin=NUM" start_char="31" end_char="37">ashirin</TOKEN>
+<TOKEN id="token-1-3" pos="CONJ" morph="da:da=CONJ" start_char="39" end_char="40">da</TOKEN>
+<TOKEN id="token-1-4" pos="NUM" morph="biyar:biyar=NUM" start_char="42" end_char="46">biyar</TOKEN>
+<TOKEN id="token-1-5" pos="PREP" morph="a:a=PREP" start_char="48" end_char="48">a</TOKEN>
+<TOKEN id="token-1-6" pos="PREP" morph="cikin:cikin=PREP" start_char="50" end_char="54">cikin</TOKEN>
+<TOKEN id="token-1-7" pos="NUM" morph="dari:dari=NUM" start_char="56" end_char="59">dari</TOKEN>
+<TOKEN id="token-1-8" pos="PRON" morph="na:na=CONT" start_char="61" end_char="62">na</TOKEN>
+<TOKEN id="token-1-9" pos="NOUN" morph="yawa:yawa=NOUN n:n=CONSTRUCT" start_char="64" end_char="68">yawan</TOKEN>
+<TOKEN id="token-1-10" pos="NOUN" morph="yara:yara=NOUN n:n=CONSTRUCT" start_char="70" end_char="74">yaran</TOKEN>
+<TOKEN id="token-1-11" pos="RELPRON" morph="da:da=RELPRON" start_char="76" end_char="77">da</TOKEN>
+<TOKEN id="token-1-12" pos="PRON" morph="ake:ake=PRON_WSP_4P" start_char="79" end_char="81">ake</TOKEN>
+<TOKEN id="token-1-13" pos="VERB" morph="Haifa:haifa=VERB" start_char="83" end_char="87">Haifa</TOKEN>
+<TOKEN id="token-1-14" pos="PREP" morph="a:a=PREP" start_char="89" end_char="89">a</TOKEN>
+<TOKEN id="token-1-15" pos="NOUN" morph="Najeriya:najeriya=NOUN" start_char="91" end_char="98">Najeriya</TOKEN>
+<TOKEN id="token-1-16" pos="COPULA" morph="ne:ne=COPULA" start_char="100" end_char="101">ne</TOKEN>
+<TOKEN id="token-1-17" pos="PRON" morph="ke:ke=PRON_IDP_2SF" start_char="103" end_char="104">ke</TOKEN>
+<TOKEN id="token-1-18" pos="NOUN" morph="mutuwa:mutuwa=NOUN" start_char="106" end_char="111">mutuwa</TOKEN>
+<TOKEN id="token-1-19" pos="NOUN" morph="sanadiyar:sanadiyar=NOUN" start_char="113" end_char="121">sanadiyar</TOKEN>
+<TOKEN id="token-1-20" pos="NOUN" morph="cututtuka:cututtuka=NOUN" start_char="123" end_char="131">cututtuka</TOKEN>
+<TOKEN id="token-1-21" pos="PRON" morph="da:da=RELPRON ke:ke=CONT" start_char="133" end_char="136">dake</TOKEN>
+<TOKEN id="token-1-22" pos="PREP" morph="da:da=PREP" start_char="138" end_char="139">da</TOKEN>
+<TOKEN id="token-1-23" pos="NOUN" morph="dangantaka:dangantaka=NOUN" start_char="141" end_char="150">dangantaka</TOKEN>
+<TOKEN id="token-1-24" pos="PREP" morph="da:da=PREP" start_char="152" end_char="153">da</TOKEN>
+<TOKEN id="token-1-25" pos="NOUN" morph="iyaye:iyaye=NOUN" start_char="155" end_char="159">iyaye</TOKEN>
+<TOKEN id="token-1-26" pos="NOUN" morph="mata:mata=NOUN" start_char="161" end_char="164">mata</TOKEN>
+<TOKEN id="token-1-27" pos="punct" morph="none" start_char="165" end_char="165">,</TOKEN>
+<TOKEN id="token-1-28" pos="CONJ" morph="da:da=CONJ" start_char="167" end_char="168">da</TOKEN>
+<TOKEN id="token-1-29" pos="PARTICLE" morph="kuma:kuma=PARTICLE" start_char="170" end_char="173">kuma</TOKEN>
+<TOKEN id="token-1-30" pos="NOUN" morph="cuta:cuta=NOUN r:r=CONSTRUCT" start_char="175" end_char="179">cutar</TOKEN>
+<TOKEN id="token-1-31" pos="NOUN" morph="maleria:maleria=NOUN" start_char="181" end_char="187">maleria</TOKEN>
+<TOKEN id="token-1-32" pos="punct" morph="none" start_char="188" end_char="188">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="191" end_char="413">
+<ORIGINAL_TEXT>Ministan kiwon lafiya na Najeriya, Dr, Haliru Alhassan ne ya bayan haka ga wakilin mu, a birnin Washington bayan da ya halarci taron akan kiwon lafiya inda kimanin kasashe ashirin da biyar daga Afirka da Asiya suka halarta.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="NOUN" morph="Minista:minista=NOUN n:n=CONSTRUCT" start_char="191" end_char="198">Ministan</TOKEN>
+<TOKEN id="token-2-1" pos="NOUN" morph="kiwo:kiwo=NOUN n:n=CONSTRUCT" start_char="200" end_char="204">kiwon</TOKEN>
+<TOKEN id="token-2-2" pos="NOUN" morph="lafiya:lafiya=NOUN" start_char="206" end_char="211">lafiya</TOKEN>
+<TOKEN id="token-2-3" pos="CONSTRUCT" morph="na:na=CONSTRUCT" start_char="213" end_char="214">na</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="Najeriya:najeriya=NOUN" start_char="216" end_char="223">Najeriya</TOKEN>
+<TOKEN id="token-2-5" pos="punct" morph="none" start_char="224" end_char="224">,</TOKEN>
+<TOKEN id="token-2-6" pos="NOUN" morph="Dr:dr=NOUN" start_char="226" end_char="227">Dr</TOKEN>
+<TOKEN id="token-2-7" pos="punct" morph="none" start_char="228" end_char="228">,</TOKEN>
+<TOKEN id="token-2-8" pos="NOUN" morph="Haliru:haliru=NOUN" start_char="230" end_char="235">Haliru</TOKEN>
+<TOKEN id="token-2-9" pos="NOUN" morph="Alhassan:alhassan=NOUN" start_char="237" end_char="244">Alhassan</TOKEN>
+<TOKEN id="token-2-10" pos="COPULA" morph="ne:ne=COPULA" start_char="246" end_char="247">ne</TOKEN>
+<TOKEN id="token-2-11" pos="PRON" morph="ya:ya=PRON_WSP_3SM" start_char="249" end_char="250">ya</TOKEN>
+<TOKEN id="token-2-12" pos="VERB" morph="bayan:bayan=VERB" start_char="252" end_char="256">bayan</TOKEN>
+<TOKEN id="token-2-13" pos="ADV" morph="haka:haka=ADV" start_char="258" end_char="261">haka</TOKEN>
+<TOKEN id="token-2-14" pos="PREP" morph="ga:ga=PREP" start_char="263" end_char="264">ga</TOKEN>
+<TOKEN id="token-2-15" pos="NOUN" morph="wakili:wakili=NOUN n:n=CONSTRUCT" start_char="266" end_char="272">wakilin</TOKEN>
+<TOKEN id="token-2-16" pos="PRON" morph="mu:mu=PRON_WSP_1P" start_char="274" end_char="275">mu</TOKEN>
+<TOKEN id="token-2-17" pos="punct" morph="none" start_char="276" end_char="276">,</TOKEN>
+<TOKEN id="token-2-18" pos="PREP" morph="a:a=PREP" start_char="278" end_char="278">a</TOKEN>
+<TOKEN id="token-2-19" pos="NOUN" morph="birni:birni=NOUN n:n=CONSTRUCT" start_char="280" end_char="285">birnin</TOKEN>
+<TOKEN id="token-2-20" pos="NOUN" morph="Washington:washington=NOUN" start_char="287" end_char="296">Washington</TOKEN>
+<TOKEN id="token-2-21" pos="COMP" morph="bayan:bayan=COMP" start_char="298" end_char="302">bayan</TOKEN>
+<TOKEN id="token-2-22" pos="PARTICLE" morph="da:da=PARTICLE" start_char="304" end_char="305">da</TOKEN>
+<TOKEN id="token-2-23" pos="PRON" morph="ya:ya=PRON_WSP_3SM" start_char="307" end_char="308">ya</TOKEN>
+<TOKEN id="token-2-24" pos="VERB" morph="halarci:halarci=VERB" start_char="310" end_char="316">halarci</TOKEN>
+<TOKEN id="token-2-25" pos="NOUN" morph="taro:taro=NOUN n:n=DEFINITE" start_char="318" end_char="322">taron</TOKEN>
+<TOKEN id="token-2-26" pos="PREP" morph="akan:akan=PREP" start_char="324" end_char="327">akan</TOKEN>
+<TOKEN id="token-2-27" pos="NOUN" morph="kiwo:kiwo=NOUN n:n=CONSTRUCT" start_char="329" end_char="333">kiwon</TOKEN>
+<TOKEN id="token-2-28" pos="NOUN" morph="lafiya:lafiya=NOUN" start_char="335" end_char="340">lafiya</TOKEN>
+<TOKEN id="token-2-29" pos="ADV" morph="inda:inda=ADV" start_char="342" end_char="345">inda</TOKEN>
+<TOKEN id="token-2-30" pos="ADV" morph="kimanin:kimanin=ADV" start_char="347" end_char="353">kimanin</TOKEN>
+<TOKEN id="token-2-31" pos="NOUN" morph="kasashe:kasashe=NOUN" start_char="355" end_char="361">kasashe</TOKEN>
+<TOKEN id="token-2-32" pos="NUM" morph="ashirin:ashirin=NUM" start_char="363" end_char="369">ashirin</TOKEN>
+<TOKEN id="token-2-33" pos="CONJ" morph="da:da=CONJ" start_char="371" end_char="372">da</TOKEN>
+<TOKEN id="token-2-34" pos="NUM" morph="biyar:biyar=NUM" start_char="374" end_char="378">biyar</TOKEN>
+<TOKEN id="token-2-35" pos="PREP" morph="daga:daga=PREP" start_char="380" end_char="383">daga</TOKEN>
+<TOKEN id="token-2-36" pos="NOUN" morph="Afirka:afirka=NOUN" start_char="385" end_char="390">Afirka</TOKEN>
+<TOKEN id="token-2-37" pos="CONJ" morph="da:da=CONJ" start_char="392" end_char="393">da</TOKEN>
+<TOKEN id="token-2-38" pos="NOUN" morph="Asiya:asiya=NOUN" start_char="395" end_char="399">Asiya</TOKEN>
+<TOKEN id="token-2-39" pos="PRON" morph="suka:suka=PRON_WSP_3P" start_char="401" end_char="404">suka</TOKEN>
+<TOKEN id="token-2-40" pos="VERB" morph="halarta:halarta=VERB" start_char="406" end_char="412">halarta</TOKEN>
+<TOKEN id="token-2-41" pos="punct" morph="none" start_char="413" end_char="413">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="416" end_char="418">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Dr:dr=NOUN" start_char="416" end_char="417">Dr</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="418" end_char="418">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="420" end_char="545">
+<ORIGINAL_TEXT>Haliru Alhassan, yace alkaluma na nuni da cewa cutar malaria na kan gaba wajen sanadiyar mace-macen yara kanana da iyaye mata.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="NOUN" morph="Haliru:haliru=NOUN" start_char="420" end_char="425">Haliru</TOKEN>
+<TOKEN id="token-4-1" pos="NOUN" morph="Alhassan:alhassan=NOUN" start_char="427" end_char="434">Alhassan</TOKEN>
+<TOKEN id="token-4-2" pos="punct" morph="none" start_char="435" end_char="435">,</TOKEN>
+<TOKEN id="token-4-3" pos="ADV" morph="yace:yace=ADV" start_char="437" end_char="440">yace</TOKEN>
+<TOKEN id="token-4-4" pos="NOUN" morph="alkaluma:alkaluma=NOUN" start_char="442" end_char="449">alkaluma</TOKEN>
+<TOKEN id="token-4-5" pos="PRON" morph="na:na=CONT" start_char="451" end_char="452">na</TOKEN>
+<TOKEN id="token-4-6" pos="VERB" morph="nuni:nuni=VERB" start_char="454" end_char="457">nuni</TOKEN>
+<TOKEN id="token-4-7" pos="PARTICLE" morph="da:da=PARTICLE" start_char="459" end_char="460">da</TOKEN>
+<TOKEN id="token-4-8" pos="NOUN" morph="cewa:cewa=NOUN" start_char="462" end_char="465">cewa</TOKEN>
+<TOKEN id="token-4-9" pos="NOUN" morph="cuta:cuta=NOUN r:r=CONSTRUCT" start_char="467" end_char="471">cutar</TOKEN>
+<TOKEN id="token-4-10" pos="NOUN" morph="malaria:malaria=NOUN" start_char="473" end_char="479">malaria</TOKEN>
+<TOKEN id="token-4-11" pos="CONSTRUCT" morph="na:na=CONSTRUCT" start_char="481" end_char="482">na</TOKEN>
+<TOKEN id="token-4-12" pos="PREP" morph="kan:kan=PREP" start_char="484" end_char="486">kan</TOKEN>
+<TOKEN id="token-4-13" pos="ADV" morph="gaba:gaba=ADV" start_char="488" end_char="491">gaba</TOKEN>
+<TOKEN id="token-4-14" pos="PREP" morph="wajen:wajen=PREP" start_char="493" end_char="497">wajen</TOKEN>
+<TOKEN id="token-4-15" pos="NOUN" morph="sanadiya:sanadiya=NOUN r:r=CONSTRUCT" start_char="499" end_char="507">sanadiyar</TOKEN>
+<TOKEN id="token-4-16" pos="NOUN" morph="mace:mace=NOUN" start_char="509" end_char="512">mace</TOKEN>
+<TOKEN id="token-4-17" pos="punct" morph="none" start_char="513" end_char="513">-</TOKEN>
+<TOKEN id="token-4-18" pos="NOUN" morph="mace:mace=NOUN n:n=CONSTRUCT" start_char="514" end_char="518">macen</TOKEN>
+<TOKEN id="token-4-19" pos="NOUN" morph="yara:yara=NOUN" start_char="520" end_char="523">yara</TOKEN>
+<TOKEN id="token-4-20" pos="NOUN" morph="kanana:kanana=NOUN" start_char="525" end_char="530">kanana</TOKEN>
+<TOKEN id="token-4-21" pos="CONJ" morph="da:da=CONJ" start_char="532" end_char="533">da</TOKEN>
+<TOKEN id="token-4-22" pos="NOUN" morph="iyaye:iyaye=NOUN" start_char="535" end_char="539">iyaye</TOKEN>
+<TOKEN id="token-4-23" pos="NOUN" morph="mata:mata=NOUN" start_char="541" end_char="544">mata</TOKEN>
+<TOKEN id="token-4-24" pos="punct" morph="none" start_char="545" end_char="545">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="548" end_char="650">
+<ORIGINAL_TEXT>Yayi amfani da wannan damar waje kira ga jamaʼa dasu tsaftacen muhallinsu domin sauro samun wajen zama.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="unanalyzable" start_char="548" end_char="551">Yayi</TOKEN>
+<TOKEN id="token-5-1" pos="NOUN" morph="amfani:amfani=NOUN" start_char="553" end_char="558">amfani</TOKEN>
+<TOKEN id="token-5-2" pos="PREP" morph="da:da=PREP" start_char="560" end_char="561">da</TOKEN>
+<TOKEN id="token-5-3" pos="DEMPRON" morph="wannan:wannan=DEMPRON" start_char="563" end_char="568">wannan</TOKEN>
+<TOKEN id="token-5-4" pos="NOUN" morph="dama:dama=NOUN r:r=DEFINITE" start_char="570" end_char="574">damar</TOKEN>
+<TOKEN id="token-5-5" pos="PREP" morph="waje:waje=PREP" start_char="576" end_char="579">waje</TOKEN>
+<TOKEN id="token-5-6" pos="VERB" morph="kira:kira=VERB" start_char="581" end_char="584">kira</TOKEN>
+<TOKEN id="token-5-7" pos="PREP" morph="ga:ga=PREP" start_char="586" end_char="587">ga</TOKEN>
+<TOKEN id="token-5-8" pos="NOUN" morph="jamaʼa:jamaʼa=NOUN" start_char="589" end_char="594">jamaʼa</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="unanalyzable" start_char="596" end_char="599">dasu</TOKEN>
+<TOKEN id="token-5-10" pos="VERB" morph="tsaftacen:tsaftacen=VERB" start_char="601" end_char="609">tsaftacen</TOKEN>
+<TOKEN id="token-5-11" pos="NOUN" morph="muhallinsu:muhallinsu=NOUN" start_char="611" end_char="620">muhallinsu</TOKEN>
+<TOKEN id="token-5-12" pos="CONJ" morph="domin:domin=CONJ" start_char="622" end_char="626">domin</TOKEN>
+<TOKEN id="token-5-13" pos="NOUN" morph="sauro:sauro=NOUN" start_char="628" end_char="632">sauro</TOKEN>
+<TOKEN id="token-5-14" pos="NOUN" morph="samun:samun=NOUN" start_char="634" end_char="638">samun</TOKEN>
+<TOKEN id="token-5-15" pos="PREP" morph="wajen:wajen=PREP" start_char="640" end_char="644">wajen</TOKEN>
+<TOKEN id="token-5-16" pos="VERB" morph="zama:zama=VERB" start_char="646" end_char="649">zama</TOKEN>
+<TOKEN id="token-5-17" pos="punct" morph="none" start_char="650" end_char="650">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="653" end_char="689">
+<ORIGINAL_TEXT>Mace-Macen Yara da Iyaye Mata - 4'01"</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="NOUN" morph="Mace:mace=NOUN" start_char="653" end_char="656">Mace</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="657" end_char="657">-</TOKEN>
+<TOKEN id="token-6-2" pos="NOUN" morph="Macen:macen=NOUN" start_char="658" end_char="662">Macen</TOKEN>
+<TOKEN id="token-6-3" pos="NOUN" morph="Yara:yara=NOUN" start_char="664" end_char="667">Yara</TOKEN>
+<TOKEN id="token-6-4" pos="CONJ" morph="da:da=CONJ" start_char="669" end_char="670">da</TOKEN>
+<TOKEN id="token-6-5" pos="NOUN" morph="Iyaye:iyaye=NOUN" start_char="672" end_char="676">Iyaye</TOKEN>
+<TOKEN id="token-6-6" pos="NOUN" morph="Mata:mata=NOUN" start_char="678" end_char="681">Mata</TOKEN>
+<TOKEN id="token-6-7" pos="unknown" morph="none" start_char="683" end_char="683">-</TOKEN>
+<TOKEN id="token-6-8" pos="NUM" morph="4:4=NUM" start_char="685" end_char="685">4</TOKEN>
+<TOKEN id="token-6-9" pos="punct" morph="none" start_char="686" end_char="686">'</TOKEN>
+<TOKEN id="token-6-10" pos="NUM" morph="01:01=NUM" start_char="687" end_char="688">01</TOKEN>
+<TOKEN id="token-6-11" pos="punct" morph="none" start_char="689" end_char="689">"</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

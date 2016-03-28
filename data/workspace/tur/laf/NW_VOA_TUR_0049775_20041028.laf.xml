@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_VOA_TUR_0049775_20041028.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="7">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="PER">
+      <EXTENT start_char="16" end_char="27">Yaser Arafat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="44" end_char="48">Paris</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="PER">
+      <EXTENT start_char="72" end_char="77">Arafat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="94" end_char="98">Mısır</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="101" end_char="105">Ürdün</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="147" end_char="154">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="175" end_char="184">Batı Şeria</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="LOC">
+      <EXTENT start_char="201" end_char="206">İsrail</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="PER">
+      <EXTENT start_char="209" end_char="214">Arafat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="LOC">
+      <EXTENT start_char="258" end_char="267">Batı Şeria</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="LOC">
+      <EXTENT start_char="304" end_char="309">İsrail</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="PER">
+      <EXTENT start_char="321" end_char="331">Ariel Şaron</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="349" end_char="356">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="PER">
+      <EXTENT start_char="365" end_char="376">Yaser Arafat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="LOC">
+      <EXTENT start_char="460" end_char="464">Paris</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="PER">
+      <EXTENT start_char="477" end_char="482">Arafat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="PER">
+      <EXTENT start_char="491" end_char="494">Süha</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="LOC">
+      <EXTENT start_char="505" end_char="509">Ürdün</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="LOC">
+      <EXTENT start_char="521" end_char="528">Ramallah</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="LOC">
+      <EXTENT start_char="540" end_char="547">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="PER">
+      <EXTENT start_char="644" end_char="649">Arafat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="LOC">
+      <EXTENT start_char="763" end_char="770">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="PER">
+      <EXTENT start_char="845" end_char="850">Arafat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="TTL">
+      <EXTENT start_char="9" end_char="13">lider</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="LOC">
+      <EXTENT start_char="110" end_char="116">Tunuslu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="TTL">
+      <EXTENT start_char="311" end_char="318">Başbakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="TTL">
+      <EXTENT start_char="358" end_char="362">lider</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="LOC">
+      <EXTENT start_char="579" end_char="588">Filistinli</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

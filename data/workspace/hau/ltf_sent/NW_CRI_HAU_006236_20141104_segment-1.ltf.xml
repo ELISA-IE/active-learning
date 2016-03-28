@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_CRI_HAU_006236_20141104">
+<TEXT>
+<SEG end_char="559" id="segment-1" start_char="332">
+<ORIGINAL_TEXT>Salama ya bayyana a gun taron manema labaru da aka gudanar a cibiyar MDD dake birnin New York a wannan rana cewa, asusun zai kuma taimaka wajen tsugunar da yara marayu kimanin 4000 da suka rasa iyayensu sakamakon cutar ta Ebola.</ORIGINAL_TEXT>
+<TOKEN end_char="337" id="token-1-0" morph="Salama:salama=NOUN" pos="NOUN" start_char="332">Salama</TOKEN>
+<TOKEN end_char="340" id="token-1-1" morph="ya:ya=PRON_WSP_3SM" pos="PRON" start_char="339">ya</TOKEN>
+<TOKEN end_char="348" id="token-1-2" morph="bayyana:bayyana=VERB" pos="VERB" start_char="342">bayyana</TOKEN>
+<TOKEN end_char="350" id="token-1-3" morph="a:a=PRON_WSP_4P" pos="PRON" start_char="350">a</TOKEN>
+<TOKEN end_char="354" id="token-1-4" morph="gun:gun=PREP" pos="PREP" start_char="352">gun</TOKEN>
+<TOKEN end_char="360" id="token-1-5" morph="taro:taro=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="356">taron</TOKEN>
+<TOKEN end_char="367" id="token-1-6" morph="manema:manema=NOUN" pos="NOUN" start_char="362">manema</TOKEN>
+<TOKEN end_char="374" id="token-1-7" morph="labaru:labaru=NOUN" pos="NOUN" start_char="369">labaru</TOKEN>
+<TOKEN end_char="377" id="token-1-8" morph="da:da=PREP" pos="PREP" start_char="376">da</TOKEN>
+<TOKEN end_char="381" id="token-1-9" morph="aka:aka=PRON_WSP_4P" pos="PRON" start_char="379">aka</TOKEN>
+<TOKEN end_char="389" id="token-1-10" morph="gudanar:gudanar=VERB" pos="VERB" start_char="383">gudanar</TOKEN>
+<TOKEN end_char="391" id="token-1-11" morph="a:a=PRON_WSP_4P" pos="PRON" start_char="391">a</TOKEN>
+<TOKEN end_char="399" id="token-1-12" morph="cibiya:cibiya=NOUN r:r=CONSTRUCT" pos="NOUN" start_char="393">cibiyar</TOKEN>
+<TOKEN end_char="403" id="token-1-13" morph="MDD:mdd=NOUN" pos="NOUN" start_char="401">MDD</TOKEN>
+<TOKEN end_char="408" id="token-1-14" morph="da:da=RELPRON ke:ke=CONT" pos="PRON" start_char="405">dake</TOKEN>
+<TOKEN end_char="415" id="token-1-15" morph="birnin:birnin=NOUN" pos="NOUN" start_char="410">birnin</TOKEN>
+<TOKEN end_char="419" id="token-1-16" morph="unanalyzable" pos="word" start_char="417">New</TOKEN>
+<TOKEN end_char="424" id="token-1-17" morph="York:york=NOUN" pos="NOUN" start_char="421">York</TOKEN>
+<TOKEN end_char="426" id="token-1-18" morph="a:a=PREP" pos="PREP" start_char="426">a</TOKEN>
+<TOKEN end_char="433" id="token-1-19" morph="wannan:wannan=DEMPRON" pos="DEMPRON" start_char="428">wannan</TOKEN>
+<TOKEN end_char="438" id="token-1-20" morph="rana:rana=NOUN" pos="NOUN" start_char="435">rana</TOKEN>
+<TOKEN end_char="443" id="token-1-21" morph="cewa:cewa=NOUN" pos="NOUN" start_char="440">cewa</TOKEN>
+<TOKEN end_char="444" id="token-1-22" morph="none" pos="punct" start_char="444">,</TOKEN>
+<TOKEN end_char="451" id="token-1-23" morph="asusu:asusu=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="446">asusun</TOKEN>
+<TOKEN end_char="455" id="token-1-24" morph="zai:zai=PRON_WSP_3SM" pos="PRON" start_char="453">zai</TOKEN>
+<TOKEN end_char="460" id="token-1-25" morph="kuma:kuma=PARTICLE" pos="PARTICLE" start_char="457">kuma</TOKEN>
+<TOKEN end_char="468" id="token-1-26" morph="taimaka:taimaka=VERB" pos="VERB" start_char="462">taimaka</TOKEN>
+<TOKEN end_char="474" id="token-1-27" morph="wajen:wajen=PREP" pos="PREP" start_char="470">wajen</TOKEN>
+<TOKEN end_char="483" id="token-1-28" morph="tsugunar:tsugunar=VERB" pos="VERB" start_char="476">tsugunar</TOKEN>
+<TOKEN end_char="486" id="token-1-29" morph="da:da=PREP" pos="PREP" start_char="485">da</TOKEN>
+<TOKEN end_char="491" id="token-1-30" morph="yara:yara=NOUN" pos="NOUN" start_char="488">yara</TOKEN>
+<TOKEN end_char="498" id="token-1-31" morph="marayu:marayu=NOUN" pos="NOUN" start_char="493">marayu</TOKEN>
+<TOKEN end_char="506" id="token-1-32" morph="kimanin:kimanin=NOUN" pos="NOUN" start_char="500">kimanin</TOKEN>
+<TOKEN end_char="511" id="token-1-33" morph="none" pos="number" start_char="508">4000</TOKEN>
+<TOKEN end_char="514" id="token-1-34" morph="da:da=RELPRON" pos="RELPRON" start_char="513">da</TOKEN>
+<TOKEN end_char="519" id="token-1-35" morph="suka:suka=PRON_WSP_3P" pos="PRON" start_char="516">suka</TOKEN>
+<TOKEN end_char="524" id="token-1-36" morph="rasa:rasa=VERB" pos="VERB" start_char="521">rasa</TOKEN>
+<TOKEN end_char="533" id="token-1-37" morph="iyaye:iyaye=NOUN nsu:nsu=POSS_3P" pos="NOUN" start_char="526">iyayensu</TOKEN>
+<TOKEN end_char="543" id="token-1-38" morph="sakamako:sakamako=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="535">sakamakon</TOKEN>
+<TOKEN end_char="549" id="token-1-39" morph="cuta:cuta=NOUN r:r=DEFINITE" pos="NOUN" start_char="545">cutar</TOKEN>
+<TOKEN end_char="552" id="token-1-40" morph="ta:ta=CONSTRUCT" pos="CONSTRUCT" start_char="551">ta</TOKEN>
+<TOKEN end_char="558" id="token-1-41" morph="Ebola:ebola=NOUN" pos="NOUN" start_char="554">Ebola</TOKEN>
+<TOKEN end_char="559" id="token-1-42" morph="none" pos="punct" start_char="559">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

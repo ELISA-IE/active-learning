@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_CNN_ENG_0102_20001220.uzb" lang="UZB">
+    <ANNOTATION id="NW_CNN_ENG_0102_20001220.uzb-NE1" task="NE">
+      <EXTENT start_char="0" end_char="3">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0102_20001220.uzb-NE2" task="NE">
+      <EXTENT start_char="8" end_char="12">Yaman</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0102_20001220.uzb-NE3" task="NE">
+      <EXTENT start_char="89" end_char="92">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0102_20001220.uzb-NE4" task="NE">
+      <EXTENT start_char="179" end_char="204">Xusan Said Avad Al-Xamrini</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0102_20001220.uzb-NE5" task="NE">
+      <EXTENT start_char="350" end_char="354">Yaman</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

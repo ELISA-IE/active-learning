@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_SAB_TUR_0000349_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="740" raw_text_md5="7bddcac59d9a2bf4e73b55bf75c5a152">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="24">
+<ORIGINAL_TEXT>İngiltere'de grip salgını</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="8">İngiltere</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="9" end_char="9">'</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="10" end_char="11">de</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="13" end_char="16">grip</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="18" end_char="24">salgını</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="27" end_char="97">
+<ORIGINAL_TEXT>İngiltere'de, 2000 yılından bu yana en şiddetli grip salgını yaşanıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="27" end_char="35">İngiltere</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="36" end_char="36">'</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="37" end_char="38">de</TOKEN>
+<TOKEN id="token-1-3" pos="punct" morph="none" start_char="39" end_char="39">,</TOKEN>
+<TOKEN id="token-1-4" pos="number" morph="none" start_char="41" end_char="44">2000</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="46" end_char="53">yılından</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="55" end_char="56">bu</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="58" end_char="61">yana</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="63" end_char="64">en</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="66" end_char="73">şiddetli</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="75" end_char="78">grip</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="80" end_char="86">salgını</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="88" end_char="96">yaşanıyor</TOKEN>
+<TOKEN id="token-1-13" pos="punct" morph="none" start_char="97" end_char="97">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="100" end_char="315">
+<ORIGINAL_TEXT>Independent on Sunday gazetesi, hastaneler ve aile hekimlerinin verilerine göre her 100 bin kişide 40 kişinin gripten dolayı yatakta olduğunu, bu oranın yılın bu dönemi için son derece yüksek bir oran olduğunu yazdı.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="100" end_char="110">Independent</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="112" end_char="113">on</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="115" end_char="120">Sunday</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="122" end_char="129">gazetesi</TOKEN>
+<TOKEN id="token-2-4" pos="punct" morph="none" start_char="130" end_char="130">,</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="132" end_char="141">hastaneler</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="143" end_char="144">ve</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="146" end_char="149">aile</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="151" end_char="162">hekimlerinin</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="164" end_char="173">verilerine</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="175" end_char="178">göre</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="180" end_char="182">her</TOKEN>
+<TOKEN id="token-2-12" pos="number" morph="none" start_char="184" end_char="186">100</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="188" end_char="190">bin</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="192" end_char="197">kişide</TOKEN>
+<TOKEN id="token-2-15" pos="number" morph="none" start_char="199" end_char="200">40</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="202" end_char="208">kişinin</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="210" end_char="216">gripten</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="218" end_char="223">dolayı</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="225" end_char="231">yatakta</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="233" end_char="240">olduğunu</TOKEN>
+<TOKEN id="token-2-21" pos="punct" morph="none" start_char="241" end_char="241">,</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="243" end_char="244">bu</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="246" end_char="251">oranın</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="253" end_char="257">yılın</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="259" end_char="260">bu</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="262" end_char="267">dönemi</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="269" end_char="272">için</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="274" end_char="276">son</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="278" end_char="283">derece</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="285" end_char="290">yüksek</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="292" end_char="294">bir</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="296" end_char="299">oran</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="301" end_char="308">olduğunu</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="310" end_char="314">yazdı</TOKEN>
+<TOKEN id="token-2-35" pos="punct" morph="none" start_char="315" end_char="315">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="318" end_char="481">
+<ORIGINAL_TEXT>Aile hekimlerinin Noel döneminde dört günlük tatile gireceğine işaret eden gazete, bu durumun hastanelerin acil servisleri üzerindeki yükü artıracağına işaret etti.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="318" end_char="321">Aile</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="323" end_char="334">hekimlerinin</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="336" end_char="339">Noel</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="341" end_char="349">döneminde</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="351" end_char="354">dört</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="356" end_char="361">günlük</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="363" end_char="368">tatile</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="370" end_char="379">gireceğine</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="381" end_char="386">işaret</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="388" end_char="391">eden</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="393" end_char="398">gazete</TOKEN>
+<TOKEN id="token-3-11" pos="punct" morph="none" start_char="399" end_char="399">,</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="401" end_char="402">bu</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="404" end_char="410">durumun</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="412" end_char="423">hastanelerin</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="425" end_char="428">acil</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="430" end_char="439">servisleri</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="441" end_char="450">üzerindeki</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="452" end_char="455">yükü</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="457" end_char="468">artıracağına</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="470" end_char="475">işaret</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="477" end_char="480">etti</TOKEN>
+<TOKEN id="token-3-22" pos="punct" morph="none" start_char="481" end_char="481">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="483" end_char="581">
+<ORIGINAL_TEXT>Gazete, 2000 yılından bu yana Noel döneminde grip vakalarının hiç bu kadar yükselmediğini kaydetti.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="483" end_char="488">Gazete</TOKEN>
+<TOKEN id="token-4-1" pos="punct" morph="none" start_char="489" end_char="489">,</TOKEN>
+<TOKEN id="token-4-2" pos="number" morph="none" start_char="491" end_char="494">2000</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="496" end_char="503">yılından</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="505" end_char="506">bu</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="508" end_char="511">yana</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="513" end_char="516">Noel</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="518" end_char="526">döneminde</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="528" end_char="531">grip</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="533" end_char="543">vakalarının</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="545" end_char="547">hiç</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="549" end_char="550">bu</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="552" end_char="556">kadar</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="558" end_char="571">yükselmediğini</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="573" end_char="580">kaydetti</TOKEN>
+<TOKEN id="token-4-15" pos="punct" morph="none" start_char="581" end_char="581">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="584" end_char="737">
+<ORIGINAL_TEXT>Independent on Sunday gazetesi, İngiltere'de en son 2000 yılında bu şiddette bir grip salgını yaşandığını, 22 bin kişinin grip yüzünden öldüğünü belirtti.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="584" end_char="594">Independent</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="596" end_char="597">on</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="599" end_char="604">Sunday</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="606" end_char="613">gazetesi</TOKEN>
+<TOKEN id="token-5-4" pos="punct" morph="none" start_char="614" end_char="614">,</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="616" end_char="624">İngiltere</TOKEN>
+<TOKEN id="token-5-6" pos="punct" morph="none" start_char="625" end_char="625">'</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="626" end_char="627">de</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="629" end_char="630">en</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="632" end_char="634">son</TOKEN>
+<TOKEN id="token-5-10" pos="number" morph="none" start_char="636" end_char="639">2000</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="641" end_char="647">yılında</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="649" end_char="650">bu</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="652" end_char="659">şiddette</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="661" end_char="663">bir</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="665" end_char="668">grip</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="670" end_char="676">salgını</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="678" end_char="688">yaşandığını</TOKEN>
+<TOKEN id="token-5-18" pos="punct" morph="none" start_char="689" end_char="689">,</TOKEN>
+<TOKEN id="token-5-19" pos="number" morph="none" start_char="691" end_char="692">22</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="694" end_char="696">bin</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="698" end_char="704">kişinin</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="706" end_char="709">grip</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="711" end_char="718">yüzünden</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="720" end_char="727">öldüğünü</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="729" end_char="736">belirtti</TOKEN>
+<TOKEN id="token-5-26" pos="punct" morph="none" start_char="737" end_char="737">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

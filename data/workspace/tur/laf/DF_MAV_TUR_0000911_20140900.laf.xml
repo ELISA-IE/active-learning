@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="DF_MAV_TUR_0000911_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="ORG">
+      <EXTENT start_char="413" end_char="419">Amerıka</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="457" end_char="466">Filipinler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="1025" end_char="1034">Filipinler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="ORG">
+      <EXTENT start_char="2009" end_char="2015">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="2540" end_char="2549">Filipinler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="2553" end_char="2557">Manay</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="2562" end_char="2567">Caraga</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="2861" end_char="2871">Philippines</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="LOC">
+      <EXTENT start_char="2957" end_char="2966">Filipinler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="ORG">
+      <EXTENT start_char="3153" end_char="3159">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="LOC">
+      <EXTENT start_char="3609" end_char="3615">Tayland</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="LOC">
+      <EXTENT start_char="3690" end_char="3702">Hint Okyanusu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="LOC">
+      <EXTENT start_char="14" end_char="23">filipinler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="1403" end_char="1407">palau</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="LOC">
+      <EXTENT start_char="1791" end_char="1800">filipinler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="LOC">
+      <EXTENT start_char="1863" end_char="1867">Palau</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="LOC">
+      <EXTENT start_char="2925" end_char="2934">filipinler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="PER">
+      <EXTENT start_char="3059" end_char="3064">beta-x</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="PER">
+      <EXTENT start_char="3316" end_char="3321">beta-x</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="PER">
+      <EXTENT start_char="3365" end_char="3372">guernica</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="PER">
+      <EXTENT start_char="3403" end_char="3408">beta-x</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

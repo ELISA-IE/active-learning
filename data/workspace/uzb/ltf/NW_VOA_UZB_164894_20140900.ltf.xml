@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_VOA_UZB_164894_20140900" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="2545" raw_text_md5="1bde93b935a86bbad0970a82cda6570a">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="66">
+<ORIGINAL_TEXT>Ukrainada Malayziya samolyoti qulab, qariyb 300 kishi halok boʻlgan</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="Ukraina=ukraina:NOUN da=da:+CASE_LOC" start_char="0" end_char="8">Ukrainada</TOKEN>
+<TOKEN id="token-0-1" pos="NOUN" morph="Malayziya=malayziya:NOUN" start_char="10" end_char="18">Malayziya</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="samolyot=samolyot:NOUN i=i:+POSS_3S" start_char="20" end_char="28">samolyoti</TOKEN>
+<TOKEN id="token-0-3" pos="VERB" morph="qula=qula:VERB b=b:+GERUND-PAST" start_char="30" end_char="34">qulab</TOKEN>
+<TOKEN id="token-0-4" pos="." morph="none" start_char="35" end_char="35">,</TOKEN>
+<TOKEN id="token-0-5" pos="ADV" morph="qariyb=qariyb:ADV" start_char="37" end_char="42">qariyb</TOKEN>
+<TOKEN id="token-0-6" pos="number" morph="none" start_char="44" end_char="46">300</TOKEN>
+<TOKEN id="token-0-7" pos="NOUN" morph="kishi=kishi:NOUN" start_char="48" end_char="52">kishi</TOKEN>
+<TOKEN id="token-0-8" pos="NOUN" morph="halok=halok:NOUN" start_char="54" end_char="58">halok</TOKEN>
+<TOKEN id="token-0-9" pos="VERB" morph="boʻl=boʻl:VERB gan=gan:+PAST-PERF_3S" start_char="60" end_char="66">boʻlgan</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="69" end_char="137">
+<ORIGINAL_TEXT>Ukraina sharqida Malayziya Havo yoʻllariga tegishli samolyot qulagan.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="Ukraina=ukraina:NOUN" start_char="69" end_char="75">Ukraina</TOKEN>
+<TOKEN id="token-1-1" pos="NOUN" morph="sharq=sharq:NOUN ida=ida:+POSS_3S+CASE_LOC" start_char="77" end_char="84">sharqida</TOKEN>
+<TOKEN id="token-1-2" pos="NOUN" morph="Malayziya=malayziya:NOUN" start_char="86" end_char="94">Malayziya</TOKEN>
+<TOKEN id="token-1-3" pos="NOUN" morph="Havo=havo:NOUN" start_char="96" end_char="99">Havo</TOKEN>
+<TOKEN id="token-1-4" pos="NOUN" morph="yoʻl=yoʻl:NOUN lariga=lariga:+PLURAL+POSS_3S+CASE_DAT" start_char="101" end_char="110">yoʻllariga</TOKEN>
+<TOKEN id="token-1-5" pos="ADJ" morph="tegishli=tegishli:ADJ" start_char="112" end_char="119">tegishli</TOKEN>
+<TOKEN id="token-1-6" pos="NOUN" morph="samolyot=samolyot:NOUN" start_char="121" end_char="128">samolyot</TOKEN>
+<TOKEN id="token-1-7" pos="VERB" morph="qula=qula:VERB gan=gan:+PAST-PERF_3S" start_char="130" end_char="136">qulagan</TOKEN>
+<TOKEN id="token-1-8" pos="." morph="none" start_char="137" end_char="137">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="139" end_char="203">
+<ORIGINAL_TEXT>Layner Ukraina ustidan uchayotganda pilotlar bilan aloqa uzilgan.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="NOUN" morph="Layner=layner:NOUN" start_char="139" end_char="144">Layner</TOKEN>
+<TOKEN id="token-2-1" pos="NOUN" morph="Ukraina=ukraina:NOUN" start_char="146" end_char="152">Ukraina</TOKEN>
+<TOKEN id="token-2-2" pos="NOUN" morph="ust=ust:NOUN idan=idan:+POSS_3P+CASE_ABL" start_char="154" end_char="160">ustidan</TOKEN>
+<TOKEN id="token-2-3" pos="VERB" morph="uch=uch:VERB ayotgan=ayotgan:+PART-PRES da=da:+CASE_LOC" start_char="162" end_char="173">uchayotganda</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="pilot=pilot:NOUN lar=lar:+PLURAL" start_char="175" end_char="182">pilotlar</TOKEN>
+<TOKEN id="token-2-5" pos="POSTP" morph="bilan=bilan:POSTP" start_char="184" end_char="188">bilan</TOKEN>
+<TOKEN id="token-2-6" pos="NOUN" morph="aloqa=aloqa:NOUN" start_char="190" end_char="194">aloqa</TOKEN>
+<TOKEN id="token-2-7" pos="VERB" morph="uz=uz:VERB il=il:+PASS gan=gan:+PAST-PERF_3S" start_char="196" end_char="202">uzilgan</TOKEN>
+<TOKEN id="token-2-8" pos="." morph="none" start_char="203" end_char="203">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="206" end_char="322">
+<ORIGINAL_TEXT>Boeing-777 samolyoti 280 yoʻlovchi va 15 ekipaj aʼzolari bilan Amsterdam shahridan Kuala Lumpurga uchayotgan boʻlgan.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Boeing=boeing:NOUN" start_char="206" end_char="211">Boeing</TOKEN>
+<TOKEN id="token-3-1" pos="." morph="none" start_char="212" end_char="212">-</TOKEN>
+<TOKEN id="token-3-2" pos="NUM" morph="777=777:NUM" start_char="213" end_char="215">777</TOKEN>
+<TOKEN id="token-3-3" pos="NOUN" morph="samolyot=samolyot:NOUN i=i:+POSS_3S" start_char="217" end_char="225">samolyoti</TOKEN>
+<TOKEN id="token-3-4" pos="number" morph="none" start_char="227" end_char="229">280</TOKEN>
+<TOKEN id="token-3-5" pos="NOUN" morph="yoʻlovchi=yoʻlovchi:NOUN" start_char="231" end_char="239">yoʻlovchi</TOKEN>
+<TOKEN id="token-3-6" pos="CONJ" morph="va=va:CONJ" start_char="241" end_char="242">va</TOKEN>
+<TOKEN id="token-3-7" pos="number" morph="none" start_char="244" end_char="245">15</TOKEN>
+<TOKEN id="token-3-8" pos="NOUN" morph="ekipaj=ekipaj:NOUN" start_char="247" end_char="252">ekipaj</TOKEN>
+<TOKEN id="token-3-9" pos="NOUN" morph="aʼzo=aʼzo:NOUN lari=lari:+PLURAL+POSS_3S" start_char="254" end_char="261">aʼzolari</TOKEN>
+<TOKEN id="token-3-10" pos="POSTP" morph="bilan=bilan:POSTP" start_char="263" end_char="267">bilan</TOKEN>
+<TOKEN id="token-3-11" pos="NOUN" morph="Amsterdam=amsterdam:NOUN" start_char="269" end_char="277">Amsterdam</TOKEN>
+<TOKEN id="token-3-12" pos="NOUN" morph="shahr=shahr:NOUN idan=idan:+POSS_3P+CASE_ABL" start_char="279" end_char="287">shahridan</TOKEN>
+<TOKEN id="token-3-13" pos="NOUN" morph="Kuala=kuala:NOUN" start_char="289" end_char="293">Kuala</TOKEN>
+<TOKEN id="token-3-14" pos="NOUN" morph="Lumpur=lumpur:NOUN ga=ga:+CASE_DAT" start_char="295" end_char="302">Lumpurga</TOKEN>
+<TOKEN id="token-3-15" pos="VERB" morph="uch=uch:VERB ayotgan=ayotgan:+PART-PRES" start_char="304" end_char="313">uchayotgan</TOKEN>
+<TOKEN id="token-3-16" pos="VERB" morph="boʻl=boʻl:VERB gan=gan:+PAST-PERF_3S" start_char="315" end_char="321">boʻlgan</TOKEN>
+<TOKEN id="token-3-17" pos="." morph="none" start_char="322" end_char="322">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="324" end_char="346">
+<ORIGINAL_TEXT>Barchasi halok boʻlgan.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="ADV" morph="Barchasi=barchasi:ADV" start_char="324" end_char="331">Barchasi</TOKEN>
+<TOKEN id="token-4-1" pos="NOUN" morph="halok=halok:NOUN" start_char="333" end_char="337">halok</TOKEN>
+<TOKEN id="token-4-2" pos="VERB" morph="boʻl=boʻl:VERB gan=gan:+PAST-PERF_3S" start_char="339" end_char="345">boʻlgan</TOKEN>
+<TOKEN id="token-4-3" pos="." morph="none" start_char="346" end_char="346">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="349" end_char="429">
+<ORIGINAL_TEXT>Ukraina hukumati va Rossiyaga xayrixoh isyonchilar voqeada bir-birini ayblamoqda.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="NOUN" morph="Ukraina=ukraina:NOUN" start_char="349" end_char="355">Ukraina</TOKEN>
+<TOKEN id="token-5-1" pos="NOUN" morph="hukumat=hukumat:NOUN i=i:+POSS_3S" start_char="357" end_char="364">hukumati</TOKEN>
+<TOKEN id="token-5-2" pos="CONJ" morph="va=va:CONJ" start_char="366" end_char="367">va</TOKEN>
+<TOKEN id="token-5-3" pos="NOUN" morph="Rossiya=rossiya:NOUN ga=ga:+CASE_DAT" start_char="369" end_char="377">Rossiyaga</TOKEN>
+<TOKEN id="token-5-4" pos="ADJ" morph="xayrixoh=xayrixoh:ADJ" start_char="379" end_char="386">xayrixoh</TOKEN>
+<TOKEN id="token-5-5" pos="NOUN" morph="isyonchi=isyonchi:NOUN lar=lar:+PLURAL" start_char="388" end_char="398">isyonchilar</TOKEN>
+<TOKEN id="token-5-6" pos="NOUN" morph="voqea=voqea:NOUN da=da:+CASE_LOC" start_char="400" end_char="406">voqeada</TOKEN>
+<TOKEN id="token-5-7" pos="NUM" morph="bir=bir:NUM" start_char="408" end_char="410">bir</TOKEN>
+<TOKEN id="token-5-8" pos="." morph="none" start_char="411" end_char="411">-</TOKEN>
+<TOKEN id="token-5-9" pos="NOUN" morph="birini=birini:NOUN" start_char="412" end_char="417">birini</TOKEN>
+<TOKEN id="token-5-10" pos="VERB" morph="aybla=aybla:VERB moqda=moqda:+PRES-PROCESS_3S" start_char="419" end_char="428">ayblamoqda</TOKEN>
+<TOKEN id="token-5-11" pos="." morph="none" start_char="429" end_char="429">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="431" end_char="581">
+<ORIGINAL_TEXT>Ichki ishlar vazirligi rasmiysi Anton Gerashenko samolyotni raketa bilan urib tushirgan "terrorchilar", deya sharqda faol boʻlginchilarga ishora qildi.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="ADJ" morph="Ichki=ichki:ADJ" start_char="431" end_char="435">Ichki</TOKEN>
+<TOKEN id="token-6-1" pos="NOUN" morph="ish=ish:NOUN lar=lar:+PLURAL" start_char="437" end_char="442">ishlar</TOKEN>
+<TOKEN id="token-6-2" pos="NOUN" morph="vazirlig=vazirlig:NOUN i=i:+POSS_3S" start_char="444" end_char="452">vazirligi</TOKEN>
+<TOKEN id="token-6-3" pos="NOUN" morph="rasmiy=rasmiy:NOUN si=si:+POSS_3S" start_char="454" end_char="461">rasmiysi</TOKEN>
+<TOKEN id="token-6-4" pos="NOUN" morph="Anton=anton:NOUN" start_char="463" end_char="467">Anton</TOKEN>
+<TOKEN id="token-6-5" pos="NOUN" morph="Gerashenko=gerashenko:NOUN" start_char="469" end_char="478">Gerashenko</TOKEN>
+<TOKEN id="token-6-6" pos="NOUN" morph="samolyotni=samolyotni:NOUN" start_char="480" end_char="489">samolyotni</TOKEN>
+<TOKEN id="token-6-7" pos="NOUN" morph="raketa=raketa:NOUN" start_char="491" end_char="496">raketa</TOKEN>
+<TOKEN id="token-6-8" pos="POSTP" morph="bilan=bilan:POSTP" start_char="498" end_char="502">bilan</TOKEN>
+<TOKEN id="token-6-9" pos="VERB" morph="ur=ur:VERB ib=ib:+GERUND-PAST" start_char="504" end_char="507">urib</TOKEN>
+<TOKEN id="token-6-10" pos="VERB" morph="tushir=tushir:VERB gan=gan:+PAST-PERF_3S" start_char="509" end_char="517">tushirgan</TOKEN>
+<TOKEN id="token-6-11" pos="." morph="none" start_char="519" end_char="519">"</TOKEN>
+<TOKEN id="token-6-12" pos="NOUN" morph="terrorchi=terrorchi:NOUN lar=lar:+PLURAL" start_char="520" end_char="531">terrorchilar</TOKEN>
+<TOKEN id="token-6-13" pos="." morph="none" start_char="532" end_char="533">",</TOKEN>
+<TOKEN id="token-6-14" pos="VERB" morph="dey=dey:VERB a=a:+GERUND-PRES" start_char="535" end_char="538">deya</TOKEN>
+<TOKEN id="token-6-15" pos="NOUN" morph="sharq=sharq:NOUN da=da:+CASE_LOC" start_char="540" end_char="546">sharqda</TOKEN>
+<TOKEN id="token-6-16" pos="ADJ" morph="faol=faol:ADJ" start_char="548" end_char="551">faol</TOKEN>
+<TOKEN id="token-6-17" pos="NOUN" morph="boʻlginchi=boʻlginchi:NOUN larga=larga:+PLURAL+CASE_DAT" start_char="553" end_char="567">boʻlginchilarga</TOKEN>
+<TOKEN id="token-6-18" pos="NOUN" morph="ishora=ishora:NOUN" start_char="569" end_char="574">ishora</TOKEN>
+<TOKEN id="token-6-19" pos="VERB" morph="qil=qil:VERB di=di:+PAST_3S" start_char="576" end_char="580">qildi</TOKEN>
+<TOKEN id="token-6-20" pos="." morph="none" start_char="581" end_char="581">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="584" end_char="780">
+<ORIGINAL_TEXT>Aviahalokat haqida xabarlar tarqalishidan sal avval separatistlar Torez shahri yaqinida Ukraina havo kuchlariga tegishli An-26 harbiy samolyotini urib tushirgani haqida internetda eʼlon qilgan edi.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="NOUN" morph="Aviahalokat=aviahalokat:NOUN" start_char="584" end_char="594">Aviahalokat</TOKEN>
+<TOKEN id="token-7-1" pos="POSTP" morph="haqida=haqida:POSTP" start_char="596" end_char="601">haqida</TOKEN>
+<TOKEN id="token-7-2" pos="NOUN" morph="xabar=xabar:NOUN lar=lar:+PLURAL" start_char="603" end_char="610">xabarlar</TOKEN>
+<TOKEN id="token-7-3" pos="VERB" morph="tarqal=tarqal:VERB ish=ish:+GERUND idan=idan:+POSS_3P+CASE_ABL" start_char="612" end_char="624">tarqalishidan</TOKEN>
+<TOKEN id="token-7-4" pos="ADV" morph="sal=sal:ADV" start_char="626" end_char="628">sal</TOKEN>
+<TOKEN id="token-7-5" pos="ADV" morph="avval=avval:ADV" start_char="630" end_char="634">avval</TOKEN>
+<TOKEN id="token-7-6" pos="NOUN" morph="separatist=separatist:NOUN lar=lar:+PLURAL" start_char="636" end_char="648">separatistlar</TOKEN>
+<TOKEN id="token-7-7" pos="NOUN" morph="Torez=torez:NOUN" start_char="650" end_char="654">Torez</TOKEN>
+<TOKEN id="token-7-8" pos="NOUN" morph="shahr=shahr:NOUN i=i:+POSS_3S" start_char="656" end_char="661">shahri</TOKEN>
+<TOKEN id="token-7-9" pos="ADV" morph="yaqinida=yaqinida:ADV" start_char="663" end_char="670">yaqinida</TOKEN>
+<TOKEN id="token-7-10" pos="NOUN" morph="Ukraina=ukraina:NOUN" start_char="672" end_char="678">Ukraina</TOKEN>
+<TOKEN id="token-7-11" pos="NOUN" morph="havo=havo:NOUN" start_char="680" end_char="683">havo</TOKEN>
+<TOKEN id="token-7-12" pos="NOUN" morph="kuch=kuch:NOUN lariga=lariga:+PLURAL+POSS_3S+CASE_DAT" start_char="685" end_char="694">kuchlariga</TOKEN>
+<TOKEN id="token-7-13" pos="ADJ" morph="tegishli=tegishli:ADJ" start_char="696" end_char="703">tegishli</TOKEN>
+<TOKEN id="token-7-14" pos="NOUN" morph="An=an:NOUN" start_char="705" end_char="706">An</TOKEN>
+<TOKEN id="token-7-15" pos="." morph="none" start_char="707" end_char="707">-</TOKEN>
+<TOKEN id="token-7-16" pos="NUM" morph="26=26:NUM" start_char="708" end_char="709">26</TOKEN>
+<TOKEN id="token-7-17" pos="ADJ" morph="harbiy=harbiy:ADJ" start_char="711" end_char="716">harbiy</TOKEN>
+<TOKEN id="token-7-18" pos="NOUN" morph="samolyotini=samolyotini:NOUN" start_char="718" end_char="728">samolyotini</TOKEN>
+<TOKEN id="token-7-19" pos="VERB" morph="ur=ur:VERB ib=ib:+GERUND-PAST" start_char="730" end_char="733">urib</TOKEN>
+<TOKEN id="token-7-20" pos="VERB" morph="tushir=tushir:VERB gan=gan:+PART-PAST i=i:+POSS_3S" start_char="735" end_char="744">tushirgani</TOKEN>
+<TOKEN id="token-7-21" pos="POSTP" morph="haqida=haqida:POSTP" start_char="746" end_char="751">haqida</TOKEN>
+<TOKEN id="token-7-22" pos="NOUN" morph="internet=internet:NOUN da=da:+CASE_LOC" start_char="753" end_char="762">internetda</TOKEN>
+<TOKEN id="token-7-23" pos="NOUN" morph="eʼlon=eʼlon:NOUN" start_char="764" end_char="768">eʼlon</TOKEN>
+<TOKEN id="token-7-24" pos="VERB" morph="qil=qil:VERB gan=gan:+PART-PAST" start_char="770" end_char="775">qilgan</TOKEN>
+<TOKEN id="token-7-25" pos="VERB" morph="e=e:VERB di=di:+PAST_3S" start_char="777" end_char="779">edi</TOKEN>
+<TOKEN id="token-7-26" pos="." morph="none" start_char="780" end_char="780">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="783" end_char="886">
+<ORIGINAL_TEXT>Ammo isyonchilarda 10 ming metr balandlikda uchayotgan samolyotni nishonga olishga qodir qurollar bormi?</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="CONJ" morph="Ammo=ammo:CONJ" start_char="783" end_char="786">Ammo</TOKEN>
+<TOKEN id="token-8-1" pos="NOUN" morph="isyonchi=isyonchi:NOUN larda=larda:+PLURAL+CASE_LOC" start_char="788" end_char="800">isyonchilarda</TOKEN>
+<TOKEN id="token-8-2" pos="number" morph="none" start_char="802" end_char="803">10</TOKEN>
+<TOKEN id="token-8-3" pos="NUM" morph="ming=ming:NUM" start_char="805" end_char="808">ming</TOKEN>
+<TOKEN id="token-8-4" pos="NOUN" morph="metr=metr:NOUN" start_char="810" end_char="813">metr</TOKEN>
+<TOKEN id="token-8-5" pos="NOUN" morph="balandlik=balandlik:NOUN da=da:+CASE_LOC" start_char="815" end_char="825">balandlikda</TOKEN>
+<TOKEN id="token-8-6" pos="VERB" morph="uch=uch:VERB ayotgan=ayotgan:+PART-PRES" start_char="827" end_char="836">uchayotgan</TOKEN>
+<TOKEN id="token-8-7" pos="NOUN" morph="samolyotni=samolyotni:NOUN" start_char="838" end_char="847">samolyotni</TOKEN>
+<TOKEN id="token-8-8" pos="NOUN" morph="nishon=nishon:NOUN ga=ga:+CASE_DAT" start_char="849" end_char="856">nishonga</TOKEN>
+<TOKEN id="token-8-9" pos="VERB" morph="ol=ol:VERB ish=ish:+GERUND ga=ga:+CASE_DAT" start_char="858" end_char="864">olishga</TOKEN>
+<TOKEN id="token-8-10" pos="ADJ" morph="qodir=qodir:ADJ" start_char="866" end_char="870">qodir</TOKEN>
+<TOKEN id="token-8-11" pos="NOUN" morph="qurol=qurol:NOUN lar=lar:+PLURAL" start_char="872" end_char="879">qurollar</TOKEN>
+<TOKEN id="token-8-12" pos="PARTICLE" morph="bormi=bormi:PARTICLE" start_char="881" end_char="885">bormi</TOKEN>
+<TOKEN id="token-8-13" pos="." morph="none" start_char="886" end_char="886">?</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="888" end_char="902">
+<ORIGINAL_TEXT>Bu maʼlum emas.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="DEMPRON_1S" morph="Bu=bu:DEMPRON_1S" start_char="888" end_char="889">Bu</TOKEN>
+<TOKEN id="token-9-1" pos="ADJ" morph="maʼlum=maʼlum:ADJ" start_char="891" end_char="896">maʼlum</TOKEN>
+<TOKEN id="token-9-2" pos="VERB" morph="emas=emas:VERB" start_char="898" end_char="901">emas</TOKEN>
+<TOKEN id="token-9-3" pos="." morph="none" start_char="902" end_char="902">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="904" end_char="973">
+<ORIGINAL_TEXT>Malayziya layneri qulagan Grabovo qishlogʻi Rossiya chegarasiga yaqin.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="NOUN" morph="Malayziya=malayziya:NOUN" start_char="904" end_char="912">Malayziya</TOKEN>
+<TOKEN id="token-10-1" pos="NOUN" morph="layner=layner:NOUN i=i:+POSS_3S" start_char="914" end_char="920">layneri</TOKEN>
+<TOKEN id="token-10-2" pos="VERB" morph="qula=qula:VERB gan=gan:+PART-PAST" start_char="922" end_char="928">qulagan</TOKEN>
+<TOKEN id="token-10-3" pos="NOUN" morph="Grabovo=grabovo:NOUN" start_char="930" end_char="936">Grabovo</TOKEN>
+<TOKEN id="token-10-4" pos="NOUN" morph="qishlogʻ=qishlogʻ:NOUN i=i:+POSS_3S" start_char="938" end_char="946">qishlogʻi</TOKEN>
+<TOKEN id="token-10-5" pos="NOUN" morph="Rossiya=rossiya:NOUN" start_char="948" end_char="954">Rossiya</TOKEN>
+<TOKEN id="token-10-6" pos="NOUN" morph="chegara=chegara:NOUN siga=siga:+POSS_3S+CASE_DAT" start_char="956" end_char="966">chegarasiga</TOKEN>
+<TOKEN id="token-10-7" pos="ADJ" morph="yaqin=yaqin:ADJ" start_char="968" end_char="972">yaqin</TOKEN>
+<TOKEN id="token-10-8" pos="." morph="none" start_char="973" end_char="973">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="975" end_char="1062">
+<ORIGINAL_TEXT>Soʻnggi payt Ukraina armiyasi va ayirmachilar oʻrtasida ogʻir janglar shu yerda kechgan.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="ADV" morph="Soʻnggi=soʻnggi:ADV" start_char="975" end_char="981">Soʻnggi</TOKEN>
+<TOKEN id="token-11-1" pos="NOUN" morph="payt=payt:NOUN" start_char="983" end_char="986">payt</TOKEN>
+<TOKEN id="token-11-2" pos="NOUN" morph="Ukraina=ukraina:NOUN" start_char="988" end_char="994">Ukraina</TOKEN>
+<TOKEN id="token-11-3" pos="NOUN" morph="armiya=armiya:NOUN si=si:+POSS_3S" start_char="996" end_char="1003">armiyasi</TOKEN>
+<TOKEN id="token-11-4" pos="CONJ" morph="va=va:CONJ" start_char="1005" end_char="1006">va</TOKEN>
+<TOKEN id="token-11-5" pos="NOUN" morph="ayirmachi=ayirmachi:NOUN lar=lar:+PLURAL" start_char="1008" end_char="1019">ayirmachilar</TOKEN>
+<TOKEN id="token-11-6" pos="POSTP" morph="oʻrtasida=oʻrtasida:POSTP" start_char="1021" end_char="1029">oʻrtasida</TOKEN>
+<TOKEN id="token-11-7" pos="ADJ" morph="ogʻir=ogʻir:ADJ" start_char="1031" end_char="1035">ogʻir</TOKEN>
+<TOKEN id="token-11-8" pos="NOUN" morph="jang=jang:NOUN lar=lar:+PLURAL" start_char="1037" end_char="1043">janglar</TOKEN>
+<TOKEN id="token-11-9" pos="DEMPRON_2S" morph="shu=shu:DEMPRON_2S" start_char="1045" end_char="1047">shu</TOKEN>
+<TOKEN id="token-11-10" pos="NOUN" morph="yer=yer:NOUN da=da:+CASE_LOC" start_char="1049" end_char="1053">yerda</TOKEN>
+<TOKEN id="token-11-11" pos="VERB" morph="kech=kech:VERB gan=gan:+PAST-PERF_3S" start_char="1055" end_char="1061">kechgan</TOKEN>
+<TOKEN id="token-11-12" pos="." morph="none" start_char="1062" end_char="1062">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1065" end_char="1142">
+<ORIGINAL_TEXT>Malayziya hukumati halokatdan dahshatda va zudlik bilan surishtiruv boshlagan.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="NOUN" morph="Malayziya=malayziya:NOUN" start_char="1065" end_char="1073">Malayziya</TOKEN>
+<TOKEN id="token-12-1" pos="NOUN" morph="hukumat=hukumat:NOUN i=i:+POSS_3S" start_char="1075" end_char="1082">hukumati</TOKEN>
+<TOKEN id="token-12-2" pos="NOUN" morph="halokat=halokat:NOUN dan=dan:+CASE_ABL" start_char="1084" end_char="1093">halokatdan</TOKEN>
+<TOKEN id="token-12-3" pos="NOUN" morph="dahshat=dahshat:NOUN da=da:+CASE_LOC" start_char="1095" end_char="1103">dahshatda</TOKEN>
+<TOKEN id="token-12-4" pos="CONJ" morph="va=va:CONJ" start_char="1105" end_char="1106">va</TOKEN>
+<TOKEN id="token-12-5" pos="NOUN" morph="zudlik=zudlik:NOUN" start_char="1108" end_char="1113">zudlik</TOKEN>
+<TOKEN id="token-12-6" pos="POSTP" morph="bilan=bilan:POSTP" start_char="1115" end_char="1119">bilan</TOKEN>
+<TOKEN id="token-12-7" pos="VERB" morph="surishtir=surishtir:VERB uv=uv:+GERUND" start_char="1121" end_char="1131">surishtiruv</TOKEN>
+<TOKEN id="token-12-8" pos="VERB" morph="boshla=boshla:VERB gan=gan:+PAST-PERF_3S" start_char="1133" end_char="1141">boshlagan</TOKEN>
+<TOKEN id="token-12-9" pos="." morph="none" start_char="1142" end_char="1142">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1144" end_char="1193">
+<ORIGINAL_TEXT>Dastlabki xulosa shuki, samolyot otib tushirilgan.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="ADJ" morph="Dastlabki=dastlabki:ADJ" start_char="1144" end_char="1152">Dastlabki</TOKEN>
+<TOKEN id="token-13-1" pos="NOUN" morph="xulosa=xulosa:NOUN" start_char="1154" end_char="1159">xulosa</TOKEN>
+<TOKEN id="token-13-2" pos="PARTICLE" morph="shuki=shuki:PARTICLE" start_char="1161" end_char="1165">shuki</TOKEN>
+<TOKEN id="token-13-3" pos="." morph="none" start_char="1166" end_char="1166">,</TOKEN>
+<TOKEN id="token-13-4" pos="NOUN" morph="samolyot=samolyot:NOUN" start_char="1168" end_char="1175">samolyot</TOKEN>
+<TOKEN id="token-13-5" pos="VERB" morph="ot=ot:VERB ib=ib:+GERUND-PAST" start_char="1177" end_char="1180">otib</TOKEN>
+<TOKEN id="token-13-6" pos="VERB" morph="tushir=tushir:VERB il=il:+PASS gan=gan:+PAST-PERF_3S" start_char="1182" end_char="1192">tushirilgan</TOKEN>
+<TOKEN id="token-13-7" pos="." morph="none" start_char="1193" end_char="1193">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1195" end_char="1218">
+<ORIGINAL_TEXT>Yerdan nishonga olingan.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="NOUN" morph="Yer=yer:NOUN dan=dan:+CASE_ABL" start_char="1195" end_char="1200">Yerdan</TOKEN>
+<TOKEN id="token-14-1" pos="NOUN" morph="nishon=nishon:NOUN ga=ga:+CASE_DAT" start_char="1202" end_char="1209">nishonga</TOKEN>
+<TOKEN id="token-14-2" pos="VERB" morph="ol=ol:VERB in=in:+REFL gan=gan:+PAST-PERF_3S" start_char="1211" end_char="1217">olingan</TOKEN>
+<TOKEN id="token-14-3" pos="." morph="none" start_char="1218" end_char="1218">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1220" end_char="1268">
+<ORIGINAL_TEXT>Qoʻshma Shtatlar tekshiruvi ham shuni koʻrsatgan.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="ADJ" morph="Qoʻshma=qoʻshma:ADJ" start_char="1220" end_char="1226">Qoʻshma</TOKEN>
+<TOKEN id="token-15-1" pos="NOUN" morph="Shtat=shtat:NOUN lar=lar:+PLURAL" start_char="1228" end_char="1235">Shtatlar</TOKEN>
+<TOKEN id="token-15-2" pos="VERB" morph="tekshir=tekshir:VERB uv=uv:+GERUND i=i:+POSS_3S" start_char="1237" end_char="1246">tekshiruvi</TOKEN>
+<TOKEN id="token-15-3" pos="CONJ" morph="ham=ham:CONJ" start_char="1248" end_char="1250">ham</TOKEN>
+<TOKEN id="token-15-4" pos="DEMPRON_2S" morph="shu=shu:DEMPRON_2S ni=ni:+CASE_ACC" start_char="1252" end_char="1256">shuni</TOKEN>
+<TOKEN id="token-15-5" pos="VERB" morph="koʻrsat=koʻrsat:VERB gan=gan:+PAST-PERF_3S" start_char="1258" end_char="1267">koʻrsatgan</TOKEN>
+<TOKEN id="token-15-6" pos="." morph="none" start_char="1268" end_char="1268">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1271" end_char="1381">
+<ORIGINAL_TEXT>AQSh hukumati Ukraina bilan yaqindan ishlayotganini bildirib, voqeani aql bovar qilmaydigan fojia deb atamoqda.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="NOUN" morph="AQSh=aqsh:NOUN" start_char="1271" end_char="1274">AQSh</TOKEN>
+<TOKEN id="token-16-1" pos="NOUN" morph="hukumat=hukumat:NOUN i=i:+POSS_3S" start_char="1276" end_char="1283">hukumati</TOKEN>
+<TOKEN id="token-16-2" pos="NOUN" morph="Ukraina=ukraina:NOUN" start_char="1285" end_char="1291">Ukraina</TOKEN>
+<TOKEN id="token-16-3" pos="POSTP" morph="bilan=bilan:POSTP" start_char="1293" end_char="1297">bilan</TOKEN>
+<TOKEN id="token-16-4" pos="ADV" morph="yaqindan=yaqindan:ADV" start_char="1299" end_char="1306">yaqindan</TOKEN>
+<TOKEN id="token-16-5" pos="NOUN" morph="ishlayotganini=ishlayotganini:NOUN" start_char="1308" end_char="1321">ishlayotganini</TOKEN>
+<TOKEN id="token-16-6" pos="VERB" morph="bildir=bildir:VERB ib=ib:+GERUND-PAST" start_char="1323" end_char="1330">bildirib</TOKEN>
+<TOKEN id="token-16-7" pos="." morph="none" start_char="1331" end_char="1331">,</TOKEN>
+<TOKEN id="token-16-8" pos="NOUN" morph="voqeani=voqeani:NOUN" start_char="1333" end_char="1339">voqeani</TOKEN>
+<TOKEN id="token-16-9" pos="NOUN" morph="aql=aql:NOUN" start_char="1341" end_char="1343">aql</TOKEN>
+<TOKEN id="token-16-10" pos="NOUN" morph="bovar=bovar:NOUN" start_char="1345" end_char="1349">bovar</TOKEN>
+<TOKEN id="token-16-11" pos="VERB" morph="qilma=qilma:VERB ydigan=ydigan:+PART-PRES-FUT" start_char="1351" end_char="1361">qilmaydigan</TOKEN>
+<TOKEN id="token-16-12" pos="NOUN" morph="fojia=fojia:NOUN" start_char="1363" end_char="1367">fojia</TOKEN>
+<TOKEN id="token-16-13" pos="VERB" morph="de=de:VERB b=b:+GERUND-PAST" start_char="1369" end_char="1371">deb</TOKEN>
+<TOKEN id="token-16-14" pos="VERB" morph="ata=ata:VERB moqda=moqda:+PRES-PROCESS_3S" start_char="1373" end_char="1380">atamoqda</TOKEN>
+<TOKEN id="token-16-15" pos="." morph="none" start_char="1381" end_char="1381">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1384" end_char="1515">
+<ORIGINAL_TEXT>Prezident Barak Obama Ukraina, Rossiya va Malayziya rahbarlari bilan alohida gaplashgan va xalqaro tergov boshlashga kelishib olgan.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="NOUN" morph="Prezident=prezident:NOUN" start_char="1384" end_char="1392">Prezident</TOKEN>
+<TOKEN id="token-17-1" pos="NOUN" morph="Barak=barak:NOUN" start_char="1394" end_char="1398">Barak</TOKEN>
+<TOKEN id="token-17-2" pos="NOUN" morph="Obama=obama:NOUN" start_char="1400" end_char="1404">Obama</TOKEN>
+<TOKEN id="token-17-3" pos="NOUN" morph="Ukraina=ukraina:NOUN" start_char="1406" end_char="1412">Ukraina</TOKEN>
+<TOKEN id="token-17-4" pos="." morph="none" start_char="1413" end_char="1413">,</TOKEN>
+<TOKEN id="token-17-5" pos="NOUN" morph="Rossiya=rossiya:NOUN" start_char="1415" end_char="1421">Rossiya</TOKEN>
+<TOKEN id="token-17-6" pos="CONJ" morph="va=va:CONJ" start_char="1423" end_char="1424">va</TOKEN>
+<TOKEN id="token-17-7" pos="NOUN" morph="Malayziya=malayziya:NOUN" start_char="1426" end_char="1434">Malayziya</TOKEN>
+<TOKEN id="token-17-8" pos="NOUN" morph="rahbar=rahbar:NOUN lari=lari:+POSS_3P" start_char="1436" end_char="1445">rahbarlari</TOKEN>
+<TOKEN id="token-17-9" pos="POSTP" morph="bilan=bilan:POSTP" start_char="1447" end_char="1451">bilan</TOKEN>
+<TOKEN id="token-17-10" pos="ADV" morph="alohida=alohida:ADV" start_char="1453" end_char="1459">alohida</TOKEN>
+<TOKEN id="token-17-11" pos="VERB" morph="gaplash=gaplash:VERB gan=gan:+PAST-PERF_3S" start_char="1461" end_char="1470">gaplashgan</TOKEN>
+<TOKEN id="token-17-12" pos="CONJ" morph="va=va:CONJ" start_char="1472" end_char="1473">va</TOKEN>
+<TOKEN id="token-17-13" pos="ADJ" morph="xalqaro=xalqaro:ADJ" start_char="1475" end_char="1481">xalqaro</TOKEN>
+<TOKEN id="token-17-14" pos="NOUN" morph="tergov=tergov:NOUN" start_char="1483" end_char="1488">tergov</TOKEN>
+<TOKEN id="token-17-15" pos="VERB" morph="boshla=boshla:VERB sh=sh:+GERUND ga=ga:+CASE_DAT" start_char="1490" end_char="1499">boshlashga</TOKEN>
+<TOKEN id="token-17-16" pos="VERB" morph="kelish=kelish:VERB ib=ib:+GERUND-PAST" start_char="1501" end_char="1508">kelishib</TOKEN>
+<TOKEN id="token-17-17" pos="VERB" morph="ol=ol:VERB gan=gan:+PAST-PERF_3S" start_char="1510" end_char="1514">olgan</TOKEN>
+<TOKEN id="token-17-18" pos="." morph="none" start_char="1515" end_char="1515">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1517" end_char="1654">
+<ORIGINAL_TEXT>Halokat joyidan hech bir isbot-dalil mamlakatdan chiqib ketmasligini taʼminlash kerak, deydi u, Delaver shtatidan turib qilgan bayonotida.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="NOUN" morph="Halokat=halokat:NOUN" start_char="1517" end_char="1523">Halokat</TOKEN>
+<TOKEN id="token-18-1" pos="NOUN" morph="joy=joy:NOUN idan=idan:+POSS_3P+CASE_ABL" start_char="1525" end_char="1531">joyidan</TOKEN>
+<TOKEN id="token-18-2" pos="PARTICLE" morph="hech=hech:PARTICLE" start_char="1533" end_char="1536">hech</TOKEN>
+<TOKEN id="token-18-3" pos="NUM" morph="bir=bir:NUM" start_char="1538" end_char="1540">bir</TOKEN>
+<TOKEN id="token-18-4" pos="NOUN" morph="isbot=isbot:NOUN" start_char="1542" end_char="1546">isbot</TOKEN>
+<TOKEN id="token-18-5" pos="." morph="none" start_char="1547" end_char="1547">-</TOKEN>
+<TOKEN id="token-18-6" pos="NOUN" morph="dalil=dalil:NOUN" start_char="1548" end_char="1552">dalil</TOKEN>
+<TOKEN id="token-18-7" pos="NOUN" morph="mamlakat=mamlakat:NOUN dan=dan:+CASE_ABL" start_char="1554" end_char="1564">mamlakatdan</TOKEN>
+<TOKEN id="token-18-8" pos="VERB" morph="chiq=chiq:VERB ib=ib:+GERUND-PAST" start_char="1566" end_char="1571">chiqib</TOKEN>
+<TOKEN id="token-18-9" pos="NOUN" morph="ketmasligini=ketmasligini:NOUN" start_char="1573" end_char="1584">ketmasligini</TOKEN>
+<TOKEN id="token-18-10" pos="NOUN" morph="taʼminlash=taʼminlash:NOUN" start_char="1586" end_char="1595">taʼminlash</TOKEN>
+<TOKEN id="token-18-11" pos="PARTICLE" morph="kerak=kerak:PARTICLE" start_char="1597" end_char="1601">kerak</TOKEN>
+<TOKEN id="token-18-12" pos="." morph="none" start_char="1602" end_char="1602">,</TOKEN>
+<TOKEN id="token-18-13" pos="VERB" morph="de=de:VERB ydi=ydi:+PRES-FUT_3S" start_char="1604" end_char="1608">deydi</TOKEN>
+<TOKEN id="token-18-14" pos="unanalyzable" morph="unanalyzable" start_char="1610" end_char="1610">u</TOKEN>
+<TOKEN id="token-18-15" pos="." morph="none" start_char="1611" end_char="1611">,</TOKEN>
+<TOKEN id="token-18-16" pos="NOUN" morph="Delaver=delaver:NOUN" start_char="1613" end_char="1619">Delaver</TOKEN>
+<TOKEN id="token-18-17" pos="NOUN" morph="shtat=shtat:NOUN idan=idan:+POSS_3P+CASE_ABL" start_char="1621" end_char="1629">shtatidan</TOKEN>
+<TOKEN id="token-18-18" pos="VERB" morph="tur=tur:VERB ib=ib:+GERUND-PAST" start_char="1631" end_char="1635">turib</TOKEN>
+<TOKEN id="token-18-19" pos="VERB" morph="qil=qil:VERB gan=gan:+PART-PAST" start_char="1637" end_char="1642">qilgan</TOKEN>
+<TOKEN id="token-18-20" pos="NOUN" morph="bayonot=bayonot:NOUN ida=ida:+POSS_3S+CASE_LOC" start_char="1644" end_char="1653">bayonotida</TOKEN>
+<TOKEN id="token-18-21" pos="." morph="none" start_char="1654" end_char="1654">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1657" end_char="1796">
+<ORIGINAL_TEXT>Kecha Obama Oq uydan turib Rossiya siyosatini qoralagan, uni Ukraina tinchligini buzayotganlikda ayblab, yangi sanksiyalar eʼlon qilgan edi.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="ADV" morph="Kecha=kecha:ADV" start_char="1657" end_char="1661">Kecha</TOKEN>
+<TOKEN id="token-19-1" pos="NOUN" morph="Obama=obama:NOUN" start_char="1663" end_char="1667">Obama</TOKEN>
+<TOKEN id="token-19-2" pos="ADJ" morph="Oq=oq:ADJ" start_char="1669" end_char="1670">Oq</TOKEN>
+<TOKEN id="token-19-3" pos="NOUN" morph="uy=uy:NOUN dan=dan:+CASE_ABL" start_char="1672" end_char="1676">uydan</TOKEN>
+<TOKEN id="token-19-4" pos="VERB" morph="tur=tur:VERB ib=ib:+GERUND-PAST" start_char="1678" end_char="1682">turib</TOKEN>
+<TOKEN id="token-19-5" pos="NOUN" morph="Rossiya=rossiya:NOUN" start_char="1684" end_char="1690">Rossiya</TOKEN>
+<TOKEN id="token-19-6" pos="NOUN" morph="siyosatini=siyosatini:NOUN" start_char="1692" end_char="1701">siyosatini</TOKEN>
+<TOKEN id="token-19-7" pos="VERB" morph="qorala=qorala:VERB gan=gan:+PAST-PERF_3S" start_char="1703" end_char="1711">qoralagan</TOKEN>
+<TOKEN id="token-19-8" pos="." morph="none" start_char="1712" end_char="1712">,</TOKEN>
+<TOKEN id="token-19-9" pos="DEMPRON_3S" morph="u=u:DEMPRON_3S ni=ni:+CASE_ACC" start_char="1714" end_char="1716">uni</TOKEN>
+<TOKEN id="token-19-10" pos="NOUN" morph="Ukraina=ukraina:NOUN" start_char="1718" end_char="1724">Ukraina</TOKEN>
+<TOKEN id="token-19-11" pos="NOUN" morph="tinchligini=tinchligini:NOUN" start_char="1726" end_char="1736">tinchligini</TOKEN>
+<TOKEN id="token-19-12" pos="NOUN" morph="buzayotganlik=buzayotganlik:NOUN da=da:+CASE_LOC" start_char="1738" end_char="1752">buzayotganlikda</TOKEN>
+<TOKEN id="token-19-13" pos="VERB" morph="aybla=aybla:VERB b=b:+GERUND-PAST" start_char="1754" end_char="1759">ayblab</TOKEN>
+<TOKEN id="token-19-14" pos="." morph="none" start_char="1760" end_char="1760">,</TOKEN>
+<TOKEN id="token-19-15" pos="ADJ" morph="yangi=yangi:ADJ" start_char="1762" end_char="1766">yangi</TOKEN>
+<TOKEN id="token-19-16" pos="NOUN" morph="sanksiya=sanksiya:NOUN lar=lar:+PLURAL" start_char="1768" end_char="1778">sanksiyalar</TOKEN>
+<TOKEN id="token-19-17" pos="NOUN" morph="eʼlon=eʼlon:NOUN" start_char="1780" end_char="1784">eʼlon</TOKEN>
+<TOKEN id="token-19-18" pos="VERB" morph="qil=qil:VERB gan=gan:+PART-PAST" start_char="1786" end_char="1791">qilgan</TOKEN>
+<TOKEN id="token-19-19" pos="VERB" morph="e=e:VERB di=di:+PAST_3S" start_char="1793" end_char="1795">edi</TOKEN>
+<TOKEN id="token-19-20" pos="." morph="none" start_char="1796" end_char="1796">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1798" end_char="1957">
+<ORIGINAL_TEXT>Obama bugun Rossiya prezidenti Vladimir Putin bilan telefon muloqotda bu qarorini himoya qilgan va suhbatdoshini maqsadi tinchlik ekanini isbotlashga chaqirgan.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="NOUN" morph="Obama=obama:NOUN" start_char="1798" end_char="1802">Obama</TOKEN>
+<TOKEN id="token-20-1" pos="NOUN" morph="bugun=bugun:NOUN" start_char="1804" end_char="1808">bugun</TOKEN>
+<TOKEN id="token-20-2" pos="NOUN" morph="Rossiya=rossiya:NOUN" start_char="1810" end_char="1816">Rossiya</TOKEN>
+<TOKEN id="token-20-3" pos="NOUN" morph="prezident=prezident:NOUN i=i:+POSS_3S" start_char="1818" end_char="1827">prezidenti</TOKEN>
+<TOKEN id="token-20-4" pos="NOUN" morph="Vladimir=vladimir:NOUN" start_char="1829" end_char="1836">Vladimir</TOKEN>
+<TOKEN id="token-20-5" pos="NOUN" morph="Putin=putin:NOUN" start_char="1838" end_char="1842">Putin</TOKEN>
+<TOKEN id="token-20-6" pos="POSTP" morph="bilan=bilan:POSTP" start_char="1844" end_char="1848">bilan</TOKEN>
+<TOKEN id="token-20-7" pos="NOUN" morph="telefon=telefon:NOUN" start_char="1850" end_char="1856">telefon</TOKEN>
+<TOKEN id="token-20-8" pos="NOUN" morph="muloqot=muloqot:NOUN da=da:+CASE_LOC" start_char="1858" end_char="1866">muloqotda</TOKEN>
+<TOKEN id="token-20-9" pos="DEMPRON_1S" morph="bu=bu:DEMPRON_1S" start_char="1868" end_char="1869">bu</TOKEN>
+<TOKEN id="token-20-10" pos="NOUN" morph="qarorini=qarorini:NOUN" start_char="1871" end_char="1878">qarorini</TOKEN>
+<TOKEN id="token-20-11" pos="NOUN" morph="himoya=himoya:NOUN" start_char="1880" end_char="1885">himoya</TOKEN>
+<TOKEN id="token-20-12" pos="VERB" morph="qil=qil:VERB gan=gan:+PAST-PERF_3S" start_char="1887" end_char="1892">qilgan</TOKEN>
+<TOKEN id="token-20-13" pos="CONJ" morph="va=va:CONJ" start_char="1894" end_char="1895">va</TOKEN>
+<TOKEN id="token-20-14" pos="NOUN" morph="suhbatdoshini=suhbatdoshini:NOUN" start_char="1897" end_char="1909">suhbatdoshini</TOKEN>
+<TOKEN id="token-20-15" pos="NOUN" morph="maqsad=maqsad:NOUN i=i:+POSS_3S" start_char="1911" end_char="1917">maqsadi</TOKEN>
+<TOKEN id="token-20-16" pos="NOUN" morph="tinchlik=tinchlik:NOUN" start_char="1919" end_char="1926">tinchlik</TOKEN>
+<TOKEN id="token-20-17" pos="NOUN" morph="ekanini=ekanini:NOUN" start_char="1928" end_char="1934">ekanini</TOKEN>
+<TOKEN id="token-20-18" pos="VERB" morph="isbotla=isbotla:VERB sh=sh:+GERUND ga=ga:+CASE_DAT" start_char="1936" end_char="1946">isbotlashga</TOKEN>
+<TOKEN id="token-20-19" pos="VERB" morph="chaqir=chaqir:VERB gan=gan:+PAST-PERF_3S" start_char="1948" end_char="1956">chaqirgan</TOKEN>
+<TOKEN id="token-20-20" pos="." morph="none" start_char="1957" end_char="1957">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1960" end_char="2255">
+<ORIGINAL_TEXT>Vashington bugungi halokatda Rossiyani ochiq ayblayotgani yoʻq, ammo agar ayrim maʼlumotlarda aytilayotganidek, hujumni rusparast boʻlginchilar amalga oshirgan boʻlsa, ularga samolyotni otib tushirishdek qudratga ega qurol va vositalarni bergan tomon Rossiya ekani oydek ravshan, deydi rasmiylar.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="NOUN" morph="Vashington=vashington:NOUN" start_char="1960" end_char="1969">Vashington</TOKEN>
+<TOKEN id="token-21-1" pos="NOUN" morph="bugungi=bugungi:NOUN" start_char="1971" end_char="1977">bugungi</TOKEN>
+<TOKEN id="token-21-2" pos="NOUN" morph="halokat=halokat:NOUN da=da:+CASE_LOC" start_char="1979" end_char="1987">halokatda</TOKEN>
+<TOKEN id="token-21-3" pos="NOUN" morph="Rossiyani=rossiyani:NOUN" start_char="1989" end_char="1997">Rossiyani</TOKEN>
+<TOKEN id="token-21-4" pos="ADV" morph="ochiq=ochiq:ADV" start_char="1999" end_char="2003">ochiq</TOKEN>
+<TOKEN id="token-21-5" pos="NOUN" morph="ayblayotgani=ayblayotgani:NOUN" start_char="2005" end_char="2016">ayblayotgani</TOKEN>
+<TOKEN id="token-21-6" pos="PARTICLE" morph="yoʻq=yoʻq:PARTICLE" start_char="2018" end_char="2021">yoʻq</TOKEN>
+<TOKEN id="token-21-7" pos="." morph="none" start_char="2022" end_char="2022">,</TOKEN>
+<TOKEN id="token-21-8" pos="CONJ" morph="ammo=ammo:CONJ" start_char="2024" end_char="2027">ammo</TOKEN>
+<TOKEN id="token-21-9" pos="PARTICLE" morph="agar=agar:PARTICLE" start_char="2029" end_char="2032">agar</TOKEN>
+<TOKEN id="token-21-10" pos="ADJ" morph="ayrim=ayrim:ADJ" start_char="2034" end_char="2038">ayrim</TOKEN>
+<TOKEN id="token-21-11" pos="NOUN" morph="maʼlumot=maʼlumot:NOUN larda=larda:+PLURAL+CASE_LOC" start_char="2040" end_char="2052">maʼlumotlarda</TOKEN>
+<TOKEN id="token-21-12" pos="ADJ" morph="aytilayotganidek=aytilayotganidek:ADJ" start_char="2054" end_char="2069">aytilayotganidek</TOKEN>
+<TOKEN id="token-21-13" pos="." morph="none" start_char="2070" end_char="2070">,</TOKEN>
+<TOKEN id="token-21-14" pos="NOUN" morph="hujumni=hujumni:NOUN" start_char="2072" end_char="2078">hujumni</TOKEN>
+<TOKEN id="token-21-15" pos="ADJ" morph="rusparast=rusparast:ADJ" start_char="2080" end_char="2088">rusparast</TOKEN>
+<TOKEN id="token-21-16" pos="NOUN" morph="boʻlginchi=boʻlginchi:NOUN lar=lar:+PLURAL" start_char="2090" end_char="2102">boʻlginchilar</TOKEN>
+<TOKEN id="token-21-17" pos="NOUN" morph="amal=amal:NOUN ga=ga:+CASE_DAT" start_char="2104" end_char="2109">amalga</TOKEN>
+<TOKEN id="token-21-18" pos="VERB" morph="oshir=oshir:VERB gan=gan:+PAST-PERF_3S" start_char="2111" end_char="2118">oshirgan</TOKEN>
+<TOKEN id="token-21-19" pos="VERB" morph="boʻl=boʻl:VERB sa=sa:+COND-PRES-FUT_3S" start_char="2120" end_char="2125">boʻlsa</TOKEN>
+<TOKEN id="token-21-20" pos="." morph="none" start_char="2126" end_char="2126">,</TOKEN>
+<TOKEN id="token-21-21" pos="PRON_3P" morph="ular=ular:PRON_3P ga=ga:+CASE_DAT" start_char="2128" end_char="2133">ularga</TOKEN>
+<TOKEN id="token-21-22" pos="NOUN" morph="samolyotni=samolyotni:NOUN" start_char="2135" end_char="2144">samolyotni</TOKEN>
+<TOKEN id="token-21-23" pos="VERB" morph="ot=ot:VERB ib=ib:+GERUND-PAST" start_char="2146" end_char="2149">otib</TOKEN>
+<TOKEN id="token-21-24" pos="ADJ" morph="tushirishdek=tushirishdek:ADJ" start_char="2151" end_char="2162">tushirishdek</TOKEN>
+<TOKEN id="token-21-25" pos="NOUN" morph="qudrat=qudrat:NOUN ga=ga:+CASE_DAT" start_char="2164" end_char="2171">qudratga</TOKEN>
+<TOKEN id="token-21-26" pos="NOUN" morph="ega=ega:NOUN" start_char="2173" end_char="2175">ega</TOKEN>
+<TOKEN id="token-21-27" pos="NOUN" morph="qurol=qurol:NOUN" start_char="2177" end_char="2181">qurol</TOKEN>
+<TOKEN id="token-21-28" pos="CONJ" morph="va=va:CONJ" start_char="2183" end_char="2184">va</TOKEN>
+<TOKEN id="token-21-29" pos="NOUN" morph="vositalarni=vositalarni:NOUN" start_char="2186" end_char="2196">vositalarni</TOKEN>
+<TOKEN id="token-21-30" pos="VERB" morph="ber=ber:VERB gan=gan:+PART-PAST" start_char="2198" end_char="2203">bergan</TOKEN>
+<TOKEN id="token-21-31" pos="NOUN" morph="tomon=tomon:NOUN" start_char="2205" end_char="2209">tomon</TOKEN>
+<TOKEN id="token-21-32" pos="NOUN" morph="Rossiya=rossiya:NOUN" start_char="2211" end_char="2217">Rossiya</TOKEN>
+<TOKEN id="token-21-33" pos="NOUN" morph="ekani=ekani:NOUN" start_char="2219" end_char="2223">ekani</TOKEN>
+<TOKEN id="token-21-34" pos="ADJ" morph="oydek=oydek:ADJ" start_char="2225" end_char="2229">oydek</TOKEN>
+<TOKEN id="token-21-35" pos="ADJ" morph="ravshan=ravshan:ADJ" start_char="2231" end_char="2237">ravshan</TOKEN>
+<TOKEN id="token-21-36" pos="." morph="none" start_char="2238" end_char="2238">,</TOKEN>
+<TOKEN id="token-21-37" pos="VERB" morph="de=de:VERB ydi=ydi:+PRES-FUT_3S" start_char="2240" end_char="2244">deydi</TOKEN>
+<TOKEN id="token-21-38" pos="ADJ" morph="rasmiy=rasmiy:ADJ lar=lar:+PLURAL" start_char="2246" end_char="2254">rasmiylar</TOKEN>
+<TOKEN id="token-21-39" pos="." morph="none" start_char="2255" end_char="2255">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2258" end_char="2333">
+<ORIGINAL_TEXT>Kreml va separatistlar oʻz qilmishlari uchun javob berishiga toʻgʻri keladi.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="NOUN" morph="Kreml=kreml:NOUN" start_char="2258" end_char="2262">Kreml</TOKEN>
+<TOKEN id="token-22-1" pos="CONJ" morph="va=va:CONJ" start_char="2264" end_char="2265">va</TOKEN>
+<TOKEN id="token-22-2" pos="NOUN" morph="separatist=separatist:NOUN lar=lar:+PLURAL" start_char="2267" end_char="2279">separatistlar</TOKEN>
+<TOKEN id="token-22-3" pos="DET" morph="oʻz=oʻz:DET" start_char="2281" end_char="2283">oʻz</TOKEN>
+<TOKEN id="token-22-4" pos="NOUN" morph="qilmish=qilmish:NOUN lari=lari:+POSS_3P" start_char="2285" end_char="2295">qilmishlari</TOKEN>
+<TOKEN id="token-22-5" pos="POSTP" morph="uchun=uchun:POSTP" start_char="2297" end_char="2301">uchun</TOKEN>
+<TOKEN id="token-22-6" pos="NOUN" morph="javob=javob:NOUN" start_char="2303" end_char="2307">javob</TOKEN>
+<TOKEN id="token-22-7" pos="NOUN" morph="berish=berish:NOUN iga=iga:+POSS_3S+CASE_DAT" start_char="2309" end_char="2317">berishiga</TOKEN>
+<TOKEN id="token-22-8" pos="ADJ" morph="toʻgʻri=toʻgʻri:ADJ" start_char="2319" end_char="2325">toʻgʻri</TOKEN>
+<TOKEN id="token-22-9" pos="VERB" morph="kel=kel:VERB adi=adi:+PRES-FUT_3S" start_char="2327" end_char="2332">keladi</TOKEN>
+<TOKEN id="token-22-10" pos="." morph="none" start_char="2333" end_char="2333">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2335" end_char="2465">
+<ORIGINAL_TEXT>Hozirgi asosiy vazifa yoʻlovchilarning yaqinlariga bu mashʼum xabarni yetkazib, ularning dardini tinglash hamda haqiqatni aniqlash.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="ADV" morph="Hozirgi=hozirgi:ADV" start_char="2335" end_char="2341">Hozirgi</TOKEN>
+<TOKEN id="token-23-1" pos="ADJ" morph="asosiy=asosiy:ADJ" start_char="2343" end_char="2348">asosiy</TOKEN>
+<TOKEN id="token-23-2" pos="NOUN" morph="vazifa=vazifa:NOUN" start_char="2350" end_char="2355">vazifa</TOKEN>
+<TOKEN id="token-23-3" pos="NOUN" morph="yoʻlovchi=yoʻlovchi:NOUN larning=larning:+PLURAL+CASE_GEN" start_char="2357" end_char="2372">yoʻlovchilarning</TOKEN>
+<TOKEN id="token-23-4" pos="NOUN" morph="yaqin=yaqin:NOUN lariga=lariga:+PLURAL+POSS_3S+CASE_DAT" start_char="2374" end_char="2384">yaqinlariga</TOKEN>
+<TOKEN id="token-23-5" pos="DEMPRON_1S" morph="bu=bu:DEMPRON_1S" start_char="2386" end_char="2387">bu</TOKEN>
+<TOKEN id="token-23-6" pos="ADJ" morph="mashʼum=mashʼum:ADJ" start_char="2389" end_char="2395">mashʼum</TOKEN>
+<TOKEN id="token-23-7" pos="NOUN" morph="xabarni=xabarni:NOUN" start_char="2397" end_char="2403">xabarni</TOKEN>
+<TOKEN id="token-23-8" pos="VERB" morph="yetkaz=yetkaz:VERB ib=ib:+GERUND-PAST" start_char="2405" end_char="2412">yetkazib</TOKEN>
+<TOKEN id="token-23-9" pos="." morph="none" start_char="2413" end_char="2413">,</TOKEN>
+<TOKEN id="token-23-10" pos="PRON_3P" morph="ular=ular:PRON_3P ning=ning:+CASE_GEN" start_char="2415" end_char="2422">ularning</TOKEN>
+<TOKEN id="token-23-11" pos="NOUN" morph="dardini=dardini:NOUN" start_char="2424" end_char="2430">dardini</TOKEN>
+<TOKEN id="token-23-12" pos="VERB" morph="tingla=tingla:VERB sh=sh:+GERUND" start_char="2432" end_char="2439">tinglash</TOKEN>
+<TOKEN id="token-23-13" pos="CONJ" morph="hamda=hamda:CONJ" start_char="2441" end_char="2445">hamda</TOKEN>
+<TOKEN id="token-23-14" pos="NOUN" morph="haqiqatni=haqiqatni:NOUN" start_char="2447" end_char="2455">haqiqatni</TOKEN>
+<TOKEN id="token-23-15" pos="VERB" morph="aniqla=aniqla:VERB sh=sh:+GERUND" start_char="2457" end_char="2464">aniqlash</TOKEN>
+<TOKEN id="token-23-16" pos="." morph="none" start_char="2465" end_char="2465">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2468" end_char="2542">
+<ORIGINAL_TEXT>Vladimir Putinning taʼkidlashicha, halokat uchun Ukraina hukumati javobgar.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="NOUN" morph="Vladimir=vladimir:NOUN" start_char="2468" end_char="2475">Vladimir</TOKEN>
+<TOKEN id="token-24-1" pos="NOUN" morph="Putin=putin:NOUN ning=ning:+CASE_GEN" start_char="2477" end_char="2485">Putinning</TOKEN>
+<TOKEN id="token-24-2" pos="PARTICLE" morph="taʼkidlashicha=taʼkidlashicha:PARTICLE" start_char="2487" end_char="2500">taʼkidlashicha</TOKEN>
+<TOKEN id="token-24-3" pos="." morph="none" start_char="2501" end_char="2501">,</TOKEN>
+<TOKEN id="token-24-4" pos="NOUN" morph="halokat=halokat:NOUN" start_char="2503" end_char="2509">halokat</TOKEN>
+<TOKEN id="token-24-5" pos="POSTP" morph="uchun=uchun:POSTP" start_char="2511" end_char="2515">uchun</TOKEN>
+<TOKEN id="token-24-6" pos="NOUN" morph="Ukraina=ukraina:NOUN" start_char="2517" end_char="2523">Ukraina</TOKEN>
+<TOKEN id="token-24-7" pos="NOUN" morph="hukumat=hukumat:NOUN i=i:+POSS_3S" start_char="2525" end_char="2532">hukumati</TOKEN>
+<TOKEN id="token-24-8" pos="ADJ" morph="javobgar=javobgar:ADJ" start_char="2534" end_char="2541">javobgar</TOKEN>
+<TOKEN id="token-24-9" pos="." morph="none" start_char="2542" end_char="2542">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

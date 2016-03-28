@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="WL_BLG_TUR_0000018_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="PER">
+      <EXTENT start_char="1731" end_char="1733">Ada</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="PER">
+      <EXTENT start_char="2137" end_char="2139">Ada</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="PER">
+      <EXTENT start_char="2297" end_char="2301">Murat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="PER">
+      <EXTENT start_char="2546" end_char="2548">Ada</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="PER">
+      <EXTENT start_char="2599" end_char="2603">Murat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="PER">
+      <EXTENT start_char="2660" end_char="2662">Ada</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="TTL">
+      <EXTENT start_char="1735" end_char="1737">bey</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="TTL">
+      <EXTENT start_char="2303" end_char="2305">Bey</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="PER">
+      <EXTENT start_char="2371" end_char="2373">Ada</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="TTL">
+      <EXTENT start_char="2605" end_char="2607">Bey</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

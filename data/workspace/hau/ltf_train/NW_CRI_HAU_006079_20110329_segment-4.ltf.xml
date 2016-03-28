@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_CRI_HAU_006079_20110329">
+<TEXT>
+<SEG end_char="545" id="segment-4" start_char="426">
+<ORIGINAL_TEXT>A wannan rana kuma, karon farko an gano sinadarin Plutonium a karkashin kasar da ke yankin tashar nukiliya ta Fukushima.</ORIGINAL_TEXT>
+<TOKEN end_char="426" id="token-4-0" morph="A:a=PREP" pos="PREP" start_char="426">A</TOKEN>
+<TOKEN end_char="433" id="token-4-1" morph="wannan:wannan=DEMPRON" pos="DEMPRON" start_char="428">wannan</TOKEN>
+<TOKEN end_char="438" id="token-4-2" morph="rana:rana=NOUN" pos="NOUN" start_char="435">rana</TOKEN>
+<TOKEN end_char="443" id="token-4-3" morph="kuma:kuma=ADV" pos="ADV" start_char="440">kuma</TOKEN>
+<TOKEN end_char="444" id="token-4-4" morph="none" pos="punct" start_char="444">,</TOKEN>
+<TOKEN end_char="450" id="token-4-5" morph="karo:karo=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="446">karon</TOKEN>
+<TOKEN end_char="456" id="token-4-6" morph="farko:farko=NOUN" pos="NOUN" start_char="452">farko</TOKEN>
+<TOKEN end_char="459" id="token-4-7" morph="an:an=PRON_WSP_4P" pos="PRON" start_char="458">an</TOKEN>
+<TOKEN end_char="464" id="token-4-8" morph="gano:gano=VERB" pos="VERB" start_char="461">gano</TOKEN>
+<TOKEN end_char="474" id="token-4-9" morph="sinadari:sinadari=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="466">sinadarin</TOKEN>
+<TOKEN end_char="484" id="token-4-10" morph="Plutonium:plutonium=NOUN" pos="NOUN" start_char="476">Plutonium</TOKEN>
+<TOKEN end_char="486" id="token-4-11" morph="a:a=PREP" pos="PREP" start_char="486">a</TOKEN>
+<TOKEN end_char="496" id="token-4-12" morph="karkashi:karkashi=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="488">karkashin</TOKEN>
+<TOKEN end_char="502" id="token-4-13" morph="kasa:kasa=NOUN r:r=DEFINITE" pos="NOUN" start_char="498">kasar</TOKEN>
+<TOKEN end_char="505" id="token-4-14" morph="da:da=RELPRON" pos="RELPRON" start_char="504">da</TOKEN>
+<TOKEN end_char="508" id="token-4-15" morph="ke:ke=CONT" pos="PRON" start_char="507">ke</TOKEN>
+<TOKEN end_char="515" id="token-4-16" morph="yanki:yanki=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="510">yankin</TOKEN>
+<TOKEN end_char="522" id="token-4-17" morph="tasha:tasha=NOUN r:r=CONSTRUCT" pos="NOUN" start_char="517">tashar</TOKEN>
+<TOKEN end_char="531" id="token-4-18" morph="nukiliya:nukiliya=NOUN" pos="NOUN" start_char="524">nukiliya</TOKEN>
+<TOKEN end_char="534" id="token-4-19" morph="ta:ta=CONSTRUCT" pos="CONSTRUCT" start_char="533">ta</TOKEN>
+<TOKEN end_char="544" id="token-4-20" morph="Fukushima:fukushima=NOUN" pos="NOUN" start_char="536">Fukushima</TOKEN>
+<TOKEN end_char="545" id="token-4-21" morph="none" pos="punct" start_char="545">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

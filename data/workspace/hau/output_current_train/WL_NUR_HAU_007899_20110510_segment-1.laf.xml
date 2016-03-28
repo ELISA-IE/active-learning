@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_NUR_HAU_007899_20110510" lang="">
+    <ANNOTATION id="WL_NUR_HAU_007899_20110510-NE1" task="NE" type="PER">
+      <EXTENT start_char="16" end_char="19">KASE</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007899_20110510-NE2" task="NE" type="PER">
+      <EXTENT start_char="21" end_char="25">OSAMA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007899_20110510-NE3" task="NE" type="PER">
+      <EXTENT start_char="27" end_char="29">BIN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007899_20110510-NE4" task="NE" type="PER">
+      <EXTENT start_char="31" end_char="35">LADIN</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

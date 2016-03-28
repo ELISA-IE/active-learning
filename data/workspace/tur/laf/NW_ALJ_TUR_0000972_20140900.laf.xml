@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_ALJ_TUR_0000972_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="7">Brezilya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="TTL">
+      <EXTENT start_char="452" end_char="455">vali</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="PER">
+      <EXTENT start_char="459" end_char="475">Renato Casagrande</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="LOC">
+      <EXTENT start_char="860" end_char="867">Brezilya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="TTL">
+      <EXTENT start_char="876" end_char="881">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="PER">
+      <EXTENT start_char="884" end_char="897">Dilma Rousseff</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="166" end_char="187">Espirito Santo Eyaleti</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="532" end_char="551">Minas Gerais Eyaleti</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="LOC">
+      <EXTENT start_char="1087" end_char="1099">Bahia Eyaleti</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="ORG">
+      <EXTENT start_char="189" end_char="201">Sivil Savunma</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

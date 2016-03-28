@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_CIH_TUR_0001030_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="7">Marmaris</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="75" end_char="79">Muğla</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="PER">
+      <EXTENT start_char="397" end_char="409">Mehmet Çağlar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="LOC">
+      <EXTENT start_char="412" end_char="416">Muğla</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="422" end_char="436">Marmaris ilçesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="TTL">
+      <EXTENT start_char="462" end_char="469">Başbakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="PER">
+      <EXTENT start_char="471" end_char="490">Recep Tayyip Erdoğan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="521" end_char="527">Fethiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="PER">
+      <EXTENT start_char="594" end_char="599">Çağlar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="PER">
+      <EXTENT start_char="972" end_char="977">Çağlar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="PER">
+      <EXTENT start_char="1198" end_char="1210">Mehmet Çağlar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="PER">
+      <EXTENT start_char="2520" end_char="2532">Mehmet Çağlar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="LOC">
+      <EXTENT start_char="85" end_char="99">Marmaris ilçesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="ORG">
+      <EXTENT start_char="372" end_char="382">Meteoroloji</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="TTL">
+      <EXTENT start_char="390" end_char="394">Müdür</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="ORG">
+      <EXTENT start_char="1173" end_char="1183">Meteoroloji</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="TTL">
+      <EXTENT start_char="1191" end_char="1195">Müdür</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="ORG">
+      <EXTENT start_char="2631" end_char="2641">Meteoroloji</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

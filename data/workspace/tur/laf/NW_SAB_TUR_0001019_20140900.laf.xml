@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_SAB_TUR_0001019_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="34" end_char="38">Tunus</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="69" end_char="75">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="115" end_char="117">Ege</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="LOC">
+      <EXTENT start_char="122" end_char="128">Akdeniz</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="207" end_char="211">Tunus</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="588" end_char="595">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="601" end_char="605">İzmir</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="611" end_char="616">Ankara</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="LOC">
+      <EXTENT start_char="651" end_char="658">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="LOC">
+      <EXTENT start_char="663" end_char="669">Marmara</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="LOC">
+      <EXTENT start_char="870" end_char="874">Çeşme</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="LOC">
+      <EXTENT start_char="879" end_char="885">Antalya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="LOC">
+      <EXTENT start_char="926" end_char="931">Bodrum</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="936" end_char="943">Kuşadası</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="LOC">
+      <EXTENT start_char="1007" end_char="1013">Antalya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="LOC">
+      <EXTENT start_char="1018" end_char="1026">Güneydoğu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="ORG">
+      <EXTENT start_char="1096" end_char="1122">Meteoroloji Genel Müdürlüğü</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="LOC">
+      <EXTENT start_char="1125" end_char="1132">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="LOC">
+      <EXTENT start_char="1296" end_char="1303">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="LOC">
+      <EXTENT start_char="1576" end_char="1583">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="LOC">
+      <EXTENT start_char="1702" end_char="1709">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="LOC">
+      <EXTENT start_char="1810" end_char="1817">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="LOC">
+      <EXTENT start_char="2123" end_char="2142">DOĞU AKDENİZ BÖLGESİ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="ORG">
+      <EXTENT start_char="2167" end_char="2193">Meteoroloji Genel Müdürlüğü</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="LOC">
+      <EXTENT start_char="2196" end_char="2215">Doğu Akdeniz Bölgesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="ORG">
+      <EXTENT start_char="2295" end_char="2321">Meteoroloji Genel Müdürlüğü</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="LOC">
+      <EXTENT start_char="2360" end_char="2365">Mersin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="LOC">
+      <EXTENT start_char="2368" end_char="2372">Adana</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="LOC">
+      <EXTENT start_char="2375" end_char="2379">Hatay</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="LOC">
+      <EXTENT start_char="2382" end_char="2389">Osmaniye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-31" task="NE" type="LOC">
+      <EXTENT start_char="2392" end_char="2404">Kahramanmaraş</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-32" task="NE" type="LOC">
+      <EXTENT start_char="2407" end_char="2415">Gaziantep</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-33" task="NE" type="LOC">
+      <EXTENT start_char="2420" end_char="2424">Kilis</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-34" task="NE" type="LOC">
+      <EXTENT start_char="2754" end_char="2757">Rize</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-35" task="NE" type="LOC">
+      <EXTENT start_char="2762" end_char="2767">Artvin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-36" task="NE" type="LOC">
+      <EXTENT start_char="2787" end_char="2793">Erzurum</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-37" task="NE" type="LOC">
+      <EXTENT start_char="2796" end_char="2799">Kars</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-38" task="NE" type="LOC">
+      <EXTENT start_char="2811" end_char="2814">Ağrı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-39" task="NE" type="LOC">
+      <EXTENT start_char="2802" end_char="2808">Ardahan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-40" task="NE" type="LOC">
+      <EXTENT start_char="2819" end_char="2823">Iğdır</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-41" task="NE" type="LOC">
+      <EXTENT start_char="3074" end_char="3079">Mardin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-42" task="NE" type="LOC">
+      <EXTENT start_char="3082" end_char="3087">Batman</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-43" task="NE" type="LOC">
+      <EXTENT start_char="3090" end_char="3094">Siirt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-44" task="NE" type="LOC">
+      <EXTENT start_char="3097" end_char="3099">Muş</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-45" task="NE" type="LOC">
+      <EXTENT start_char="3102" end_char="3107">Bitlis</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-46" task="NE" type="LOC">
+      <EXTENT start_char="3110" end_char="3112">Van</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-47" task="NE" type="LOC">
+      <EXTENT start_char="3115" end_char="3121">Hakkari</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-48" task="NE" type="LOC">
+      <EXTENT start_char="3126" end_char="3131">Şırnak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-49" task="NE" type="LOC">
+      <EXTENT start_char="3361" end_char="3367">MARMARA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-50" task="NE" type="LOC">
+      <EXTENT start_char="3416" end_char="3418">EGE</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-51" task="NE" type="LOC">
+      <EXTENT start_char="3626" end_char="3632">AKDENİZ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-52" task="NE" type="LOC">
+      <EXTENT start_char="3684" end_char="3693">İÇ ANADOLU</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-53" task="NE" type="LOC">
+      <EXTENT start_char="3745" end_char="3758">BATI KARADENİZ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-54" task="NE" type="LOC">
+      <EXTENT start_char="3810" end_char="3813">ORTA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-55" task="NE" type="LOC">
+      <EXTENT start_char="3818" end_char="3831">DOĞU KARADENİZ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-56" task="NE" type="LOC">
+      <EXTENT start_char="3858" end_char="3871">Doğu Karadeniz</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-57" task="NE" type="LOC">
+      <EXTENT start_char="3877" end_char="3880">Ordu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-58" task="NE" type="LOC">
+      <EXTENT start_char="3885" end_char="3889">Tokat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-59" task="NE" type="LOC">
+      <EXTENT start_char="4001" end_char="4004">Rize</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-60" task="NE" type="LOC">
+      <EXTENT start_char="4009" end_char="4014">Artvin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-61" task="NE" type="LOC">
+      <EXTENT start_char="4152" end_char="4163">DOĞU ANADOLU</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-62" task="NE" type="LOC">
+      <EXTENT start_char="4314" end_char="4320">Erzurum</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-63" task="NE" type="LOC">
+      <EXTENT start_char="4323" end_char="4326">Kars</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-64" task="NE" type="LOC">
+      <EXTENT start_char="4329" end_char="4335">Ardahan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-65" task="NE" type="LOC">
+      <EXTENT start_char="4338" end_char="4341">Ağrı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-66" task="NE" type="LOC">
+      <EXTENT start_char="4346" end_char="4350">Iğdır</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-67" task="NE" type="LOC">
+      <EXTENT start_char="4401" end_char="4403">Muş</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-68" task="NE" type="LOC">
+      <EXTENT start_char="4406" end_char="4411">Bitlis</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-69" task="NE" type="LOC">
+      <EXTENT start_char="4414" end_char="4416">Van</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-70" task="NE" type="LOC">
+      <EXTENT start_char="4419" end_char="4425">Hakkari</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-71" task="NE" type="LOC">
+      <EXTENT start_char="4430" end_char="4435">Şırnak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-72" task="NE" type="LOC">
+      <EXTENT start_char="4476" end_char="4492">GÜNEYDOĞU ANADOLU</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-73" task="NE" type="LOC">
+      <EXTENT start_char="4543" end_char="4548">Mardin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-74" task="NE" type="LOC">
+      <EXTENT start_char="4551" end_char="4556">Batman</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-75" task="NE" type="LOC">
+      <EXTENT start_char="4561" end_char="4565">Siirt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-76" task="NE" type="LOC">
+      <EXTENT start_char="3518" end_char="3535">Güney Ege kıyıları</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-77" task="NE" type="LOC">
+      <EXTENT start_char="92" end_char="98">Türkiye</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

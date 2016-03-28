@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+  <DOC id="WL_MAU_HAU_007264_20080907_segment-19">
+    <TEXT><SEG id="segment-19" start_char="1998" end_char="2181">
+<ORIGINAL_TEXT>Bayan haka, idan da hali ina ga ya kamata duk littafin da aka sa sunan sa to a bude masa shafi yadda idan har mai bincike yana bukatar karantawa zai iya karantawa ta cikin wannan fage.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="NOUN" morph="Baya:baya=NOUN n:n=CONSTRUCT" start_char="1998" end_char="2002">Bayan</TOKEN>
+<TOKEN id="token-19-1" pos="ADV" morph="haka:haka=ADV" start_char="2004" end_char="2007">haka</TOKEN>
+<TOKEN id="token-19-2" pos="punct" morph="none" start_char="2008" end_char="2008">,</TOKEN>
+<TOKEN id="token-19-3" pos="CONJ" morph="idan:idan=CONJ" start_char="2010" end_char="2013">idan</TOKEN>
+<TOKEN id="token-19-4" pos="PARTICLE" morph="da:da=PARTICLE" start_char="2015" end_char="2016">da</TOKEN>
+<TOKEN id="token-19-5" pos="NOUN" morph="hali:hali=NOUN" start_char="2018" end_char="2021">hali</TOKEN>
+<TOKEN id="token-19-6" pos="PRON" morph="ina:ina=PRON_WSP_1S" start_char="2023" end_char="2025">ina</TOKEN>
+<TOKEN id="token-19-7" pos="VERB" morph="ga:ga=VERB" start_char="2027" end_char="2028">ga</TOKEN>
+<TOKEN id="token-19-8" pos="PRON" morph="ya:ya=PRON_WSP_3SM" start_char="2030" end_char="2031">ya</TOKEN>
+<TOKEN id="token-19-9" pos="VERB" morph="kamata:kamata=VERB" start_char="2033" end_char="2038">kamata</TOKEN>
+<TOKEN id="token-19-10" pos="NOUN" morph="duk:duk=NOUN" start_char="2040" end_char="2042">duk</TOKEN>
+<TOKEN id="token-19-11" pos="NOUN" morph="littafi:littafi=NOUN n:n=DEFINITE" start_char="2044" end_char="2051">littafin</TOKEN>
+<TOKEN id="token-19-12" pos="RELPRON" morph="da:da=RELPRON" start_char="2053" end_char="2054">da</TOKEN>
+<TOKEN id="token-19-13" pos="PRON" morph="aka:aka=PRON_WSP_4P" start_char="2056" end_char="2058">aka</TOKEN>
+<TOKEN id="token-19-14" pos="VERB" morph="sa:sa=VERB" start_char="2060" end_char="2061">sa</TOKEN>
+<TOKEN id="token-19-15" pos="NOUN" morph="suna:suna=NOUN n:n=CONSTRUCT" start_char="2063" end_char="2067">sunan</TOKEN>
+<TOKEN id="token-19-16" pos="PRON" morph="sa:sa=PRON_WSP_3P" start_char="2069" end_char="2070">sa</TOKEN>
+<TOKEN id="token-19-17" pos="ADV" morph="to:to=ADV" start_char="2072" end_char="2073">to</TOKEN>
+<TOKEN id="token-19-18" pos="PRON" morph="a:a=PRON_WSP_4P" start_char="2075" end_char="2075">a</TOKEN>
+<TOKEN id="token-19-19" pos="VERB" morph="bude:bude=VERB" start_char="2077" end_char="2080">bude</TOKEN>
+<TOKEN id="token-19-20" pos="PRON" morph="masa:masa=PRON_BEN_3SM" start_char="2082" end_char="2085">masa</TOKEN>
+<TOKEN id="token-19-21" pos="NOUN" morph="shafi:shafi=NOUN" start_char="2087" end_char="2091">shafi</TOKEN>
+<TOKEN id="token-19-22" pos="ADV" morph="yadda:yadda=ADV" start_char="2093" end_char="2097">yadda</TOKEN>
+<TOKEN id="token-19-23" pos="CONJ" morph="idan:idan=CONJ" start_char="2099" end_char="2102">idan</TOKEN>
+<TOKEN id="token-19-24" pos="PREP" morph="har:har=PREP" start_char="2104" end_char="2106">har</TOKEN>
+<TOKEN id="token-19-25" pos="NOUN" morph="mai:mai=NOUN" start_char="2108" end_char="2110">mai</TOKEN>
+<TOKEN id="token-19-26" pos="VERB" morph="bincike:bincike=VERB" start_char="2112" end_char="2118">bincike</TOKEN>
+<TOKEN id="token-19-27" pos="PRON" morph="yana:yana=PRON_WSP_3SM" start_char="2120" end_char="2123">yana</TOKEN>
+<TOKEN id="token-19-28" pos="NOUN" morph="bukata:bukata=NOUN r:r=CONSTRUCT" start_char="2125" end_char="2131">bukatar</TOKEN>
+<TOKEN id="token-19-29" pos="NOUN" morph="karantawa:karantawa=NOUN" start_char="2133" end_char="2141">karantawa</TOKEN>
+<TOKEN id="token-19-30" pos="PRON" morph="zai:zai=PRON_WSP_3SM" start_char="2143" end_char="2145">zai</TOKEN>
+<TOKEN id="token-19-31" pos="VERB" morph="iya:iya=VERB" start_char="2147" end_char="2149">iya</TOKEN>
+<TOKEN id="token-19-32" pos="NOUN" morph="karantawa:karantawa=NOUN" start_char="2151" end_char="2159">karantawa</TOKEN>
+<TOKEN id="token-19-33" pos="CONSTRUCT" morph="ta:ta=CONSTRUCT" start_char="2161" end_char="2162">ta</TOKEN>
+<TOKEN id="token-19-34" pos="PREP" morph="cikin:cikin=PREP" start_char="2164" end_char="2168">cikin</TOKEN>
+<TOKEN id="token-19-35" pos="DEMPRON" morph="wannan:wannan=DEMPRON" start_char="2170" end_char="2175">wannan</TOKEN>
+<TOKEN id="token-19-36" pos="NOUN" morph="fage:fage=NOUN" start_char="2177" end_char="2180">fage</TOKEN>
+<TOKEN id="token-19-37" pos="punct" morph="none" start_char="2181" end_char="2181">.</TOKEN>
+</SEG>
+</TEXT>
+  </DOC>
+</LCTL_TEXT>

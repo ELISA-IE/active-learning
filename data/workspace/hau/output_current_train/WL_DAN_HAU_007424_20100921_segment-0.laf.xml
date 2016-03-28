@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DAN_HAU_007424_20100921" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE1" task="NE" type="PER">
+      <EXTENT start_char="0" end_char="4">BELLO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE2" task="NE" type="PER">
+      <EXTENT start_char="6" end_char="10">GARBA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE3" task="NE" type="PER">
+      <EXTENT start_char="12" end_char="16">BELLO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE4" task="NE" type="PER">
+      <EXTENT start_char="28" end_char="34">MUSANTA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE5" task="NE" type="PER">
+      <EXTENT start_char="36" end_char="41">LAIFIN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE6" task="NE" type="PER">
+      <EXTENT start_char="43" end_char="47">KISAN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE7" task="NE" type="PER">
+      <EXTENT start_char="49" end_char="58">MAHAIFANSA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE8" task="NE" type="PER">
+      <EXTENT start_char="60" end_char="61">DA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE9" task="NE" type="PER">
+      <EXTENT start_char="63" end_char="70">KANNINSA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-NE10" task="NE" type="PER">
+      <EXTENT start_char="72" end_char="74">UKU</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

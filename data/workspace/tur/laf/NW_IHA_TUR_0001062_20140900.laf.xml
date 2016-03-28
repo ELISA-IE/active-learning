@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_IHA_TUR_0001062_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="8">Endonezya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="41" end_char="51">Endonezyalı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="64" end_char="85">Mentawai takım adaları</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="LOC">
+      <EXTENT start_char="166" end_char="172">Sumatra</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="258" end_char="279">Mentawai takım adaları</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="706" end_char="721">Mentawai adaları</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="874" end_char="884">Endonezyalı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="945" end_char="951">Vietnam</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="LOC">
+      <EXTENT start_char="983" end_char="991">Endonezya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="TTL">
+      <EXTENT start_char="993" end_char="1005">Cumhurbaşkanı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="PER">
+      <EXTENT start_char="1007" end_char="1030">Susilo Bambang Yudhoyono</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="ORG">
+      <EXTENT start_char="1105" end_char="1107">BBC</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="LOC">
+      <EXTENT start_char="1113" end_char="1119">Cakarta</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="PER">
+      <EXTENT start_char="1130" end_char="1145">Karishma Vaswani</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="TTL">
+      <EXTENT start_char="1121" end_char="1127">muhabir</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="LOC">
+      <EXTENT start_char="1568" end_char="1580">Hint Okyanusu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="LOC">
+      <EXTENT start_char="1714" end_char="1722">Endonezya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="LOC">
+      <EXTENT start_char="1823" end_char="1838">Merapi yanardağı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="LOC">
+      <EXTENT start_char="1893" end_char="1908">Merapi yanardağı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="PER">
+      <EXTENT start_char="2279" end_char="2292">Christian Awuy</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="ORG">
+      <EXTENT start_char="2295" end_char="2297">BBC</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="LOC">
+      <EXTENT start_char="2369" end_char="2374">Merapi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="TTL">
+      <EXTENT start_char="2269" end_char="2275">görevli</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="LOC">
+      <EXTENT start_char="2377" end_char="2381">dünya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="LOC">
+      <EXTENT start_char="2482" end_char="2497">Merapi yanardağı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="LOC">
+      <EXTENT start_char="1864" end_char="1867">Java</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_VOA_TUR_0078784_20100308.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="6">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="PER">
+      <EXTENT start_char="25" end_char="39">Hillary Clinton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="42" end_char="45">Türk</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="LOC">
+      <EXTENT start_char="49" end_char="53">Yunan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="PER">
+      <EXTENT start_char="119" end_char="125">Clinton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="131" end_char="140">Yunanistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="PER">
+      <EXTENT start_char="152" end_char="165">Yorgo Papandeu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="184" end_char="193">Yunanistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="PER">
+      <EXTENT start_char="205" end_char="219">Yorgo Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="LOC">
+      <EXTENT start_char="233" end_char="239">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="ORG">
+      <EXTENT start_char="241" end_char="249">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="PER">
+      <EXTENT start_char="258" end_char="272">Hillary Clinton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="LOC">
+      <EXTENT start_char="274" end_char="277">Türk</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="279" end_char="283">Yunan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="PER">
+      <EXTENT start_char="320" end_char="326">Clinton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="ORG">
+      <EXTENT start_char="342" end_char="351">Yunanistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="ORG">
+      <EXTENT start_char="356" end_char="362">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="ORG">
+      <EXTENT start_char="419" end_char="425">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="ORG">
+      <EXTENT start_char="430" end_char="439">Yunanistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="ORG">
+      <EXTENT start_char="441" end_char="444">NATO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="ORG">
+      <EXTENT start_char="462" end_char="468">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="TTL">
+      <EXTENT start_char="549" end_char="556">Başbakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="PER">
+      <EXTENT start_char="558" end_char="572">Yorgo Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="LOC">
+      <EXTENT start_char="576" end_char="579">Türk</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="LOC">
+      <EXTENT start_char="581" end_char="585">Yunan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="ORG">
+      <EXTENT start_char="621" end_char="627">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="ORG">
+      <EXTENT start_char="633" end_char="646">Avrupa Birliği</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="PER">
+      <EXTENT start_char="709" end_char="717">Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="ORG">
+      <EXTENT start_char="735" end_char="741">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="PER">
+      <EXTENT start_char="893" end_char="899">Clinton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-31" task="NE" type="PER">
+      <EXTENT start_char="903" end_char="911">Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-32" task="NE" type="LOC">
+      <EXTENT start_char="926" end_char="931">Kıbrıs</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-33" task="NE" type="PER">
+      <EXTENT start_char="977" end_char="991">Hillary Clinton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-34" task="NE" type="PER">
+      <EXTENT start_char="993" end_char="1001">Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-35" task="NE" type="ORG">
+      <EXTENT start_char="1041" end_char="1046">Kıbrıs</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-36" task="NE" type="PER">
+      <EXTENT start_char="1100" end_char="1106">Clinton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-37" task="NE" type="ORG">
+      <EXTENT start_char="1109" end_char="1127">Birleşmiş Milletler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-38" task="NE" type="LOC">
+      <EXTENT start_char="1180" end_char="1187">Kıbrıslı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-39" task="NE" type="LOC">
+      <EXTENT start_char="1266" end_char="1275">Yunanistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-40" task="NE" type="LOC">
+      <EXTENT start_char="1292" end_char="1297">Kıbrıs</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-41" task="NE" type="LOC">
+      <EXTENT start_char="1249" end_char="1254">Kıbrıs</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-42" task="NE" type="PER">
+      <EXTENT start_char="1334" end_char="1342">Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-43" task="NE" type="LOC">
+      <EXTENT start_char="1384" end_char="1387">Türk</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-44" task="NE" type="LOC">
+      <EXTENT start_char="1453" end_char="1460">Kıbrıslı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-45" task="NE" type="ORG">
+      <EXTENT start_char="1546" end_char="1551">Kıbrıs</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-46" task="NE" type="ORG">
+      <EXTENT start_char="1553" end_char="1566">Avrupa Birliği</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-47" task="NE" type="ORG">
+      <EXTENT start_char="1585" end_char="1603">Birleşmiş Milletler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-48" task="NE" type="TTL">
+      <EXTENT start_char="1736" end_char="1741">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-49" task="NE" type="PER">
+      <EXTENT start_char="1743" end_char="1761">Dimitris Hristofyas</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-50" task="NE" type="ORG">
+      <EXTENT start_char="1844" end_char="1857">Avrupa Birliği</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-51" task="NE" type="TTL">
+      <EXTENT start_char="1888" end_char="1895">Başbakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-52" task="NE" type="PER">
+      <EXTENT start_char="1897" end_char="1905">Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-53" task="NE" type="TTL">
+      <EXTENT start_char="1926" end_char="1933">Başbakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-54" task="NE" type="PER">
+      <EXTENT start_char="1935" end_char="1941">Erdoğan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-55" task="NE" type="LOC">
+      <EXTENT start_char="1972" end_char="1981">Yunanistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-56" task="NE" type="TTL">
+      <EXTENT start_char="1983" end_char="1990">Başbakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-57" task="NE" type="PER">
+      <EXTENT start_char="1993" end_char="2007">Yorgo Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-58" task="NE" type="LOC">
+      <EXTENT start_char="2051" end_char="2054">Türk</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-59" task="NE" type="LOC">
+      <EXTENT start_char="2057" end_char="2061">Yunan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-60" task="NE" type="PER">
+      <EXTENT start_char="2130" end_char="2138">Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-61" task="NE" type="LOC">
+      <EXTENT start_char="2142" end_char="2145">Türk</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-62" task="NE" type="LOC">
+      <EXTENT start_char="2147" end_char="2151">Yunan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-63" task="NE" type="PER">
+      <EXTENT start_char="2318" end_char="2326">Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-64" task="NE" type="LOC">
+      <EXTENT start_char="2328" end_char="2333">Berlin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-65" task="NE" type="LOC">
+      <EXTENT start_char="2356" end_char="2365">Washington</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-66" task="NE" type="LOC">
+      <EXTENT start_char="2442" end_char="2446">Yunan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-67" task="NE" type="LOC">
+      <EXTENT start_char="2487" end_char="2492">Avrupa</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-68" task="NE" type="PER">
+      <EXTENT start_char="2521" end_char="2529">Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-69" task="NE" type="TTL">
+      <EXTENT start_char="2537" end_char="2542">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-70" task="NE" type="PER">
+      <EXTENT start_char="2544" end_char="2555">Barack Obama</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-71" task="NE" type="PER">
+      <EXTENT start_char="2574" end_char="2585">Tim Geithner</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-72" task="NE" type="PER">
+      <EXTENT start_char="2607" end_char="2615">Papandreu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-73" task="NE" type="ORG">
+      <EXTENT start_char="2621" end_char="2627">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-74" task="NE" type="LOC">
+      <EXTENT start_char="2338" end_char="2342">Paris</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-75" task="NE" type="ORG">
+      <EXTENT start_char="8" end_char="16">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-76" task="NE" type="TTL">
+      <EXTENT start_char="18" end_char="22">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-77" task="NE" type="TTL">
+      <EXTENT start_char="142" end_char="149">Başbakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-78" task="NE" type="TTL">
+      <EXTENT start_char="195" end_char="202">Başbakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-79" task="NE" type="TTL">
+      <EXTENT start_char="251" end_char="255">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-80" task="NE" type="ORG">
+      <EXTENT start_char="960" end_char="968">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-81" task="NE" type="TTL">
+      <EXTENT start_char="970" end_char="974">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-82" task="NE" type="LOC">
+      <EXTENT start_char="1360" end_char="1371">Kıbrıs adası</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-83" task="NE" type="LOC">
+      <EXTENT start_char="1472" end_char="1479">Kıbrıslı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-84" task="NE" type="ORG">
+      <EXTENT start_char="2275" end_char="2279">dünya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-85" task="NE" type="ORG">
+      <EXTENT start_char="2560" end_char="2565">Maliye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-86" task="NE" type="TTL">
+      <EXTENT start_char="2567" end_char="2571">Bakan</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

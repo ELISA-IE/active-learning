@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_CIH_TUR_0001026_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="6">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="56" end_char="69">Atlas Okyanusu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="221" end_char="226">Belize</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="ORG">
+      <EXTENT start_char="312" end_char="352">Ulusal Atmosfer ve Okyanus Gözlem İdaresi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="451" end_char="457">Meksika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="463" end_char="476">Chetumal şehri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="482" end_char="487">Belize</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="519" end_char="525">Meksika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="LOC">
+      <EXTENT start_char="530" end_char="541">Orta Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="ORG">
+      <EXTENT start_char="642" end_char="682">Ulusal Atmosfer ve Okyanus Gözlem İdaresi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="ORG">
+      <EXTENT start_char="685" end_char="688">NOAA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="ORG">
+      <EXTENT start_char="757" end_char="760">NOAA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="ORG">
+      <EXTENT start_char="941" end_char="944">NOAA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="968" end_char="975">Atlantik</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="ORG">
+      <EXTENT start_char="1119" end_char="1122">NOAA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="ORG">
+      <EXTENT start_char="1199" end_char="1202">NOAA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="ORG">
+      <EXTENT start_char="1451" end_char="1491">Ulusal Atmosfer ve Okyanus Gözlem İdaresi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="ORG">
+      <EXTENT start_char="1575" end_char="1578">NOAA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="ORG">
+      <EXTENT start_char="1744" end_char="1747">NOAA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="ORG">
+      <EXTENT start_char="1846" end_char="1849">NOAA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="ORG">
+      <EXTENT start_char="1928" end_char="1931">NOAA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="LOC">
+      <EXTENT start_char="2146" end_char="2148">ABD</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="LOC">
+      <EXTENT start_char="2536" end_char="2538">ABD</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="ORG">
+      <EXTENT start_char="2648" end_char="2677">Meteoroloji Hizmetleri Dairesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="LOC">
+      <EXTENT start_char="3119" end_char="3136">Rocky sıra dağları</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="LOC">
+      <EXTENT start_char="3142" end_char="3165">Appalachian sıra dağları</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="LOC">
+      <EXTENT start_char="3346" end_char="3356">Mississippi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="LOC">
+      <EXTENT start_char="3360" end_char="3366">Alabama</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="LOC">
+      <EXTENT start_char="3369" end_char="3375">Georgia</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="LOC">
+      <EXTENT start_char="3380" end_char="3388">Tennessee</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-31" task="NE" type="LOC">
+      <EXTENT start_char="3451" end_char="3463">Tornado alley</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-32" task="NE" type="LOC">
+      <EXTENT start_char="3701" end_char="3713">Tornado Alley</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-33" task="NE" type="LOC">
+      <EXTENT start_char="3257" end_char="3269">tornado alley</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-34" task="NE" type="LOC">
+      <EXTENT start_char="3272" end_char="3287">hortum güzergahı</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

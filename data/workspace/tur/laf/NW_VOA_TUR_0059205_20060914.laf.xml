@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_VOA_TUR_0059205_20060914.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="299" end_char="306">Ortadoğu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="PER">
+      <EXTENT start_char="704" end_char="714">Frank Smyth</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="ORG">
+      <EXTENT start_char="748" end_char="754">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="LOC">
+      <EXTENT start_char="802" end_char="809">Ortadoğu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="ORG">
+      <EXTENT start_char="670" end_char="697">Gazetecileri Koruma Komitesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="1118" end_char="1126">Amerikalı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="PER">
+      <EXTENT start_char="1137" end_char="1148">Daniel Pearl</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="1159" end_char="1166">Pakistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="PER">
+      <EXTENT start_char="1220" end_char="1231">Jill Carroll</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="LOC">
+      <EXTENT start_char="1245" end_char="1248">Irak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="ORG">
+      <EXTENT start_char="1350" end_char="1365">Fox Haber kanalı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="PER">
+      <EXTENT start_char="1376" end_char="1389">Steve Centanni</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="PER">
+      <EXTENT start_char="1404" end_char="1412">Olaf Wiig</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="1415" end_char="1419">Gazze</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="TTL">
+      <EXTENT start_char="1394" end_char="1402">kameraman</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="PER">
+      <EXTENT start_char="1515" end_char="1518">Wiig</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="TTL">
+      <EXTENT start_char="1505" end_char="1513">Kameraman</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="LOC">
+      <EXTENT start_char="1662" end_char="1669">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="PER">
+      <EXTENT start_char="1779" end_char="1789">Frank Smyth</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="PER">
+      <EXTENT start_char="1792" end_char="1795">Wiig</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="LOC">
+      <EXTENT start_char="2119" end_char="2125">Meksika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="LOC">
+      <EXTENT start_char="2230" end_char="2239">Filipinler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="ORG">
+      <EXTENT start_char="2344" end_char="2371">Gazetecileri Koruma Komitesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="PER">
+      <EXTENT start_char="2378" end_char="2388">Frank Smyth</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="ORG">
+      <EXTENT start_char="2663" end_char="2671">El Cezire</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="LOC">
+      <EXTENT start_char="2687" end_char="2694">Amerikan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="LOC">
+      <EXTENT start_char="2718" end_char="2725">Pakistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="LOC">
+      <EXTENT start_char="2797" end_char="2806">Guantanamo</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="LOC">
+      <EXTENT start_char="2819" end_char="2825">Sudanlı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="TTL">
+      <EXTENT start_char="1367" end_char="1373">muhabir</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

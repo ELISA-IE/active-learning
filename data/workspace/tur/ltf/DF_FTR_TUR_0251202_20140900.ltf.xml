@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_FTR_TUR_0251202_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1882" raw_text_md5="ae225a0208ab4139645ed4bd052e884c">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="23">
+<ORIGINAL_TEXT>benim şu kuluma bakın...</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="4">benim</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="6" end_char="7">şu</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="9" end_char="14">kuluma</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="16" end_char="20">bakın</TOKEN>
+<TOKEN id="token-0-4" pos="punct" morph="none" start_char="21" end_char="23">...</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="26" end_char="46">
+<ORIGINAL_TEXT>Benim Şu Kuluma Bakın</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="26" end_char="30">Benim</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="32" end_char="33">Şu</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="35" end_char="40">Kuluma</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="42" end_char="46">Bakın</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="49" end_char="306">
+<ORIGINAL_TEXT>Ukbe İbnu Amir (r.a) anlatıyor: Resülullah (a.s)'ın şöyle söylediğini işittim: -Rabbin, koyun güden bir çobanın, bir dağın zirvesine çıkıp namaz için ezan okuyup sonra da namaz kılmasından hoşlanır ve Allah Teâlâ hazretleri şöyle der: "Benim şu kuluma bakın!</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="49" end_char="52">Ukbe</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="54" end_char="57">İbnu</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="59" end_char="62">Amir</TOKEN>
+<TOKEN id="token-2-3" pos="punct" morph="none" start_char="64" end_char="64">(</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="65" end_char="65">r</TOKEN>
+<TOKEN id="token-2-5" pos="punct" morph="none" start_char="66" end_char="66">.</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="67" end_char="67">a</TOKEN>
+<TOKEN id="token-2-7" pos="punct" morph="none" start_char="68" end_char="68">)</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="70" end_char="78">anlatıyor</TOKEN>
+<TOKEN id="token-2-9" pos="punct" morph="none" start_char="79" end_char="79">:</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="81" end_char="90">Resülullah</TOKEN>
+<TOKEN id="token-2-11" pos="unknown" morph="none" start_char="92" end_char="99">(a.s)'ın</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="101" end_char="105">şöyle</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="107" end_char="117">söylediğini</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="119" end_char="125">işittim</TOKEN>
+<TOKEN id="token-2-15" pos="punct" morph="none" start_char="126" end_char="126">:</TOKEN>
+<TOKEN id="token-2-16" pos="punct" morph="none" start_char="128" end_char="128">-</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="129" end_char="134">Rabbin</TOKEN>
+<TOKEN id="token-2-18" pos="punct" morph="none" start_char="135" end_char="135">,</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="137" end_char="141">koyun</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="143" end_char="147">güden</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="149" end_char="151">bir</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="153" end_char="159">çobanın</TOKEN>
+<TOKEN id="token-2-23" pos="punct" morph="none" start_char="160" end_char="160">,</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="162" end_char="164">bir</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="166" end_char="170">dağın</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="172" end_char="180">zirvesine</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="182" end_char="186">çıkıp</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="188" end_char="192">namaz</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="194" end_char="197">için</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="199" end_char="202">ezan</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="204" end_char="209">okuyup</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="211" end_char="215">sonra</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="217" end_char="218">da</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="220" end_char="224">namaz</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="226" end_char="236">kılmasından</TOKEN>
+<TOKEN id="token-2-36" pos="word" morph="none" start_char="238" end_char="245">hoşlanır</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="247" end_char="248">ve</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="250" end_char="254">Allah</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="256" end_char="260">Teâlâ</TOKEN>
+<TOKEN id="token-2-40" pos="word" morph="none" start_char="262" end_char="271">hazretleri</TOKEN>
+<TOKEN id="token-2-41" pos="word" morph="none" start_char="273" end_char="277">şöyle</TOKEN>
+<TOKEN id="token-2-42" pos="word" morph="none" start_char="279" end_char="281">der</TOKEN>
+<TOKEN id="token-2-43" pos="punct" morph="none" start_char="282" end_char="282">:</TOKEN>
+<TOKEN id="token-2-44" pos="punct" morph="none" start_char="284" end_char="284">"</TOKEN>
+<TOKEN id="token-2-45" pos="word" morph="none" start_char="285" end_char="289">Benim</TOKEN>
+<TOKEN id="token-2-46" pos="word" morph="none" start_char="291" end_char="292">şu</TOKEN>
+<TOKEN id="token-2-47" pos="word" morph="none" start_char="294" end_char="299">kuluma</TOKEN>
+<TOKEN id="token-2-48" pos="word" morph="none" start_char="301" end_char="305">bakın</TOKEN>
+<TOKEN id="token-2-49" pos="punct" morph="none" start_char="306" end_char="306">!</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="308" end_char="356">
+<ORIGINAL_TEXT>Ezan okuyor, namaz kılıyor, yani benden korkuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="308" end_char="311">Ezan</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="313" end_char="318">okuyor</TOKEN>
+<TOKEN id="token-3-2" pos="punct" morph="none" start_char="319" end_char="319">,</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="321" end_char="325">namaz</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="327" end_char="333">kılıyor</TOKEN>
+<TOKEN id="token-3-5" pos="punct" morph="none" start_char="334" end_char="334">,</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="336" end_char="339">yani</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="341" end_char="346">benden</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="348" end_char="355">korkuyor</TOKEN>
+<TOKEN id="token-3-9" pos="punct" morph="none" start_char="356" end_char="356">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="358" end_char="415">
+<ORIGINAL_TEXT>Yemin olsun, kulumu affettim ve onu cennetime dahil ettim.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="358" end_char="362">Yemin</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="364" end_char="368">olsun</TOKEN>
+<TOKEN id="token-4-2" pos="punct" morph="none" start_char="369" end_char="369">,</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="371" end_char="376">kulumu</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="378" end_char="385">affettim</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="387" end_char="388">ve</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="390" end_char="392">onu</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="394" end_char="402">cennetime</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="404" end_char="408">dahil</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="410" end_char="414">ettim</TOKEN>
+<TOKEN id="token-4-10" pos="punct" morph="none" start_char="415" end_char="415">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="417" end_char="417">
+<ORIGINAL_TEXT>"</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="417" end_char="417">"</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="420" end_char="443">
+<ORIGINAL_TEXT>Bizimle Namaz Kıldın mı?</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="420" end_char="426">Bizimle</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="428" end_char="432">Namaz</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="434" end_char="439">Kıldın</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="441" end_char="442">mı</TOKEN>
+<TOKEN id="token-6-4" pos="punct" morph="none" start_char="443" end_char="443">?</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="446" end_char="517">
+<ORIGINAL_TEXT>Ebü Ümâme (r.a) anlatıyor: Resülullah (s.a.v) ile beraber mescidde idik.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="446" end_char="448">Ebü</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="450" end_char="454">Ümâme</TOKEN>
+<TOKEN id="token-7-2" pos="punct" morph="none" start_char="456" end_char="456">(</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="457" end_char="457">r</TOKEN>
+<TOKEN id="token-7-4" pos="punct" morph="none" start_char="458" end_char="458">.</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="459" end_char="459">a</TOKEN>
+<TOKEN id="token-7-6" pos="punct" morph="none" start_char="460" end_char="460">)</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="462" end_char="470">anlatıyor</TOKEN>
+<TOKEN id="token-7-8" pos="punct" morph="none" start_char="471" end_char="471">:</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="473" end_char="482">Resülullah</TOKEN>
+<TOKEN id="token-7-10" pos="unknown" morph="none" start_char="484" end_char="490">(s.a.v)</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="492" end_char="494">ile</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="496" end_char="502">beraber</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="504" end_char="511">mescidde</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="513" end_char="516">idik</TOKEN>
+<TOKEN id="token-7-15" pos="punct" morph="none" start_char="517" end_char="517">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="519" end_char="615">
+<ORIGINAL_TEXT>O esnada bir adam geldi ve: -Ey Allahʼın Resülü, ben bir günah işledim, bana cezasını ver!, dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="519" end_char="519">O</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="521" end_char="526">esnada</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="528" end_char="530">bir</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="532" end_char="535">adam</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="537" end_char="541">geldi</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="543" end_char="544">ve</TOKEN>
+<TOKEN id="token-8-6" pos="punct" morph="none" start_char="545" end_char="545">:</TOKEN>
+<TOKEN id="token-8-7" pos="punct" morph="none" start_char="547" end_char="547">-</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="548" end_char="549">Ey</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="551" end_char="558">Allahʼın</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="560" end_char="565">Resülü</TOKEN>
+<TOKEN id="token-8-11" pos="punct" morph="none" start_char="566" end_char="566">,</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="568" end_char="570">ben</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="572" end_char="574">bir</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="576" end_char="580">günah</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="582" end_char="588">işledim</TOKEN>
+<TOKEN id="token-8-16" pos="punct" morph="none" start_char="589" end_char="589">,</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="591" end_char="594">bana</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="596" end_char="603">cezasını</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="605" end_char="607">ver</TOKEN>
+<TOKEN id="token-8-20" pos="punct" morph="none" start_char="608" end_char="609">!,</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="611" end_char="614">dedi</TOKEN>
+<TOKEN id="token-8-22" pos="punct" morph="none" start_char="615" end_char="615">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="617" end_char="647">
+<ORIGINAL_TEXT>Resülullah adama cevap vermedi.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="617" end_char="626">Resülullah</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="628" end_char="632">adama</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="634" end_char="638">cevap</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="640" end_char="646">vermedi</TOKEN>
+<TOKEN id="token-9-4" pos="punct" morph="none" start_char="647" end_char="647">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="649" end_char="674">
+<ORIGINAL_TEXT>Adam talebini tekrar etti.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="649" end_char="652">Adam</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="654" end_char="661">talebini</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="663" end_char="668">tekrar</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="670" end_char="673">etti</TOKEN>
+<TOKEN id="token-10-4" pos="punct" morph="none" start_char="674" end_char="674">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="676" end_char="717">
+<ORIGINAL_TEXT>Aleyhissalâtu vesselâm yine sükut buyurdu.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="676" end_char="688">Aleyhissalâtu</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="690" end_char="697">vesselâm</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="699" end_char="702">yine</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="704" end_char="708">sükut</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="710" end_char="716">buyurdu</TOKEN>
+<TOKEN id="token-11-5" pos="punct" morph="none" start_char="717" end_char="717">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="719" end_char="760">
+<ORIGINAL_TEXT>Derken namaz vakti girdi ve namaz kılındı.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="719" end_char="724">Derken</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="726" end_char="730">namaz</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="732" end_char="736">vakti</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="738" end_char="742">girdi</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="744" end_char="745">ve</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="747" end_char="751">namaz</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="753" end_char="759">kılındı</TOKEN>
+<TOKEN id="token-12-7" pos="punct" morph="none" start_char="760" end_char="760">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="762" end_char="846">
+<ORIGINAL_TEXT>Resülullah (s.a.v) namazdan çıkınca adam yine peşine düştü, ben de adamı takip ettim.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="762" end_char="771">Resülullah</TOKEN>
+<TOKEN id="token-13-1" pos="unknown" morph="none" start_char="773" end_char="779">(s.a.v)</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="781" end_char="788">namazdan</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="790" end_char="796">çıkınca</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="798" end_char="801">adam</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="803" end_char="806">yine</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="808" end_char="813">peşine</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="815" end_char="819">düştü</TOKEN>
+<TOKEN id="token-13-8" pos="punct" morph="none" start_char="820" end_char="820">,</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="822" end_char="824">ben</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="826" end_char="827">de</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="829" end_char="833">adamı</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="835" end_char="839">takip</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="841" end_char="845">ettim</TOKEN>
+<TOKEN id="token-13-14" pos="punct" morph="none" start_char="846" end_char="846">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="848" end_char="890">
+<ORIGINAL_TEXT>Ona ne cevap vereceğini işitmek istiyordum.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="848" end_char="850">Ona</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="852" end_char="853">ne</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="855" end_char="859">cevap</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="861" end_char="870">vereceğini</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="872" end_char="878">işitmek</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="880" end_char="889">istiyordum</TOKEN>
+<TOKEN id="token-14-6" pos="punct" morph="none" start_char="890" end_char="890">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="892" end_char="972">
+<ORIGINAL_TEXT>Efendimiz adama: -Evinden çıkınca abdest almış, abdestini de güzel yapmış mıydın?</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="892" end_char="900">Efendimiz</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="902" end_char="906">adama</TOKEN>
+<TOKEN id="token-15-2" pos="punct" morph="none" start_char="907" end_char="907">:</TOKEN>
+<TOKEN id="token-15-3" pos="punct" morph="none" start_char="909" end_char="909">-</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="910" end_char="916">Evinden</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="918" end_char="924">çıkınca</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="926" end_char="931">abdest</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="933" end_char="937">almış</TOKEN>
+<TOKEN id="token-15-8" pos="punct" morph="none" start_char="938" end_char="938">,</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="940" end_char="948">abdestini</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="950" end_char="951">de</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="953" end_char="957">güzel</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="959" end_char="964">yapmış</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="966" end_char="971">mıydın</TOKEN>
+<TOKEN id="token-15-14" pos="punct" morph="none" start_char="972" end_char="972">?</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="974" end_char="981">
+<ORIGINAL_TEXT>buyurdu.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="974" end_char="980">buyurdu</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="981" end_char="981">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="983" end_char="1010">
+<ORIGINAL_TEXT>O: -Evet ey Allahʼın Resülü!</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="983" end_char="983">O</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="984" end_char="984">:</TOKEN>
+<TOKEN id="token-17-2" pos="punct" morph="none" start_char="986" end_char="986">-</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="987" end_char="990">Evet</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="992" end_char="993">ey</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="995" end_char="1002">Allahʼın</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1004" end_char="1009">Resülü</TOKEN>
+<TOKEN id="token-17-7" pos="punct" morph="none" start_char="1010" end_char="1010">!</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1012" end_char="1018">
+<ORIGINAL_TEXT>" dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="1012" end_char="1012">"</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1014" end_char="1017">dedi</TOKEN>
+<TOKEN id="token-18-2" pos="punct" morph="none" start_char="1018" end_char="1018">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1020" end_char="1064">
+<ORIGINAL_TEXT>Efendimiz: -Sonra da bizimle namaz kıldın mı?</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1020" end_char="1028">Efendimiz</TOKEN>
+<TOKEN id="token-19-1" pos="punct" morph="none" start_char="1029" end_char="1029">:</TOKEN>
+<TOKEN id="token-19-2" pos="punct" morph="none" start_char="1031" end_char="1031">-</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1032" end_char="1036">Sonra</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1038" end_char="1039">da</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1041" end_char="1047">bizimle</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1049" end_char="1053">namaz</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1055" end_char="1060">kıldın</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1062" end_char="1063">mı</TOKEN>
+<TOKEN id="token-19-9" pos="punct" morph="none" start_char="1064" end_char="1064">?</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1066" end_char="1096">
+<ORIGINAL_TEXT>Adam: -Evet ey Allahʼın Resülü!</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1066" end_char="1069">Adam</TOKEN>
+<TOKEN id="token-20-1" pos="punct" morph="none" start_char="1070" end_char="1070">:</TOKEN>
+<TOKEN id="token-20-2" pos="punct" morph="none" start_char="1072" end_char="1072">-</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1073" end_char="1076">Evet</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1078" end_char="1079">ey</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1081" end_char="1088">Allahʼın</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1090" end_char="1095">Resülü</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="1096" end_char="1096">!</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1098" end_char="1175">
+<ORIGINAL_TEXT>deyince, Efendimiz: -Öyleyse Allah Teâlâ hazretleri günahını affetti, buyurdu.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1098" end_char="1104">deyince</TOKEN>
+<TOKEN id="token-21-1" pos="punct" morph="none" start_char="1105" end_char="1105">,</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1107" end_char="1115">Efendimiz</TOKEN>
+<TOKEN id="token-21-3" pos="punct" morph="none" start_char="1116" end_char="1116">:</TOKEN>
+<TOKEN id="token-21-4" pos="punct" morph="none" start_char="1118" end_char="1118">-</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1119" end_char="1125">Öyleyse</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1127" end_char="1131">Allah</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1133" end_char="1137">Teâlâ</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="1139" end_char="1148">hazretleri</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="1150" end_char="1157">günahını</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="1159" end_char="1165">affetti</TOKEN>
+<TOKEN id="token-21-11" pos="punct" morph="none" start_char="1166" end_char="1166">,</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="1168" end_char="1174">buyurdu</TOKEN>
+<TOKEN id="token-21-13" pos="punct" morph="none" start_char="1175" end_char="1175">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1178" end_char="1200">
+<ORIGINAL_TEXT>Bu Adam Sözünde Durursa</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1178" end_char="1179">Bu</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1181" end_char="1184">Adam</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1186" end_char="1192">Sözünde</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1194" end_char="1200">Durursa</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1203" end_char="1304">
+<ORIGINAL_TEXT>Hz. Enes (r.a) anlatıyor: Bir adam, Resülullah (a.s)'a: -Allah, kullarına kaç vakit namazı farz kıldı?</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1203" end_char="1204">Hz</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="1205" end_char="1205">.</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1207" end_char="1210">Enes</TOKEN>
+<TOKEN id="token-23-3" pos="punct" morph="none" start_char="1212" end_char="1212">(</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1213" end_char="1213">r</TOKEN>
+<TOKEN id="token-23-5" pos="punct" morph="none" start_char="1214" end_char="1214">.</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="1215" end_char="1215">a</TOKEN>
+<TOKEN id="token-23-7" pos="punct" morph="none" start_char="1216" end_char="1216">)</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="1218" end_char="1226">anlatıyor</TOKEN>
+<TOKEN id="token-23-9" pos="punct" morph="none" start_char="1227" end_char="1227">:</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="1229" end_char="1231">Bir</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="1233" end_char="1236">adam</TOKEN>
+<TOKEN id="token-23-12" pos="punct" morph="none" start_char="1237" end_char="1237">,</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="1239" end_char="1248">Resülullah</TOKEN>
+<TOKEN id="token-23-14" pos="unknown" morph="none" start_char="1250" end_char="1257">(a.s)'a:</TOKEN>
+<TOKEN id="token-23-15" pos="punct" morph="none" start_char="1259" end_char="1259">-</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="1260" end_char="1264">Allah</TOKEN>
+<TOKEN id="token-23-17" pos="punct" morph="none" start_char="1265" end_char="1265">,</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="1267" end_char="1275">kullarına</TOKEN>
+<TOKEN id="token-23-19" pos="word" morph="none" start_char="1277" end_char="1279">kaç</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="1281" end_char="1285">vakit</TOKEN>
+<TOKEN id="token-23-21" pos="word" morph="none" start_char="1287" end_char="1292">namazı</TOKEN>
+<TOKEN id="token-23-22" pos="word" morph="none" start_char="1294" end_char="1297">farz</TOKEN>
+<TOKEN id="token-23-23" pos="word" morph="none" start_char="1299" end_char="1303">kıldı</TOKEN>
+<TOKEN id="token-23-24" pos="punct" morph="none" start_char="1304" end_char="1304">?</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1306" end_char="1316">
+<ORIGINAL_TEXT>diye sordu.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="1306" end_char="1309">diye</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="1311" end_char="1315">sordu</TOKEN>
+<TOKEN id="token-24-2" pos="punct" morph="none" start_char="1316" end_char="1316">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1318" end_char="1405">
+<ORIGINAL_TEXT>Aleyhissalâtu vesselâm: -Allah, kullarına beş vakit namazı farz kıldı, diye cevap verdi.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="1318" end_char="1330">Aleyhissalâtu</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="1332" end_char="1339">vesselâm</TOKEN>
+<TOKEN id="token-25-2" pos="punct" morph="none" start_char="1340" end_char="1340">:</TOKEN>
+<TOKEN id="token-25-3" pos="punct" morph="none" start_char="1342" end_char="1342">-</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="1343" end_char="1347">Allah</TOKEN>
+<TOKEN id="token-25-5" pos="punct" morph="none" start_char="1348" end_char="1348">,</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="1350" end_char="1358">kullarına</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="1360" end_char="1362">beş</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="1364" end_char="1368">vakit</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="1370" end_char="1375">namazı</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="1377" end_char="1380">farz</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="1382" end_char="1386">kıldı</TOKEN>
+<TOKEN id="token-25-12" pos="punct" morph="none" start_char="1387" end_char="1387">,</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="1389" end_char="1392">diye</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="1394" end_char="1398">cevap</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="1400" end_char="1404">verdi</TOKEN>
+<TOKEN id="token-25-16" pos="punct" morph="none" start_char="1405" end_char="1405">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1407" end_char="1473">
+<ORIGINAL_TEXT>Adam tekrar sordu: -Bunlardan önce veya sonra başka bir şey var mı?</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1407" end_char="1410">Adam</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="1412" end_char="1417">tekrar</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1419" end_char="1423">sordu</TOKEN>
+<TOKEN id="token-26-3" pos="punct" morph="none" start_char="1424" end_char="1424">:</TOKEN>
+<TOKEN id="token-26-4" pos="punct" morph="none" start_char="1426" end_char="1426">-</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="1427" end_char="1435">Bunlardan</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="1437" end_char="1440">önce</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="1442" end_char="1445">veya</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="1447" end_char="1451">sonra</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="1453" end_char="1457">başka</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="1459" end_char="1461">bir</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="1463" end_char="1465">şey</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="1467" end_char="1469">var</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="1471" end_char="1472">mı</TOKEN>
+<TOKEN id="token-26-14" pos="punct" morph="none" start_char="1473" end_char="1473">?</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1475" end_char="1536">
+<ORIGINAL_TEXT>Aleyhissalâtu vesselâm: -Allah kullarına beş vakti farz kıldı.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="1475" end_char="1487">Aleyhissalâtu</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="1489" end_char="1496">vesselâm</TOKEN>
+<TOKEN id="token-27-2" pos="punct" morph="none" start_char="1497" end_char="1497">:</TOKEN>
+<TOKEN id="token-27-3" pos="punct" morph="none" start_char="1499" end_char="1499">-</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="1500" end_char="1504">Allah</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="1506" end_char="1514">kullarına</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="1516" end_char="1518">beş</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="1520" end_char="1524">vakti</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="1526" end_char="1529">farz</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="1531" end_char="1535">kıldı</TOKEN>
+<TOKEN id="token-27-10" pos="punct" morph="none" start_char="1536" end_char="1536">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1538" end_char="1671">
+<ORIGINAL_TEXT>Bu cevap üzerine adam, bunlar üzerine hiçbir ilavede bulunmayacağına, onlardan herhangi bir eksiltme de yapmayacağına dair yemin etti.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="1538" end_char="1539">Bu</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="1541" end_char="1545">cevap</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="1547" end_char="1553">üzerine</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="1555" end_char="1558">adam</TOKEN>
+<TOKEN id="token-28-4" pos="punct" morph="none" start_char="1559" end_char="1559">,</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="1561" end_char="1566">bunlar</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="1568" end_char="1574">üzerine</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="1576" end_char="1581">hiçbir</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="1583" end_char="1589">ilavede</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="1591" end_char="1605">bulunmayacağına</TOKEN>
+<TOKEN id="token-28-10" pos="punct" morph="none" start_char="1606" end_char="1606">,</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="1608" end_char="1615">onlardan</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="1617" end_char="1624">herhangi</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="1626" end_char="1628">bir</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="1630" end_char="1637">eksiltme</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="1639" end_char="1640">de</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="1642" end_char="1654">yapmayacağına</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="1656" end_char="1659">dair</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="1661" end_char="1665">yemin</TOKEN>
+<TOKEN id="token-28-19" pos="word" morph="none" start_char="1667" end_char="1670">etti</TOKEN>
+<TOKEN id="token-28-20" pos="punct" morph="none" start_char="1671" end_char="1671">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1673" end_char="1759">
+<ORIGINAL_TEXT>Resülullah aleyhissalâtu vesselâm: -Bu adam sözünde durursa mutlaka cennete girecektir!</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="1673" end_char="1682">Resülullah</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="1684" end_char="1696">aleyhissalâtu</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="1698" end_char="1705">vesselâm</TOKEN>
+<TOKEN id="token-29-3" pos="punct" morph="none" start_char="1706" end_char="1706">:</TOKEN>
+<TOKEN id="token-29-4" pos="punct" morph="none" start_char="1708" end_char="1708">-</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="1709" end_char="1710">Bu</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="1712" end_char="1715">adam</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="1717" end_char="1723">sözünde</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="1725" end_char="1731">durursa</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="1733" end_char="1739">mutlaka</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="1741" end_char="1747">cennete</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="1749" end_char="1758">girecektir</TOKEN>
+<TOKEN id="token-29-12" pos="punct" morph="none" start_char="1759" end_char="1759">!</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1761" end_char="1768">
+<ORIGINAL_TEXT>buyurdu.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="1761" end_char="1767">buyurdu</TOKEN>
+<TOKEN id="token-30-1" pos="punct" morph="none" start_char="1768" end_char="1768">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1770" end_char="1815">
+<ORIGINAL_TEXT>[Linkleri sadece kayıtlı üyelerimiz görebilir.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="punct" morph="none" start_char="1770" end_char="1770">[</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="1771" end_char="1778">Linkleri</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="1780" end_char="1785">sadece</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="1787" end_char="1793">kayıtlı</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="1795" end_char="1804">üyelerimiz</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="1806" end_char="1814">görebilir</TOKEN>
+<TOKEN id="token-31-6" pos="punct" morph="none" start_char="1815" end_char="1815">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1818" end_char="1853">
+<ORIGINAL_TEXT>ForumTR üyesi olmak için tıklayınız]</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="1818" end_char="1824">ForumTR</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="1826" end_char="1830">üyesi</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="1832" end_char="1836">olmak</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="1838" end_char="1841">için</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="1843" end_char="1852">tıklayınız</TOKEN>
+<TOKEN id="token-32-5" pos="punct" morph="none" start_char="1853" end_char="1853">]</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1856" end_char="1879">
+<ORIGINAL_TEXT>Allah (c.c.) razı olsun.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="1856" end_char="1860">Allah</TOKEN>
+<TOKEN id="token-33-1" pos="punct" morph="none" start_char="1862" end_char="1862">(</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="1863" end_char="1863">c</TOKEN>
+<TOKEN id="token-33-3" pos="punct" morph="none" start_char="1864" end_char="1864">.</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="1865" end_char="1865">c</TOKEN>
+<TOKEN id="token-33-5" pos="punct" morph="none" start_char="1866" end_char="1867">.)</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="1869" end_char="1872">razı</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="1874" end_char="1878">olsun</TOKEN>
+<TOKEN id="token-33-8" pos="punct" morph="none" start_char="1879" end_char="1879">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

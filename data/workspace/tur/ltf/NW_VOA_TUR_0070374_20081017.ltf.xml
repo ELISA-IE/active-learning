@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_VOA_TUR_0070374_20081017" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="3638" raw_text_md5="30d9b8564a6dd6e207a534890fe2d7ec">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="70">
+<ORIGINAL_TEXT>Türkiye, Birleşmiş Milletler Güvenlik Konseyi geçici üyeliğine seçildi.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="6">Türkiye</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="7" end_char="7">,</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="9" end_char="17">Birleşmiş</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="19" end_char="27">Milletler</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="29" end_char="36">Güvenlik</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="38" end_char="44">Konseyi</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="46" end_char="51">geçici</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="53" end_char="61">üyeliğine</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="63" end_char="69">seçildi</TOKEN>
+<TOKEN id="token-0-9" pos="punct" morph="none" start_char="70" end_char="70">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="72" end_char="704">
+<ORIGINAL_TEXT>Birleşmiş Milletler Genel Kuruluʼnda 192 ülkenin katıldığı oylamada Türkiye birinci turda 151 oy aldı.Türkilye ile birlikte Avusturya, Japonya, Meksika ve Uganda da Konseyin daimi olmayan beş üyeliğini paylaştı.Halen Konseyin daimi olmayan 10 üyesi, iki yıl boyunca yapacakları görev sırasında ekonomik yaptırımlar ve barışgücü sevki gibi konularda oy hakkına sahip.En son 1961 yılında Güvenlik Konseyiʼne üye olan Türkiye, uzun süredir bu sonuca ulaşmak için yoğun lobi faaliyetinde bulunuyordu.Babacan: 'Tarihi GünʼCuma günü BM Genel Kuruluʼnda yapılan gizli oylamada Türkiye 151 oy alarak BM Güvenlik Konseyi geçici üyesi seçildi.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="72" end_char="80">Birleşmiş</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="82" end_char="90">Milletler</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="92" end_char="96">Genel</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="98" end_char="107">Kuruluʼnda</TOKEN>
+<TOKEN id="token-1-4" pos="number" morph="none" start_char="109" end_char="111">192</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="113" end_char="119">ülkenin</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="121" end_char="129">katıldığı</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="131" end_char="138">oylamada</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="140" end_char="146">Türkiye</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="148" end_char="154">birinci</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="156" end_char="160">turda</TOKEN>
+<TOKEN id="token-1-11" pos="number" morph="none" start_char="162" end_char="164">151</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="166" end_char="167">oy</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="169" end_char="172">aldı</TOKEN>
+<TOKEN id="token-1-14" pos="punct" morph="none" start_char="173" end_char="173">.</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="174" end_char="181">Türkilye</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="183" end_char="185">ile</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="187" end_char="194">birlikte</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="196" end_char="204">Avusturya</TOKEN>
+<TOKEN id="token-1-19" pos="punct" morph="none" start_char="205" end_char="205">,</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="207" end_char="213">Japonya</TOKEN>
+<TOKEN id="token-1-21" pos="punct" morph="none" start_char="214" end_char="214">,</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="216" end_char="222">Meksika</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="224" end_char="225">ve</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="227" end_char="232">Uganda</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="234" end_char="235">da</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="237" end_char="244">Konseyin</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="246" end_char="250">daimi</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="252" end_char="258">olmayan</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="260" end_char="262">beş</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="264" end_char="272">üyeliğini</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="274" end_char="281">paylaştı</TOKEN>
+<TOKEN id="token-1-32" pos="punct" morph="none" start_char="282" end_char="282">.</TOKEN>
+<TOKEN id="token-1-33" pos="word" morph="none" start_char="283" end_char="287">Halen</TOKEN>
+<TOKEN id="token-1-34" pos="word" morph="none" start_char="289" end_char="296">Konseyin</TOKEN>
+<TOKEN id="token-1-35" pos="word" morph="none" start_char="298" end_char="302">daimi</TOKEN>
+<TOKEN id="token-1-36" pos="word" morph="none" start_char="304" end_char="310">olmayan</TOKEN>
+<TOKEN id="token-1-37" pos="number" morph="none" start_char="312" end_char="313">10</TOKEN>
+<TOKEN id="token-1-38" pos="word" morph="none" start_char="315" end_char="319">üyesi</TOKEN>
+<TOKEN id="token-1-39" pos="punct" morph="none" start_char="320" end_char="320">,</TOKEN>
+<TOKEN id="token-1-40" pos="word" morph="none" start_char="322" end_char="324">iki</TOKEN>
+<TOKEN id="token-1-41" pos="word" morph="none" start_char="326" end_char="328">yıl</TOKEN>
+<TOKEN id="token-1-42" pos="word" morph="none" start_char="330" end_char="336">boyunca</TOKEN>
+<TOKEN id="token-1-43" pos="word" morph="none" start_char="338" end_char="348">yapacakları</TOKEN>
+<TOKEN id="token-1-44" pos="word" morph="none" start_char="350" end_char="354">görev</TOKEN>
+<TOKEN id="token-1-45" pos="word" morph="none" start_char="356" end_char="364">sırasında</TOKEN>
+<TOKEN id="token-1-46" pos="word" morph="none" start_char="366" end_char="373">ekonomik</TOKEN>
+<TOKEN id="token-1-47" pos="word" morph="none" start_char="375" end_char="385">yaptırımlar</TOKEN>
+<TOKEN id="token-1-48" pos="word" morph="none" start_char="387" end_char="388">ve</TOKEN>
+<TOKEN id="token-1-49" pos="word" morph="none" start_char="390" end_char="398">barışgücü</TOKEN>
+<TOKEN id="token-1-50" pos="word" morph="none" start_char="400" end_char="404">sevki</TOKEN>
+<TOKEN id="token-1-51" pos="word" morph="none" start_char="406" end_char="409">gibi</TOKEN>
+<TOKEN id="token-1-52" pos="word" morph="none" start_char="411" end_char="419">konularda</TOKEN>
+<TOKEN id="token-1-53" pos="word" morph="none" start_char="421" end_char="422">oy</TOKEN>
+<TOKEN id="token-1-54" pos="word" morph="none" start_char="424" end_char="430">hakkına</TOKEN>
+<TOKEN id="token-1-55" pos="word" morph="none" start_char="432" end_char="436">sahip</TOKEN>
+<TOKEN id="token-1-56" pos="punct" morph="none" start_char="437" end_char="437">.</TOKEN>
+<TOKEN id="token-1-57" pos="word" morph="none" start_char="438" end_char="439">En</TOKEN>
+<TOKEN id="token-1-58" pos="word" morph="none" start_char="441" end_char="443">son</TOKEN>
+<TOKEN id="token-1-59" pos="number" morph="none" start_char="445" end_char="448">1961</TOKEN>
+<TOKEN id="token-1-60" pos="word" morph="none" start_char="450" end_char="456">yılında</TOKEN>
+<TOKEN id="token-1-61" pos="word" morph="none" start_char="458" end_char="465">Güvenlik</TOKEN>
+<TOKEN id="token-1-62" pos="word" morph="none" start_char="467" end_char="476">Konseyiʼne</TOKEN>
+<TOKEN id="token-1-63" pos="word" morph="none" start_char="478" end_char="480">üye</TOKEN>
+<TOKEN id="token-1-64" pos="word" morph="none" start_char="482" end_char="485">olan</TOKEN>
+<TOKEN id="token-1-65" pos="word" morph="none" start_char="487" end_char="493">Türkiye</TOKEN>
+<TOKEN id="token-1-66" pos="punct" morph="none" start_char="494" end_char="494">,</TOKEN>
+<TOKEN id="token-1-67" pos="word" morph="none" start_char="496" end_char="499">uzun</TOKEN>
+<TOKEN id="token-1-68" pos="word" morph="none" start_char="501" end_char="507">süredir</TOKEN>
+<TOKEN id="token-1-69" pos="word" morph="none" start_char="509" end_char="510">bu</TOKEN>
+<TOKEN id="token-1-70" pos="word" morph="none" start_char="512" end_char="517">sonuca</TOKEN>
+<TOKEN id="token-1-71" pos="word" morph="none" start_char="519" end_char="525">ulaşmak</TOKEN>
+<TOKEN id="token-1-72" pos="word" morph="none" start_char="527" end_char="530">için</TOKEN>
+<TOKEN id="token-1-73" pos="word" morph="none" start_char="532" end_char="536">yoğun</TOKEN>
+<TOKEN id="token-1-74" pos="word" morph="none" start_char="538" end_char="541">lobi</TOKEN>
+<TOKEN id="token-1-75" pos="word" morph="none" start_char="543" end_char="554">faaliyetinde</TOKEN>
+<TOKEN id="token-1-76" pos="word" morph="none" start_char="556" end_char="566">bulunuyordu</TOKEN>
+<TOKEN id="token-1-77" pos="punct" morph="none" start_char="567" end_char="567">.</TOKEN>
+<TOKEN id="token-1-78" pos="word" morph="none" start_char="568" end_char="574">Babacan</TOKEN>
+<TOKEN id="token-1-79" pos="punct" morph="none" start_char="575" end_char="575">:</TOKEN>
+<TOKEN id="token-1-80" pos="punct" morph="none" start_char="577" end_char="577">'</TOKEN>
+<TOKEN id="token-1-81" pos="word" morph="none" start_char="578" end_char="583">Tarihi</TOKEN>
+<TOKEN id="token-1-82" pos="word" morph="none" start_char="585" end_char="592">GünʼCuma</TOKEN>
+<TOKEN id="token-1-83" pos="word" morph="none" start_char="594" end_char="597">günü</TOKEN>
+<TOKEN id="token-1-84" pos="word" morph="none" start_char="599" end_char="600">BM</TOKEN>
+<TOKEN id="token-1-85" pos="word" morph="none" start_char="602" end_char="606">Genel</TOKEN>
+<TOKEN id="token-1-86" pos="word" morph="none" start_char="608" end_char="617">Kuruluʼnda</TOKEN>
+<TOKEN id="token-1-87" pos="word" morph="none" start_char="619" end_char="625">yapılan</TOKEN>
+<TOKEN id="token-1-88" pos="word" morph="none" start_char="627" end_char="631">gizli</TOKEN>
+<TOKEN id="token-1-89" pos="word" morph="none" start_char="633" end_char="640">oylamada</TOKEN>
+<TOKEN id="token-1-90" pos="word" morph="none" start_char="642" end_char="648">Türkiye</TOKEN>
+<TOKEN id="token-1-91" pos="number" morph="none" start_char="650" end_char="652">151</TOKEN>
+<TOKEN id="token-1-92" pos="word" morph="none" start_char="654" end_char="655">oy</TOKEN>
+<TOKEN id="token-1-93" pos="word" morph="none" start_char="657" end_char="662">alarak</TOKEN>
+<TOKEN id="token-1-94" pos="word" morph="none" start_char="664" end_char="665">BM</TOKEN>
+<TOKEN id="token-1-95" pos="word" morph="none" start_char="667" end_char="674">Güvenlik</TOKEN>
+<TOKEN id="token-1-96" pos="word" morph="none" start_char="676" end_char="682">Konseyi</TOKEN>
+<TOKEN id="token-1-97" pos="word" morph="none" start_char="684" end_char="689">geçici</TOKEN>
+<TOKEN id="token-1-98" pos="word" morph="none" start_char="691" end_char="695">üyesi</TOKEN>
+<TOKEN id="token-1-99" pos="word" morph="none" start_char="697" end_char="703">seçildi</TOKEN>
+<TOKEN id="token-1-100" pos="punct" morph="none" start_char="704" end_char="704">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="706" end_char="791">
+<ORIGINAL_TEXT>192 ülkenin katıldığı seçimde Türkiyeʼnin üyelik için en az 128 oy alması gerekiyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="number" morph="none" start_char="706" end_char="708">192</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="710" end_char="716">ülkenin</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="718" end_char="726">katıldığı</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="728" end_char="734">seçimde</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="736" end_char="746">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="748" end_char="753">üyelik</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="755" end_char="758">için</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="760" end_char="761">en</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="763" end_char="764">az</TOKEN>
+<TOKEN id="token-2-9" pos="number" morph="none" start_char="766" end_char="768">128</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="770" end_char="771">oy</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="773" end_char="778">alması</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="780" end_char="790">gerekiyordu</TOKEN>
+<TOKEN id="token-2-13" pos="punct" morph="none" start_char="791" end_char="791">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="793" end_char="868">
+<ORIGINAL_TEXT>2009-2010 dönemi üyelik için Türkiyeʼnin rakipleri İzlanda ve Avusturyaʼydı.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="number" morph="none" start_char="793" end_char="796">2009</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="797" end_char="797">-</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="798" end_char="801">2010</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="803" end_char="808">dönemi</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="810" end_char="815">üyelik</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="817" end_char="820">için</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="822" end_char="832">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="834" end_char="842">rakipleri</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="844" end_char="850">İzlanda</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="852" end_char="853">ve</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="855" end_char="867">Avusturyaʼydı</TOKEN>
+<TOKEN id="token-3-11" pos="punct" morph="none" start_char="868" end_char="868">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="870" end_char="941">
+<ORIGINAL_TEXT>Dışişleri Bakanı Ali Babacan, bugünü ''tarihi bir gün'' olarak niteledi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="870" end_char="878">Dışişleri</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="880" end_char="885">Bakanı</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="887" end_char="889">Ali</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="891" end_char="897">Babacan</TOKEN>
+<TOKEN id="token-4-4" pos="punct" morph="none" start_char="898" end_char="898">,</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="900" end_char="905">bugünü</TOKEN>
+<TOKEN id="token-4-6" pos="punct" morph="none" start_char="907" end_char="908">''</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="909" end_char="914">tarihi</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="916" end_char="918">bir</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="920" end_char="922">gün</TOKEN>
+<TOKEN id="token-4-10" pos="punct" morph="none" start_char="923" end_char="924">''</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="926" end_char="931">olarak</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="933" end_char="940">niteledi</TOKEN>
+<TOKEN id="token-4-13" pos="punct" morph="none" start_char="941" end_char="941">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="943" end_char="1167">
+<ORIGINAL_TEXT>Türkiyeʼnin siyasi ve ekonomik reformlarının yanı sıra diplomatik başarısıyla da tüm dünyada tanındığını kaydeden Dışişleri Bakanı, Türkiyeʼnin ''yardım alan'' ülke konumundan ''yardım eden'' ülke konumuna geçtiğini belirtti.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="943" end_char="953">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="955" end_char="960">siyasi</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="962" end_char="963">ve</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="965" end_char="972">ekonomik</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="974" end_char="986">reformlarının</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="988" end_char="991">yanı</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="993" end_char="996">sıra</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="998" end_char="1007">diplomatik</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="1009" end_char="1019">başarısıyla</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="1021" end_char="1022">da</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="1024" end_char="1026">tüm</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="1028" end_char="1034">dünyada</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="1036" end_char="1046">tanındığını</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="1048" end_char="1055">kaydeden</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="1057" end_char="1065">Dışişleri</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="1067" end_char="1072">Bakanı</TOKEN>
+<TOKEN id="token-5-16" pos="punct" morph="none" start_char="1073" end_char="1073">,</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="1075" end_char="1085">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-5-18" pos="punct" morph="none" start_char="1087" end_char="1088">''</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="1089" end_char="1094">yardım</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="1096" end_char="1099">alan</TOKEN>
+<TOKEN id="token-5-21" pos="punct" morph="none" start_char="1100" end_char="1101">''</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="1103" end_char="1106">ülke</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="1108" end_char="1117">konumundan</TOKEN>
+<TOKEN id="token-5-24" pos="punct" morph="none" start_char="1119" end_char="1120">''</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="1121" end_char="1126">yardım</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="1128" end_char="1131">eden</TOKEN>
+<TOKEN id="token-5-27" pos="punct" morph="none" start_char="1132" end_char="1133">''</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="1135" end_char="1138">ülke</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="1140" end_char="1147">konumuna</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="1149" end_char="1157">geçtiğini</TOKEN>
+<TOKEN id="token-5-31" pos="word" morph="none" start_char="1159" end_char="1166">belirtti</TOKEN>
+<TOKEN id="token-5-32" pos="punct" morph="none" start_char="1167" end_char="1167">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="1169" end_char="1441">
+<ORIGINAL_TEXT>Türkiyeʼye gerçekten destek verilip verilmediğinin gizli oylamada ortaya çıktığını vurgulayan Ali Babacan, Türkiye karşıtı oy kullanan 41 ülkenin çoğunun bile daha önce verilen taahhütler nedeniyle Türkiyeʼye oy vermediklerini, aslında Türkiyeʼyi desteklediklerini savundu.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="1169" end_char="1178">Türkiyeʼye</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="1180" end_char="1188">gerçekten</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="1190" end_char="1195">destek</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="1197" end_char="1203">verilip</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="1205" end_char="1218">verilmediğinin</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1220" end_char="1224">gizli</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1226" end_char="1233">oylamada</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="1235" end_char="1240">ortaya</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="1242" end_char="1250">çıktığını</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="1252" end_char="1261">vurgulayan</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1263" end_char="1265">Ali</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="1267" end_char="1273">Babacan</TOKEN>
+<TOKEN id="token-6-12" pos="punct" morph="none" start_char="1274" end_char="1274">,</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1276" end_char="1282">Türkiye</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="1284" end_char="1290">karşıtı</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1292" end_char="1293">oy</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="1295" end_char="1302">kullanan</TOKEN>
+<TOKEN id="token-6-17" pos="number" morph="none" start_char="1304" end_char="1305">41</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="1307" end_char="1313">ülkenin</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="1315" end_char="1321">çoğunun</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="1323" end_char="1326">bile</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="1328" end_char="1331">daha</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="1333" end_char="1336">önce</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1338" end_char="1344">verilen</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="1346" end_char="1355">taahhütler</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="1357" end_char="1365">nedeniyle</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="1367" end_char="1376">Türkiyeʼye</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="1378" end_char="1379">oy</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="1381" end_char="1394">vermediklerini</TOKEN>
+<TOKEN id="token-6-29" pos="punct" morph="none" start_char="1395" end_char="1395">,</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="1397" end_char="1403">aslında</TOKEN>
+<TOKEN id="token-6-31" pos="word" morph="none" start_char="1405" end_char="1414">Türkiyeʼyi</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="1416" end_char="1432">desteklediklerini</TOKEN>
+<TOKEN id="token-6-33" pos="word" morph="none" start_char="1434" end_char="1440">savundu</TOKEN>
+<TOKEN id="token-6-34" pos="punct" morph="none" start_char="1441" end_char="1441">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1443" end_char="1882">
+<ORIGINAL_TEXT>Sadece bölgesel konularda değil, tüm dünyayı olumsuz etkileyen ekonomik kriz, küresel ısınma, gıda ve enerji krizi gibi konularda da Türkiyeʼye büyük görev düştüğünü kaydeden Babacan, bu sorunları çözmek için diplomasi ve diyaloğun temel alınacağını vurguladı.Türkiyeʼnin üzerine ağır bir sorumluluk yüklendiğini kaydeden Ali Babacan, iki yıl boyunca dünyanın dört bir yanından gelecek sorunlar için kararlar alınması gerekeceğini belirtti.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1443" end_char="1448">Sadece</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1450" end_char="1457">bölgesel</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1459" end_char="1467">konularda</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1469" end_char="1473">değil</TOKEN>
+<TOKEN id="token-7-4" pos="punct" morph="none" start_char="1474" end_char="1474">,</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1476" end_char="1478">tüm</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1480" end_char="1486">dünyayı</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1488" end_char="1494">olumsuz</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1496" end_char="1504">etkileyen</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1506" end_char="1513">ekonomik</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1515" end_char="1518">kriz</TOKEN>
+<TOKEN id="token-7-11" pos="punct" morph="none" start_char="1519" end_char="1519">,</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1521" end_char="1527">küresel</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1529" end_char="1534">ısınma</TOKEN>
+<TOKEN id="token-7-14" pos="punct" morph="none" start_char="1535" end_char="1535">,</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1537" end_char="1540">gıda</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1542" end_char="1543">ve</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1545" end_char="1550">enerji</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1552" end_char="1556">krizi</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1558" end_char="1561">gibi</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1563" end_char="1571">konularda</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1573" end_char="1574">da</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1576" end_char="1585">Türkiyeʼye</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1587" end_char="1591">büyük</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1593" end_char="1597">görev</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="1599" end_char="1607">düştüğünü</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="1609" end_char="1616">kaydeden</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="1618" end_char="1624">Babacan</TOKEN>
+<TOKEN id="token-7-28" pos="punct" morph="none" start_char="1625" end_char="1625">,</TOKEN>
+<TOKEN id="token-7-29" pos="word" morph="none" start_char="1627" end_char="1628">bu</TOKEN>
+<TOKEN id="token-7-30" pos="word" morph="none" start_char="1630" end_char="1638">sorunları</TOKEN>
+<TOKEN id="token-7-31" pos="word" morph="none" start_char="1640" end_char="1645">çözmek</TOKEN>
+<TOKEN id="token-7-32" pos="word" morph="none" start_char="1647" end_char="1650">için</TOKEN>
+<TOKEN id="token-7-33" pos="word" morph="none" start_char="1652" end_char="1660">diplomasi</TOKEN>
+<TOKEN id="token-7-34" pos="word" morph="none" start_char="1662" end_char="1663">ve</TOKEN>
+<TOKEN id="token-7-35" pos="word" morph="none" start_char="1665" end_char="1673">diyaloğun</TOKEN>
+<TOKEN id="token-7-36" pos="word" morph="none" start_char="1675" end_char="1679">temel</TOKEN>
+<TOKEN id="token-7-37" pos="word" morph="none" start_char="1681" end_char="1691">alınacağını</TOKEN>
+<TOKEN id="token-7-38" pos="word" morph="none" start_char="1693" end_char="1701">vurguladı</TOKEN>
+<TOKEN id="token-7-39" pos="punct" morph="none" start_char="1702" end_char="1702">.</TOKEN>
+<TOKEN id="token-7-40" pos="word" morph="none" start_char="1703" end_char="1713">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-7-41" pos="word" morph="none" start_char="1715" end_char="1721">üzerine</TOKEN>
+<TOKEN id="token-7-42" pos="word" morph="none" start_char="1723" end_char="1726">ağır</TOKEN>
+<TOKEN id="token-7-43" pos="word" morph="none" start_char="1728" end_char="1730">bir</TOKEN>
+<TOKEN id="token-7-44" pos="word" morph="none" start_char="1732" end_char="1741">sorumluluk</TOKEN>
+<TOKEN id="token-7-45" pos="word" morph="none" start_char="1743" end_char="1754">yüklendiğini</TOKEN>
+<TOKEN id="token-7-46" pos="word" morph="none" start_char="1756" end_char="1763">kaydeden</TOKEN>
+<TOKEN id="token-7-47" pos="word" morph="none" start_char="1765" end_char="1767">Ali</TOKEN>
+<TOKEN id="token-7-48" pos="word" morph="none" start_char="1769" end_char="1775">Babacan</TOKEN>
+<TOKEN id="token-7-49" pos="punct" morph="none" start_char="1776" end_char="1776">,</TOKEN>
+<TOKEN id="token-7-50" pos="word" morph="none" start_char="1778" end_char="1780">iki</TOKEN>
+<TOKEN id="token-7-51" pos="word" morph="none" start_char="1782" end_char="1784">yıl</TOKEN>
+<TOKEN id="token-7-52" pos="word" morph="none" start_char="1786" end_char="1792">boyunca</TOKEN>
+<TOKEN id="token-7-53" pos="word" morph="none" start_char="1794" end_char="1801">dünyanın</TOKEN>
+<TOKEN id="token-7-54" pos="word" morph="none" start_char="1803" end_char="1806">dört</TOKEN>
+<TOKEN id="token-7-55" pos="word" morph="none" start_char="1808" end_char="1810">bir</TOKEN>
+<TOKEN id="token-7-56" pos="word" morph="none" start_char="1812" end_char="1819">yanından</TOKEN>
+<TOKEN id="token-7-57" pos="word" morph="none" start_char="1821" end_char="1827">gelecek</TOKEN>
+<TOKEN id="token-7-58" pos="word" morph="none" start_char="1829" end_char="1836">sorunlar</TOKEN>
+<TOKEN id="token-7-59" pos="word" morph="none" start_char="1838" end_char="1841">için</TOKEN>
+<TOKEN id="token-7-60" pos="word" morph="none" start_char="1843" end_char="1850">kararlar</TOKEN>
+<TOKEN id="token-7-61" pos="word" morph="none" start_char="1852" end_char="1859">alınması</TOKEN>
+<TOKEN id="token-7-62" pos="word" morph="none" start_char="1861" end_char="1872">gerekeceğini</TOKEN>
+<TOKEN id="token-7-63" pos="word" morph="none" start_char="1874" end_char="1881">belirtti</TOKEN>
+<TOKEN id="token-7-64" pos="punct" morph="none" start_char="1882" end_char="1882">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1884" end_char="2050">
+<ORIGINAL_TEXT>''Türkiyeʼnin sınavı asıl bundan sonra başlıyor'' şeklinde konuşan Dışişleri Bakanı Ali Babacan, Türkiyeʼnin bu sorumluluğun altından başarıyla kalkacağını ifade etti.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="punct" morph="none" start_char="1884" end_char="1885">''</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1886" end_char="1896">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1898" end_char="1903">sınavı</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1905" end_char="1908">asıl</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1910" end_char="1915">bundan</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1917" end_char="1921">sonra</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1923" end_char="1930">başlıyor</TOKEN>
+<TOKEN id="token-8-7" pos="punct" morph="none" start_char="1931" end_char="1932">''</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1934" end_char="1941">şeklinde</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1943" end_char="1949">konuşan</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1951" end_char="1959">Dışişleri</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1961" end_char="1966">Bakanı</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1968" end_char="1970">Ali</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1972" end_char="1978">Babacan</TOKEN>
+<TOKEN id="token-8-14" pos="punct" morph="none" start_char="1979" end_char="1979">,</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1981" end_char="1991">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1993" end_char="1994">bu</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1996" end_char="2007">sorumluluğun</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="2009" end_char="2016">altından</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="2018" end_char="2026">başarıyla</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="2028" end_char="2038">kalkacağını</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="2040" end_char="2044">ifade</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="2046" end_char="2049">etti</TOKEN>
+<TOKEN id="token-8-23" pos="punct" morph="none" start_char="2050" end_char="2050">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="2052" end_char="2552">
+<ORIGINAL_TEXT>Dışişleri Bakanlığı tarafından yapılan açıklamada da, "Türkiye, tüm ülkelerle işbirliği içinde, BM reform sürecine destek verecek, uyuşmazlıkların barışçı yollardan çözümüne katkıda bulunacak, bölgesel meselelerde kolaylaştırıcı rolü oynamaya devam edecek, kalkınmayla ilgili hedeflere ulaşılması için gayret sarf edecek ve farklı medeniyetler ve kültürler arasındaki diyalogun sürdürülmesine çalışacaktır," denildi.Türkiye, Güvenlik Konseyi üyeliği için uzun süredir lobi faaliyetlerini sürdürüyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="2052" end_char="2060">Dışişleri</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="2062" end_char="2070">Bakanlığı</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="2072" end_char="2081">tarafından</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="2083" end_char="2089">yapılan</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="2091" end_char="2100">açıklamada</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="2102" end_char="2103">da</TOKEN>
+<TOKEN id="token-9-6" pos="punct" morph="none" start_char="2104" end_char="2104">,</TOKEN>
+<TOKEN id="token-9-7" pos="punct" morph="none" start_char="2106" end_char="2106">"</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="2107" end_char="2113">Türkiye</TOKEN>
+<TOKEN id="token-9-9" pos="punct" morph="none" start_char="2114" end_char="2114">,</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="2116" end_char="2118">tüm</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="2120" end_char="2128">ülkelerle</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="2130" end_char="2138">işbirliği</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="2140" end_char="2145">içinde</TOKEN>
+<TOKEN id="token-9-14" pos="punct" morph="none" start_char="2146" end_char="2146">,</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="2148" end_char="2149">BM</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="2151" end_char="2156">reform</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="2158" end_char="2165">sürecine</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="2167" end_char="2172">destek</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="2174" end_char="2180">verecek</TOKEN>
+<TOKEN id="token-9-20" pos="punct" morph="none" start_char="2181" end_char="2181">,</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="2183" end_char="2197">uyuşmazlıkların</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="2199" end_char="2205">barışçı</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="2207" end_char="2215">yollardan</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="2217" end_char="2224">çözümüne</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="2226" end_char="2232">katkıda</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="2234" end_char="2242">bulunacak</TOKEN>
+<TOKEN id="token-9-27" pos="punct" morph="none" start_char="2243" end_char="2243">,</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="2245" end_char="2252">bölgesel</TOKEN>
+<TOKEN id="token-9-29" pos="word" morph="none" start_char="2254" end_char="2264">meselelerde</TOKEN>
+<TOKEN id="token-9-30" pos="word" morph="none" start_char="2266" end_char="2279">kolaylaştırıcı</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="2281" end_char="2284">rolü</TOKEN>
+<TOKEN id="token-9-32" pos="word" morph="none" start_char="2286" end_char="2293">oynamaya</TOKEN>
+<TOKEN id="token-9-33" pos="word" morph="none" start_char="2295" end_char="2299">devam</TOKEN>
+<TOKEN id="token-9-34" pos="word" morph="none" start_char="2301" end_char="2306">edecek</TOKEN>
+<TOKEN id="token-9-35" pos="punct" morph="none" start_char="2307" end_char="2307">,</TOKEN>
+<TOKEN id="token-9-36" pos="word" morph="none" start_char="2309" end_char="2319">kalkınmayla</TOKEN>
+<TOKEN id="token-9-37" pos="word" morph="none" start_char="2321" end_char="2326">ilgili</TOKEN>
+<TOKEN id="token-9-38" pos="word" morph="none" start_char="2328" end_char="2336">hedeflere</TOKEN>
+<TOKEN id="token-9-39" pos="word" morph="none" start_char="2338" end_char="2347">ulaşılması</TOKEN>
+<TOKEN id="token-9-40" pos="word" morph="none" start_char="2349" end_char="2352">için</TOKEN>
+<TOKEN id="token-9-41" pos="word" morph="none" start_char="2354" end_char="2359">gayret</TOKEN>
+<TOKEN id="token-9-42" pos="word" morph="none" start_char="2361" end_char="2364">sarf</TOKEN>
+<TOKEN id="token-9-43" pos="word" morph="none" start_char="2366" end_char="2371">edecek</TOKEN>
+<TOKEN id="token-9-44" pos="word" morph="none" start_char="2373" end_char="2374">ve</TOKEN>
+<TOKEN id="token-9-45" pos="word" morph="none" start_char="2376" end_char="2381">farklı</TOKEN>
+<TOKEN id="token-9-46" pos="word" morph="none" start_char="2383" end_char="2394">medeniyetler</TOKEN>
+<TOKEN id="token-9-47" pos="word" morph="none" start_char="2396" end_char="2397">ve</TOKEN>
+<TOKEN id="token-9-48" pos="word" morph="none" start_char="2399" end_char="2407">kültürler</TOKEN>
+<TOKEN id="token-9-49" pos="word" morph="none" start_char="2409" end_char="2418">arasındaki</TOKEN>
+<TOKEN id="token-9-50" pos="word" morph="none" start_char="2420" end_char="2428">diyalogun</TOKEN>
+<TOKEN id="token-9-51" pos="word" morph="none" start_char="2430" end_char="2443">sürdürülmesine</TOKEN>
+<TOKEN id="token-9-52" pos="word" morph="none" start_char="2445" end_char="2456">çalışacaktır</TOKEN>
+<TOKEN id="token-9-53" pos="punct" morph="none" start_char="2457" end_char="2458">,"</TOKEN>
+<TOKEN id="token-9-54" pos="word" morph="none" start_char="2460" end_char="2466">denildi</TOKEN>
+<TOKEN id="token-9-55" pos="punct" morph="none" start_char="2467" end_char="2467">.</TOKEN>
+<TOKEN id="token-9-56" pos="word" morph="none" start_char="2468" end_char="2474">Türkiye</TOKEN>
+<TOKEN id="token-9-57" pos="punct" morph="none" start_char="2475" end_char="2475">,</TOKEN>
+<TOKEN id="token-9-58" pos="word" morph="none" start_char="2477" end_char="2484">Güvenlik</TOKEN>
+<TOKEN id="token-9-59" pos="word" morph="none" start_char="2486" end_char="2492">Konseyi</TOKEN>
+<TOKEN id="token-9-60" pos="word" morph="none" start_char="2494" end_char="2500">üyeliği</TOKEN>
+<TOKEN id="token-9-61" pos="word" morph="none" start_char="2502" end_char="2505">için</TOKEN>
+<TOKEN id="token-9-62" pos="word" morph="none" start_char="2507" end_char="2510">uzun</TOKEN>
+<TOKEN id="token-9-63" pos="word" morph="none" start_char="2512" end_char="2518">süredir</TOKEN>
+<TOKEN id="token-9-64" pos="word" morph="none" start_char="2520" end_char="2523">lobi</TOKEN>
+<TOKEN id="token-9-65" pos="word" morph="none" start_char="2525" end_char="2538">faaliyetlerini</TOKEN>
+<TOKEN id="token-9-66" pos="word" morph="none" start_char="2540" end_char="2551">sürdürüyordu</TOKEN>
+<TOKEN id="token-9-67" pos="punct" morph="none" start_char="2552" end_char="2552">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="2554" end_char="2648">
+<ORIGINAL_TEXT>Geçen ay BM Genel Kuruluʼna hitap eden Cumhurbaşkanı Abdullah Gül, Türkiyeʼye destek istemişti.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="2554" end_char="2558">Geçen</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="2560" end_char="2561">ay</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="2563" end_char="2564">BM</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="2566" end_char="2570">Genel</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="2572" end_char="2580">Kuruluʼna</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="2582" end_char="2586">hitap</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="2588" end_char="2591">eden</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="2593" end_char="2605">Cumhurbaşkanı</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="2607" end_char="2614">Abdullah</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="2616" end_char="2618">Gül</TOKEN>
+<TOKEN id="token-10-10" pos="punct" morph="none" start_char="2619" end_char="2619">,</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="2621" end_char="2630">Türkiyeʼye</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="2632" end_char="2637">destek</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="2639" end_char="2647">istemişti</TOKEN>
+<TOKEN id="token-10-14" pos="punct" morph="none" start_char="2648" end_char="2648">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="2650" end_char="2798">
+<ORIGINAL_TEXT>Gülʼle birlikte Amerikaʼya gelen Dışişleri Bakanı Ali Babacan da Güvenlik Konseyi üyeliğine destek amacıyla çok sayıda liderle temaslarda bulunmuştu.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="2650" end_char="2655">Gülʼle</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="2657" end_char="2664">birlikte</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="2666" end_char="2675">Amerikaʼya</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="2677" end_char="2681">gelen</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="2683" end_char="2691">Dışişleri</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="2693" end_char="2698">Bakanı</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="2700" end_char="2702">Ali</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="2704" end_char="2710">Babacan</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="2712" end_char="2713">da</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="2715" end_char="2722">Güvenlik</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="2724" end_char="2730">Konseyi</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="2732" end_char="2740">üyeliğine</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="2742" end_char="2747">destek</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="2749" end_char="2756">amacıyla</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="2758" end_char="2760">çok</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="2762" end_char="2767">sayıda</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="2769" end_char="2775">liderle</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="2777" end_char="2786">temaslarda</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="2788" end_char="2797">bulunmuştu</TOKEN>
+<TOKEN id="token-11-19" pos="punct" morph="none" start_char="2798" end_char="2798">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="2800" end_char="2839">
+<ORIGINAL_TEXT>Güvenlik Konseyi BMʼnin en güçlü organı.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="2800" end_char="2807">Güvenlik</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="2809" end_char="2815">Konseyi</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="2817" end_char="2822">BMʼnin</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="2824" end_char="2825">en</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="2827" end_char="2831">güçlü</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="2833" end_char="2838">organı</TOKEN>
+<TOKEN id="token-12-6" pos="punct" morph="none" start_char="2839" end_char="2839">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="2841" end_char="2938">
+<ORIGINAL_TEXT>Diğer organların aksine Güvenlik Konseyiʼnin karar ve yaptırımları tüm üye ülkeler için bağlayıcı.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="2841" end_char="2845">Diğer</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="2847" end_char="2856">organların</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="2858" end_char="2863">aksine</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="2865" end_char="2872">Güvenlik</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="2874" end_char="2884">Konseyiʼnin</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="2886" end_char="2890">karar</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="2892" end_char="2893">ve</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="2895" end_char="2906">yaptırımları</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="2908" end_char="2910">tüm</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="2912" end_char="2914">üye</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="2916" end_char="2922">ülkeler</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="2924" end_char="2927">için</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="2929" end_char="2937">bağlayıcı</TOKEN>
+<TOKEN id="token-13-13" pos="punct" morph="none" start_char="2938" end_char="2938">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2940" end_char="3069">
+<ORIGINAL_TEXT>Üyeliğin, Türkiyeʼnin Kıbrıs, Irak ve Kafkasya gibi kritik konularda kendi tezini doğrudan anlatmasına imkan sağlaması bekleniyor.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="2940" end_char="2947">Üyeliğin</TOKEN>
+<TOKEN id="token-14-1" pos="punct" morph="none" start_char="2948" end_char="2948">,</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="2950" end_char="2960">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="2962" end_char="2967">Kıbrıs</TOKEN>
+<TOKEN id="token-14-4" pos="punct" morph="none" start_char="2968" end_char="2968">,</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="2970" end_char="2973">Irak</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2975" end_char="2976">ve</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2978" end_char="2985">Kafkasya</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2987" end_char="2990">gibi</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2992" end_char="2997">kritik</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2999" end_char="3007">konularda</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="3009" end_char="3013">kendi</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="3015" end_char="3020">tezini</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="3022" end_char="3029">doğrudan</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="3031" end_char="3041">anlatmasına</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="3043" end_char="3047">imkan</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="3049" end_char="3057">sağlaması</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="3059" end_char="3068">bekleniyor</TOKEN>
+<TOKEN id="token-14-18" pos="punct" morph="none" start_char="3069" end_char="3069">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="3071" end_char="3147">
+<ORIGINAL_TEXT>Ancak Güvenlik Konseyi üyeliği, gerektiğinde sert tavır koymayı gerektiriyor.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="3071" end_char="3075">Ancak</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="3077" end_char="3084">Güvenlik</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="3086" end_char="3092">Konseyi</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="3094" end_char="3100">üyeliği</TOKEN>
+<TOKEN id="token-15-4" pos="punct" morph="none" start_char="3101" end_char="3101">,</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="3103" end_char="3114">gerektiğinde</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="3116" end_char="3119">sert</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="3121" end_char="3125">tavır</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="3127" end_char="3133">koymayı</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="3135" end_char="3146">gerektiriyor</TOKEN>
+<TOKEN id="token-15-10" pos="punct" morph="none" start_char="3147" end_char="3147">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="3149" end_char="3254">
+<ORIGINAL_TEXT>Türkiye gerektiğinde İran, Ortadoğu veya Rusya-Gürcistan sorunlarında net bir tavır ortaya koymak zorunda.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="3149" end_char="3155">Türkiye</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="3157" end_char="3168">gerektiğinde</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="3170" end_char="3173">İran</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="3174" end_char="3174">,</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="3176" end_char="3183">Ortadoğu</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="3185" end_char="3188">veya</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="3190" end_char="3194">Rusya</TOKEN>
+<TOKEN id="token-16-7" pos="punct" morph="none" start_char="3195" end_char="3195">-</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="3196" end_char="3204">Gürcistan</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="3206" end_char="3217">sorunlarında</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="3219" end_char="3221">net</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="3223" end_char="3225">bir</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="3227" end_char="3231">tavır</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="3233" end_char="3238">ortaya</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="3240" end_char="3245">koymak</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="3247" end_char="3253">zorunda</TOKEN>
+<TOKEN id="token-16-16" pos="punct" morph="none" start_char="3254" end_char="3254">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="3256" end_char="3348">
+<ORIGINAL_TEXT>Bunun da Türkiyeʼnin son dönemde üstlendiği arabulucuk rolüyle çelişmesinden kaygı duluyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="3256" end_char="3260">Bunun</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="3262" end_char="3263">da</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="3265" end_char="3275">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="3277" end_char="3279">son</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="3281" end_char="3287">dönemde</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="3289" end_char="3298">üstlendiği</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="3300" end_char="3309">arabulucuk</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="3311" end_char="3317">rolüyle</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="3319" end_char="3331">çelişmesinden</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="3333" end_char="3337">kaygı</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="3339" end_char="3347">duluyordu</TOKEN>
+<TOKEN id="token-17-11" pos="punct" morph="none" start_char="3348" end_char="3348">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="3350" end_char="3518">
+<ORIGINAL_TEXT>Ancak Dışişleri Bakanı Ali Babacan, Türkiyeʼnin bölgesel rollerinin, BM Güvenlik Konseyi üyeliğinin gerektirdiği görevleri yerine getirmesine yardımcı olacağını savundu.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="3350" end_char="3354">Ancak</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="3356" end_char="3364">Dışişleri</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="3366" end_char="3371">Bakanı</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="3373" end_char="3375">Ali</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="3377" end_char="3383">Babacan</TOKEN>
+<TOKEN id="token-18-5" pos="punct" morph="none" start_char="3384" end_char="3384">,</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="3386" end_char="3396">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="3398" end_char="3405">bölgesel</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="3407" end_char="3416">rollerinin</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="3417" end_char="3417">,</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="3419" end_char="3420">BM</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="3422" end_char="3429">Güvenlik</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="3431" end_char="3437">Konseyi</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="3439" end_char="3448">üyeliğinin</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="3450" end_char="3461">gerektirdiği</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="3463" end_char="3471">görevleri</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="3473" end_char="3478">yerine</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="3480" end_char="3490">getirmesine</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="3492" end_char="3499">yardımcı</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="3501" end_char="3509">olacağını</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="3511" end_char="3517">savundu</TOKEN>
+<TOKEN id="token-18-21" pos="punct" morph="none" start_char="3518" end_char="3518">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="3520" end_char="3635">
+<ORIGINAL_TEXT>En son 1961 yılında Güvenlik Konseyi geçici üyesi seçilen Türkiyeʼnin 2009 - 2010 üyeliği 1 Ocak 2009ʼda başlayacak.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="3520" end_char="3521">En</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="3523" end_char="3525">son</TOKEN>
+<TOKEN id="token-19-2" pos="number" morph="none" start_char="3527" end_char="3530">1961</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="3532" end_char="3538">yılında</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="3540" end_char="3547">Güvenlik</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="3549" end_char="3555">Konseyi</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="3557" end_char="3562">geçici</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="3564" end_char="3568">üyesi</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="3570" end_char="3576">seçilen</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="3578" end_char="3588">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-19-10" pos="number" morph="none" start_char="3590" end_char="3593">2009</TOKEN>
+<TOKEN id="token-19-11" pos="unknown" morph="none" start_char="3595" end_char="3595">-</TOKEN>
+<TOKEN id="token-19-12" pos="number" morph="none" start_char="3597" end_char="3600">2010</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="3602" end_char="3608">üyeliği</TOKEN>
+<TOKEN id="token-19-14" pos="number" morph="none" start_char="3610" end_char="3610">1</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="3612" end_char="3615">Ocak</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="3617" end_char="3623">2009ʼda</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="3625" end_char="3634">başlayacak</TOKEN>
+<TOKEN id="token-19-18" pos="punct" morph="none" start_char="3635" end_char="3635">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

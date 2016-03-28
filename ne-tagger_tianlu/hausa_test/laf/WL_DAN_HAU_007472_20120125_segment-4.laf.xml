@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="HAU">
+  <DOC id="WL_DAN_HAU_007472_20120125_segment-4" lang="HAU">
+    <ANNOTATION id="WL_DAN_HAU_007472_20120125-ann-9" task="NE" type="PER">
+      <EXTENT start_char="751" end_char="766">Uzairu Abdullahi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007472_20120125-ann-10" task="NE" type="LOC">
+      <EXTENT start_char="832" end_char="844">kasuwar Kwari</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007472_20120125-ann-11" task="NE" type="LOC">
+      <EXTENT start_char="852" end_char="862">birnin Kano</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007472_20120125-ann-12" task="NE" type="ORG">
+      <EXTENT start_char="976" end_char="994">kungiyar Boko Haram</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

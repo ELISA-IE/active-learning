@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_ZAM_TUR_0000362_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="4">Kilis</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="53" end_char="57">Kilis</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="210" end_char="214">Kilis</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="ORG">
+      <EXTENT start_char="219" end_char="240">Milli Eğitim Müdürlüğü</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="ORG">
+      <EXTENT start_char="319" end_char="332">Kilis Valiliği</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="PER">
+      <EXTENT start_char="367" end_char="379">Nevzat Turhan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="TTL">
+      <EXTENT start_char="362" end_char="365">Vali</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="TTL">
+      <EXTENT start_char="579" end_char="582">Vali</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="PER">
+      <EXTENT start_char="584" end_char="589">Turhan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="PER">
+      <EXTENT start_char="685" end_char="690">Turhan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="ORG">
+      <EXTENT start_char="793" end_char="814">Kilis Devlet Hastanesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="ORG">
+      <EXTENT start_char="852" end_char="877">Gaziantep Devlet Hastanesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="LOC">
+      <EXTENT start_char="1114" end_char="1118">Kilis</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="1123" end_char="1143">Gazi İlköğretim Okulu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="ORG">
+      <EXTENT start_char="1228" end_char="1252">İl Milli Eğitim Müdürlüğü</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="ORG">
+      <EXTENT start_char="1257" end_char="1272">sağlık müdürlüğü</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

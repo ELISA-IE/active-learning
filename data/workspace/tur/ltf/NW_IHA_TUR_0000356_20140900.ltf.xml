@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_IHA_TUR_0000356_20140900" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="3160" raw_text_md5="c1f6db149b154ffb652635f8a0ca0295">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="81">
+<ORIGINAL_TEXT>Berbere giderken dikkat!Memorial Diyarbakır Hastanesi gastroenteroloji uzmanı Doç.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="Berber:berber=NOUN e:e=CASE_DAT" start_char="0" end_char="6">Berbere</TOKEN>
+<TOKEN id="token-0-1" pos="VERB" morph="giderken:giderken=VERB" start_char="8" end_char="15">giderken</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="dikkat:dikkat=NOUN" start_char="17" end_char="22">dikkat</TOKEN>
+<TOKEN id="token-0-3" pos="." morph="none" start_char="23" end_char="23">!</TOKEN>
+<TOKEN id="token-0-4" pos="NOUN" morph="Memorial:memorial=NOUN" start_char="24" end_char="31">Memorial</TOKEN>
+<TOKEN id="token-0-5" pos="NOUN" morph="Diyarbakır:diyarbakır=NOUN" start_char="33" end_char="42">Diyarbakır</TOKEN>
+<TOKEN id="token-0-6" pos="NOUN" morph="Hastane:hastane=NOUN si:si=POSS_3S" start_char="44" end_char="52">Hastanesi</TOKEN>
+<TOKEN id="token-0-7" pos="NOUN" morph="gastroenteroloji:gastroenteroloji=NOUN" start_char="54" end_char="69">gastroenteroloji</TOKEN>
+<TOKEN id="token-0-8" pos="NOUN" morph="uzman:uzman=NOUN ı:ı=POSS_3S" start_char="71" end_char="76">uzmanı</TOKEN>
+<TOKEN id="token-0-9" pos="X" morph="unanalyzable" start_char="78" end_char="80">Doç</TOKEN>
+<TOKEN id="token-0-10" pos="." morph="none" start_char="81" end_char="81">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="83" end_char="85">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="X" morph="unanalyzable" start_char="83" end_char="84">Dr</TOKEN>
+<TOKEN id="token-1-1" pos="." morph="none" start_char="85" end_char="85">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="87" end_char="278">
+<ORIGINAL_TEXT>Mehmet Dursun, hepatit Bʼnin kan yolu ile bulaştığını belirterek, berberlerde tıraş olurken hijyenik olmayan malzemelerin kullanılmasının da hepatit Bʼye yakalanma riskini arttırdığını söyledi</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="NOUN" morph="Mehmet:mehmet=NOUN" start_char="87" end_char="92">Mehmet</TOKEN>
+<TOKEN id="token-2-1" pos="NOUN" morph="Dursun:dursun=NOUN" start_char="94" end_char="99">Dursun</TOKEN>
+<TOKEN id="token-2-2" pos="." morph="none" start_char="100" end_char="100">,</TOKEN>
+<TOKEN id="token-2-3" pos="NOUN" morph="hepatit:hepatit=NOUN" start_char="102" end_char="108">hepatit</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="Bʼ:bʼ=NOUN nin:nin=CASE_GEN" start_char="110" end_char="114">Bʼnin</TOKEN>
+<TOKEN id="token-2-5" pos="NOUN" morph="kan:kan=NOUN" start_char="116" end_char="118">kan</TOKEN>
+<TOKEN id="token-2-6" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="120" end_char="123">yolu</TOKEN>
+<TOKEN id="token-2-7" pos="CONJ" morph="ile:ile=CONJ" start_char="125" end_char="127">ile</TOKEN>
+<TOKEN id="token-2-8" pos="ADJ" morph="bulaş:bulaş=VERB tığ:tığ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="129" end_char="139">bulaştığını</TOKEN>
+<TOKEN id="token-2-9" pos="ADV" morph="belirt:belirt=VERB erek:erek=GER" start_char="141" end_char="150">belirterek</TOKEN>
+<TOKEN id="token-2-10" pos="." morph="none" start_char="151" end_char="151">,</TOKEN>
+<TOKEN id="token-2-11" pos="NOUN" morph="berber:berber=NOUN ler:ler=PLURAL de:de=CASE_LOC" start_char="153" end_char="163">berberlerde</TOKEN>
+<TOKEN id="token-2-12" pos="NOUN" morph="tıraş:tıraş=NOUN" start_char="165" end_char="169">tıraş</TOKEN>
+<TOKEN id="token-2-13" pos="VERB" morph="olurken:olurken=VERB" start_char="171" end_char="177">olurken</TOKEN>
+<TOKEN id="token-2-14" pos="NOUN" morph="hijyenik:hijyenik=NOUN" start_char="179" end_char="186">hijyenik</TOKEN>
+<TOKEN id="token-2-15" pos="ADJ" morph="olma:olma=VERB yan:yan=PARTICIPLE" start_char="188" end_char="194">olmayan</TOKEN>
+<TOKEN id="token-2-16" pos="NOUN" morph="malzeme:malzeme=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="196" end_char="207">malzemelerin</TOKEN>
+<TOKEN id="token-2-17" pos="NOUN" morph="kullanılma:kullanılma=NOUN sı:sı=POSS_3S nın:nın=CASE_GEN" start_char="209" end_char="223">kullanılmasının</TOKEN>
+<TOKEN id="token-2-18" pos="ADP" morph="da:da=POSTP" start_char="225" end_char="226">da</TOKEN>
+<TOKEN id="token-2-19" pos="NOUN" morph="hepatit:hepatit=NOUN" start_char="228" end_char="234">hepatit</TOKEN>
+<TOKEN id="token-2-20" pos="NOUN" morph="Bʼ:bʼ=NOUN ye:ye=CASE_DAT" start_char="236" end_char="239">Bʼye</TOKEN>
+<TOKEN id="token-2-21" pos="VERB" morph="yakalan:yakalan=VERB ma:ma=NEG" start_char="241" end_char="249">yakalanma</TOKEN>
+<TOKEN id="token-2-22" pos="NOUN" morph="risk:risk=NOUN i:i=POSS_3S ni:ni=CASE_ACC" start_char="251" end_char="257">riskini</TOKEN>
+<TOKEN id="token-2-23" pos="ADJ" morph="arttır:arttır=VERB dığ:dığ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="259" end_char="270">arttırdığını</TOKEN>
+<TOKEN id="token-2-24" pos="VERB" morph="söyle:söyle=VERB di:di=DIPAST" start_char="272" end_char="278">söyledi</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="281" end_char="390">
+<ORIGINAL_TEXT>Hepatit Bʼnin kan yolu ile olduğu gibi cinsellik, anne karnında alma gibi yollarla da bulaştığını aktaran Doç.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Hepatit:hepatit=NOUN" start_char="281" end_char="287">Hepatit</TOKEN>
+<TOKEN id="token-3-1" pos="NOUN" morph="Bʼ:bʼ=NOUN nin:nin=CASE_GEN" start_char="289" end_char="293">Bʼnin</TOKEN>
+<TOKEN id="token-3-2" pos="NOUN" morph="kan:kan=NOUN" start_char="295" end_char="297">kan</TOKEN>
+<TOKEN id="token-3-3" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="299" end_char="302">yolu</TOKEN>
+<TOKEN id="token-3-4" pos="CONJ" morph="ile:ile=CONJ" start_char="304" end_char="306">ile</TOKEN>
+<TOKEN id="token-3-5" pos="ADJ" morph="ol:ol=VERB duğ:duğ=PARTICIPLE u:u=CASE_ACC" start_char="308" end_char="313">olduğu</TOKEN>
+<TOKEN id="token-3-6" pos="ADV" morph="gibi:gibi=ADV" start_char="315" end_char="318">gibi</TOKEN>
+<TOKEN id="token-3-7" pos="NOUN" morph="cinsellik:cinsellik=NOUN" start_char="320" end_char="328">cinsellik</TOKEN>
+<TOKEN id="token-3-8" pos="." morph="none" start_char="329" end_char="329">,</TOKEN>
+<TOKEN id="token-3-9" pos="NOUN" morph="anne:anne=NOUN" start_char="331" end_char="334">anne</TOKEN>
+<TOKEN id="token-3-10" pos="NOUN" morph="karnı:karnı=NOUN n:n=POSS_2S da:da=CASE_LOC" start_char="336" end_char="343">karnında</TOKEN>
+<TOKEN id="token-3-11" pos="VERB" morph="al:al=VERB ma:ma=NEG" start_char="345" end_char="348">alma</TOKEN>
+<TOKEN id="token-3-12" pos="ADV" morph="gibi:gibi=ADV" start_char="350" end_char="353">gibi</TOKEN>
+<TOKEN id="token-3-13" pos="NOUN" morph="yol:yol=NOUN lar:lar=PLURAL la:la=CASE_INS" start_char="355" end_char="362">yollarla</TOKEN>
+<TOKEN id="token-3-14" pos="ADP" morph="da:da=POSTP" start_char="364" end_char="365">da</TOKEN>
+<TOKEN id="token-3-15" pos="ADJ" morph="bulaş:bulaş=VERB tığ:tığ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="367" end_char="377">bulaştığını</TOKEN>
+<TOKEN id="token-3-16" pos="ADJ" morph="aktar:aktar=VERB an:an=PARTICIPLE" start_char="379" end_char="385">aktaran</TOKEN>
+<TOKEN id="token-3-17" pos="X" morph="unanalyzable" start_char="387" end_char="389">Doç</TOKEN>
+<TOKEN id="token-3-18" pos="." morph="none" start_char="390" end_char="390">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="392" end_char="394">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="X" morph="unanalyzable" start_char="392" end_char="393">Dr</TOKEN>
+<TOKEN id="token-4-1" pos="." morph="none" start_char="394" end_char="394">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="396" end_char="500">
+<ORIGINAL_TEXT>Dursun, bulaşma nedenlerinin en önemli olanının berberlerde tıraş olurken kan yolu ile olduğunu kaydetti.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="NOUN" morph="Dursun:dursun=NOUN" start_char="396" end_char="401">Dursun</TOKEN>
+<TOKEN id="token-5-1" pos="." morph="none" start_char="402" end_char="402">,</TOKEN>
+<TOKEN id="token-5-2" pos="VERB" morph="bulaş:bulaş=VERB ma:ma=NEG" start_char="404" end_char="410">bulaşma</TOKEN>
+<TOKEN id="token-5-3" pos="NOUN" morph="neden:neden=NOUN ler:ler=PLURAL i:i=POSS_3S nin:nin=CASE_GEN" start_char="412" end_char="423">nedenlerinin</TOKEN>
+<TOKEN id="token-5-4" pos="ADJ" morph="en:en=ADJ" start_char="425" end_char="426">en</TOKEN>
+<TOKEN id="token-5-5" pos="ADJ" morph="önemli:önemli=ADJ" start_char="428" end_char="433">önemli</TOKEN>
+<TOKEN id="token-5-6" pos="NOUN" morph="olan:olan=NOUN ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="435" end_char="442">olanının</TOKEN>
+<TOKEN id="token-5-7" pos="NOUN" morph="berber:berber=NOUN ler:ler=PLURAL de:de=CASE_LOC" start_char="444" end_char="454">berberlerde</TOKEN>
+<TOKEN id="token-5-8" pos="NOUN" morph="tıraş:tıraş=NOUN" start_char="456" end_char="460">tıraş</TOKEN>
+<TOKEN id="token-5-9" pos="VERB" morph="olurken:olurken=VERB" start_char="462" end_char="468">olurken</TOKEN>
+<TOKEN id="token-5-10" pos="NOUN" morph="kan:kan=NOUN" start_char="470" end_char="472">kan</TOKEN>
+<TOKEN id="token-5-11" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="474" end_char="477">yolu</TOKEN>
+<TOKEN id="token-5-12" pos="CONJ" morph="ile:ile=CONJ" start_char="479" end_char="481">ile</TOKEN>
+<TOKEN id="token-5-13" pos="ADJ" morph="ol:ol=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="483" end_char="490">olduğunu</TOKEN>
+<TOKEN id="token-5-14" pos="VERB" morph="kaydet:kaydet=VERB ti:ti=DIPAST" start_char="492" end_char="499">kaydetti</TOKEN>
+<TOKEN id="token-5-15" pos="." morph="none" start_char="500" end_char="500">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="502" end_char="508">
+<ORIGINAL_TEXT>Doç Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="X" morph="unanalyzable" start_char="502" end_char="504">Doç</TOKEN>
+<TOKEN id="token-6-1" pos="X" morph="unanalyzable" start_char="506" end_char="507">Dr</TOKEN>
+<TOKEN id="token-6-2" pos="." morph="none" start_char="508" end_char="508">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="510" end_char="550">
+<ORIGINAL_TEXT>Dursun, "Hepatit B viral bir hastalıktır.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="NOUN" morph="Dursun:dursun=NOUN" start_char="510" end_char="515">Dursun</TOKEN>
+<TOKEN id="token-7-1" pos="." morph="none" start_char="516" end_char="516">,</TOKEN>
+<TOKEN id="token-7-2" pos="." morph="none" start_char="518" end_char="518">"</TOKEN>
+<TOKEN id="token-7-3" pos="NOUN" morph="Hepatit:hepatit=NOUN" start_char="519" end_char="525">Hepatit</TOKEN>
+<TOKEN id="token-7-4" pos="NOUN" morph="B:b=NOUN" start_char="527" end_char="527">B</TOKEN>
+<TOKEN id="token-7-5" pos="NOUN" morph="viral:viral=NOUN" start_char="529" end_char="533">viral</TOKEN>
+<TOKEN id="token-7-6" pos="NUM" morph="bir:bir=NUM" start_char="535" end_char="537">bir</TOKEN>
+<TOKEN id="token-7-7" pos="VERB" morph="hastalıktır:hastalıktır=VERB" start_char="539" end_char="549">hastalıktır</TOKEN>
+<TOKEN id="token-7-8" pos="." morph="none" start_char="550" end_char="550">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="552" end_char="625">
+<ORIGINAL_TEXT>Hepatit B virüsü denilen bir virüs tarafından oluşturulan bir hastalıktır.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="NOUN" morph="Hepatit:hepatit=NOUN" start_char="552" end_char="558">Hepatit</TOKEN>
+<TOKEN id="token-8-1" pos="NOUN" morph="B:b=NOUN" start_char="560" end_char="560">B</TOKEN>
+<TOKEN id="token-8-2" pos="NOUN" morph="virüs:virüs=NOUN ü:ü=CASE_ACC" start_char="562" end_char="567">virüsü</TOKEN>
+<TOKEN id="token-8-3" pos="ADJ" morph="denilen:denilen=ADJ" start_char="569" end_char="575">denilen</TOKEN>
+<TOKEN id="token-8-4" pos="NUM" morph="bir:bir=NUM" start_char="577" end_char="579">bir</TOKEN>
+<TOKEN id="token-8-5" pos="NOUN" morph="virüs:virüs=NOUN" start_char="581" end_char="585">virüs</TOKEN>
+<TOKEN id="token-8-6" pos="ADP" morph="tarafından:tarafından=POSTP" start_char="587" end_char="596">tarafından</TOKEN>
+<TOKEN id="token-8-7" pos="VERB" morph="oluşturulan:oluşturulan=VERB" start_char="598" end_char="608">oluşturulan</TOKEN>
+<TOKEN id="token-8-8" pos="NUM" morph="bir:bir=NUM" start_char="610" end_char="612">bir</TOKEN>
+<TOKEN id="token-8-9" pos="NOUN" morph="hastalıktır:hastalıktır=NOUN" start_char="614" end_char="624">hastalıktır</TOKEN>
+<TOKEN id="token-8-10" pos="." morph="none" start_char="625" end_char="625">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="627" end_char="737">
+<ORIGINAL_TEXT>Karaciğere yerleşmesi ile bilinen ve karaciğere eriştikten burada önemli rahatsızlıklar oluşturan bir virüstür.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="NOUN" morph="Karaciğer:karaciğer=NOUN e:e=CASE_DAT" start_char="627" end_char="636">Karaciğere</TOKEN>
+<TOKEN id="token-9-1" pos="NOUN" morph="yerleşme:yerleşme=NOUN si:si=POSS_3S" start_char="638" end_char="647">yerleşmesi</TOKEN>
+<TOKEN id="token-9-2" pos="CONJ" morph="ile:ile=CONJ" start_char="649" end_char="651">ile</TOKEN>
+<TOKEN id="token-9-3" pos="ADJ" morph="bilinen:bilinen=ADJ" start_char="653" end_char="659">bilinen</TOKEN>
+<TOKEN id="token-9-4" pos="CONJ" morph="ve:ve=CONJ" start_char="661" end_char="662">ve</TOKEN>
+<TOKEN id="token-9-5" pos="NOUN" morph="karaciğer:karaciğer=NOUN e:e=CASE_DAT" start_char="664" end_char="673">karaciğere</TOKEN>
+<TOKEN id="token-9-6" pos="ADJ" morph="eriş:eriş=VERB tik:tik=PARTICIPLE ten:ten=CASE_ABL" start_char="675" end_char="684">eriştikten</TOKEN>
+<TOKEN id="token-9-7" pos="ADV" morph="burada:burada=ADV" start_char="686" end_char="691">burada</TOKEN>
+<TOKEN id="token-9-8" pos="ADJ" morph="önemli:önemli=ADJ" start_char="693" end_char="698">önemli</TOKEN>
+<TOKEN id="token-9-9" pos="NOUN" morph="rahatsızlık:rahatsızlık=NOUN lar:lar=PLURAL" start_char="700" end_char="713">rahatsızlıklar</TOKEN>
+<TOKEN id="token-9-10" pos="ADJ" morph="oluşturan:oluşturan=ADJ" start_char="715" end_char="723">oluşturan</TOKEN>
+<TOKEN id="token-9-11" pos="NUM" morph="bir:bir=NUM" start_char="725" end_char="727">bir</TOKEN>
+<TOKEN id="token-9-12" pos="VERB" morph="virüstür:virüstür=VERB" start_char="729" end_char="736">virüstür</TOKEN>
+<TOKEN id="token-9-13" pos="." morph="none" start_char="737" end_char="737">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="739" end_char="777">
+<ORIGINAL_TEXT>Hastalığın temel bulaşı kan yoluyladır.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="NOUN" morph="Hastalığ:hastalık=NOUN ın:ın=CASE_GEN" start_char="739" end_char="748">Hastalığın</TOKEN>
+<TOKEN id="token-10-1" pos="NOUN" morph="temel:temel=NOUN" start_char="750" end_char="754">temel</TOKEN>
+<TOKEN id="token-10-2" pos="NOUN" morph="bulaş:bulaş=NOUN ı:ı=POSS_3S" start_char="756" end_char="761">bulaşı</TOKEN>
+<TOKEN id="token-10-3" pos="NOUN" morph="kan:kan=NOUN" start_char="763" end_char="765">kan</TOKEN>
+<TOKEN id="token-10-4" pos="VERB" morph="yoluyladır:yoluyladır=VERB" start_char="767" end_char="776">yoluyladır</TOKEN>
+<TOKEN id="token-10-5" pos="." morph="none" start_char="777" end_char="777">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="779" end_char="830">
+<ORIGINAL_TEXT>Cinsel yolla ya da anneden çocuğa geçiş yolu iledir.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="NOUN" morph="Cinsel:cinsel=NOUN" start_char="779" end_char="784">Cinsel</TOKEN>
+<TOKEN id="token-11-1" pos="NOUN" morph="yol:yol=NOUN la:la=CASE_INS" start_char="786" end_char="790">yolla</TOKEN>
+<TOKEN id="token-11-2" pos="CONJ" morph="ya:ya=CONJ" start_char="792" end_char="793">ya</TOKEN>
+<TOKEN id="token-11-3" pos="CONJ" morph="da:da=CONJ" start_char="795" end_char="796">da</TOKEN>
+<TOKEN id="token-11-4" pos="NOUN" morph="anne:anne=NOUN den:den=CASE_ABL" start_char="798" end_char="804">anneden</TOKEN>
+<TOKEN id="token-11-5" pos="NOUN" morph="çocuğ:çocuk=NOUN a:a=CASE_DAT" start_char="806" end_char="811">çocuğa</TOKEN>
+<TOKEN id="token-11-6" pos="ADJ" morph="geçiş:geçiş=ADJ" start_char="813" end_char="817">geçiş</TOKEN>
+<TOKEN id="token-11-7" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="819" end_char="822">yolu</TOKEN>
+<TOKEN id="token-11-8" pos="CONJ" morph="iledir:iledir=CONJ" start_char="824" end_char="829">iledir</TOKEN>
+<TOKEN id="token-11-9" pos="." morph="none" start_char="830" end_char="830">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="832" end_char="921">
+<ORIGINAL_TEXT>Cinsel yolu ile ve kan yolu ile bulaşlar aslında çok sık olarak görülen bulaşlar değildir.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="NOUN" morph="Cinsel:cinsel=NOUN" start_char="832" end_char="837">Cinsel</TOKEN>
+<TOKEN id="token-12-1" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="839" end_char="842">yolu</TOKEN>
+<TOKEN id="token-12-2" pos="CONJ" morph="ile:ile=CONJ" start_char="844" end_char="846">ile</TOKEN>
+<TOKEN id="token-12-3" pos="CONJ" morph="ve:ve=CONJ" start_char="848" end_char="849">ve</TOKEN>
+<TOKEN id="token-12-4" pos="NOUN" morph="kan:kan=NOUN" start_char="851" end_char="853">kan</TOKEN>
+<TOKEN id="token-12-5" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="855" end_char="858">yolu</TOKEN>
+<TOKEN id="token-12-6" pos="CONJ" morph="ile:ile=CONJ" start_char="860" end_char="862">ile</TOKEN>
+<TOKEN id="token-12-7" pos="X" morph="unanalyzable" start_char="864" end_char="871">bulaşlar</TOKEN>
+<TOKEN id="token-12-8" pos="ADV" morph="aslında:aslında=ADV" start_char="873" end_char="879">aslında</TOKEN>
+<TOKEN id="token-12-9" pos="ADJ" morph="çok:çok=ADJ" start_char="881" end_char="883">çok</TOKEN>
+<TOKEN id="token-12-10" pos="ADJ" morph="sık:sık=ADJ" start_char="885" end_char="887">sık</TOKEN>
+<TOKEN id="token-12-11" pos="ADV" morph="ol:ol=VERB arak:arak=GER" start_char="889" end_char="894">olarak</TOKEN>
+<TOKEN id="token-12-12" pos="ADJ" morph="görül:görül=VERB en:en=PARTICIPLE" start_char="896" end_char="902">görülen</TOKEN>
+<TOKEN id="token-12-13" pos="X" morph="unanalyzable" start_char="904" end_char="911">bulaşlar</TOKEN>
+<TOKEN id="token-12-14" pos="VERB" morph="değildir:değildir=VERB" start_char="913" end_char="920">değildir</TOKEN>
+<TOKEN id="token-12-15" pos="." morph="none" start_char="921" end_char="921">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="923" end_char="1238">
+<ORIGINAL_TEXT>Bunun yanında başka yine kan yolu olarak belki ifade edilebilen ama daha sıklıkla olan bulaş yolları şunlardır, örneğin ortak jilet kullanımı, berberlere giderken hijyenik olmayan malzemelerin kullanımı, manikür, pedikürlerde kullanılan malzemelerin kullanımı gibi malzemeler bunun bulaşında rol oynayan etkenlerdir.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="PRON" morph="bu:bu=DEMPRON nun:nun=CASE_GEN" start_char="923" end_char="927">Bunun</TOKEN>
+<TOKEN id="token-13-1" pos="NOUN" morph="yan:yan=NOUN ın:ın=POSS_2S da:da=CASE_LOC" start_char="929" end_char="935">yanında</TOKEN>
+<TOKEN id="token-13-2" pos="ADV" morph="başka:başka=ADV" start_char="937" end_char="941">başka</TOKEN>
+<TOKEN id="token-13-3" pos="ADV" morph="yine:yine=ADV" start_char="943" end_char="946">yine</TOKEN>
+<TOKEN id="token-13-4" pos="NOUN" morph="kan:kan=NOUN" start_char="948" end_char="950">kan</TOKEN>
+<TOKEN id="token-13-5" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="952" end_char="955">yolu</TOKEN>
+<TOKEN id="token-13-6" pos="ADV" morph="ol:ol=VERB arak:arak=GER" start_char="957" end_char="962">olarak</TOKEN>
+<TOKEN id="token-13-7" pos="ADV" morph="belki:belki=ADV" start_char="964" end_char="968">belki</TOKEN>
+<TOKEN id="token-13-8" pos="NOUN" morph="ifade:ifade=NOUN" start_char="970" end_char="974">ifade</TOKEN>
+<TOKEN id="token-13-9" pos="VERB" morph="edilebilen:edilebilen=VERB" start_char="976" end_char="985">edilebilen</TOKEN>
+<TOKEN id="token-13-10" pos="CONJ" morph="ama:ama=CONJ" start_char="987" end_char="989">ama</TOKEN>
+<TOKEN id="token-13-11" pos="ADJ" morph="daha:daha=ADJ" start_char="991" end_char="994">daha</TOKEN>
+<TOKEN id="token-13-12" pos="NOUN" morph="sıklık:sıklık=NOUN la:la=CASE_INS" start_char="996" end_char="1003">sıklıkla</TOKEN>
+<TOKEN id="token-13-13" pos="ADJ" morph="ol:ol=VERB an:an=PARTICIPLE" start_char="1005" end_char="1008">olan</TOKEN>
+<TOKEN id="token-13-14" pos="VERB" morph="bulaş:bulaş=VERB" start_char="1010" end_char="1014">bulaş</TOKEN>
+<TOKEN id="token-13-15" pos="NOUN" morph="yol:yol=NOUN lar:lar=PLURAL ı:ı=POSS_3S" start_char="1016" end_char="1022">yolları</TOKEN>
+<TOKEN id="token-13-16" pos="CONJ" morph="şunlardır:şunlardır=CONJ" start_char="1024" end_char="1032">şunlardır</TOKEN>
+<TOKEN id="token-13-17" pos="." morph="none" start_char="1033" end_char="1033">,</TOKEN>
+<TOKEN id="token-13-18" pos="NOUN" morph="örneğ:örnek=NOUN in:in=CASE_GEN" start_char="1035" end_char="1041">örneğin</TOKEN>
+<TOKEN id="token-13-19" pos="NOUN" morph="ortak:ortak=NOUN" start_char="1043" end_char="1047">ortak</TOKEN>
+<TOKEN id="token-13-20" pos="NOUN" morph="jilet:jilet=NOUN" start_char="1049" end_char="1053">jilet</TOKEN>
+<TOKEN id="token-13-21" pos="NOUN" morph="kullanım:kullanım=NOUN ı:ı=CASE_ACC" start_char="1055" end_char="1063">kullanımı</TOKEN>
+<TOKEN id="token-13-22" pos="." morph="none" start_char="1064" end_char="1064">,</TOKEN>
+<TOKEN id="token-13-23" pos="NOUN" morph="berber:berber=NOUN ler:ler=PLURAL e:e=CASE_DAT" start_char="1066" end_char="1075">berberlere</TOKEN>
+<TOKEN id="token-13-24" pos="VERB" morph="giderken:giderken=VERB" start_char="1077" end_char="1084">giderken</TOKEN>
+<TOKEN id="token-13-25" pos="NOUN" morph="hijyenik:hijyenik=NOUN" start_char="1086" end_char="1093">hijyenik</TOKEN>
+<TOKEN id="token-13-26" pos="ADJ" morph="olma:olma=VERB yan:yan=PARTICIPLE" start_char="1095" end_char="1101">olmayan</TOKEN>
+<TOKEN id="token-13-27" pos="NOUN" morph="malzeme:malzeme=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="1103" end_char="1114">malzemelerin</TOKEN>
+<TOKEN id="token-13-28" pos="NOUN" morph="kullanım:kullanım=NOUN ı:ı=POSS_3S" start_char="1116" end_char="1124">kullanımı</TOKEN>
+<TOKEN id="token-13-29" pos="." morph="none" start_char="1125" end_char="1125">,</TOKEN>
+<TOKEN id="token-13-30" pos="NOUN" morph="manikür:manikür=NOUN" start_char="1127" end_char="1133">manikür</TOKEN>
+<TOKEN id="token-13-31" pos="." morph="none" start_char="1134" end_char="1134">,</TOKEN>
+<TOKEN id="token-13-32" pos="NOUN" morph="pedikür:pedikür=NOUN ler:ler=PLURAL de:de=CASE_LOC" start_char="1136" end_char="1147">pedikürlerde</TOKEN>
+<TOKEN id="token-13-33" pos="VERB" morph="kullanılan:kullanılan=VERB" start_char="1149" end_char="1158">kullanılan</TOKEN>
+<TOKEN id="token-13-34" pos="NOUN" morph="malzeme:malzeme=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="1160" end_char="1171">malzemelerin</TOKEN>
+<TOKEN id="token-13-35" pos="NOUN" morph="kullanım:kullanım=NOUN ı:ı=POSS_3S" start_char="1173" end_char="1181">kullanımı</TOKEN>
+<TOKEN id="token-13-36" pos="ADV" morph="gibi:gibi=ADV" start_char="1183" end_char="1186">gibi</TOKEN>
+<TOKEN id="token-13-37" pos="NOUN" morph="malzeme:malzeme=NOUN ler:ler=PLURAL" start_char="1188" end_char="1197">malzemeler</TOKEN>
+<TOKEN id="token-13-38" pos="PRON" morph="bu:bu=DEMPRON nun:nun=CASE_GEN" start_char="1199" end_char="1203">bunun</TOKEN>
+<TOKEN id="token-13-39" pos="NOUN" morph="bulaş:bulaş=NOUN ın:ın=POSS_2S da:da=CASE_LOC" start_char="1205" end_char="1213">bulaşında</TOKEN>
+<TOKEN id="token-13-40" pos="NOUN" morph="rol:rol=NOUN" start_char="1215" end_char="1217">rol</TOKEN>
+<TOKEN id="token-13-41" pos="ADJ" morph="oyna:oyna=VERB yan:yan=PARTICIPLE" start_char="1219" end_char="1225">oynayan</TOKEN>
+<TOKEN id="token-13-42" pos="NOUN" morph="etkenlerdir:etkenlerdir=NOUN" start_char="1227" end_char="1237">etkenlerdir</TOKEN>
+<TOKEN id="token-13-43" pos="." morph="none" start_char="1238" end_char="1238">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1240" end_char="1346">
+<ORIGINAL_TEXT>Bence verilmesi gerek en önemli mesaj, bizim sıklıkla başvurduğumuz yerler, işte berberler, kuaförler gibi.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="NOUN" morph="Bence:bence=NOUN" start_char="1240" end_char="1244">Bence</TOKEN>
+<TOKEN id="token-14-1" pos="NOUN" morph="verilme:verilme=NOUN si:si=POSS_3S" start_char="1246" end_char="1254">verilmesi</TOKEN>
+<TOKEN id="token-14-2" pos="VERB" morph="gerek:gerek=VERB" start_char="1256" end_char="1260">gerek</TOKEN>
+<TOKEN id="token-14-3" pos="ADJ" morph="en:en=ADJ" start_char="1262" end_char="1263">en</TOKEN>
+<TOKEN id="token-14-4" pos="ADJ" morph="önemli:önemli=ADJ" start_char="1265" end_char="1270">önemli</TOKEN>
+<TOKEN id="token-14-5" pos="NOUN" morph="mesaj:mesaj=NOUN" start_char="1272" end_char="1276">mesaj</TOKEN>
+<TOKEN id="token-14-6" pos="." morph="none" start_char="1277" end_char="1277">,</TOKEN>
+<TOKEN id="token-14-7" pos="NOUN" morph="biz:biz=NOUN im:im=POSS_1S" start_char="1279" end_char="1283">bizim</TOKEN>
+<TOKEN id="token-14-8" pos="NOUN" morph="sıklık:sıklık=NOUN la:la=CASE_INS" start_char="1285" end_char="1292">sıklıkla</TOKEN>
+<TOKEN id="token-14-9" pos="ADJ" morph="başvurduğ:başvurduğ=ADJ umuz:umuz=POSS_1P" start_char="1294" end_char="1306">başvurduğumuz</TOKEN>
+<TOKEN id="token-14-10" pos="NOUN" morph="yer:yer=NOUN ler:ler=PLURAL" start_char="1308" end_char="1313">yerler</TOKEN>
+<TOKEN id="token-14-11" pos="." morph="none" start_char="1314" end_char="1314">,</TOKEN>
+<TOKEN id="token-14-12" pos="ADV" morph="işte:işte=ADV" start_char="1316" end_char="1319">işte</TOKEN>
+<TOKEN id="token-14-13" pos="NOUN" morph="berber:berber=NOUN ler:ler=PLURAL" start_char="1321" end_char="1329">berberler</TOKEN>
+<TOKEN id="token-14-14" pos="." morph="none" start_char="1330" end_char="1330">,</TOKEN>
+<TOKEN id="token-14-15" pos="NOUN" morph="kuaför:kuaför=NOUN ler:ler=PLURAL" start_char="1332" end_char="1340">kuaförler</TOKEN>
+<TOKEN id="token-14-16" pos="ADP" morph="gibi:gibi=POSTP" start_char="1342" end_char="1345">gibi</TOKEN>
+<TOKEN id="token-14-17" pos="." morph="none" start_char="1346" end_char="1346">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1348" end_char="1406">
+<ORIGINAL_TEXT>bunların kullandığı malzemelerin hijyenik olması gerekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="PRON" morph="bunlar:bunlar=DEMPRON ın:ın=CASE_GEN" start_char="1348" end_char="1355">bunların</TOKEN>
+<TOKEN id="token-15-1" pos="ADJ" morph="kullan:kullan=VERB dığ:dığ=PARTICIPLE ı:ı=CASE_ACC" start_char="1357" end_char="1366">kullandığı</TOKEN>
+<TOKEN id="token-15-2" pos="NOUN" morph="malzeme:malzeme=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="1368" end_char="1379">malzemelerin</TOKEN>
+<TOKEN id="token-15-3" pos="NOUN" morph="hijyenik:hijyenik=NOUN" start_char="1381" end_char="1388">hijyenik</TOKEN>
+<TOKEN id="token-15-4" pos="NOUN" morph="olma:olma=NOUN sı:sı=POSS_3S" start_char="1390" end_char="1395">olması</TOKEN>
+<TOKEN id="token-15-5" pos="VERB" morph="gerek:gerek=VERB iyor:iyor=PROG" start_char="1397" end_char="1405">gerekiyor</TOKEN>
+<TOKEN id="token-15-6" pos="." morph="none" start_char="1406" end_char="1406">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1408" end_char="1582">
+<ORIGINAL_TEXT>Hijyenik olmadığı taktirde bir öncekine kullandığı malzemeyi bir sonrakine kullandığında ve bir önceki eğer Hepatit Bʼli ise bunu kolaylıkla bir sonraki kişiye bulaştırabilir.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="NOUN" morph="Hijyenik:hijyenik=NOUN" start_char="1408" end_char="1415">Hijyenik</TOKEN>
+<TOKEN id="token-16-1" pos="ADJ" morph="olma:olma=VERB dığ:dığ=PARTICIPLE ı:ı=CASE_ACC" start_char="1417" end_char="1424">olmadığı</TOKEN>
+<TOKEN id="token-16-2" pos="NOUN" morph="taktir:taktir=NOUN de:de=CASE_LOC" start_char="1426" end_char="1433">taktirde</TOKEN>
+<TOKEN id="token-16-3" pos="ADJ" morph="bir:bir=ADJ" start_char="1435" end_char="1437">bir</TOKEN>
+<TOKEN id="token-16-4" pos="NOUN" morph="önceki:önceki=NOUN n:n=POSS_2S e:e=CASE_DAT" start_char="1439" end_char="1446">öncekine</TOKEN>
+<TOKEN id="token-16-5" pos="ADJ" morph="kullan:kullan=VERB dığ:dığ=PARTICIPLE ı:ı=CASE_ACC" start_char="1448" end_char="1457">kullandığı</TOKEN>
+<TOKEN id="token-16-6" pos="NOUN" morph="malzeme:malzeme=NOUN yi:yi=CASE_ACC" start_char="1459" end_char="1467">malzemeyi</TOKEN>
+<TOKEN id="token-16-7" pos="ADJ" morph="bir:bir=ADJ" start_char="1469" end_char="1471">bir</TOKEN>
+<TOKEN id="token-16-8" pos="ADJ" morph="sonraki:sonraki=ADJ n:n=POSS_2S e:e=CASE_DAT" start_char="1473" end_char="1481">sonrakine</TOKEN>
+<TOKEN id="token-16-9" pos="ADJ" morph="kullan:kullan=VERB dığ:dığ=PARTICIPLE ı:ı=POSS_3S nda:nda=CASE_LOC" start_char="1483" end_char="1495">kullandığında</TOKEN>
+<TOKEN id="token-16-10" pos="CONJ" morph="ve:ve=CONJ" start_char="1497" end_char="1498">ve</TOKEN>
+<TOKEN id="token-16-11" pos="ADJ" morph="bir:bir=ADJ" start_char="1500" end_char="1502">bir</TOKEN>
+<TOKEN id="token-16-12" pos="ADV" morph="önceki:önceki=ADV" start_char="1504" end_char="1509">önceki</TOKEN>
+<TOKEN id="token-16-13" pos="ADV" morph="eğer:eğer=ADV" start_char="1511" end_char="1514">eğer</TOKEN>
+<TOKEN id="token-16-14" pos="NOUN" morph="Hepatit:hepatit=NOUN" start_char="1516" end_char="1522">Hepatit</TOKEN>
+<TOKEN id="token-16-15" pos="NOUN" morph="Bʼl:bʼl=NOUN i:i=POSS_3S" start_char="1524" end_char="1527">Bʼli</TOKEN>
+<TOKEN id="token-16-16" pos="CONJ" morph="ise:ise=CONJ" start_char="1529" end_char="1531">ise</TOKEN>
+<TOKEN id="token-16-17" pos="PRON" morph="bu:bu=DEMPRON nu:nu=CASE_ACC" start_char="1533" end_char="1536">bunu</TOKEN>
+<TOKEN id="token-16-18" pos="NOUN" morph="kolaylık:kolaylık=NOUN la:la=CASE_INS" start_char="1538" end_char="1547">kolaylıkla</TOKEN>
+<TOKEN id="token-16-19" pos="ADJ" morph="bir:bir=ADJ" start_char="1549" end_char="1551">bir</TOKEN>
+<TOKEN id="token-16-20" pos="ADJ" morph="sonraki:sonraki=ADJ" start_char="1553" end_char="1559">sonraki</TOKEN>
+<TOKEN id="token-16-21" pos="NOUN" morph="kişi:kişi=NOUN ye:ye=CASE_DAT" start_char="1561" end_char="1566">kişiye</TOKEN>
+<TOKEN id="token-16-22" pos="VERB" morph="bulaş:bulaş=VERB tır:tır=CAUS abil:abil=AFF ir:ir=AOR" start_char="1568" end_char="1581">bulaştırabilir</TOKEN>
+<TOKEN id="token-16-23" pos="." morph="none" start_char="1582" end_char="1582">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1584" end_char="1650">
+<ORIGINAL_TEXT>Bu da o insanın hayatında çok ciddi sonuçlara neden olabilir” dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="PRON" morph="bu:bu=DEMPRON" start_char="1584" end_char="1585">Bu</TOKEN>
+<TOKEN id="token-17-1" pos="CONJ" morph="da:da=CONJ" start_char="1587" end_char="1588">da</TOKEN>
+<TOKEN id="token-17-2" pos="PRON" morph="o:o=PRON_3S" start_char="1590" end_char="1590">o</TOKEN>
+<TOKEN id="token-17-3" pos="NOUN" morph="insan:insan=NOUN ın:ın=CASE_GEN" start_char="1592" end_char="1598">insanın</TOKEN>
+<TOKEN id="token-17-4" pos="NOUN" morph="hayat:hayat=NOUN ın:ın=POSS_2S da:da=CASE_LOC" start_char="1600" end_char="1608">hayatında</TOKEN>
+<TOKEN id="token-17-5" pos="ADJ" morph="çok:çok=ADJ" start_char="1610" end_char="1612">çok</TOKEN>
+<TOKEN id="token-17-6" pos="ADJ" morph="ciddi:ciddi=ADJ" start_char="1614" end_char="1618">ciddi</TOKEN>
+<TOKEN id="token-17-7" pos="NOUN" morph="sonuç:sonuç=NOUN lar:lar=PLURAL a:a=CASE_DAT" start_char="1620" end_char="1628">sonuçlara</TOKEN>
+<TOKEN id="token-17-8" pos="ADV" morph="neden:neden=ADV" start_char="1630" end_char="1634">neden</TOKEN>
+<TOKEN id="token-17-9" pos="VERB" morph="ol:ol=VERB abil:abil=AFF ir:ir=AOR" start_char="1636" end_char="1643">olabilir</TOKEN>
+<TOKEN id="token-17-10" pos="." morph="none" start_char="1644" end_char="1644">”</TOKEN>
+<TOKEN id="token-17-11" pos="VERB" morph="de:de=VERB di:di=DIPAST" start_char="1646" end_char="1649">dedi</TOKEN>
+<TOKEN id="token-17-12" pos="." morph="none" start_char="1650" end_char="1650">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1653" end_char="1803">
+<ORIGINAL_TEXT>Hepatit Bʼnin hiçbir belirtisinin olmayabildiğini dile getiren Dursun, hastalığın çok ileri aşamalara gelmesinden sonra fark edilebildiğini ifade etti.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="NOUN" morph="Hepatit:hepatit=NOUN" start_char="1653" end_char="1659">Hepatit</TOKEN>
+<TOKEN id="token-18-1" pos="NOUN" morph="Bʼ:bʼ=NOUN nin:nin=CASE_GEN" start_char="1661" end_char="1665">Bʼnin</TOKEN>
+<TOKEN id="token-18-2" pos="ADJ" morph="hiçbir:hiçbir=ADJ" start_char="1667" end_char="1672">hiçbir</TOKEN>
+<TOKEN id="token-18-3" pos="NOUN" morph="belirti:belirti=NOUN si:si=POSS_3S nin:nin=CASE_GEN" start_char="1674" end_char="1685">belirtisinin</TOKEN>
+<TOKEN id="token-18-4" pos="VERB" morph="olmayabildiğini:olmayabildiğini=VERB" start_char="1687" end_char="1701">olmayabildiğini</TOKEN>
+<TOKEN id="token-18-5" pos="NOUN" morph="dil:dil=NOUN e:e=CASE_DAT" start_char="1703" end_char="1706">dile</TOKEN>
+<TOKEN id="token-18-6" pos="ADJ" morph="getir:getir=VERB en:en=PARTICIPLE" start_char="1708" end_char="1714">getiren</TOKEN>
+<TOKEN id="token-18-7" pos="NOUN" morph="Dursun:dursun=NOUN" start_char="1716" end_char="1721">Dursun</TOKEN>
+<TOKEN id="token-18-8" pos="." morph="none" start_char="1722" end_char="1722">,</TOKEN>
+<TOKEN id="token-18-9" pos="NOUN" morph="hastalığ:hastalık=NOUN ın:ın=CASE_GEN" start_char="1724" end_char="1733">hastalığın</TOKEN>
+<TOKEN id="token-18-10" pos="ADJ" morph="çok:çok=ADJ" start_char="1735" end_char="1737">çok</TOKEN>
+<TOKEN id="token-18-11" pos="ADV" morph="ileri:ileri=ADV" start_char="1739" end_char="1743">ileri</TOKEN>
+<TOKEN id="token-18-12" pos="NOUN" morph="aşama:aşama=NOUN lar:lar=PLURAL a:a=CASE_DAT" start_char="1745" end_char="1753">aşamalara</TOKEN>
+<TOKEN id="token-18-13" pos="NOUN" morph="gelme:gelme=NOUN si:si=POSS_3S nden:nden=CASE_ABL" start_char="1755" end_char="1765">gelmesinden</TOKEN>
+<TOKEN id="token-18-14" pos="ADV" morph="sonra:sonra=ADV" start_char="1767" end_char="1771">sonra</TOKEN>
+<TOKEN id="token-18-15" pos="NOUN" morph="fark:fark=NOUN" start_char="1773" end_char="1776">fark</TOKEN>
+<TOKEN id="token-18-16" pos="VERB" morph="edilebildiğini:edilebildiğini=VERB" start_char="1778" end_char="1791">edilebildiğini</TOKEN>
+<TOKEN id="token-18-17" pos="NOUN" morph="ifade:ifade=NOUN" start_char="1793" end_char="1797">ifade</TOKEN>
+<TOKEN id="token-18-18" pos="VERB" morph="et:et=VERB ti:ti=DIPAST" start_char="1799" end_char="1802">etti</TOKEN>
+<TOKEN id="token-18-19" pos="." morph="none" start_char="1803" end_char="1803">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1805" end_char="1892">
+<ORIGINAL_TEXT>Dursun, "Hastalık çok ileri aşamaya gelmeyene kadar herhangi bir belirti vermeyebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="NOUN" morph="Dursun:dursun=NOUN" start_char="1805" end_char="1810">Dursun</TOKEN>
+<TOKEN id="token-19-1" pos="." morph="none" start_char="1811" end_char="1811">,</TOKEN>
+<TOKEN id="token-19-2" pos="." morph="none" start_char="1813" end_char="1813">"</TOKEN>
+<TOKEN id="token-19-3" pos="NOUN" morph="Hastalık:hastalık=NOUN" start_char="1814" end_char="1821">Hastalık</TOKEN>
+<TOKEN id="token-19-4" pos="ADJ" morph="çok:çok=ADJ" start_char="1823" end_char="1825">çok</TOKEN>
+<TOKEN id="token-19-5" pos="ADV" morph="ileri:ileri=ADV" start_char="1827" end_char="1831">ileri</TOKEN>
+<TOKEN id="token-19-6" pos="NOUN" morph="aşama:aşama=NOUN ya:ya=CASE_DAT" start_char="1833" end_char="1839">aşamaya</TOKEN>
+<TOKEN id="token-19-7" pos="NOUN" morph="gelmeye:gelmeye=NOUN n:n=POSS_2S e:e=CASE_DAT" start_char="1841" end_char="1849">gelmeyene</TOKEN>
+<TOKEN id="token-19-8" pos="ADV" morph="kadar:kadar=ADV" start_char="1851" end_char="1855">kadar</TOKEN>
+<TOKEN id="token-19-9" pos="ADV" morph="herhangi:herhangi=ADV" start_char="1857" end_char="1864">herhangi</TOKEN>
+<TOKEN id="token-19-10" pos="NUM" morph="bir:bir=NUM" start_char="1866" end_char="1868">bir</TOKEN>
+<TOKEN id="token-19-11" pos="NOUN" morph="belirti:belirti=NOUN" start_char="1870" end_char="1876">belirti</TOKEN>
+<TOKEN id="token-19-12" pos="VERB" morph="ver:ver=VERB me:me=NEG yebil:yebil=AFF iyor:iyor=PROG" start_char="1878" end_char="1891">vermeyebiliyor</TOKEN>
+<TOKEN id="token-19-13" pos="." morph="none" start_char="1892" end_char="1892">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1894" end_char="1915">
+<ORIGINAL_TEXT>Sinsi bir hastalıktır.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="ADJ" morph="Sinsi:sinsi=ADJ" start_char="1894" end_char="1898">Sinsi</TOKEN>
+<TOKEN id="token-20-1" pos="NUM" morph="bir:bir=NUM" start_char="1900" end_char="1902">bir</TOKEN>
+<TOKEN id="token-20-2" pos="NOUN" morph="hastalıktır:hastalıktır=NOUN" start_char="1904" end_char="1914">hastalıktır</TOKEN>
+<TOKEN id="token-20-3" pos="." morph="none" start_char="1915" end_char="1915">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1917" end_char="1985">
+<ORIGINAL_TEXT>Bu belirtiler ortaya çıktıktan sonra da bazen iş işten geçmiş oluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="PRON" morph="bu:bu=DEMPRON" start_char="1917" end_char="1918">Bu</TOKEN>
+<TOKEN id="token-21-1" pos="NOUN" morph="belirti:belirti=NOUN ler:ler=PLURAL" start_char="1920" end_char="1929">belirtiler</TOKEN>
+<TOKEN id="token-21-2" pos="NOUN" morph="orta:orta=NOUN ya:ya=CASE_DAT" start_char="1931" end_char="1936">ortaya</TOKEN>
+<TOKEN id="token-21-3" pos="ADJ" morph="çık:çık=VERB tık:tık=PARTICIPLE tan:tan=CASE_ABL" start_char="1938" end_char="1946">çıktıktan</TOKEN>
+<TOKEN id="token-21-4" pos="ADV" morph="sonra:sonra=ADV" start_char="1948" end_char="1952">sonra</TOKEN>
+<TOKEN id="token-21-5" pos="CONJ" morph="da:da=CONJ" start_char="1954" end_char="1955">da</TOKEN>
+<TOKEN id="token-21-6" pos="ADV" morph="bazen:bazen=ADV" start_char="1957" end_char="1961">bazen</TOKEN>
+<TOKEN id="token-21-7" pos="ADJ" morph="iş:iş=ADJ" start_char="1963" end_char="1964">iş</TOKEN>
+<TOKEN id="token-21-8" pos="ADJ" morph="iş:iş=ADJ ten:ten=CASE_ABL" start_char="1966" end_char="1970">işten</TOKEN>
+<TOKEN id="token-21-9" pos="VERB" morph="geç:geç=VERB miş:miş=mIsPAST" start_char="1972" end_char="1977">geçmiş</TOKEN>
+<TOKEN id="token-21-10" pos="VERB" morph="ol:ol=VERB uyor:uyor=PROG" start_char="1979" end_char="1984">oluyor</TOKEN>
+<TOKEN id="token-21-11" pos="." morph="none" start_char="1985" end_char="1985">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1987" end_char="2134">
+<ORIGINAL_TEXT>Ancak sıklıkla görülen belirtiler, halsizlik, yorgunluk, sarılığın olması ve ilerleyen dönemlerde karaciğer sirozu dediğimiz sirozun ortaya çıkması.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="ADV" morph="Ancak:ancak=ADV" start_char="1987" end_char="1991">Ancak</TOKEN>
+<TOKEN id="token-22-1" pos="NOUN" morph="sıklık:sıklık=NOUN la:la=CASE_INS" start_char="1993" end_char="2000">sıklıkla</TOKEN>
+<TOKEN id="token-22-2" pos="ADJ" morph="görül:görül=VERB en:en=PARTICIPLE" start_char="2002" end_char="2008">görülen</TOKEN>
+<TOKEN id="token-22-3" pos="NOUN" morph="belirti:belirti=NOUN ler:ler=PLURAL" start_char="2010" end_char="2019">belirtiler</TOKEN>
+<TOKEN id="token-22-4" pos="." morph="none" start_char="2020" end_char="2020">,</TOKEN>
+<TOKEN id="token-22-5" pos="NOUN" morph="halsizlik:halsizlik=NOUN" start_char="2022" end_char="2030">halsizlik</TOKEN>
+<TOKEN id="token-22-6" pos="." morph="none" start_char="2031" end_char="2031">,</TOKEN>
+<TOKEN id="token-22-7" pos="NOUN" morph="yorgunluk:yorgunluk=NOUN" start_char="2033" end_char="2041">yorgunluk</TOKEN>
+<TOKEN id="token-22-8" pos="." morph="none" start_char="2042" end_char="2042">,</TOKEN>
+<TOKEN id="token-22-9" pos="NOUN" morph="sarılığ:sarılık=NOUN ın:ın=CASE_GEN" start_char="2044" end_char="2052">sarılığın</TOKEN>
+<TOKEN id="token-22-10" pos="NOUN" morph="olma:olma=NOUN sı:sı=POSS_3S" start_char="2054" end_char="2059">olması</TOKEN>
+<TOKEN id="token-22-11" pos="CONJ" morph="ve:ve=CONJ" start_char="2061" end_char="2062">ve</TOKEN>
+<TOKEN id="token-22-12" pos="ADJ" morph="ilerle:ilerle=VERB yen:yen=PARTICIPLE" start_char="2064" end_char="2072">ilerleyen</TOKEN>
+<TOKEN id="token-22-13" pos="NOUN" morph="dönem:dönem=NOUN ler:ler=PLURAL de:de=CASE_LOC" start_char="2074" end_char="2083">dönemlerde</TOKEN>
+<TOKEN id="token-22-14" pos="NOUN" morph="karaciğer:karaciğer=NOUN" start_char="2085" end_char="2093">karaciğer</TOKEN>
+<TOKEN id="token-22-15" pos="NOUN" morph="siroz:siroz=NOUN u:u=CASE_ACC" start_char="2095" end_char="2100">sirozu</TOKEN>
+<TOKEN id="token-22-16" pos="NOUN" morph="dediğim:dediğim=NOUN iz:iz=1P" start_char="2102" end_char="2110">dediğimiz</TOKEN>
+<TOKEN id="token-22-17" pos="NOUN" morph="siroz:siroz=NOUN un:un=CASE_GEN" start_char="2112" end_char="2118">sirozun</TOKEN>
+<TOKEN id="token-22-18" pos="NOUN" morph="orta:orta=NOUN ya:ya=CASE_DAT" start_char="2120" end_char="2125">ortaya</TOKEN>
+<TOKEN id="token-22-19" pos="NOUN" morph="çıkma:çıkma=NOUN sı:sı=POSS_3S" start_char="2127" end_char="2133">çıkması</TOKEN>
+<TOKEN id="token-22-20" pos="." morph="none" start_char="2134" end_char="2134">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2136" end_char="2194">
+<ORIGINAL_TEXT>Hepatit Bʼnin iki tane önemli hastalığa götürme süreci var.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="NOUN" morph="Hepatit:hepatit=NOUN" start_char="2136" end_char="2142">Hepatit</TOKEN>
+<TOKEN id="token-23-1" pos="NOUN" morph="Bʼ:bʼ=NOUN nin:nin=CASE_GEN" start_char="2144" end_char="2148">Bʼnin</TOKEN>
+<TOKEN id="token-23-2" pos="NUM" morph="iki:iki=NUM" start_char="2150" end_char="2152">iki</TOKEN>
+<TOKEN id="token-23-3" pos="NOUN" morph="tane:tane=NOUN" start_char="2154" end_char="2157">tane</TOKEN>
+<TOKEN id="token-23-4" pos="ADJ" morph="önemli:önemli=ADJ" start_char="2159" end_char="2164">önemli</TOKEN>
+<TOKEN id="token-23-5" pos="NOUN" morph="hastalığ:hastalık=NOUN a:a=CASE_DAT" start_char="2166" end_char="2174">hastalığa</TOKEN>
+<TOKEN id="token-23-6" pos="VERB" morph="götür:götür=VERB me:me=NEG" start_char="2176" end_char="2182">götürme</TOKEN>
+<TOKEN id="token-23-7" pos="NOUN" morph="sürec:süreç=NOUN i:i=CASE_ACC" start_char="2184" end_char="2189">süreci</TOKEN>
+<TOKEN id="token-23-8" pos="VERB" morph="var:var=VERB" start_char="2191" end_char="2193">var</TOKEN>
+<TOKEN id="token-23-9" pos="." morph="none" start_char="2194" end_char="2194">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2196" end_char="2264">
+<ORIGINAL_TEXT>Bunlardan bir tanesi karaciğer sirozu diğeri de karaciğer kanseridir.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="PRON" morph="bunlar:bunlar=DEMPRON dan:dan=CASE_ABL" start_char="2196" end_char="2204">Bunlardan</TOKEN>
+<TOKEN id="token-24-1" pos="NUM" morph="bir:bir=NUM" start_char="2206" end_char="2208">bir</TOKEN>
+<TOKEN id="token-24-2" pos="NOUN" morph="tane:tane=NOUN si:si=POSS_3S" start_char="2210" end_char="2215">tanesi</TOKEN>
+<TOKEN id="token-24-3" pos="NOUN" morph="karaciğer:karaciğer=NOUN" start_char="2217" end_char="2225">karaciğer</TOKEN>
+<TOKEN id="token-24-4" pos="NOUN" morph="siroz:siroz=NOUN u:u=CASE_ACC" start_char="2227" end_char="2232">sirozu</TOKEN>
+<TOKEN id="token-24-5" pos="ADJ" morph="diğer:diğer=ADJ i:i=CASE_ACC" start_char="2234" end_char="2239">diğeri</TOKEN>
+<TOKEN id="token-24-6" pos="CONJ" morph="de:de=CONJ" start_char="2241" end_char="2242">de</TOKEN>
+<TOKEN id="token-24-7" pos="NOUN" morph="karaciğer:karaciğer=NOUN" start_char="2244" end_char="2252">karaciğer</TOKEN>
+<TOKEN id="token-24-8" pos="NOUN" morph="kanseridir:kanseridir=NOUN" start_char="2254" end_char="2263">kanseridir</TOKEN>
+<TOKEN id="token-24-9" pos="." morph="none" start_char="2264" end_char="2264">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2266" end_char="2298">
+<ORIGINAL_TEXT>Her ikisi de ölümcül hastalıktır.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="ADJ" morph="Her:her=ADJ" start_char="2266" end_char="2268">Her</TOKEN>
+<TOKEN id="token-25-1" pos="NUM" morph="iki:iki=NUM si:si=POSS_3S" start_char="2270" end_char="2274">ikisi</TOKEN>
+<TOKEN id="token-25-2" pos="CONJ" morph="de:de=CONJ" start_char="2276" end_char="2277">de</TOKEN>
+<TOKEN id="token-25-3" pos="ADJ" morph="ölümcül:ölümcül=ADJ" start_char="2279" end_char="2285">ölümcül</TOKEN>
+<TOKEN id="token-25-4" pos="NOUN" morph="hastalıktır:hastalıktır=NOUN" start_char="2287" end_char="2297">hastalıktır</TOKEN>
+<TOKEN id="token-25-5" pos="." morph="none" start_char="2298" end_char="2298">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2300" end_char="2407">
+<ORIGINAL_TEXT>Olay bu seviyeye gelmeden uygun tetkiklerin yapılması ve uygun tedavinin başlatılması gerekir" diye konuştu.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="NOUN" morph="Olay:olay=NOUN" start_char="2300" end_char="2303">Olay</TOKEN>
+<TOKEN id="token-26-1" pos="PRON" morph="bu:bu=DEMPRON" start_char="2305" end_char="2306">bu</TOKEN>
+<TOKEN id="token-26-2" pos="NOUN" morph="seviye:seviye=NOUN ye:ye=CASE_DAT" start_char="2308" end_char="2315">seviyeye</TOKEN>
+<TOKEN id="token-26-3" pos="NOUN" morph="gelme:gelme=NOUN den:den=CASE_ABL" start_char="2317" end_char="2324">gelmeden</TOKEN>
+<TOKEN id="token-26-4" pos="ADJ" morph="uygun:uygun=ADJ" start_char="2326" end_char="2330">uygun</TOKEN>
+<TOKEN id="token-26-5" pos="NOUN" morph="tetkik:tetkik=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="2332" end_char="2342">tetkiklerin</TOKEN>
+<TOKEN id="token-26-6" pos="NOUN" morph="yapılma:yapılma=NOUN sı:sı=POSS_3S" start_char="2344" end_char="2352">yapılması</TOKEN>
+<TOKEN id="token-26-7" pos="CONJ" morph="ve:ve=CONJ" start_char="2354" end_char="2355">ve</TOKEN>
+<TOKEN id="token-26-8" pos="ADJ" morph="uygun:uygun=ADJ" start_char="2357" end_char="2361">uygun</TOKEN>
+<TOKEN id="token-26-9" pos="NOUN" morph="tedavi:tedavi=NOUN nin:nin=CASE_GEN" start_char="2363" end_char="2371">tedavinin</TOKEN>
+<TOKEN id="token-26-10" pos="NOUN" morph="başlatılma:başlatılma=NOUN sı:sı=POSS_3S" start_char="2373" end_char="2384">başlatılması</TOKEN>
+<TOKEN id="token-26-11" pos="VERB" morph="gerek:gerek=VERB ir:ir=AOR" start_char="2386" end_char="2392">gerekir</TOKEN>
+<TOKEN id="token-26-12" pos="." morph="none" start_char="2393" end_char="2393">"</TOKEN>
+<TOKEN id="token-26-13" pos="ADV" morph="diye:diye=ADV" start_char="2395" end_char="2398">diye</TOKEN>
+<TOKEN id="token-26-14" pos="VERB" morph="konuş:konuş=VERB tu:tu=DIPAST" start_char="2400" end_char="2406">konuştu</TOKEN>
+<TOKEN id="token-26-15" pos="." morph="none" start_char="2407" end_char="2407">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2409" end_char="2663">
+<ORIGINAL_TEXT>Özellikle annelerin taranıp pozitif olanların bebeklerine, hemen doğumla birlikte aşı yapılması gerektiğine dikkat çeken Dursun, hepatit Bʼnin aşı programına alındığını ve bunun ilerleyen yıllarda Türkiyeʼde hepatit Bʼyi ciddi oranda azaltacağını savundu.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="ADV" morph="Özellikle:Özellikle=ADV" start_char="2409" end_char="2417">Özellikle</TOKEN>
+<TOKEN id="token-27-1" pos="NOUN" morph="anne:anne=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="2419" end_char="2427">annelerin</TOKEN>
+<TOKEN id="token-27-2" pos="VERB" morph="taranıp:taranıp=VERB" start_char="2429" end_char="2435">taranıp</TOKEN>
+<TOKEN id="token-27-3" pos="ADJ" morph="pozitif:pozitif=ADJ" start_char="2437" end_char="2443">pozitif</TOKEN>
+<TOKEN id="token-27-4" pos="NOUN" morph="olan:olan=NOUN lar:lar=PLURAL ın:ın=POSS_2S" start_char="2445" end_char="2453">olanların</TOKEN>
+<TOKEN id="token-27-5" pos="NOUN" morph="bebek:bebek=NOUN ler:ler=PLURAL i:i=POSS_3S ne:ne=CASE_DAT" start_char="2455" end_char="2465">bebeklerine</TOKEN>
+<TOKEN id="token-27-6" pos="." morph="none" start_char="2466" end_char="2466">,</TOKEN>
+<TOKEN id="token-27-7" pos="ADV" morph="hemen:hemen=ADV" start_char="2468" end_char="2472">hemen</TOKEN>
+<TOKEN id="token-27-8" pos="NOUN" morph="doğum:doğum=NOUN la:la=CASE_INS" start_char="2474" end_char="2480">doğumla</TOKEN>
+<TOKEN id="token-27-9" pos="ADV" morph="birlikte:birlikte=ADV" start_char="2482" end_char="2489">birlikte</TOKEN>
+<TOKEN id="token-27-10" pos="NOUN" morph="aşı:aşı=NOUN" start_char="2491" end_char="2493">aşı</TOKEN>
+<TOKEN id="token-27-11" pos="NOUN" morph="yapılma:yapılma=NOUN sı:sı=POSS_3S" start_char="2495" end_char="2503">yapılması</TOKEN>
+<TOKEN id="token-27-12" pos="ADJ" morph="gerek:gerek=VERB tiğ:tiğ=PARTICIPLE i:i=POSS_3S ne:ne=CASE_DAT" start_char="2505" end_char="2515">gerektiğine</TOKEN>
+<TOKEN id="token-27-13" pos="NOUN" morph="dikkat:dikkat=NOUN" start_char="2517" end_char="2522">dikkat</TOKEN>
+<TOKEN id="token-27-14" pos="ADJ" morph="çek:çek=VERB en:en=PARTICIPLE" start_char="2524" end_char="2528">çeken</TOKEN>
+<TOKEN id="token-27-15" pos="NOUN" morph="Dursun:dursun=NOUN" start_char="2530" end_char="2535">Dursun</TOKEN>
+<TOKEN id="token-27-16" pos="." morph="none" start_char="2536" end_char="2536">,</TOKEN>
+<TOKEN id="token-27-17" pos="NOUN" morph="hepatit:hepatit=NOUN" start_char="2538" end_char="2544">hepatit</TOKEN>
+<TOKEN id="token-27-18" pos="NOUN" morph="Bʼ:bʼ=NOUN nin:nin=CASE_GEN" start_char="2546" end_char="2550">Bʼnin</TOKEN>
+<TOKEN id="token-27-19" pos="NOUN" morph="aşı:aşı=NOUN" start_char="2552" end_char="2554">aşı</TOKEN>
+<TOKEN id="token-27-20" pos="NOUN" morph="program:program=NOUN ı:ı=POSS_3S na:na=CASE_DAT" start_char="2556" end_char="2565">programına</TOKEN>
+<TOKEN id="token-27-21" pos="ADJ" morph="alın:alın=VERB dığ:dığ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="2567" end_char="2576">alındığını</TOKEN>
+<TOKEN id="token-27-22" pos="CONJ" morph="ve:ve=CONJ" start_char="2578" end_char="2579">ve</TOKEN>
+<TOKEN id="token-27-23" pos="PRON" morph="bu:bu=DEMPRON nun:nun=CASE_GEN" start_char="2581" end_char="2585">bunun</TOKEN>
+<TOKEN id="token-27-24" pos="ADJ" morph="ilerle:ilerle=VERB yen:yen=PARTICIPLE" start_char="2587" end_char="2595">ilerleyen</TOKEN>
+<TOKEN id="token-27-25" pos="NOUN" morph="yıl:yıl=NOUN lar:lar=PLURAL da:da=CASE_LOC" start_char="2597" end_char="2604">yıllarda</TOKEN>
+<TOKEN id="token-27-26" pos="NOUN" morph="Türkiyeʼ:türkiyeʼ=NOUN de:de=CASE_LOC" start_char="2606" end_char="2615">Türkiyeʼde</TOKEN>
+<TOKEN id="token-27-27" pos="NOUN" morph="hepatit:hepatit=NOUN" start_char="2617" end_char="2623">hepatit</TOKEN>
+<TOKEN id="token-27-28" pos="NOUN" morph="Bʼ:bʼ=NOUN yi:yi=CASE_ACC" start_char="2625" end_char="2628">Bʼyi</TOKEN>
+<TOKEN id="token-27-29" pos="ADV" morph="ciddi:ciddi=ADV" start_char="2630" end_char="2634">ciddi</TOKEN>
+<TOKEN id="token-27-30" pos="NOUN" morph="oran:oran=NOUN da:da=CASE_LOC" start_char="2636" end_char="2641">oranda</TOKEN>
+<TOKEN id="token-27-31" pos="ADJ" morph="azalt:azalt=VERB acağ:acağ=PARTICIPLE ın:ın=POSS_2S ı:ı=CASE_ACC" start_char="2643" end_char="2654">azaltacağını</TOKEN>
+<TOKEN id="token-27-32" pos="VERB" morph="savun:savun=VERB du:du=DIPAST" start_char="2656" end_char="2662">savundu</TOKEN>
+<TOKEN id="token-27-33" pos="." morph="none" start_char="2663" end_char="2663">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2665" end_char="2864">
+<ORIGINAL_TEXT>Dursun, “Hepatit B öyle bir virüs ki bebeklik döneminde alındığında yüzde 90 oranında kronikleşirken, yetişkin dönemde alındığı takdirde yüzde 5 ila 6 seviyelerinde kronikleşme ihtimali bulunmaktadır.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="NOUN" morph="Dursun:dursun=NOUN" start_char="2665" end_char="2670">Dursun</TOKEN>
+<TOKEN id="token-28-1" pos="." morph="none" start_char="2671" end_char="2671">,</TOKEN>
+<TOKEN id="token-28-2" pos="." morph="none" start_char="2673" end_char="2673">“</TOKEN>
+<TOKEN id="token-28-3" pos="NOUN" morph="Hepatit:hepatit=NOUN" start_char="2674" end_char="2680">Hepatit</TOKEN>
+<TOKEN id="token-28-4" pos="NOUN" morph="B:b=NOUN" start_char="2682" end_char="2682">B</TOKEN>
+<TOKEN id="token-28-5" pos="ADV" morph="öyle:öyle=ADV" start_char="2684" end_char="2687">öyle</TOKEN>
+<TOKEN id="token-28-6" pos="NUM" morph="bir:bir=NUM" start_char="2689" end_char="2691">bir</TOKEN>
+<TOKEN id="token-28-7" pos="NOUN" morph="virüs:virüs=NOUN" start_char="2693" end_char="2697">virüs</TOKEN>
+<TOKEN id="token-28-8" pos="CONJ" morph="ki:ki=CONJ" start_char="2699" end_char="2700">ki</TOKEN>
+<TOKEN id="token-28-9" pos="NOUN" morph="bebeklik:bebeklik=NOUN" start_char="2702" end_char="2709">bebeklik</TOKEN>
+<TOKEN id="token-28-10" pos="NOUN" morph="dönem:dönem=NOUN in:in=POSS_2S de:de=CASE_LOC" start_char="2711" end_char="2719">döneminde</TOKEN>
+<TOKEN id="token-28-11" pos="ADJ" morph="alın:alın=VERB dığ:dığ=PARTICIPLE ın:ın=POSS_2S da:da=CASE_LOC" start_char="2721" end_char="2731">alındığında</TOKEN>
+<TOKEN id="token-28-12" pos="ADV" morph="yüzde:yüzde=ADV" start_char="2733" end_char="2737">yüzde</TOKEN>
+<TOKEN id="token-28-13" pos="NUM" morph="none" start_char="2739" end_char="2740">90</TOKEN>
+<TOKEN id="token-28-14" pos="NOUN" morph="oran:oran=NOUN ın:ın=POSS_2S da:da=CASE_LOC" start_char="2742" end_char="2749">oranında</TOKEN>
+<TOKEN id="token-28-15" pos="VERB" morph="kronikleşirken:kronikleşirken=VERB" start_char="2751" end_char="2764">kronikleşirken</TOKEN>
+<TOKEN id="token-28-16" pos="." morph="none" start_char="2765" end_char="2765">,</TOKEN>
+<TOKEN id="token-28-17" pos="NOUN" morph="yetişkin:yetişkin=NOUN" start_char="2767" end_char="2774">yetişkin</TOKEN>
+<TOKEN id="token-28-18" pos="NOUN" morph="dönem:dönem=NOUN de:de=CASE_LOC" start_char="2776" end_char="2782">dönemde</TOKEN>
+<TOKEN id="token-28-19" pos="ADJ" morph="alın:alın=VERB dığ:dığ=PARTICIPLE ı:ı=CASE_ACC" start_char="2784" end_char="2791">alındığı</TOKEN>
+<TOKEN id="token-28-20" pos="NOUN" morph="takdir:takdir=NOUN de:de=CASE_LOC" start_char="2793" end_char="2800">takdirde</TOKEN>
+<TOKEN id="token-28-21" pos="ADV" morph="yüzde:yüzde=ADV" start_char="2802" end_char="2806">yüzde</TOKEN>
+<TOKEN id="token-28-22" pos="NUM" morph="none" start_char="2808" end_char="2808">5</TOKEN>
+<TOKEN id="token-28-23" pos="CONJ" morph="ila:ila=CONJ" start_char="2810" end_char="2812">ila</TOKEN>
+<TOKEN id="token-28-24" pos="NUM" morph="none" start_char="2814" end_char="2814">6</TOKEN>
+<TOKEN id="token-28-25" pos="NOUN" morph="seviye:seviye=NOUN ler:ler=PLURAL in:in=POSS_2S de:de=CASE_LOC" start_char="2816" end_char="2828">seviyelerinde</TOKEN>
+<TOKEN id="token-28-26" pos="VERB" morph="kronikleşme:kronikleşme=VERB" start_char="2830" end_char="2840">kronikleşme</TOKEN>
+<TOKEN id="token-28-27" pos="NOUN" morph="ihtimal:ihtimal=NOUN i:i=CASE_ACC" start_char="2842" end_char="2849">ihtimali</TOKEN>
+<TOKEN id="token-28-28" pos="VERB" morph="bulunmaktadır:bulunmaktadır=VERB" start_char="2851" end_char="2863">bulunmaktadır</TOKEN>
+<TOKEN id="token-28-29" pos="." morph="none" start_char="2864" end_char="2864">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2866" end_char="2917">
+<ORIGINAL_TEXT>Dolayısıyla bebeklerin özelikle korunması gerekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="ADV" morph="Dolayısıyla:dolayısıyla=ADV" start_char="2866" end_char="2876">Dolayısıyla</TOKEN>
+<TOKEN id="token-29-1" pos="NOUN" morph="bebek:bebek=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="2878" end_char="2887">bebeklerin</TOKEN>
+<TOKEN id="token-29-2" pos="ADJ" morph="özelikle:özelikle=ADJ" start_char="2889" end_char="2896">özelikle</TOKEN>
+<TOKEN id="token-29-3" pos="NOUN" morph="korunma:korunma=NOUN sı:sı=POSS_3S" start_char="2898" end_char="2906">korunması</TOKEN>
+<TOKEN id="token-29-4" pos="VERB" morph="gerek:gerek=VERB iyor:iyor=PROG" start_char="2908" end_char="2916">gerekiyor</TOKEN>
+<TOKEN id="token-29-5" pos="." morph="none" start_char="2917" end_char="2917">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="2919" end_char="2958">
+<ORIGINAL_TEXT>Bebeklerin korunma yolu da aşı ile olur.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="NOUN" morph="Bebek:bebek=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="2919" end_char="2928">Bebeklerin</TOKEN>
+<TOKEN id="token-30-1" pos="NOUN" morph="korunma:korunma=NOUN" start_char="2930" end_char="2936">korunma</TOKEN>
+<TOKEN id="token-30-2" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="2938" end_char="2941">yolu</TOKEN>
+<TOKEN id="token-30-3" pos="CONJ" morph="da:da=CONJ" start_char="2943" end_char="2944">da</TOKEN>
+<TOKEN id="token-30-4" pos="NOUN" morph="aşı:aşı=NOUN" start_char="2946" end_char="2948">aşı</TOKEN>
+<TOKEN id="token-30-5" pos="CONJ" morph="ile:ile=CONJ" start_char="2950" end_char="2952">ile</TOKEN>
+<TOKEN id="token-30-6" pos="VERB" morph="ol:ol=VERB ur:ur=AOR" start_char="2954" end_char="2957">olur</TOKEN>
+<TOKEN id="token-30-7" pos="." morph="none" start_char="2958" end_char="2958">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="2960" end_char="3006">
+<ORIGINAL_TEXT>Hepatit B aşı programına zaten alınmış durumda.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="NOUN" morph="Hepatit:hepatit=NOUN" start_char="2960" end_char="2966">Hepatit</TOKEN>
+<TOKEN id="token-31-1" pos="NOUN" morph="B:b=NOUN" start_char="2968" end_char="2968">B</TOKEN>
+<TOKEN id="token-31-2" pos="NOUN" morph="aşı:aşı=NOUN" start_char="2970" end_char="2972">aşı</TOKEN>
+<TOKEN id="token-31-3" pos="NOUN" morph="program:program=NOUN ı:ı=POSS_3S na:na=CASE_DAT" start_char="2974" end_char="2983">programına</TOKEN>
+<TOKEN id="token-31-4" pos="ADV" morph="zaten:zaten=ADV" start_char="2985" end_char="2989">zaten</TOKEN>
+<TOKEN id="token-31-5" pos="VERB" morph="al:al=VERB ın:ın=REFL mış:mış=mIsPAST" start_char="2991" end_char="2997">alınmış</TOKEN>
+<TOKEN id="token-31-6" pos="NOUN" morph="durum:durum=NOUN da:da=CASE_LOC" start_char="2999" end_char="3005">durumda</TOKEN>
+<TOKEN id="token-31-7" pos="." morph="none" start_char="3006" end_char="3006">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="3008" end_char="3053">
+<ORIGINAL_TEXT>Dolayısıyla bebeklerimiz artık aşılanmaktadır.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="ADV" morph="Dolayısıyla:dolayısıyla=ADV" start_char="3008" end_char="3018">Dolayısıyla</TOKEN>
+<TOKEN id="token-32-1" pos="NOUN" morph="bebek:bebek=NOUN ler:ler=PLURAL imiz:imiz=POSS_1P" start_char="3020" end_char="3031">bebeklerimiz</TOKEN>
+<TOKEN id="token-32-2" pos="ADV" morph="artık:artık=ADV" start_char="3033" end_char="3037">artık</TOKEN>
+<TOKEN id="token-32-3" pos="VERB" morph="aşılanmaktadır:aşılanmaktadır=VERB" start_char="3039" end_char="3052">aşılanmaktadır</TOKEN>
+<TOKEN id="token-32-4" pos="." morph="none" start_char="3053" end_char="3053">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="3055" end_char="3157">
+<ORIGINAL_TEXT>Bunun ilerleyen yıllarda hepatit Bʼyi ülkemizde ciddi oranda azaltacağına inanıyorum” şeklinde konuştu.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="PRON" morph="bu:bu=DEMPRON nun:nun=CASE_GEN" start_char="3055" end_char="3059">Bunun</TOKEN>
+<TOKEN id="token-33-1" pos="ADJ" morph="ilerle:ilerle=VERB yen:yen=PARTICIPLE" start_char="3061" end_char="3069">ilerleyen</TOKEN>
+<TOKEN id="token-33-2" pos="NOUN" morph="yıl:yıl=NOUN lar:lar=PLURAL da:da=CASE_LOC" start_char="3071" end_char="3078">yıllarda</TOKEN>
+<TOKEN id="token-33-3" pos="NOUN" morph="hepatit:hepatit=NOUN" start_char="3080" end_char="3086">hepatit</TOKEN>
+<TOKEN id="token-33-4" pos="NOUN" morph="Bʼ:bʼ=NOUN yi:yi=CASE_ACC" start_char="3088" end_char="3091">Bʼyi</TOKEN>
+<TOKEN id="token-33-5" pos="NOUN" morph="ülke:ülke=NOUN miz:miz=POSS_1P de:de=CASE_LOC" start_char="3093" end_char="3101">ülkemizde</TOKEN>
+<TOKEN id="token-33-6" pos="ADV" morph="ciddi:ciddi=ADV" start_char="3103" end_char="3107">ciddi</TOKEN>
+<TOKEN id="token-33-7" pos="NOUN" morph="oran:oran=NOUN da:da=CASE_LOC" start_char="3109" end_char="3114">oranda</TOKEN>
+<TOKEN id="token-33-8" pos="ADJ" morph="azalt:azalt=VERB acağ:acağ=PARTICIPLE ı:ı=POSS_3S na:na=CASE_DAT" start_char="3116" end_char="3127">azaltacağına</TOKEN>
+<TOKEN id="token-33-9" pos="VERB" morph="inan:inan=VERB ıyor:ıyor=PROG um:um=1S" start_char="3129" end_char="3138">inanıyorum</TOKEN>
+<TOKEN id="token-33-10" pos="." morph="none" start_char="3139" end_char="3139">”</TOKEN>
+<TOKEN id="token-33-11" pos="ADV" morph="şeklinde:şeklinde=ADV" start_char="3141" end_char="3148">şeklinde</TOKEN>
+<TOKEN id="token-33-12" pos="VERB" morph="konuş:konuş=VERB tu:tu=DIPAST" start_char="3150" end_char="3156">konuştu</TOKEN>
+<TOKEN id="token-33-13" pos="." morph="none" start_char="3157" end_char="3157">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

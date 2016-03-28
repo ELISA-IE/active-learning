@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+  <DOC id="NW_CRI_HAU_006004_20130113_segment-4">
+    <TEXT><SEG id="segment-4" start_char="856" end_char="895">
+<ORIGINAL_TEXT>Haka kuma, a ran 12 ga wata da dare, Mr.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="ADV" morph="Haka:haka=ADV" start_char="856" end_char="859">Haka</TOKEN>
+<TOKEN id="token-4-1" pos="PARTICLE" morph="kuma:kuma=PARTICLE" start_char="861" end_char="864">kuma</TOKEN>
+<TOKEN id="token-4-2" pos="punct" morph="none" start_char="865" end_char="865">,</TOKEN>
+<TOKEN id="token-4-3" pos="PREP" morph="a:a=PREP" start_char="867" end_char="867">a</TOKEN>
+<TOKEN id="token-4-4" pos="NOUN" morph="ra:ra=NOUN n:n=CONSTRUCT" start_char="869" end_char="871">ran</TOKEN>
+<TOKEN id="token-4-5" pos="number" morph="none" start_char="873" end_char="874">12</TOKEN>
+<TOKEN id="token-4-6" pos="PREP" morph="ga:ga=PREP" start_char="876" end_char="877">ga</TOKEN>
+<TOKEN id="token-4-7" pos="NOUN" morph="wata:wata=NOUN" start_char="879" end_char="882">wata</TOKEN>
+<TOKEN id="token-4-8" pos="COMP" morph="da:da=COMP" start_char="884" end_char="885">da</TOKEN>
+<TOKEN id="token-4-9" pos="NOUN" morph="dare:dare=NOUN" start_char="887" end_char="890">dare</TOKEN>
+<TOKEN id="token-4-10" pos="punct" morph="none" start_char="891" end_char="891">,</TOKEN>
+<TOKEN id="token-4-11" pos="NOUN" morph="Mr:mr=NOUN" start_char="893" end_char="894">Mr</TOKEN>
+<TOKEN id="token-4-12" pos="punct" morph="none" start_char="895" end_char="895">.</TOKEN>
+</SEG>
+</TEXT>
+  </DOC>
+</LCTL_TEXT>

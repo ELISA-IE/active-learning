@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_VOA_TUR_0056677_20060321.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="PER">
+      <EXTENT start_char="71" end_char="89">Alexander Lukaşenko</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="PER">
+      <EXTENT start_char="147" end_char="166">Alexander Milinkeviç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="191" end_char="195">Minsk</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="PER">
+      <EXTENT start_char="315" end_char="334">Aleksander Lukaşenko</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="PER">
+      <EXTENT start_char="445" end_char="454">Milinkeviç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="ORG">
+      <EXTENT start_char="554" end_char="591">Avrupa Güvenlik ve İşbirliği Teşkilatı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="ORG">
+      <EXTENT start_char="661" end_char="664">AGİT</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="ORG">
+      <EXTENT start_char="791" end_char="804">Avrupa Birliği</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="ORG">
+      <EXTENT start_char="806" end_char="816">Beyaz Rusya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="ORG">
+      <EXTENT start_char="862" end_char="868">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="PER">
+      <EXTENT start_char="367" end_char="387">Aleksander Milinkeviç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="LOC">
+      <EXTENT start_char="2" end_char="12">Beyaz Rusya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="TTL">
+      <EXTENT start_char="141" end_char="144">aday</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="TTL">
+      <EXTENT start_char="307" end_char="312">başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="TTL">
+      <EXTENT start_char="361" end_char="364">aday</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

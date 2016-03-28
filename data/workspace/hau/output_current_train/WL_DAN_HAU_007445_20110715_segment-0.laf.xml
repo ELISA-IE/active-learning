@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DAN_HAU_007445_20110715" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE1" task="NE" type="PER">
+      <EXTENT start_char="0" end_char="5">TSARIN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE2" task="NE" type="PER">
+      <EXTENT start_char="7" end_char="12">BANKIN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE3" task="NE" type="PER">
+      <EXTENT start_char="14" end_char="22">MUSULUNCI</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE4" task="NE" type="PER">
+      <EXTENT start_char="24" end_char="25">BA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE5" task="NE" type="PER">
+      <EXTENT start_char="27" end_char="27">A</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE6" task="NE" type="PER">
+      <EXTENT start_char="29" end_char="35">NIGERIA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE7" task="NE" type="PER">
+      <EXTENT start_char="37" end_char="39">AKA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE8" task="NE" type="PER">
+      <EXTENT start_char="41" end_char="44">FARA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE9" task="NE" type="PER">
+      <EXTENT start_char="46" end_char="47">BA</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_ABC_ENG_0004_20001210.uzb" lang="UZB">
+    <ANNOTATION id="NW_ABC_ENG_0004_20001210.uzb-NE1" task="NE">
+      <EXTENT start_char="23" end_char="42">Birlashgan Millatlar</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_ABC_ENG_0004_20001210.uzb-NE2" task="NE">
+      <EXTENT start_char="48" end_char="61">Janubiy Afrika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_ABC_ENG_0004_20001210.uzb-NE3" task="NE">
+      <EXTENT start_char="65" end_char="76">Yoxannesburg</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

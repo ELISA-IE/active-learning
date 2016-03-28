@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_VOA_TUR_0057364_20060506.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="24" end_char="31">Ortadoğu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="ORG">
+      <EXTENT start_char="154" end_char="168">Suudi Arabistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="359" end_char="373">Suudi Arabistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="ORG">
+      <EXTENT start_char="385" end_char="408">Körfez İşbirliği Konseyi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="416" end_char="420">Katar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="423" end_char="429">Bahreyn</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="432" end_char="436">Umman</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="439" end_char="444">Kuveyt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="LOC">
+      <EXTENT start_char="449" end_char="473">Birleşik Arap Emirlikleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="TTL">
+      <EXTENT start_char="557" end_char="564">Direktör</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="PER">
+      <EXTENT start_char="567" end_char="576">Muhsin Han</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="LOC">
+      <EXTENT start_char="1075" end_char="1082">Ortadoğu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="ORG">
+      <EXTENT start_char="1183" end_char="1185">IMF</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="1638" end_char="1647">Washington</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="ORG">
+      <EXTENT start_char="1654" end_char="1683">Uluslararası Ekonomi Enstitüsü</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="TTL">
+      <EXTENT start_char="1685" end_char="1689">uzman</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="PER">
+      <EXTENT start_char="1692" end_char="1704">Marcus Noland</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="ORG">
+      <EXTENT start_char="1807" end_char="1821">Suudi Arabistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="ORG">
+      <EXTENT start_char="1912" end_char="1936">Birleşik Arap Emirlikleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="ORG">
+      <EXTENT start_char="2034" end_char="2048">Suudi Arabistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="LOC">
+      <EXTENT start_char="2192" end_char="2201">Washington</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="ORG">
+      <EXTENT start_char="2208" end_char="2241">Ulusal Amerikan-Arap Ticaret Odası</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="TTL">
+      <EXTENT start_char="2243" end_char="2248">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="PER">
+      <EXTENT start_char="2251" end_char="2261">David Hamud</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="ORG">
+      <EXTENT start_char="2339" end_char="2351">Cisco Systems</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="ORG">
+      <EXTENT start_char="2354" end_char="2358">Intel</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="ORG">
+      <EXTENT start_char="2361" end_char="2363">IBM</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="LOC">
+      <EXTENT start_char="2377" end_char="2384">Amerikan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="LOC">
+      <EXTENT start_char="2395" end_char="2409">Suudi Arabistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="ORG">
+      <EXTENT start_char="2592" end_char="2596">Katar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-31" task="NE" type="LOC">
+      <EXTENT start_char="2716" end_char="2720">Amman</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-32" task="NE" type="PER">
+      <EXTENT start_char="2820" end_char="2834">Herman FransSen</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-33" task="NE" type="TTL">
+      <EXTENT start_char="2810" end_char="2818">Ekonomist</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-34" task="NE" type="ORG">
+      <EXTENT start_char="3059" end_char="3063">Dubai</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-35" task="NE" type="ORG">
+      <EXTENT start_char="3148" end_char="3152">Dubai</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-36" task="NE" type="ORG">
+      <EXTENT start_char="3236" end_char="3240">Dubai</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-37" task="NE" type="LOC">
+      <EXTENT start_char="3355" end_char="3359">Dubai</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-38" task="NE" type="ORG">
+      <EXTENT start_char="3388" end_char="3392">Dubai</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-39" task="NE" type="ORG">
+      <EXTENT start_char="3468" end_char="3473">Kuveyt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-40" task="NE" type="ORG">
+      <EXTENT start_char="3478" end_char="3492">Suudi Arabistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-41" task="NE" type="ORG">
+      <EXTENT start_char="3543" end_char="3567">Birleşik Arap Emirlikleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-42" task="NE" type="ORG">
+      <EXTENT start_char="3679" end_char="3705">Amerikan-Arap Ticaret Odası</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-43" task="NE" type="TTL">
+      <EXTENT start_char="3707" end_char="3712">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-44" task="NE" type="PER">
+      <EXTENT start_char="3715" end_char="3725">David Hamud</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-45" task="NE" type="LOC">
+      <EXTENT start_char="173" end_char="177">dünya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-46" task="NE" type="ORG">
+      <EXTENT start_char="505" end_char="526">Uluslararası Para Fonu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-47" task="NE" type="ORG">
+      <EXTENT start_char="528" end_char="555">Ortadoğu ve Orta Asya Bölümü</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

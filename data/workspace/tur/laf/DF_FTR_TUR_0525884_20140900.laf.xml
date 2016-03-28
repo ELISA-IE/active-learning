@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="DF_FTR_TUR_0525884_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="ORG">
+      <EXTENT start_char="44" end_char="54">Galatasaray</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="PER">
+      <EXTENT start_char="79" end_char="94">Fernando Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="244" end_char="249">İtalya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="ORG">
+      <EXTENT start_char="265" end_char="269">Lazio</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="275" end_char="279">İzmir</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="329" end_char="337">Uruguaylı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="PER">
+      <EXTENT start_char="352" end_char="367">Fernando Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="ORG">
+      <EXTENT start_char="454" end_char="458">Lazio</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="PER">
+      <EXTENT start_char="631" end_char="637">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="ORG">
+      <EXTENT start_char="640" end_char="650">Galatasaray</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="LOC">
+      <EXTENT start_char="675" end_char="681">Arnavut</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="TTL">
+      <EXTENT start_char="683" end_char="690">futbolcu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="PER">
+      <EXTENT start_char="692" end_char="701">Lorik Cana</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="ORG">
+      <EXTENT start_char="716" end_char="720">Lazio</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="ORG">
+      <EXTENT start_char="813" end_char="823">Galatasaray</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="PER">
+      <EXTENT start_char="924" end_char="929">LOTITO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="ORG">
+      <EXTENT start_char="944" end_char="948">Lazio</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="TTL">
+      <EXTENT start_char="950" end_char="955">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="PER">
+      <EXTENT start_char="958" end_char="971">Claudio Lotito</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="PER">
+      <EXTENT start_char="977" end_char="983">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="PER">
+      <EXTENT start_char="1062" end_char="1067">Lotito</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="LOC">
+      <EXTENT start_char="1096" end_char="1102">İtalyan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="PER">
+      <EXTENT start_char="1139" end_char="1145">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="PER">
+      <EXTENT start_char="1174" end_char="1191">Federico Marchetti</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="ORG">
+      <EXTENT start_char="1270" end_char="1325">Uluslararası Futbol Tarihi ve İstatistikleri Federasyonu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="PER">
+      <EXTENT start_char="1398" end_char="1404">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="PER">
+      <EXTENT start_char="1500" end_char="1515">Fernando Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="PER">
+      <EXTENT start_char="1699" end_char="1705">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="PER">
+      <EXTENT start_char="1728" end_char="1737">Ünal Aysal</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="LOC">
+      <EXTENT start_char="1739" end_char="1747">Uruguaylı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-31" task="NE" type="PER">
+      <EXTENT start_char="1775" end_char="1781">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-32" task="NE" type="PER">
+      <EXTENT start_char="1868" end_char="1874">Tafarel</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-33" task="NE" type="PER">
+      <EXTENT start_char="1879" end_char="1887">Mondragon</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-34" task="NE" type="PER">
+      <EXTENT start_char="2041" end_char="2047">MUSLERA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-35" task="NE" type="ORG">
+      <EXTENT start_char="2083" end_char="2086">ManU</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-36" task="NE" type="ORG">
+      <EXTENT start_char="2088" end_char="2094">Chelsea</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-37" task="NE" type="ORG">
+      <EXTENT start_char="2096" end_char="2101">Madrid</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-38" task="NE" type="ORG">
+      <EXTENT start_char="2103" end_char="2107">Barça</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-39" task="NE" type="PER">
+      <EXTENT start_char="2271" end_char="2277">muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-40" task="NE" type="PER">
+      <EXTENT start_char="2323" end_char="2329">muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-41" task="NE" type="ORG">
+      <EXTENT start_char="2475" end_char="2480">Avrupa</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-42" task="NE" type="PER">
+      <EXTENT start_char="2560" end_char="2566">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-43" task="NE" type="PER">
+      <EXTENT start_char="2709" end_char="2715">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-44" task="NE" type="PER">
+      <EXTENT start_char="2689" end_char="2695">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-45" task="NE" type="ORG">
+      <EXTENT start_char="2938" end_char="2948">Galatasaray</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-46" task="NE" type="PER">
+      <EXTENT start_char="3132" end_char="3138">Amrabat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-47" task="NE" type="PER">
+      <EXTENT start_char="3143" end_char="3149">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-48" task="NE" type="TTL">
+      <EXTENT start_char="66" end_char="77">file bekçisi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-49" task="NE" type="ORG">
+      <EXTENT start_char="191" end_char="201">Galatasaray</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-50" task="NE" type="ORG">
+      <EXTENT start_char="251" end_char="257">Serie A</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-51" task="NE" type="TTL">
+      <EXTENT start_char="339" end_char="350">file bekçisi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-52" task="NE" type="LOC">
+      <EXTENT start_char="1517" end_char="1521">dünya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-53" task="NE" type="ORG">
+      <EXTENT start_char="1831" end_char="1835">Lazio</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-54" task="NE" type="PER">
+      <EXTENT start_char="1837" end_char="1843">Muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-55" task="NE" type="PER">
+      <EXTENT start_char="2140" end_char="2145">Valdes</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-56" task="NE" type="PER">
+      <EXTENT start_char="2154" end_char="2159">De Gea</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-57" task="NE" type="PER">
+      <EXTENT start_char="2259" end_char="2265">muslera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-58" task="NE" type="ORG">
+      <EXTENT start_char="2838" end_char="2853">Şampiyonlar ligi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-59" task="NE" type="ORG">
+      <EXTENT start_char="2870" end_char="2885">Şampiyonlar ligi</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

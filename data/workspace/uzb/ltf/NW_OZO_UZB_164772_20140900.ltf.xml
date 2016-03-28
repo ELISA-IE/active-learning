@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_OZO_UZB_164772_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="5990" raw_text_md5="6b9e8139886068318ea56f5bc394e6d6">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="36">
+<ORIGINAL_TEXT>2013 yil yakunlari: Sogʻliqni saqlash</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="number" morph="none" start_char="0" end_char="3">2013</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="7">yil</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="9" end_char="17">yakunlari</TOKEN>
+<TOKEN id="token-0-3" pos="punct" morph="none" start_char="18" end_char="18">:</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="20" end_char="28">Sogʻliqni</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="30" end_char="36">saqlash</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="134">
+<ORIGINAL_TEXT>2013 yilda tibbiyot va sogʻliqni saqlash sohasida oʻziga yarasha yutuqlar va yutqiziqlar boʻldi.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="number" morph="none" start_char="39" end_char="42">2013</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="44" end_char="48">yilda</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="50" end_char="57">tibbiyot</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="59" end_char="60">va</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="62" end_char="70">sogʻliqni</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="72" end_char="78">saqlash</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="80" end_char="87">sohasida</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="89" end_char="94">oʻziga</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="96" end_char="102">yarasha</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="104" end_char="111">yutuqlar</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="113" end_char="114">va</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="116" end_char="126">yutqiziqlar</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="128" end_char="133">boʻldi</TOKEN>
+<TOKEN id="token-1-13" pos="punct" morph="none" start_char="134" end_char="134">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="136" end_char="388">
+<ORIGINAL_TEXT>OITS va poliomiyelitga qarshi kurashdan tortib, halokatli viruslarning tarqalishi, sunʼiy qoʻl-oyoqlarni yasash texnologiyalaridan tortib, Ukrainada ogʻriqni qoldiruvchi dori vositalarini nazorat qilishga doir yangi qonunlar ana shular sirasidan boʻldi.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="136" end_char="139">OITS</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="141" end_char="142">va</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="144" end_char="157">poliomiyelitga</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="159" end_char="164">qarshi</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="166" end_char="174">kurashdan</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="176" end_char="181">tortib</TOKEN>
+<TOKEN id="token-2-6" pos="punct" morph="none" start_char="182" end_char="182">,</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="184" end_char="192">halokatli</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="194" end_char="205">viruslarning</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="207" end_char="216">tarqalishi</TOKEN>
+<TOKEN id="token-2-10" pos="punct" morph="none" start_char="217" end_char="217">,</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="219" end_char="224">sunʼiy</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="226" end_char="229">qoʻl</TOKEN>
+<TOKEN id="token-2-13" pos="punct" morph="none" start_char="230" end_char="230">-</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="231" end_char="239">oyoqlarni</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="241" end_char="246">yasash</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="248" end_char="265">texnologiyalaridan</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="267" end_char="272">tortib</TOKEN>
+<TOKEN id="token-2-18" pos="punct" morph="none" start_char="273" end_char="273">,</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="275" end_char="283">Ukrainada</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="285" end_char="292">ogʻriqni</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="294" end_char="304">qoldiruvchi</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="306" end_char="309">dori</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="311" end_char="322">vositalarini</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="324" end_char="330">nazorat</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="332" end_char="339">qilishga</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="341" end_char="344">doir</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="346" end_char="350">yangi</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="352" end_char="359">qonunlar</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="361" end_char="363">ana</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="365" end_char="370">shular</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="372" end_char="380">sirasidan</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="382" end_char="387">boʻldi</TOKEN>
+<TOKEN id="token-2-33" pos="punct" morph="none" start_char="388" end_char="388">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="391" end_char="476">
+<ORIGINAL_TEXT>2013 yil OITV va OITSga qarshi kurashda muayan natijalar bilan yodda qoladigan boʻldi.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="number" morph="none" start_char="391" end_char="394">2013</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="396" end_char="398">yil</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="400" end_char="403">OITV</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="405" end_char="406">va</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="408" end_char="413">OITSga</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="415" end_char="420">qarshi</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="422" end_char="429">kurashda</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="431" end_char="436">muayan</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="438" end_char="446">natijalar</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="448" end_char="452">bilan</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="454" end_char="458">yodda</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="460" end_char="468">qoladigan</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="470" end_char="475">boʻldi</TOKEN>
+<TOKEN id="token-3-13" pos="punct" morph="none" start_char="476" end_char="476">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="478" end_char="687">
+<ORIGINAL_TEXT>Yanvar oyida Avstraliyadagi Kuinsland tibbiy tadqiqot instituti olimlari OITV tarkibidagi proteinni oʻzgartirish orqali koʻp uchraydigan infektsiyalarning oldini olish yoʻlini kashf qilganlarini eʼlon qildilar.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="478" end_char="483">Yanvar</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="485" end_char="489">oyida</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="491" end_char="504">Avstraliyadagi</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="506" end_char="514">Kuinsland</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="516" end_char="521">tibbiy</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="523" end_char="530">tadqiqot</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="532" end_char="540">instituti</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="542" end_char="549">olimlari</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="551" end_char="554">OITV</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="556" end_char="566">tarkibidagi</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="568" end_char="576">proteinni</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="578" end_char="589">oʻzgartirish</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="591" end_char="596">orqali</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="598" end_char="601">koʻp</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="603" end_char="613">uchraydigan</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="615" end_char="631">infektsiyalarning</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="633" end_char="638">oldini</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="640" end_char="644">olish</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="646" end_char="652">yoʻlini</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="654" end_char="658">kashf</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="660" end_char="671">qilganlarini</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="673" end_char="677">eʼlon</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="679" end_char="686">qildilar</TOKEN>
+<TOKEN id="token-4-23" pos="punct" morph="none" start_char="687" end_char="687">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="689" end_char="883">
+<ORIGINAL_TEXT>Kashfiyot mualliflaridan biri, Kuinsland instituti professori Devid Harrihning aytishicha, klinik tajribalar muvaffaqiyatli yakunlansa, OITSning oldini olishda samarali vositaga aylanishi mumkin.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="689" end_char="697">Kashfiyot</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="699" end_char="712">mualliflaridan</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="714" end_char="717">biri</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="718" end_char="718">,</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="720" end_char="728">Kuinsland</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="730" end_char="738">instituti</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="740" end_char="749">professori</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="751" end_char="755">Devid</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="757" end_char="766">Harrihning</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="768" end_char="777">aytishicha</TOKEN>
+<TOKEN id="token-5-10" pos="punct" morph="none" start_char="778" end_char="778">,</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="780" end_char="785">klinik</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="787" end_char="796">tajribalar</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="798" end_char="811">muvaffaqiyatli</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="813" end_char="822">yakunlansa</TOKEN>
+<TOKEN id="token-5-15" pos="punct" morph="none" start_char="823" end_char="823">,</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="825" end_char="832">OITSning</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="834" end_char="839">oldini</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="841" end_char="847">olishda</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="849" end_char="856">samarali</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="858" end_char="865">vositaga</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="867" end_char="875">aylanishi</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="877" end_char="882">mumkin</TOKEN>
+<TOKEN id="token-5-23" pos="punct" morph="none" start_char="883" end_char="883">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="886" end_char="937">
+<ORIGINAL_TEXT>- Bu muolaja OITSga potentsial davo boʻlishi mumkin.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="unknown" morph="none" start_char="886" end_char="886">-</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="888" end_char="889">Bu</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="891" end_char="897">muolaja</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="899" end_char="904">OITSga</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="906" end_char="915">potentsial</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="917" end_char="920">davo</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="922" end_char="929">boʻlishi</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="931" end_char="936">mumkin</TOKEN>
+<TOKEN id="token-6-8" pos="punct" morph="none" start_char="937" end_char="937">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="939" end_char="1016">
+<ORIGINAL_TEXT>Bu OITV infektsiyasini bartaraf qilmaydi, lekin kasallikni toʻxtatishi mumkin.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="939" end_char="940">Bu</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="942" end_char="945">OITV</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="947" end_char="960">infektsiyasini</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="962" end_char="969">bartaraf</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="971" end_char="978">qilmaydi</TOKEN>
+<TOKEN id="token-7-5" pos="punct" morph="none" start_char="979" end_char="979">,</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="981" end_char="985">lekin</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="987" end_char="996">kasallikni</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="998" end_char="1008">toʻxtatishi</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1010" end_char="1015">mumkin</TOKEN>
+<TOKEN id="token-7-10" pos="punct" morph="none" start_char="1016" end_char="1016">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1018" end_char="1200">
+<ORIGINAL_TEXT>Immun hujayralarida mavjud boʻlgan bu protein bemorlar odatdagi infektsiyalarga qarshi kurasha olishi uchun sogʻlom immun tizimini taʼminlashga yordam beradi,- deydi professor Harrih.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1018" end_char="1022">Immun</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1024" end_char="1036">hujayralarida</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1038" end_char="1043">mavjud</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1045" end_char="1051">boʻlgan</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1053" end_char="1054">bu</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1056" end_char="1062">protein</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1064" end_char="1071">bemorlar</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1073" end_char="1080">odatdagi</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1082" end_char="1096">infektsiyalarga</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1098" end_char="1103">qarshi</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1105" end_char="1111">kurasha</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1113" end_char="1118">olishi</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1120" end_char="1124">uchun</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1126" end_char="1132">sogʻlom</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1134" end_char="1138">immun</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1140" end_char="1147">tizimini</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1149" end_char="1160">taʼminlashga</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1162" end_char="1167">yordam</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1169" end_char="1174">beradi</TOKEN>
+<TOKEN id="token-8-19" pos="punct" morph="none" start_char="1175" end_char="1176">,-</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1178" end_char="1182">deydi</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1184" end_char="1192">professor</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1194" end_char="1199">Harrih</TOKEN>
+<TOKEN id="token-8-23" pos="punct" morph="none" start_char="1200" end_char="1200">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1203" end_char="1421">
+<ORIGINAL_TEXT>Mart oyida AQShning Missisipi shtatida roʻy bergan yana hodisada, olimlar OITV infektsiyasi bilan tugʻilgan chaqaloq dori vositasi bilan amalga oshiriladigan standart muolaja natijasida toʻliq davolanganini eʼlon qildi.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1203" end_char="1206">Mart</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1208" end_char="1212">oyida</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1214" end_char="1221">AQShning</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1223" end_char="1231">Missisipi</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1233" end_char="1240">shtatida</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1242" end_char="1245">roʻy</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1247" end_char="1252">bergan</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1254" end_char="1257">yana</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1259" end_char="1266">hodisada</TOKEN>
+<TOKEN id="token-9-9" pos="punct" morph="none" start_char="1267" end_char="1267">,</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1269" end_char="1275">olimlar</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1277" end_char="1280">OITV</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1282" end_char="1293">infektsiyasi</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1295" end_char="1299">bilan</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1301" end_char="1309">tugʻilgan</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1311" end_char="1318">chaqaloq</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1320" end_char="1323">dori</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1325" end_char="1332">vositasi</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1334" end_char="1338">bilan</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1340" end_char="1345">amalga</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="1347" end_char="1359">oshiriladigan</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1361" end_char="1368">standart</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="1370" end_char="1376">muolaja</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="1378" end_char="1387">natijasida</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="1389" end_char="1394">toʻliq</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="1396" end_char="1408">davolanganini</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="1410" end_char="1414">eʼlon</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="1416" end_char="1420">qildi</TOKEN>
+<TOKEN id="token-9-28" pos="punct" morph="none" start_char="1421" end_char="1421">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1423" end_char="1529">
+<ORIGINAL_TEXT>Bu muolaja boshqa chaqaloqlarda ham samara berishini tekshirish uchun yana sinovlarni davom ettirish kerak.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1423" end_char="1424">Bu</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1426" end_char="1432">muolaja</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1434" end_char="1439">boshqa</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1441" end_char="1453">chaqaloqlarda</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1455" end_char="1457">ham</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1459" end_char="1464">samara</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1466" end_char="1474">berishini</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1476" end_char="1485">tekshirish</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1487" end_char="1491">uchun</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1493" end_char="1496">yana</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1498" end_char="1507">sinovlarni</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1509" end_char="1513">davom</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1515" end_char="1522">ettirish</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1524" end_char="1528">kerak</TOKEN>
+<TOKEN id="token-10-14" pos="punct" morph="none" start_char="1529" end_char="1529">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1531" end_char="1615">
+<ORIGINAL_TEXT>Lekin oradan bir yil oʻtib, missisipilik chaqaloqda OITV alomatlari kuzatilgani yoʻq.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1531" end_char="1535">Lekin</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1537" end_char="1542">oradan</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1544" end_char="1546">bir</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1548" end_char="1550">yil</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1552" end_char="1556">oʻtib</TOKEN>
+<TOKEN id="token-11-5" pos="punct" morph="none" start_char="1557" end_char="1557">,</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1559" end_char="1570">missisipilik</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1572" end_char="1581">chaqaloqda</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1583" end_char="1586">OITV</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1588" end_char="1597">alomatlari</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1599" end_char="1609">kuzatilgani</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1611" end_char="1614">yoʻq</TOKEN>
+<TOKEN id="token-11-12" pos="punct" morph="none" start_char="1615" end_char="1615">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1618" end_char="1763">
+<ORIGINAL_TEXT>Poliomiyelitga qarshi kurash sohasida esa, Pokiston va Suriyada bu kasallikning avj olishi, uni toʻla bartaraf qilish urinishlariga tahlika soldi.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1618" end_char="1631">Poliomiyelitga</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1633" end_char="1638">qarshi</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1640" end_char="1645">kurash</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1647" end_char="1654">sohasida</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1656" end_char="1658">esa</TOKEN>
+<TOKEN id="token-12-5" pos="punct" morph="none" start_char="1659" end_char="1659">,</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1661" end_char="1668">Pokiston</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1670" end_char="1671">va</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1673" end_char="1680">Suriyada</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1682" end_char="1683">bu</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1685" end_char="1696">kasallikning</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1698" end_char="1700">avj</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1702" end_char="1707">olishi</TOKEN>
+<TOKEN id="token-12-13" pos="punct" morph="none" start_char="1708" end_char="1708">,</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1710" end_char="1712">uni</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1714" end_char="1718">toʻla</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1720" end_char="1727">bartaraf</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1729" end_char="1734">qilish</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1736" end_char="1748">urinishlariga</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1750" end_char="1756">tahlika</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="1758" end_char="1762">soldi</TOKEN>
+<TOKEN id="token-12-21" pos="punct" morph="none" start_char="1763" end_char="1763">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1766" end_char="1935">
+<ORIGINAL_TEXT>Polimiyelit kasalligi endemik tus olgan uch davlatdan biri hisoblangan Pokistonda islomiy jangarilar bolalarni bu kasallikka qarshi emlash kampaniyasiga toʻsqinlik qildi.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1766" end_char="1776">Polimiyelit</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1778" end_char="1786">kasalligi</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1788" end_char="1794">endemik</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1796" end_char="1798">tus</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1800" end_char="1804">olgan</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1806" end_char="1808">uch</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1810" end_char="1818">davlatdan</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1820" end_char="1823">biri</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1825" end_char="1835">hisoblangan</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1837" end_char="1846">Pokistonda</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1848" end_char="1854">islomiy</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1856" end_char="1865">jangarilar</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1867" end_char="1875">bolalarni</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1877" end_char="1878">bu</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1880" end_char="1889">kasallikka</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1891" end_char="1896">qarshi</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1898" end_char="1903">emlash</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1905" end_char="1917">kampaniyasiga</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1919" end_char="1928">toʻsqinlik</TOKEN>
+<TOKEN id="token-13-19" pos="word" morph="none" start_char="1930" end_char="1934">qildi</TOKEN>
+<TOKEN id="token-13-20" pos="punct" morph="none" start_char="1935" end_char="1935">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1937" end_char="2033">
+<ORIGINAL_TEXT>Emlash kampaniyasida ishtirok etgan shifokorlar oʻgʻirlab ketildi, baʼzi hollarda esa oʻldirildi.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1937" end_char="1942">Emlash</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1944" end_char="1956">kampaniyasida</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1958" end_char="1965">ishtirok</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1967" end_char="1971">etgan</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1973" end_char="1983">shifokorlar</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1985" end_char="1993">oʻgʻirlab</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1995" end_char="2001">ketildi</TOKEN>
+<TOKEN id="token-14-7" pos="punct" morph="none" start_char="2002" end_char="2002">,</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2004" end_char="2008">baʼzi</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2010" end_char="2017">hollarda</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2019" end_char="2021">esa</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2023" end_char="2032">oʻldirildi</TOKEN>
+<TOKEN id="token-14-12" pos="punct" morph="none" start_char="2033" end_char="2033">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2036" end_char="2111">
+<ORIGINAL_TEXT>Natijada Pokistonda joriy yilda 70dan ortiq poliomiyelit holati qayd etildi.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2036" end_char="2043">Natijada</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2045" end_char="2054">Pokistonda</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2056" end_char="2060">joriy</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2062" end_char="2066">yilda</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2068" end_char="2072">70dan</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2074" end_char="2078">ortiq</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2080" end_char="2091">poliomiyelit</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2093" end_char="2098">holati</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2100" end_char="2103">qayd</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="2105" end_char="2110">etildi</TOKEN>
+<TOKEN id="token-15-10" pos="punct" morph="none" start_char="2111" end_char="2111">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2113" end_char="2167">
+<ORIGINAL_TEXT>Oʻtgan yili 58 bolada bu kasallik tashxis qilingan edi.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2113" end_char="2118">Oʻtgan</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2120" end_char="2123">yili</TOKEN>
+<TOKEN id="token-16-2" pos="number" morph="none" start_char="2125" end_char="2126">58</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2128" end_char="2133">bolada</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2135" end_char="2136">bu</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2138" end_char="2145">kasallik</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2147" end_char="2153">tashxis</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2155" end_char="2162">qilingan</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2164" end_char="2166">edi</TOKEN>
+<TOKEN id="token-16-9" pos="punct" morph="none" start_char="2167" end_char="2167">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2169" end_char="2255">
+<ORIGINAL_TEXT>Nigeriyada poliomiyelitga doir 50ta holat, Afgʻonistonda esa toʻqqizta holat aniqlandi.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2169" end_char="2178">Nigeriyada</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2180" end_char="2193">poliomiyelitga</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2195" end_char="2198">doir</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2200" end_char="2203">50ta</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2205" end_char="2209">holat</TOKEN>
+<TOKEN id="token-17-5" pos="punct" morph="none" start_char="2210" end_char="2210">,</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2212" end_char="2224">Afgʻonistonda</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2226" end_char="2228">esa</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2230" end_char="2238">toʻqqizta</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2240" end_char="2244">holat</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2246" end_char="2254">aniqlandi</TOKEN>
+<TOKEN id="token-17-11" pos="punct" morph="none" start_char="2255" end_char="2255">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2258" end_char="2408">
+<ORIGINAL_TEXT>Noyabrʼ oyida Jahon Sogʻliqni saqlash tashkiloti Suriyada 13 bolani shol qilib qoʻygan poliomiyelit Pokistondan kelgan virusdan chiqqanini eʼlon qildi.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2258" end_char="2264">Noyabrʼ</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2266" end_char="2270">oyida</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2272" end_char="2276">Jahon</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2278" end_char="2286">Sogʻliqni</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2288" end_char="2294">saqlash</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2296" end_char="2305">tashkiloti</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2307" end_char="2314">Suriyada</TOKEN>
+<TOKEN id="token-18-7" pos="number" morph="none" start_char="2316" end_char="2317">13</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2319" end_char="2324">bolani</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2326" end_char="2329">shol</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2331" end_char="2335">qilib</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2337" end_char="2343">qoʻygan</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2345" end_char="2356">poliomiyelit</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2358" end_char="2368">Pokistondan</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2370" end_char="2375">kelgan</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2377" end_char="2384">virusdan</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2386" end_char="2395">chiqqanini</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2397" end_char="2401">eʼlon</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="2403" end_char="2407">qildi</TOKEN>
+<TOKEN id="token-18-19" pos="punct" morph="none" start_char="2408" end_char="2408">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2410" end_char="2570">
+<ORIGINAL_TEXT>Suriyada bu kasallik 14 yil avval toʻla yoʻq qilingan edi, lekin qariyb uch yildan beri davom etayotgan fuqarolar urushi oqibatida emlash ishlari izidan chiqqan.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2410" end_char="2417">Suriyada</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2419" end_char="2420">bu</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2422" end_char="2429">kasallik</TOKEN>
+<TOKEN id="token-19-3" pos="number" morph="none" start_char="2431" end_char="2432">14</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2434" end_char="2436">yil</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2438" end_char="2442">avval</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2444" end_char="2448">toʻla</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2450" end_char="2453">yoʻq</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2455" end_char="2462">qilingan</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2464" end_char="2466">edi</TOKEN>
+<TOKEN id="token-19-10" pos="punct" morph="none" start_char="2467" end_char="2467">,</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2469" end_char="2473">lekin</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2475" end_char="2480">qariyb</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2482" end_char="2484">uch</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2486" end_char="2491">yildan</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2493" end_char="2496">beri</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2498" end_char="2502">davom</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2504" end_char="2512">etayotgan</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2514" end_char="2522">fuqarolar</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="2524" end_char="2529">urushi</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2531" end_char="2539">oqibatida</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2541" end_char="2546">emlash</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2548" end_char="2554">ishlari</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="2556" end_char="2561">izidan</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2563" end_char="2569">chiqqan</TOKEN>
+<TOKEN id="token-19-25" pos="punct" morph="none" start_char="2570" end_char="2570">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2573" end_char="2677">
+<ORIGINAL_TEXT>Xalqaro ekspertlar 2012 yilda aniqlangan halokatli virus tarqalishi mumkinligi borasida xavotir bildirdi.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2573" end_char="2579">Xalqaro</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2581" end_char="2590">ekspertlar</TOKEN>
+<TOKEN id="token-20-2" pos="number" morph="none" start_char="2592" end_char="2595">2012</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2597" end_char="2601">yilda</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2603" end_char="2612">aniqlangan</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2614" end_char="2622">halokatli</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2624" end_char="2628">virus</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2630" end_char="2639">tarqalishi</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2641" end_char="2650">mumkinligi</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2652" end_char="2659">borasida</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2661" end_char="2667">xavotir</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2669" end_char="2676">bildirdi</TOKEN>
+<TOKEN id="token-20-12" pos="punct" morph="none" start_char="2677" end_char="2677">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2679" end_char="2843">
+<ORIGINAL_TEXT>Koronavirus deb ataluvchi bu infektsiya bilan kasallangan bemorda zotiljamga oʻxshash alomatlar kuzatiladi hamda buyrak va boshqa organlariga jiddiy ziyon yetkazadi.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2679" end_char="2689">Koronavirus</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2691" end_char="2693">deb</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2695" end_char="2703">ataluvchi</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2705" end_char="2706">bu</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2708" end_char="2717">infektsiya</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2719" end_char="2723">bilan</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2725" end_char="2735">kasallangan</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2737" end_char="2743">bemorda</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2745" end_char="2754">zotiljamga</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2756" end_char="2763">oʻxshash</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2765" end_char="2773">alomatlar</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="2775" end_char="2784">kuzatiladi</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="2786" end_char="2790">hamda</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="2792" end_char="2797">buyrak</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2799" end_char="2800">va</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="2802" end_char="2807">boshqa</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="2809" end_char="2819">organlariga</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="2821" end_char="2826">jiddiy</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="2828" end_char="2832">ziyon</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="2834" end_char="2842">yetkazadi</TOKEN>
+<TOKEN id="token-21-20" pos="punct" morph="none" start_char="2843" end_char="2843">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2845" end_char="2965">
+<ORIGINAL_TEXT>Xavfli bu virusning 2003 yilda jahon boʻylab 800 kishining oʻlimiga sabab boʻlgan atipik pnevmoniya virusiga aloqasi bor.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2845" end_char="2850">Xavfli</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2852" end_char="2853">bu</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2855" end_char="2863">virusning</TOKEN>
+<TOKEN id="token-22-3" pos="number" morph="none" start_char="2865" end_char="2868">2003</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2870" end_char="2874">yilda</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="2876" end_char="2880">jahon</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="2882" end_char="2888">boʻylab</TOKEN>
+<TOKEN id="token-22-7" pos="number" morph="none" start_char="2890" end_char="2892">800</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="2894" end_char="2902">kishining</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="2904" end_char="2911">oʻlimiga</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="2913" end_char="2917">sabab</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="2919" end_char="2925">boʻlgan</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="2927" end_char="2932">atipik</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="2934" end_char="2943">pnevmoniya</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="2945" end_char="2952">virusiga</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="2954" end_char="2960">aloqasi</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="2962" end_char="2964">bor</TOKEN>
+<TOKEN id="token-22-17" pos="punct" morph="none" start_char="2965" end_char="2965">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2968" end_char="3084">
+<ORIGINAL_TEXT>Bu virusga chalinish holatlari hozircha oz sonlidir – Yaqin Sharq va YEvropada hammasi boʻlib 160 holat qayd etilgan.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2968" end_char="2969">Bu</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2971" end_char="2977">virusga</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2979" end_char="2987">chalinish</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2989" end_char="2997">holatlari</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2999" end_char="3006">hozircha</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3008" end_char="3009">oz</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3011" end_char="3018">sonlidir</TOKEN>
+<TOKEN id="token-23-7" pos="unknown" morph="none" start_char="3020" end_char="3020">–</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3022" end_char="3026">Yaqin</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="3028" end_char="3032">Sharq</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="3034" end_char="3035">va</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="3037" end_char="3045">YEvropada</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="3047" end_char="3053">hammasi</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="3055" end_char="3060">boʻlib</TOKEN>
+<TOKEN id="token-23-14" pos="number" morph="none" start_char="3062" end_char="3064">160</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="3066" end_char="3070">holat</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="3072" end_char="3075">qayd</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="3077" end_char="3083">etilgan</TOKEN>
+<TOKEN id="token-23-18" pos="punct" morph="none" start_char="3084" end_char="3084">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3086" end_char="3138">
+<ORIGINAL_TEXT>Lekin bemorlar orasida oʻlim darajasi juda yuqoridir.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="3086" end_char="3090">Lekin</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3092" end_char="3099">bemorlar</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3101" end_char="3107">orasida</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3109" end_char="3113">oʻlim</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3115" end_char="3122">darajasi</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3124" end_char="3127">juda</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3129" end_char="3137">yuqoridir</TOKEN>
+<TOKEN id="token-24-7" pos="punct" morph="none" start_char="3138" end_char="3138">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3140" end_char="3204">
+<ORIGINAL_TEXT>Shu paytgacha kasallikka chalinganlarning 68 nafari nobud boʻldi.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="3140" end_char="3142">Shu</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3144" end_char="3152">paytgacha</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3154" end_char="3163">kasallikka</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3165" end_char="3180">chalinganlarning</TOKEN>
+<TOKEN id="token-25-4" pos="number" morph="none" start_char="3182" end_char="3183">68</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="3185" end_char="3190">nafari</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="3192" end_char="3196">nobud</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="3198" end_char="3203">boʻldi</TOKEN>
+<TOKEN id="token-25-8" pos="punct" morph="none" start_char="3204" end_char="3204">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="3206" end_char="3286">
+<ORIGINAL_TEXT>Virusning odamdan odamga yuqishi mumkinligi, ayniqsa xavotirlarni kuchaytirmoqda.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="3206" end_char="3214">Virusning</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="3216" end_char="3222">odamdan</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="3224" end_char="3229">odamga</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="3231" end_char="3237">yuqishi</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="3239" end_char="3248">mumkinligi</TOKEN>
+<TOKEN id="token-26-5" pos="punct" morph="none" start_char="3249" end_char="3249">,</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="3251" end_char="3257">ayniqsa</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="3259" end_char="3270">xavotirlarni</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="3272" end_char="3285">kuchaytirmoqda</TOKEN>
+<TOKEN id="token-26-9" pos="punct" morph="none" start_char="3286" end_char="3286">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="3289" end_char="3401">
+<ORIGINAL_TEXT>Jahon sogʻliqni saqlash tashkiloti epidemiologi Gregori Hartl mazkur virusni tadqiq qilish bilan shugʻullanmoqda.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="3289" end_char="3293">Jahon</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="3295" end_char="3303">sogʻliqni</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="3305" end_char="3311">saqlash</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="3313" end_char="3322">tashkiloti</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="3324" end_char="3335">epidemiologi</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="3337" end_char="3343">Gregori</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="3345" end_char="3349">Hartl</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="3351" end_char="3356">mazkur</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="3358" end_char="3364">virusni</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="3366" end_char="3371">tadqiq</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="3373" end_char="3378">qilish</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="3380" end_char="3384">bilan</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="3386" end_char="3400">shugʻullanmoqda</TOKEN>
+<TOKEN id="token-27-13" pos="punct" morph="none" start_char="3401" end_char="3401">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="3404" end_char="3477">
+<ORIGINAL_TEXT>- Bu virus oddiy shamollash va atipik pnevmoniya virusi oilasiga doxildir.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="3404" end_char="3404">-</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="3406" end_char="3407">Bu</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="3409" end_char="3413">virus</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="3415" end_char="3419">oddiy</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="3421" end_char="3430">shamollash</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="3432" end_char="3433">va</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="3435" end_char="3440">atipik</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="3442" end_char="3451">pnevmoniya</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="3453" end_char="3458">virusi</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="3460" end_char="3467">oilasiga</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="3469" end_char="3476">doxildir</TOKEN>
+<TOKEN id="token-28-11" pos="punct" morph="none" start_char="3477" end_char="3477">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="3479" end_char="3510">
+<ORIGINAL_TEXT>Ulardan biroz farq qiladi xolos.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="3479" end_char="3485">Ulardan</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="3487" end_char="3491">biroz</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="3493" end_char="3496">farq</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="3498" end_char="3503">qiladi</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="3505" end_char="3509">xolos</TOKEN>
+<TOKEN id="token-29-5" pos="punct" morph="none" start_char="3510" end_char="3510">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="3512" end_char="3606">
+<ORIGINAL_TEXT>Hozircha yuqimliligi atipik pnevmoniya va oddiy shamollashnikidan kamroqdek boʻlib koʻrilmoqda.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="3512" end_char="3519">Hozircha</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="3521" end_char="3531">yuqimliligi</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="3533" end_char="3538">atipik</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="3540" end_char="3549">pnevmoniya</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="3551" end_char="3552">va</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="3554" end_char="3558">oddiy</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="3560" end_char="3576">shamollashnikidan</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="3578" end_char="3586">kamroqdek</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="3588" end_char="3593">boʻlib</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="3595" end_char="3605">koʻrilmoqda</TOKEN>
+<TOKEN id="token-30-10" pos="punct" morph="none" start_char="3606" end_char="3606">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="3608" end_char="3681">
+<ORIGINAL_TEXT>Lekin ikki virusdan koʻra bunisi halokatliroqdir,- deydi epidemiolog olim.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="3608" end_char="3612">Lekin</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="3614" end_char="3617">ikki</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="3619" end_char="3626">virusdan</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="3628" end_char="3632">koʻra</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="3634" end_char="3639">bunisi</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="3641" end_char="3655">halokatliroqdir</TOKEN>
+<TOKEN id="token-31-6" pos="punct" morph="none" start_char="3656" end_char="3657">,-</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="3659" end_char="3663">deydi</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="3665" end_char="3675">epidemiolog</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="3677" end_char="3680">olim</TOKEN>
+<TOKEN id="token-31-10" pos="punct" morph="none" start_char="3681" end_char="3681">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="3684" end_char="3816">
+<ORIGINAL_TEXT>Koronavirus toʻgʻrisidagi xavotirlar Xitoyda yana bir xavfli virus aniqlanganiga doir xabarlar paydo boʻlgan paytga toʻgʻri kelmoqda.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="3684" end_char="3694">Koronavirus</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="3696" end_char="3708">toʻgʻrisidagi</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="3710" end_char="3719">xavotirlar</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="3721" end_char="3727">Xitoyda</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="3729" end_char="3732">yana</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="3734" end_char="3736">bir</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="3738" end_char="3743">xavfli</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="3745" end_char="3749">virus</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="3751" end_char="3763">aniqlanganiga</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="3765" end_char="3768">doir</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="3770" end_char="3777">xabarlar</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="3779" end_char="3783">paydo</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="3785" end_char="3791">boʻlgan</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="3793" end_char="3798">paytga</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="3800" end_char="3806">toʻgʻri</TOKEN>
+<TOKEN id="token-32-15" pos="word" morph="none" start_char="3808" end_char="3815">kelmoqda</TOKEN>
+<TOKEN id="token-32-16" pos="punct" morph="none" start_char="3816" end_char="3816">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="3818" end_char="3910">
+<ORIGINAL_TEXT>Fevralʼ oyidan beri H7N9 virusi 140qa yaqin odamda aniqlandi, ulardan 45 nafari nobud boʻldi.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="3818" end_char="3824">Fevralʼ</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="3826" end_char="3831">oyidan</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="3833" end_char="3836">beri</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="3838" end_char="3841">H7N9</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="3843" end_char="3848">virusi</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="3850" end_char="3854">140qa</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="3856" end_char="3860">yaqin</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="3862" end_char="3867">odamda</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="3869" end_char="3877">aniqlandi</TOKEN>
+<TOKEN id="token-33-9" pos="punct" morph="none" start_char="3878" end_char="3878">,</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="3880" end_char="3886">ulardan</TOKEN>
+<TOKEN id="token-33-11" pos="number" morph="none" start_char="3888" end_char="3889">45</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="3891" end_char="3896">nafari</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="3898" end_char="3902">nobud</TOKEN>
+<TOKEN id="token-33-14" pos="word" morph="none" start_char="3904" end_char="3909">boʻldi</TOKEN>
+<TOKEN id="token-33-15" pos="punct" morph="none" start_char="3910" end_char="3910">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="3912" end_char="4014">
+<ORIGINAL_TEXT>Lekin hozircha parranda grippi turlaridan biri boʻlgan bu virus odamdan odamga yuqishi qayd qilinmagan.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="3912" end_char="3916">Lekin</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="3918" end_char="3925">hozircha</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="3927" end_char="3934">parranda</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="3936" end_char="3941">grippi</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="3943" end_char="3952">turlaridan</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="3954" end_char="3957">biri</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="3959" end_char="3965">boʻlgan</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="3967" end_char="3968">bu</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="3970" end_char="3974">virus</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="3976" end_char="3982">odamdan</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="3984" end_char="3989">odamga</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="3991" end_char="3997">yuqishi</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="3999" end_char="4002">qayd</TOKEN>
+<TOKEN id="token-34-13" pos="word" morph="none" start_char="4004" end_char="4013">qilinmagan</TOKEN>
+<TOKEN id="token-34-14" pos="punct" morph="none" start_char="4014" end_char="4014">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="4017" end_char="4191">
+<ORIGINAL_TEXT>Tibbiyot sohasidagi xushxabarlardan yana biri foydalanuvchilar miyadan kelgan impulʼslar yordamida nazorat qila oladigan sunʼiy qoʻl-oyoq texnologiyasi kashf qilingani boʻldi.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="4017" end_char="4024">Tibbiyot</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="4026" end_char="4035">sohasidagi</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="4037" end_char="4051">xushxabarlardan</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="4053" end_char="4056">yana</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="4058" end_char="4061">biri</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="4063" end_char="4078">foydalanuvchilar</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="4080" end_char="4086">miyadan</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="4088" end_char="4093">kelgan</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="4095" end_char="4104">impulʼslar</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="4106" end_char="4114">yordamida</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="4116" end_char="4122">nazorat</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="4124" end_char="4127">qila</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="4129" end_char="4136">oladigan</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="4138" end_char="4143">sunʼiy</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="4145" end_char="4148">qoʻl</TOKEN>
+<TOKEN id="token-35-15" pos="punct" morph="none" start_char="4149" end_char="4149">-</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="4150" end_char="4153">oyoq</TOKEN>
+<TOKEN id="token-35-17" pos="word" morph="none" start_char="4155" end_char="4167">texnologiyasi</TOKEN>
+<TOKEN id="token-35-18" pos="word" morph="none" start_char="4169" end_char="4173">kashf</TOKEN>
+<TOKEN id="token-35-19" pos="word" morph="none" start_char="4175" end_char="4183">qilingani</TOKEN>
+<TOKEN id="token-35-20" pos="word" morph="none" start_char="4185" end_char="4190">boʻldi</TOKEN>
+<TOKEN id="token-35-21" pos="punct" morph="none" start_char="4191" end_char="4191">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="4194" end_char="4434">
+<ORIGINAL_TEXT>AQSh Mudofaa vazirligi qoshidagi harbiy tadqiqot markazi shu yilning yoz oylarida Internetda eʼlon qilgan videoda Iroqdagi urushda bir qoʻlidan judo boʻlgan sobiq leytenant Glen Lemanning ana shunday sunʼiy qoʻlni ishlatayotgani tasvirlandi.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="4194" end_char="4197">AQSh</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="4199" end_char="4205">Mudofaa</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="4207" end_char="4215">vazirligi</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="4217" end_char="4225">qoshidagi</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="4227" end_char="4232">harbiy</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="4234" end_char="4241">tadqiqot</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="4243" end_char="4249">markazi</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="4251" end_char="4253">shu</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="4255" end_char="4261">yilning</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="4263" end_char="4265">yoz</TOKEN>
+<TOKEN id="token-36-10" pos="word" morph="none" start_char="4267" end_char="4274">oylarida</TOKEN>
+<TOKEN id="token-36-11" pos="word" morph="none" start_char="4276" end_char="4285">Internetda</TOKEN>
+<TOKEN id="token-36-12" pos="word" morph="none" start_char="4287" end_char="4291">eʼlon</TOKEN>
+<TOKEN id="token-36-13" pos="word" morph="none" start_char="4293" end_char="4298">qilgan</TOKEN>
+<TOKEN id="token-36-14" pos="word" morph="none" start_char="4300" end_char="4306">videoda</TOKEN>
+<TOKEN id="token-36-15" pos="word" morph="none" start_char="4308" end_char="4315">Iroqdagi</TOKEN>
+<TOKEN id="token-36-16" pos="word" morph="none" start_char="4317" end_char="4323">urushda</TOKEN>
+<TOKEN id="token-36-17" pos="word" morph="none" start_char="4325" end_char="4327">bir</TOKEN>
+<TOKEN id="token-36-18" pos="word" morph="none" start_char="4329" end_char="4336">qoʻlidan</TOKEN>
+<TOKEN id="token-36-19" pos="word" morph="none" start_char="4338" end_char="4341">judo</TOKEN>
+<TOKEN id="token-36-20" pos="word" morph="none" start_char="4343" end_char="4349">boʻlgan</TOKEN>
+<TOKEN id="token-36-21" pos="word" morph="none" start_char="4351" end_char="4355">sobiq</TOKEN>
+<TOKEN id="token-36-22" pos="word" morph="none" start_char="4357" end_char="4365">leytenant</TOKEN>
+<TOKEN id="token-36-23" pos="word" morph="none" start_char="4367" end_char="4370">Glen</TOKEN>
+<TOKEN id="token-36-24" pos="word" morph="none" start_char="4372" end_char="4380">Lemanning</TOKEN>
+<TOKEN id="token-36-25" pos="word" morph="none" start_char="4382" end_char="4384">ana</TOKEN>
+<TOKEN id="token-36-26" pos="word" morph="none" start_char="4386" end_char="4392">shunday</TOKEN>
+<TOKEN id="token-36-27" pos="word" morph="none" start_char="4394" end_char="4399">sunʼiy</TOKEN>
+<TOKEN id="token-36-28" pos="word" morph="none" start_char="4401" end_char="4406">qoʻlni</TOKEN>
+<TOKEN id="token-36-29" pos="word" morph="none" start_char="4408" end_char="4421">ishlatayotgani</TOKEN>
+<TOKEN id="token-36-30" pos="word" morph="none" start_char="4423" end_char="4433">tasvirlandi</TOKEN>
+<TOKEN id="token-36-31" pos="punct" morph="none" start_char="4434" end_char="4434">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="4436" end_char="4581">
+<ORIGINAL_TEXT>Yangi texnologiya yordamida ishlab chiqilgan protez bilan sobiq harbiy kofe ichadi, roʻmolchani havoga irgʻitadi va tennis koptogini yerdan oladi.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="4436" end_char="4440">Yangi</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="4442" end_char="4452">texnologiya</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="4454" end_char="4462">yordamida</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="4464" end_char="4469">ishlab</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="4471" end_char="4479">chiqilgan</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="4481" end_char="4486">protez</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="4488" end_char="4492">bilan</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="4494" end_char="4498">sobiq</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="4500" end_char="4505">harbiy</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="4507" end_char="4510">kofe</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="4512" end_char="4517">ichadi</TOKEN>
+<TOKEN id="token-37-11" pos="punct" morph="none" start_char="4518" end_char="4518">,</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="4520" end_char="4530">roʻmolchani</TOKEN>
+<TOKEN id="token-37-13" pos="word" morph="none" start_char="4532" end_char="4537">havoga</TOKEN>
+<TOKEN id="token-37-14" pos="word" morph="none" start_char="4539" end_char="4547">irgʻitadi</TOKEN>
+<TOKEN id="token-37-15" pos="word" morph="none" start_char="4549" end_char="4550">va</TOKEN>
+<TOKEN id="token-37-16" pos="word" morph="none" start_char="4552" end_char="4557">tennis</TOKEN>
+<TOKEN id="token-37-17" pos="word" morph="none" start_char="4559" end_char="4567">koptogini</TOKEN>
+<TOKEN id="token-37-18" pos="word" morph="none" start_char="4569" end_char="4574">yerdan</TOKEN>
+<TOKEN id="token-37-19" pos="word" morph="none" start_char="4576" end_char="4580">oladi</TOKEN>
+<TOKEN id="token-37-20" pos="punct" morph="none" start_char="4581" end_char="4581">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="4584" end_char="4693">
+<ORIGINAL_TEXT>Protez qoʻl Muskulni nishonli tarzda harakatga keltirish, deb nomlanuvchi texnologiya yordamida harakatlanadi.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="4584" end_char="4589">Protez</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="4591" end_char="4594">qoʻl</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="4596" end_char="4603">Muskulni</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="4605" end_char="4612">nishonli</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="4614" end_char="4619">tarzda</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="4621" end_char="4629">harakatga</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="4631" end_char="4639">keltirish</TOKEN>
+<TOKEN id="token-38-7" pos="punct" morph="none" start_char="4640" end_char="4640">,</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="4642" end_char="4644">deb</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="4646" end_char="4656">nomlanuvchi</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="4658" end_char="4668">texnologiya</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="4670" end_char="4678">yordamida</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="4680" end_char="4692">harakatlanadi</TOKEN>
+<TOKEN id="token-38-13" pos="punct" morph="none" start_char="4693" end_char="4693">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="4695" end_char="4896">
+<ORIGINAL_TEXT>Bu texnologiya bir paytlar miyadan kelgan signalni yoʻqotilgan qoʻlga yoʻnaltirgan asablarni bitseps va koʻkrakdagi muskullarda joylashgan asab tolalariga ulash orqali protez qoʻlni harakatga keltiradi.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="4695" end_char="4696">Bu</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="4698" end_char="4708">texnologiya</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="4710" end_char="4712">bir</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="4714" end_char="4720">paytlar</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="4722" end_char="4728">miyadan</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="4730" end_char="4735">kelgan</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="4737" end_char="4744">signalni</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="4746" end_char="4756">yoʻqotilgan</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="4758" end_char="4763">qoʻlga</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="4765" end_char="4776">yoʻnaltirgan</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="4778" end_char="4786">asablarni</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="4788" end_char="4794">bitseps</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="4796" end_char="4797">va</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="4799" end_char="4809">koʻkrakdagi</TOKEN>
+<TOKEN id="token-39-14" pos="word" morph="none" start_char="4811" end_char="4821">muskullarda</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="4823" end_char="4832">joylashgan</TOKEN>
+<TOKEN id="token-39-16" pos="word" morph="none" start_char="4834" end_char="4837">asab</TOKEN>
+<TOKEN id="token-39-17" pos="word" morph="none" start_char="4839" end_char="4848">tolalariga</TOKEN>
+<TOKEN id="token-39-18" pos="word" morph="none" start_char="4850" end_char="4854">ulash</TOKEN>
+<TOKEN id="token-39-19" pos="word" morph="none" start_char="4856" end_char="4861">orqali</TOKEN>
+<TOKEN id="token-39-20" pos="word" morph="none" start_char="4863" end_char="4868">protez</TOKEN>
+<TOKEN id="token-39-21" pos="word" morph="none" start_char="4870" end_char="4875">qoʻlni</TOKEN>
+<TOKEN id="token-39-22" pos="word" morph="none" start_char="4877" end_char="4885">harakatga</TOKEN>
+<TOKEN id="token-39-23" pos="word" morph="none" start_char="4887" end_char="4895">keltiradi</TOKEN>
+<TOKEN id="token-39-24" pos="punct" morph="none" start_char="4896" end_char="4896">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="4899" end_char="5114">
+<ORIGINAL_TEXT>Sogʻliqni saqlash sohasida ahamiyatga molik yana bir yangilik Ukrainada xavfli kasalliklarga chalingan bemoralarga morfin kabi ogʻriqni qoldiruvchi kuchli dori vositalarini olish imkonlarining kengaytirilgani boʻldi.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="4899" end_char="4907">Sogʻliqni</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="4909" end_char="4915">saqlash</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="4917" end_char="4924">sohasida</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="4926" end_char="4935">ahamiyatga</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="4937" end_char="4941">molik</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="4943" end_char="4946">yana</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="4948" end_char="4950">bir</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="4952" end_char="4959">yangilik</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="4961" end_char="4969">Ukrainada</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="4971" end_char="4976">xavfli</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="4978" end_char="4990">kasalliklarga</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="4992" end_char="5000">chalingan</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="5002" end_char="5012">bemoralarga</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="5014" end_char="5019">morfin</TOKEN>
+<TOKEN id="token-40-14" pos="word" morph="none" start_char="5021" end_char="5024">kabi</TOKEN>
+<TOKEN id="token-40-15" pos="word" morph="none" start_char="5026" end_char="5033">ogʻriqni</TOKEN>
+<TOKEN id="token-40-16" pos="word" morph="none" start_char="5035" end_char="5045">qoldiruvchi</TOKEN>
+<TOKEN id="token-40-17" pos="word" morph="none" start_char="5047" end_char="5052">kuchli</TOKEN>
+<TOKEN id="token-40-18" pos="word" morph="none" start_char="5054" end_char="5057">dori</TOKEN>
+<TOKEN id="token-40-19" pos="word" morph="none" start_char="5059" end_char="5070">vositalarini</TOKEN>
+<TOKEN id="token-40-20" pos="word" morph="none" start_char="5072" end_char="5076">olish</TOKEN>
+<TOKEN id="token-40-21" pos="word" morph="none" start_char="5078" end_char="5090">imkonlarining</TOKEN>
+<TOKEN id="token-40-22" pos="word" morph="none" start_char="5092" end_char="5106">kengaytirilgani</TOKEN>
+<TOKEN id="token-40-23" pos="word" morph="none" start_char="5108" end_char="5113">boʻldi</TOKEN>
+<TOKEN id="token-40-24" pos="punct" morph="none" start_char="5114" end_char="5114">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="5117" end_char="5234">
+<ORIGINAL_TEXT>May oyida yangi qoidalarni qabul qilgan Ukraina MDH mamlakatlari orasida bunday chorani maʼqullagan ilk davlat boʻldi.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="5117" end_char="5119">May</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="5121" end_char="5125">oyida</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="5127" end_char="5131">yangi</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="5133" end_char="5142">qoidalarni</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="5144" end_char="5148">qabul</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="5150" end_char="5155">qilgan</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="5157" end_char="5163">Ukraina</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="5165" end_char="5167">MDH</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="5169" end_char="5180">mamlakatlari</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="5182" end_char="5188">orasida</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="5190" end_char="5195">bunday</TOKEN>
+<TOKEN id="token-41-11" pos="word" morph="none" start_char="5197" end_char="5203">chorani</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="5205" end_char="5215">maʼqullagan</TOKEN>
+<TOKEN id="token-41-13" pos="word" morph="none" start_char="5217" end_char="5219">ilk</TOKEN>
+<TOKEN id="token-41-14" pos="word" morph="none" start_char="5221" end_char="5226">davlat</TOKEN>
+<TOKEN id="token-41-15" pos="word" morph="none" start_char="5228" end_char="5233">boʻldi</TOKEN>
+<TOKEN id="token-41-16" pos="punct" morph="none" start_char="5234" end_char="5234">.</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="5236" end_char="5359">
+<ORIGINAL_TEXT>Bu qoidalar qattiq ogʻrigan bemoralarga kerakli boʻlgan ogʻriqni qoldiruvchi dorilarni yozib berish tartibini osonlashtirdi.</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="5236" end_char="5237">Bu</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="5239" end_char="5246">qoidalar</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="5248" end_char="5253">qattiq</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="5255" end_char="5262">ogʻrigan</TOKEN>
+<TOKEN id="token-42-4" pos="word" morph="none" start_char="5264" end_char="5274">bemoralarga</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="5276" end_char="5282">kerakli</TOKEN>
+<TOKEN id="token-42-6" pos="word" morph="none" start_char="5284" end_char="5290">boʻlgan</TOKEN>
+<TOKEN id="token-42-7" pos="word" morph="none" start_char="5292" end_char="5299">ogʻriqni</TOKEN>
+<TOKEN id="token-42-8" pos="word" morph="none" start_char="5301" end_char="5311">qoldiruvchi</TOKEN>
+<TOKEN id="token-42-9" pos="word" morph="none" start_char="5313" end_char="5321">dorilarni</TOKEN>
+<TOKEN id="token-42-10" pos="word" morph="none" start_char="5323" end_char="5327">yozib</TOKEN>
+<TOKEN id="token-42-11" pos="word" morph="none" start_char="5329" end_char="5334">berish</TOKEN>
+<TOKEN id="token-42-12" pos="word" morph="none" start_char="5336" end_char="5344">tartibini</TOKEN>
+<TOKEN id="token-42-13" pos="word" morph="none" start_char="5346" end_char="5358">osonlashtirdi</TOKEN>
+<TOKEN id="token-42-14" pos="punct" morph="none" start_char="5359" end_char="5359">.</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="5362" end_char="5583">
+<ORIGINAL_TEXT>Hyuman rayts uotch tashkilotining sogʻliqni saqlash masalalari boʻyicha tadqiqotchisi Diderik Loman mazkur chora oʻlimga mahkum bemoralar uchun hayotining soʻngi onlarini ogʻriqda oʻtkazmaslik imkonini ochib beradi, deydi.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="5362" end_char="5367">Hyuman</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="5369" end_char="5373">rayts</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="5375" end_char="5379">uotch</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="5381" end_char="5394">tashkilotining</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="5396" end_char="5404">sogʻliqni</TOKEN>
+<TOKEN id="token-43-5" pos="word" morph="none" start_char="5406" end_char="5412">saqlash</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="5414" end_char="5423">masalalari</TOKEN>
+<TOKEN id="token-43-7" pos="word" morph="none" start_char="5425" end_char="5432">boʻyicha</TOKEN>
+<TOKEN id="token-43-8" pos="word" morph="none" start_char="5434" end_char="5446">tadqiqotchisi</TOKEN>
+<TOKEN id="token-43-9" pos="word" morph="none" start_char="5448" end_char="5454">Diderik</TOKEN>
+<TOKEN id="token-43-10" pos="word" morph="none" start_char="5456" end_char="5460">Loman</TOKEN>
+<TOKEN id="token-43-11" pos="word" morph="none" start_char="5462" end_char="5467">mazkur</TOKEN>
+<TOKEN id="token-43-12" pos="word" morph="none" start_char="5469" end_char="5473">chora</TOKEN>
+<TOKEN id="token-43-13" pos="word" morph="none" start_char="5475" end_char="5481">oʻlimga</TOKEN>
+<TOKEN id="token-43-14" pos="word" morph="none" start_char="5483" end_char="5488">mahkum</TOKEN>
+<TOKEN id="token-43-15" pos="word" morph="none" start_char="5490" end_char="5498">bemoralar</TOKEN>
+<TOKEN id="token-43-16" pos="word" morph="none" start_char="5500" end_char="5504">uchun</TOKEN>
+<TOKEN id="token-43-17" pos="word" morph="none" start_char="5506" end_char="5515">hayotining</TOKEN>
+<TOKEN id="token-43-18" pos="word" morph="none" start_char="5517" end_char="5522">soʻngi</TOKEN>
+<TOKEN id="token-43-19" pos="word" morph="none" start_char="5524" end_char="5531">onlarini</TOKEN>
+<TOKEN id="token-43-20" pos="word" morph="none" start_char="5533" end_char="5540">ogʻriqda</TOKEN>
+<TOKEN id="token-43-21" pos="word" morph="none" start_char="5542" end_char="5553">oʻtkazmaslik</TOKEN>
+<TOKEN id="token-43-22" pos="word" morph="none" start_char="5555" end_char="5562">imkonini</TOKEN>
+<TOKEN id="token-43-23" pos="word" morph="none" start_char="5564" end_char="5568">ochib</TOKEN>
+<TOKEN id="token-43-24" pos="word" morph="none" start_char="5570" end_char="5575">beradi</TOKEN>
+<TOKEN id="token-43-25" pos="punct" morph="none" start_char="5576" end_char="5576">,</TOKEN>
+<TOKEN id="token-43-26" pos="word" morph="none" start_char="5578" end_char="5582">deydi</TOKEN>
+<TOKEN id="token-43-27" pos="punct" morph="none" start_char="5583" end_char="5583">.</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="5586" end_char="5806">
+<ORIGINAL_TEXT>- Avvallari bunday bemorlarning shifokorlari “Biz qoʻlimizdan kelganini qildik, lekin uchinchi bosqichdagi saratonni davolab boʻlmadi yoki antiretrovirus terpaiyasi yordam bermadi”, deb bemorni uyiga joʻnatib yuborar edi.</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="5586" end_char="5586">-</TOKEN>
+<TOKEN id="token-44-1" pos="word" morph="none" start_char="5588" end_char="5596">Avvallari</TOKEN>
+<TOKEN id="token-44-2" pos="word" morph="none" start_char="5598" end_char="5603">bunday</TOKEN>
+<TOKEN id="token-44-3" pos="word" morph="none" start_char="5605" end_char="5616">bemorlarning</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="5618" end_char="5629">shifokorlari</TOKEN>
+<TOKEN id="token-44-5" pos="punct" morph="none" start_char="5631" end_char="5631">“</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="5632" end_char="5634">Biz</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="5636" end_char="5646">qoʻlimizdan</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="5648" end_char="5656">kelganini</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="5658" end_char="5663">qildik</TOKEN>
+<TOKEN id="token-44-10" pos="punct" morph="none" start_char="5664" end_char="5664">,</TOKEN>
+<TOKEN id="token-44-11" pos="word" morph="none" start_char="5666" end_char="5670">lekin</TOKEN>
+<TOKEN id="token-44-12" pos="word" morph="none" start_char="5672" end_char="5679">uchinchi</TOKEN>
+<TOKEN id="token-44-13" pos="word" morph="none" start_char="5681" end_char="5691">bosqichdagi</TOKEN>
+<TOKEN id="token-44-14" pos="word" morph="none" start_char="5693" end_char="5701">saratonni</TOKEN>
+<TOKEN id="token-44-15" pos="word" morph="none" start_char="5703" end_char="5709">davolab</TOKEN>
+<TOKEN id="token-44-16" pos="word" morph="none" start_char="5711" end_char="5718">boʻlmadi</TOKEN>
+<TOKEN id="token-44-17" pos="word" morph="none" start_char="5720" end_char="5723">yoki</TOKEN>
+<TOKEN id="token-44-18" pos="word" morph="none" start_char="5725" end_char="5738">antiretrovirus</TOKEN>
+<TOKEN id="token-44-19" pos="word" morph="none" start_char="5740" end_char="5749">terpaiyasi</TOKEN>
+<TOKEN id="token-44-20" pos="word" morph="none" start_char="5751" end_char="5756">yordam</TOKEN>
+<TOKEN id="token-44-21" pos="word" morph="none" start_char="5758" end_char="5764">bermadi</TOKEN>
+<TOKEN id="token-44-22" pos="punct" morph="none" start_char="5765" end_char="5766">”,</TOKEN>
+<TOKEN id="token-44-23" pos="word" morph="none" start_char="5768" end_char="5770">deb</TOKEN>
+<TOKEN id="token-44-24" pos="word" morph="none" start_char="5772" end_char="5778">bemorni</TOKEN>
+<TOKEN id="token-44-25" pos="word" morph="none" start_char="5780" end_char="5784">uyiga</TOKEN>
+<TOKEN id="token-44-26" pos="word" morph="none" start_char="5786" end_char="5793">joʻnatib</TOKEN>
+<TOKEN id="token-44-27" pos="word" morph="none" start_char="5795" end_char="5801">yuborar</TOKEN>
+<TOKEN id="token-44-28" pos="word" morph="none" start_char="5803" end_char="5805">edi</TOKEN>
+<TOKEN id="token-44-29" pos="punct" morph="none" start_char="5806" end_char="5806">.</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="5808" end_char="5987">
+<ORIGINAL_TEXT>Yaʼni bemorga “tibbiy tizim boshqa hech narsa qilolmaydi, uyinga borib, oʻsha yerda oʻlim topishdan boshqa chorang yoʻq”, degan mujda bilan uyiga joʻnatilar edi,- deydi mutaxassis.</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="5808" end_char="5812">Yaʼni</TOKEN>
+<TOKEN id="token-45-1" pos="word" morph="none" start_char="5814" end_char="5820">bemorga</TOKEN>
+<TOKEN id="token-45-2" pos="punct" morph="none" start_char="5822" end_char="5822">“</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="5823" end_char="5828">tibbiy</TOKEN>
+<TOKEN id="token-45-4" pos="word" morph="none" start_char="5830" end_char="5834">tizim</TOKEN>
+<TOKEN id="token-45-5" pos="word" morph="none" start_char="5836" end_char="5841">boshqa</TOKEN>
+<TOKEN id="token-45-6" pos="word" morph="none" start_char="5843" end_char="5846">hech</TOKEN>
+<TOKEN id="token-45-7" pos="word" morph="none" start_char="5848" end_char="5852">narsa</TOKEN>
+<TOKEN id="token-45-8" pos="word" morph="none" start_char="5854" end_char="5863">qilolmaydi</TOKEN>
+<TOKEN id="token-45-9" pos="punct" morph="none" start_char="5864" end_char="5864">,</TOKEN>
+<TOKEN id="token-45-10" pos="word" morph="none" start_char="5866" end_char="5871">uyinga</TOKEN>
+<TOKEN id="token-45-11" pos="word" morph="none" start_char="5873" end_char="5877">borib</TOKEN>
+<TOKEN id="token-45-12" pos="punct" morph="none" start_char="5878" end_char="5878">,</TOKEN>
+<TOKEN id="token-45-13" pos="word" morph="none" start_char="5880" end_char="5884">oʻsha</TOKEN>
+<TOKEN id="token-45-14" pos="word" morph="none" start_char="5886" end_char="5890">yerda</TOKEN>
+<TOKEN id="token-45-15" pos="word" morph="none" start_char="5892" end_char="5896">oʻlim</TOKEN>
+<TOKEN id="token-45-16" pos="word" morph="none" start_char="5898" end_char="5906">topishdan</TOKEN>
+<TOKEN id="token-45-17" pos="word" morph="none" start_char="5908" end_char="5913">boshqa</TOKEN>
+<TOKEN id="token-45-18" pos="word" morph="none" start_char="5915" end_char="5921">chorang</TOKEN>
+<TOKEN id="token-45-19" pos="word" morph="none" start_char="5923" end_char="5926">yoʻq</TOKEN>
+<TOKEN id="token-45-20" pos="punct" morph="none" start_char="5927" end_char="5928">”,</TOKEN>
+<TOKEN id="token-45-21" pos="word" morph="none" start_char="5930" end_char="5934">degan</TOKEN>
+<TOKEN id="token-45-22" pos="word" morph="none" start_char="5936" end_char="5940">mujda</TOKEN>
+<TOKEN id="token-45-23" pos="word" morph="none" start_char="5942" end_char="5946">bilan</TOKEN>
+<TOKEN id="token-45-24" pos="word" morph="none" start_char="5948" end_char="5952">uyiga</TOKEN>
+<TOKEN id="token-45-25" pos="word" morph="none" start_char="5954" end_char="5963">joʻnatilar</TOKEN>
+<TOKEN id="token-45-26" pos="word" morph="none" start_char="5965" end_char="5967">edi</TOKEN>
+<TOKEN id="token-45-27" pos="punct" morph="none" start_char="5968" end_char="5969">,-</TOKEN>
+<TOKEN id="token-45-28" pos="word" morph="none" start_char="5971" end_char="5975">deydi</TOKEN>
+<TOKEN id="token-45-29" pos="word" morph="none" start_char="5977" end_char="5986">mutaxassis</TOKEN>
+<TOKEN id="token-45-30" pos="punct" morph="none" start_char="5987" end_char="5987">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

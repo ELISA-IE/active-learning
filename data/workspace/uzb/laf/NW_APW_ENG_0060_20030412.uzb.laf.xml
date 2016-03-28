@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_APW_ENG_0060_20030412.uzb" lang="UZB">
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE1" task="NE">
+      <EXTENT start_char="0" end_char="7">Diktator</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE2" task="NE">
+      <EXTENT start_char="9" end_char="15">Suharto</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE3" task="NE">
+      <EXTENT start_char="124" end_char="136">sharqiy Timor</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE4" task="NE">
+      <EXTENT start_char="182" end_char="191">indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE5" task="NE">
+      <EXTENT start_char="200" end_char="203">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE6" task="NE">
+      <EXTENT start_char="1712" end_char="1720">Prezident</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE7" task="NE">
+      <EXTENT start_char="518" end_char="524">Jakarta</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE8" task="NE">
+      <EXTENT start_char="654" end_char="663">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE9" task="NE">
+      <EXTENT start_char="665" end_char="673">Prezident</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE10" task="NE">
+      <EXTENT start_char="676" end_char="696">Megavati Sukarnopurti</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE11" task="NE">
+      <EXTENT start_char="867" end_char="873">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE12" task="NE">
+      <EXTENT start_char="1001" end_char="1007">Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE13" task="NE">
+      <EXTENT start_char="1012" end_char="1020">Britaniya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE14" task="NE">
+      <EXTENT start_char="1066" end_char="1075">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE15" task="NE">
+      <EXTENT start_char="1080" end_char="1086">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE16" task="NE">
+      <EXTENT start_char="1649" end_char="1653">vakil</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE17" task="NE">
+      <EXTENT start_char="1656" end_char="1671">Marta Natalegava</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE18" task="NE">
+      <EXTENT start_char="1691" end_char="1702">Megavatining</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE19" task="NE">
+      <EXTENT start_char="1704" end_char="1710">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE20" task="NE">
+      <EXTENT start_char="1723" end_char="1727">Putin</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE21" task="NE">
+      <EXTENT start_char="1772" end_char="1775">Iroq</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE22" task="NE">
+      <EXTENT start_char="2131" end_char="2138">Balidagi</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE23" task="NE">
+      <EXTENT start_char="2464" end_char="2467">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE24" task="NE">
+      <EXTENT start_char="2589" end_char="2600">Yasuf Uonadi</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE25" task="NE">
+      <EXTENT start_char="2604" end_char="2609">Moskva</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE26" task="NE">
+      <EXTENT start_char="2664" end_char="2673">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE27" task="NE">
+      <EXTENT start_char="2694" end_char="2705">Megavatining</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE28" task="NE">
+      <EXTENT start_char="2724" end_char="2732">Prezident</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE29" task="NE">
+      <EXTENT start_char="2734" end_char="2740">Sukarno</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE30" task="NE">
+      <EXTENT start_char="2815" end_char="2821">Suharto</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE31" task="NE">
+      <EXTENT start_char="2884" end_char="2887">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE32" task="NE">
+      <EXTENT start_char="3078" end_char="3091">AQSh Kongressi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE33" task="NE">
+      <EXTENT start_char="3217" end_char="3229">Sharqiy Timor</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE34" task="NE">
+      <EXTENT start_char="3412" end_char="3415">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE35" task="NE">
+      <EXTENT start_char="3505" end_char="3514">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE36" task="NE">
+      <EXTENT start_char="3546" end_char="3549">Bush</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE37" task="NE">
+      <EXTENT start_char="3592" end_char="3598">Jakarta</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE38" task="NE">
+      <EXTENT start_char="3611" end_char="3614">Iroq</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE39" task="NE">
+      <EXTENT start_char="3658" end_char="3667">Oʻrinbosar</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE40" task="NE">
+      <EXTENT start_char="3670" end_char="3683">Pol Uolʼfovits</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE41" task="NE">
+      <EXTENT start_char="3736" end_char="3739">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE42" task="NE">
+      <EXTENT start_char="3832" end_char="3841">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE43" task="NE">
+      <EXTENT start_char="3883" end_char="3892">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE44" task="NE">
+      <EXTENT start_char="3913" end_char="3925">Vashingtondan</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE45" task="NE">
+      <EXTENT start_char="4004" end_char="4008">Vazir</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE46" task="NE">
+      <EXTENT start_char="4011" end_char="4025">Juono Sudarsono</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE47" task="NE">
+      <EXTENT start_char="4152" end_char="4157">Moskva</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE48" task="NE">
+      <EXTENT start_char="4224" end_char="4230">Jakarta</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE49" task="NE">
+      <EXTENT start_char="4454" end_char="4463">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE50" task="NE">
+      <EXTENT start_char="4484" end_char="4490">Sumatra</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE51" task="NE">
+      <EXTENT start_char="4493" end_char="4498">Borneo</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE52" task="NE">
+      <EXTENT start_char="4688" end_char="4696">Sudarsono</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE53" task="NE">
+      <EXTENT start_char="4700" end_char="4702">PVO</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE54" task="NE">
+      <EXTENT start_char="5079" end_char="5088">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE55" task="NE">
+      <EXTENT start_char="5279" end_char="5285">Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE56" task="NE">
+      <EXTENT start_char="5376" end_char="5384">Sudarsono</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE57" task="NE">
+      <EXTENT start_char="5393" end_char="5400">Megavati</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE58" task="NE">
+      <EXTENT start_char="5447" end_char="5456">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE59" task="NE">
+      <EXTENT start_char="5541" end_char="5550">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE60" task="NE">
+      <EXTENT start_char="5747" end_char="5756">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE61" task="NE">
+      <EXTENT start_char="5761" end_char="5767">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE62" task="NE">
+      <EXTENT start_char="6014" end_char="6021">Megavati</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE63" task="NE">
+      <EXTENT start_char="6026" end_char="6030">Putin</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE64" task="NE">
+      <EXTENT start_char="6070" end_char="6076">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE65" task="NE">
+      <EXTENT start_char="6170" end_char="6176">Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE66" task="NE">
+      <EXTENT start_char="6181" end_char="6189">Britaniya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE67" task="NE">
+      <EXTENT start_char="6192" end_char="6202">Exxon Mobil</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE68" task="NE">
+      <EXTENT start_char="6207" end_char="6208">BP</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE69" task="NE">
+      <EXTENT start_char="216" end_char="224">Jorj Bush</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE70" task="NE">
+      <EXTENT start_char="279" end_char="288">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE71" task="NE">
+      <EXTENT start_char="698" end_char="711">Moskvaga Kreml</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE72" task="NE">
+      <EXTENT start_char="1601" end_char="1604">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE73" task="NE">
+      <EXTENT start_char="1564" end_char="1567">Iroq</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE74" task="NE">
+      <EXTENT start_char="1963" end_char="1992">Indoneziyaning harbiy kuchlari</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE75" task="NE">
+      <EXTENT start_char="2211" end_char="2220">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE76" task="NE">
+      <EXTENT start_char="2267" end_char="2270">Iroq</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE77" task="NE">
+      <EXTENT start_char="2303" end_char="2306">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE78" task="NE">
+      <EXTENT start_char="2407" end_char="2416">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE79" task="NE">
+      <EXTENT start_char="2420" end_char="2423">Iroq</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE80" task="NE">
+      <EXTENT start_char="2532" end_char="2538">Jakarta</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE81" task="NE">
+      <EXTENT start_char="2614" end_char="2620">Jakarta</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE82" task="NE">
+      <EXTENT start_char="2896" end_char="2916">janubiy sharqiy Osiyo</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE83" task="NE">
+      <EXTENT start_char="2544" end_char="2583">Strategik va Xalqaro Izlanishlar Markazi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE84" task="NE">
+      <EXTENT start_char="2750" end_char="2761">Sovet harbiy</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE85" task="NE">
+      <EXTENT start_char="2807" end_char="2813">General</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE86" task="NE">
+      <EXTENT start_char="3094" end_char="3103">indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE87" task="NE">
+      <EXTENT start_char="3118" end_char="3130">Sharqiy Timor</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE88" task="NE">
+      <EXTENT start_char="3256" end_char="3265">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE89" task="NE">
+      <EXTENT start_char="3623" end_char="3639">asosiy arxitektor</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE90" task="NE">
+      <EXTENT start_char="4170" end_char="4179">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE91" task="NE">
+      <EXTENT start_char="4240" end_char="4246">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE92" task="NE">
+      <EXTENT start_char="4307" end_char="4317">Kalashnikov</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE93" task="NE">
+      <EXTENT start_char="4503" end_char="4509">Papuada</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE94" task="NE">
+      <EXTENT start_char="4729" end_char="4735">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE95" task="NE">
+      <EXTENT start_char="4903" end_char="4907">Suxoy</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE96" task="NE">
+      <EXTENT start_char="5030" end_char="5053">Indoneziya Havo Kuchlari</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE97" task="NE">
+      <EXTENT start_char="5116" end_char="5119">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE98" task="NE">
+      <EXTENT start_char="5246" end_char="5254">Malayziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE99" task="NE">
+      <EXTENT start_char="5256" end_char="5262">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE100" task="NE">
+      <EXTENT start_char="5419" end_char="5422">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE101" task="NE">
+      <EXTENT start_char="5663" end_char="5672">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE102" task="NE">
+      <EXTENT start_char="5713" end_char="5719">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE103" task="NE">
+      <EXTENT start_char="6032" end_char="6041">Indoneziya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE104" task="NE">
+      <EXTENT start_char="205" end_char="213">Prezident</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE105" task="NE">
+      <EXTENT start_char="3643" end_char="3656">Mudofaa Vaziri</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE106" task="NE">
+      <EXTENT start_char="3996" end_char="4002">Mudofaa</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_APW_ENG_0060_20030412.uzb-NE107" task="NE">
+      <EXTENT start_char="1628" end_char="1647">Tashqi Ishlar Vaziri</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

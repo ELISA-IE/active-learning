@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_VOA_TUR_0044504_20031117" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="3078" raw_text_md5="34419890da9080d09d5dd7c54600a379">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="186">
+<ORIGINAL_TEXT>17 Kasım günü Amerikan basınında Bush yönetiminin Irakʼta egemenliğin Iraklılara devredilmesi sürecini hızlandırmayı öngören yeni strateji arayışıyla ilgili haber ve yorumlar öne çıkıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="number" morph="none" start_char="0" end_char="1">17</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="3" end_char="7">Kasım</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="9" end_char="12">günü</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="14" end_char="21">Amerikan</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="23" end_char="31">basınında</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="33" end_char="36">Bush</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="38" end_char="48">yönetiminin</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="50" end_char="56">Irakʼta</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="58" end_char="68">egemenliğin</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="70" end_char="79">Iraklılara</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="81" end_char="92">devredilmesi</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="94" end_char="101">sürecini</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="103" end_char="115">hızlandırmayı</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="117" end_char="123">öngören</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="125" end_char="128">yeni</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="130" end_char="137">strateji</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="139" end_char="148">arayışıyla</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="150" end_char="155">ilgili</TOKEN>
+<TOKEN id="token-0-18" pos="word" morph="none" start_char="157" end_char="161">haber</TOKEN>
+<TOKEN id="token-0-19" pos="word" morph="none" start_char="163" end_char="164">ve</TOKEN>
+<TOKEN id="token-0-20" pos="word" morph="none" start_char="166" end_char="173">yorumlar</TOKEN>
+<TOKEN id="token-0-21" pos="word" morph="none" start_char="175" end_char="177">öne</TOKEN>
+<TOKEN id="token-0-22" pos="word" morph="none" start_char="179" end_char="185">çıkıyor</TOKEN>
+<TOKEN id="token-0-23" pos="punct" morph="none" start_char="186" end_char="186">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="188" end_char="548">
+<ORIGINAL_TEXT>Washington Post gazetesi, zorunluluklar karşısında kabul edilen bu stratejinin önemli bazı riskler taşııdığına dikkat çekiyor: "Güvenlik sorunu, Irak Geçici Hükümet Konseyiʼnin beceriksizliği, Birleşmiş Milletlerʼin Irak için belirlediği 15 Aralık tarihinin yaklaşması ve başkanlık seçimlerine bir yıl kalması gibi faktörler, Washingtonʼu acele etmeye zorluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="188" end_char="197">Washington</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="199" end_char="202">Post</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="204" end_char="211">gazetesi</TOKEN>
+<TOKEN id="token-1-3" pos="punct" morph="none" start_char="212" end_char="212">,</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="214" end_char="226">zorunluluklar</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="228" end_char="237">karşısında</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="239" end_char="243">kabul</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="245" end_char="250">edilen</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="252" end_char="253">bu</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="255" end_char="265">stratejinin</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="267" end_char="272">önemli</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="274" end_char="277">bazı</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="279" end_char="285">riskler</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="287" end_char="297">taşııdığına</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="299" end_char="304">dikkat</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="306" end_char="312">çekiyor</TOKEN>
+<TOKEN id="token-1-16" pos="punct" morph="none" start_char="313" end_char="313">:</TOKEN>
+<TOKEN id="token-1-17" pos="punct" morph="none" start_char="315" end_char="315">"</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="316" end_char="323">Güvenlik</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="325" end_char="330">sorunu</TOKEN>
+<TOKEN id="token-1-20" pos="punct" morph="none" start_char="331" end_char="331">,</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="333" end_char="336">Irak</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="338" end_char="343">Geçici</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="345" end_char="351">Hükümet</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="353" end_char="363">Konseyiʼnin</TOKEN>
+<TOKEN id="token-1-25" pos="word" morph="none" start_char="365" end_char="378">beceriksizliği</TOKEN>
+<TOKEN id="token-1-26" pos="punct" morph="none" start_char="379" end_char="379">,</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="381" end_char="389">Birleşmiş</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="391" end_char="402">Milletlerʼin</TOKEN>
+<TOKEN id="token-1-29" pos="word" morph="none" start_char="404" end_char="407">Irak</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="409" end_char="412">için</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="414" end_char="424">belirlediği</TOKEN>
+<TOKEN id="token-1-32" pos="number" morph="none" start_char="426" end_char="427">15</TOKEN>
+<TOKEN id="token-1-33" pos="word" morph="none" start_char="429" end_char="434">Aralık</TOKEN>
+<TOKEN id="token-1-34" pos="word" morph="none" start_char="436" end_char="444">tarihinin</TOKEN>
+<TOKEN id="token-1-35" pos="word" morph="none" start_char="446" end_char="455">yaklaşması</TOKEN>
+<TOKEN id="token-1-36" pos="word" morph="none" start_char="457" end_char="458">ve</TOKEN>
+<TOKEN id="token-1-37" pos="word" morph="none" start_char="460" end_char="468">başkanlık</TOKEN>
+<TOKEN id="token-1-38" pos="word" morph="none" start_char="470" end_char="480">seçimlerine</TOKEN>
+<TOKEN id="token-1-39" pos="word" morph="none" start_char="482" end_char="484">bir</TOKEN>
+<TOKEN id="token-1-40" pos="word" morph="none" start_char="486" end_char="488">yıl</TOKEN>
+<TOKEN id="token-1-41" pos="word" morph="none" start_char="490" end_char="496">kalması</TOKEN>
+<TOKEN id="token-1-42" pos="word" morph="none" start_char="498" end_char="501">gibi</TOKEN>
+<TOKEN id="token-1-43" pos="word" morph="none" start_char="503" end_char="511">faktörler</TOKEN>
+<TOKEN id="token-1-44" pos="punct" morph="none" start_char="512" end_char="512">,</TOKEN>
+<TOKEN id="token-1-45" pos="word" morph="none" start_char="514" end_char="525">Washingtonʼu</TOKEN>
+<TOKEN id="token-1-46" pos="word" morph="none" start_char="527" end_char="531">acele</TOKEN>
+<TOKEN id="token-1-47" pos="word" morph="none" start_char="533" end_char="538">etmeye</TOKEN>
+<TOKEN id="token-1-48" pos="word" morph="none" start_char="540" end_char="547">zorluyor</TOKEN>
+<TOKEN id="token-1-49" pos="punct" morph="none" start_char="548" end_char="548">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="550" end_char="638">
+<ORIGINAL_TEXT>Benimsenen politika ise güvenlik ve siyaset konularında sorumluluğu Iraklılara devretmek.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="550" end_char="559">Benimsenen</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="561" end_char="568">politika</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="570" end_char="572">ise</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="574" end_char="581">güvenlik</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="583" end_char="584">ve</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="586" end_char="592">siyaset</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="594" end_char="604">konularında</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="606" end_char="616">sorumluluğu</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="618" end_char="627">Iraklılara</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="629" end_char="637">devretmek</TOKEN>
+<TOKEN id="token-2-10" pos="punct" morph="none" start_char="638" end_char="638">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="640" end_char="700">
+<ORIGINAL_TEXT>Fakat bu Iraklılaştırma politikası ciddi tehlikeler içeriyor.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="640" end_char="644">Fakat</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="646" end_char="647">bu</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="649" end_char="662">Iraklılaştırma</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="664" end_char="673">politikası</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="675" end_char="679">ciddi</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="681" end_char="690">tehlikeler</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="692" end_char="699">içeriyor</TOKEN>
+<TOKEN id="token-3-7" pos="punct" morph="none" start_char="700" end_char="700">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="702" end_char="828">
+<ORIGINAL_TEXT>Bunların başında da Amerikaʼnın bir an önce işi yarıda bırakıp kaçmaya hazırlandığı gibi bir görüntünün ortaya çıkması geliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="702" end_char="709">Bunların</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="711" end_char="717">başında</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="719" end_char="720">da</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="722" end_char="732">Amerikaʼnın</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="734" end_char="736">bir</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="738" end_char="739">an</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="741" end_char="744">önce</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="746" end_char="748">işi</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="750" end_char="755">yarıda</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="757" end_char="763">bırakıp</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="765" end_char="771">kaçmaya</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="773" end_char="784">hazırlandığı</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="786" end_char="789">gibi</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="791" end_char="793">bir</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="795" end_char="804">görüntünün</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="806" end_char="811">ortaya</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="813" end_char="819">çıkması</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="821" end_char="827">geliyor</TOKEN>
+<TOKEN id="token-4-18" pos="punct" morph="none" start_char="828" end_char="828">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="830" end_char="1026">
+<ORIGINAL_TEXT>Güvenlik açısından bakıldığında, uzmanlar sınırlı bir eğitime sahip Irakʼın yeni polis ve asker gücüne iyi eğitimli Saddam yanlıları karşısında fazlasıyla ağır bir görev verilmesinden kaygılanıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="830" end_char="837">Güvenlik</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="839" end_char="847">açısından</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="849" end_char="860">bakıldığında</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="861" end_char="861">,</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="863" end_char="870">uzmanlar</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="872" end_char="878">sınırlı</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="880" end_char="882">bir</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="884" end_char="890">eğitime</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="892" end_char="896">sahip</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="898" end_char="904">Irakʼın</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="906" end_char="909">yeni</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="911" end_char="915">polis</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="917" end_char="918">ve</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="920" end_char="924">asker</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="926" end_char="931">gücüne</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="933" end_char="935">iyi</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="937" end_char="944">eğitimli</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="946" end_char="951">Saddam</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="953" end_char="961">yanlıları</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="963" end_char="972">karşısında</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="974" end_char="983">fazlasıyla</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="985" end_char="988">ağır</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="990" end_char="992">bir</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="994" end_char="998">görev</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="1000" end_char="1012">verilmesinden</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="1014" end_char="1025">kaygılanıyor</TOKEN>
+<TOKEN id="token-5-26" pos="punct" morph="none" start_char="1026" end_char="1026">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="1028" end_char="1183">
+<ORIGINAL_TEXT>Ayrıca Anayasayı hazırlayacak komitenin veya yeniden şekillendirilecek geçici yönetimin demokratik bir anayasayı destekleyeceğinin de hiç bir garantisi yok.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="1028" end_char="1033">Ayrıca</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="1035" end_char="1043">Anayasayı</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="1045" end_char="1056">hazırlayacak</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="1058" end_char="1066">komitenin</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="1068" end_char="1071">veya</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1073" end_char="1079">yeniden</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1081" end_char="1097">şekillendirilecek</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="1099" end_char="1104">geçici</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="1106" end_char="1114">yönetimin</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="1116" end_char="1125">demokratik</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1127" end_char="1129">bir</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="1131" end_char="1139">anayasayı</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1141" end_char="1157">destekleyeceğinin</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1159" end_char="1160">de</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="1162" end_char="1164">hiç</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1166" end_char="1168">bir</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="1170" end_char="1178">garantisi</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="1180" end_char="1182">yok</TOKEN>
+<TOKEN id="token-6-18" pos="punct" morph="none" start_char="1183" end_char="1183">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1185" end_char="1307">
+<ORIGINAL_TEXT>" New York Times gazetesi ise, Irakʼla benzer bir süreç yaşayan Afganistanʼdaki Anayasa çalışmalarını mercek altına alıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="1185" end_char="1185">"</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1187" end_char="1189">New</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1191" end_char="1194">York</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1196" end_char="1200">Times</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1202" end_char="1209">gazetesi</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1211" end_char="1213">ise</TOKEN>
+<TOKEN id="token-7-6" pos="punct" morph="none" start_char="1214" end_char="1214">,</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1216" end_char="1222">Irakʼla</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1224" end_char="1229">benzer</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1231" end_char="1233">bir</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1235" end_char="1239">süreç</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1241" end_char="1247">yaşayan</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1249" end_char="1263">Afganistanʼdaki</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1265" end_char="1271">Anayasa</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1273" end_char="1285">çalışmalarını</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1287" end_char="1292">mercek</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1294" end_char="1299">altına</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1301" end_char="1306">alıyor</TOKEN>
+<TOKEN id="token-7-18" pos="punct" morph="none" start_char="1307" end_char="1307">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1309" end_char="1526">
+<ORIGINAL_TEXT>Gazete, gelecek ay son halini alması beklenen Anayasa taslağının şeriat uygulamalarına açık kapı bırakmasını eleştiriyor: "Anayasa taslağı, Afgan halkına bireysel haklarının kolayca çiğnenmeyeceği garantisini vermiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1309" end_char="1314">Gazete</TOKEN>
+<TOKEN id="token-8-1" pos="punct" morph="none" start_char="1315" end_char="1315">,</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1317" end_char="1323">gelecek</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1325" end_char="1326">ay</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1328" end_char="1330">son</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1332" end_char="1337">halini</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1339" end_char="1344">alması</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1346" end_char="1353">beklenen</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1355" end_char="1361">Anayasa</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1363" end_char="1372">taslağının</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1374" end_char="1379">şeriat</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1381" end_char="1394">uygulamalarına</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1396" end_char="1399">açık</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1401" end_char="1404">kapı</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1406" end_char="1416">bırakmasını</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1418" end_char="1428">eleştiriyor</TOKEN>
+<TOKEN id="token-8-16" pos="punct" morph="none" start_char="1429" end_char="1429">:</TOKEN>
+<TOKEN id="token-8-17" pos="punct" morph="none" start_char="1431" end_char="1431">"</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1432" end_char="1438">Anayasa</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1440" end_char="1446">taslağı</TOKEN>
+<TOKEN id="token-8-20" pos="punct" morph="none" start_char="1447" end_char="1447">,</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1449" end_char="1453">Afgan</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1455" end_char="1461">halkına</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1463" end_char="1470">bireysel</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="1472" end_char="1481">haklarının</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1483" end_char="1489">kolayca</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1491" end_char="1504">çiğnenmeyeceği</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1506" end_char="1516">garantisini</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1518" end_char="1525">vermiyor</TOKEN>
+<TOKEN id="token-8-29" pos="punct" morph="none" start_char="1526" end_char="1526">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1528" end_char="1609">
+<ORIGINAL_TEXT>Taslak, farklı görüşlere hoşgörü göstermeyen bir Şeriat talebini açıkça içermiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1528" end_char="1533">Taslak</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="1534" end_char="1534">,</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1536" end_char="1541">farklı</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1543" end_char="1551">görüşlere</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1553" end_char="1559">hoşgörü</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1561" end_char="1571">göstermeyen</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1573" end_char="1575">bir</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1577" end_char="1582">Şeriat</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1584" end_char="1591">talebini</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1593" end_char="1598">açıkça</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1600" end_char="1608">içermiyor</TOKEN>
+<TOKEN id="token-9-11" pos="punct" morph="none" start_char="1609" end_char="1609">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1611" end_char="1684">
+<ORIGINAL_TEXT>Ancak, hiçbir yasanın kutsal İslam dinine aykırı olamayacağını belirtiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1611" end_char="1615">Ancak</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="1616" end_char="1616">,</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1618" end_char="1623">hiçbir</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1625" end_char="1631">yasanın</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1633" end_char="1638">kutsal</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1640" end_char="1644">İslam</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1646" end_char="1651">dinine</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1653" end_char="1658">aykırı</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1660" end_char="1672">olamayacağını</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1674" end_char="1683">belirtiyor</TOKEN>
+<TOKEN id="token-10-10" pos="punct" morph="none" start_char="1684" end_char="1684">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1686" end_char="1908">
+<ORIGINAL_TEXT>Ayrıca Anayasa mahkemesi üyelerinin ya medeni hukuk ya da İslam hukuku eğitimi almalarını şart koşarak mahkeme üyelerinin önemli bir kısmının kararlarını medeni hukuk yerine Kuranʼa dayanarak almaları ihtimalini arttırıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1686" end_char="1691">Ayrıca</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1693" end_char="1699">Anayasa</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1701" end_char="1709">mahkemesi</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1711" end_char="1720">üyelerinin</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1722" end_char="1723">ya</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1725" end_char="1730">medeni</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1732" end_char="1736">hukuk</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1738" end_char="1739">ya</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1741" end_char="1742">da</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1744" end_char="1748">İslam</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1750" end_char="1755">hukuku</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1757" end_char="1763">eğitimi</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1765" end_char="1774">almalarını</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1776" end_char="1779">şart</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1781" end_char="1787">koşarak</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1789" end_char="1795">mahkeme</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1797" end_char="1806">üyelerinin</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1808" end_char="1813">önemli</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1815" end_char="1817">bir</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1819" end_char="1826">kısmının</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="1828" end_char="1838">kararlarını</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="1840" end_char="1845">medeni</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="1847" end_char="1851">hukuk</TOKEN>
+<TOKEN id="token-11-23" pos="word" morph="none" start_char="1853" end_char="1858">yerine</TOKEN>
+<TOKEN id="token-11-24" pos="word" morph="none" start_char="1860" end_char="1866">Kuranʼa</TOKEN>
+<TOKEN id="token-11-25" pos="word" morph="none" start_char="1868" end_char="1876">dayanarak</TOKEN>
+<TOKEN id="token-11-26" pos="word" morph="none" start_char="1878" end_char="1885">almaları</TOKEN>
+<TOKEN id="token-11-27" pos="word" morph="none" start_char="1887" end_char="1896">ihtimalini</TOKEN>
+<TOKEN id="token-11-28" pos="word" morph="none" start_char="1898" end_char="1907">arttırıyor</TOKEN>
+<TOKEN id="token-11-29" pos="punct" morph="none" start_char="1908" end_char="1908">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1910" end_char="2008">
+<ORIGINAL_TEXT>Taslak, kadınlara hükümette yer alma imkanı tanısa da, kadın hakları için özel bir hüküm içermiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1910" end_char="1915">Taslak</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="1916" end_char="1916">,</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1918" end_char="1926">kadınlara</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1928" end_char="1936">hükümette</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1938" end_char="1940">yer</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1942" end_char="1945">alma</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1947" end_char="1952">imkanı</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1954" end_char="1959">tanısa</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1961" end_char="1962">da</TOKEN>
+<TOKEN id="token-12-9" pos="punct" morph="none" start_char="1963" end_char="1963">,</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1965" end_char="1969">kadın</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1971" end_char="1977">hakları</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1979" end_char="1982">için</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1984" end_char="1987">özel</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1989" end_char="1991">bir</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1993" end_char="1997">hüküm</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1999" end_char="2007">içermiyor</TOKEN>
+<TOKEN id="token-12-17" pos="punct" morph="none" start_char="2008" end_char="2008">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="2010" end_char="2169">
+<ORIGINAL_TEXT>Birleşmiş Milletler ve Amerikalı yetkililerin, metnin temel insan haklarını güvence altına alacak şekilde değiştirilmesi için ağırlıklarını koymaları gerekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="2010" end_char="2018">Birleşmiş</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="2020" end_char="2028">Milletler</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="2030" end_char="2031">ve</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="2033" end_char="2041">Amerikalı</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="2043" end_char="2054">yetkililerin</TOKEN>
+<TOKEN id="token-13-5" pos="punct" morph="none" start_char="2055" end_char="2055">,</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="2057" end_char="2062">metnin</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="2064" end_char="2068">temel</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="2070" end_char="2074">insan</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="2076" end_char="2084">haklarını</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="2086" end_char="2092">güvence</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="2094" end_char="2099">altına</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="2101" end_char="2106">alacak</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="2108" end_char="2114">şekilde</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="2116" end_char="2129">değiştirilmesi</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="2131" end_char="2134">için</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="2136" end_char="2148">ağırlıklarını</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="2150" end_char="2158">koymaları</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="2160" end_char="2168">gerekiyor</TOKEN>
+<TOKEN id="token-13-19" pos="punct" morph="none" start_char="2169" end_char="2169">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2171" end_char="2297">
+<ORIGINAL_TEXT>" Amerika Savunma Bakanı Donald Rumsfeldʼin Amerikan ordusunu yeniden yapılandırma planı da gazetelerde önemli bir yer tutuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="2171" end_char="2171">"</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="2173" end_char="2179">Amerika</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="2181" end_char="2187">Savunma</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="2189" end_char="2194">Bakanı</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2196" end_char="2201">Donald</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="2203" end_char="2213">Rumsfeldʼin</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2215" end_char="2222">Amerikan</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2224" end_char="2231">ordusunu</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2233" end_char="2239">yeniden</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2241" end_char="2252">yapılandırma</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2254" end_char="2258">planı</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2260" end_char="2261">da</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="2263" end_char="2273">gazetelerde</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="2275" end_char="2280">önemli</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="2282" end_char="2284">bir</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="2286" end_char="2288">yer</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="2290" end_char="2296">tutuyor</TOKEN>
+<TOKEN id="token-14-17" pos="punct" morph="none" start_char="2297" end_char="2297">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2299" end_char="2691">
+<ORIGINAL_TEXT>Washington Times, Rumsfeldʼin açıklamalarına dayanarak, yeniden yapılandırma planlarının son şeklini henüz almadığını ve sürecin yıllar alabileceğini yazıyor: "Savunma Bakanı Rumsfeld, yeniden yapılandırmanın, Amerikan güçlerinin küresel konuşlanmasının bir parçası olacağını belirterek, bu sayede Amerikaʼnın Soğuk Savaşʼın bitiminden sonraki yerinden daha iyi bir noktaya geleceğini söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2299" end_char="2308">Washington</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2310" end_char="2314">Times</TOKEN>
+<TOKEN id="token-15-2" pos="punct" morph="none" start_char="2315" end_char="2315">,</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2317" end_char="2327">Rumsfeldʼin</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2329" end_char="2342">açıklamalarına</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2344" end_char="2352">dayanarak</TOKEN>
+<TOKEN id="token-15-6" pos="punct" morph="none" start_char="2353" end_char="2353">,</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2355" end_char="2361">yeniden</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2363" end_char="2374">yapılandırma</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="2376" end_char="2386">planlarının</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2388" end_char="2390">son</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2392" end_char="2398">şeklini</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="2400" end_char="2404">henüz</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2406" end_char="2415">almadığını</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="2417" end_char="2418">ve</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="2420" end_char="2426">sürecin</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="2428" end_char="2433">yıllar</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="2435" end_char="2447">alabileceğini</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="2449" end_char="2455">yazıyor</TOKEN>
+<TOKEN id="token-15-19" pos="punct" morph="none" start_char="2456" end_char="2456">:</TOKEN>
+<TOKEN id="token-15-20" pos="punct" morph="none" start_char="2458" end_char="2458">"</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="2459" end_char="2465">Savunma</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="2467" end_char="2472">Bakanı</TOKEN>
+<TOKEN id="token-15-23" pos="word" morph="none" start_char="2474" end_char="2481">Rumsfeld</TOKEN>
+<TOKEN id="token-15-24" pos="punct" morph="none" start_char="2482" end_char="2482">,</TOKEN>
+<TOKEN id="token-15-25" pos="word" morph="none" start_char="2484" end_char="2490">yeniden</TOKEN>
+<TOKEN id="token-15-26" pos="word" morph="none" start_char="2492" end_char="2506">yapılandırmanın</TOKEN>
+<TOKEN id="token-15-27" pos="punct" morph="none" start_char="2507" end_char="2507">,</TOKEN>
+<TOKEN id="token-15-28" pos="word" morph="none" start_char="2509" end_char="2516">Amerikan</TOKEN>
+<TOKEN id="token-15-29" pos="word" morph="none" start_char="2518" end_char="2527">güçlerinin</TOKEN>
+<TOKEN id="token-15-30" pos="word" morph="none" start_char="2529" end_char="2535">küresel</TOKEN>
+<TOKEN id="token-15-31" pos="word" morph="none" start_char="2537" end_char="2551">konuşlanmasının</TOKEN>
+<TOKEN id="token-15-32" pos="word" morph="none" start_char="2553" end_char="2555">bir</TOKEN>
+<TOKEN id="token-15-33" pos="word" morph="none" start_char="2557" end_char="2563">parçası</TOKEN>
+<TOKEN id="token-15-34" pos="word" morph="none" start_char="2565" end_char="2573">olacağını</TOKEN>
+<TOKEN id="token-15-35" pos="word" morph="none" start_char="2575" end_char="2584">belirterek</TOKEN>
+<TOKEN id="token-15-36" pos="punct" morph="none" start_char="2585" end_char="2585">,</TOKEN>
+<TOKEN id="token-15-37" pos="word" morph="none" start_char="2587" end_char="2588">bu</TOKEN>
+<TOKEN id="token-15-38" pos="word" morph="none" start_char="2590" end_char="2595">sayede</TOKEN>
+<TOKEN id="token-15-39" pos="word" morph="none" start_char="2597" end_char="2607">Amerikaʼnın</TOKEN>
+<TOKEN id="token-15-40" pos="word" morph="none" start_char="2609" end_char="2613">Soğuk</TOKEN>
+<TOKEN id="token-15-41" pos="word" morph="none" start_char="2615" end_char="2622">Savaşʼın</TOKEN>
+<TOKEN id="token-15-42" pos="word" morph="none" start_char="2624" end_char="2633">bitiminden</TOKEN>
+<TOKEN id="token-15-43" pos="word" morph="none" start_char="2635" end_char="2641">sonraki</TOKEN>
+<TOKEN id="token-15-44" pos="word" morph="none" start_char="2643" end_char="2650">yerinden</TOKEN>
+<TOKEN id="token-15-45" pos="word" morph="none" start_char="2652" end_char="2655">daha</TOKEN>
+<TOKEN id="token-15-46" pos="word" morph="none" start_char="2657" end_char="2659">iyi</TOKEN>
+<TOKEN id="token-15-47" pos="word" morph="none" start_char="2661" end_char="2663">bir</TOKEN>
+<TOKEN id="token-15-48" pos="word" morph="none" start_char="2665" end_char="2671">noktaya</TOKEN>
+<TOKEN id="token-15-49" pos="word" morph="none" start_char="2673" end_char="2682">geleceğini</TOKEN>
+<TOKEN id="token-15-50" pos="word" morph="none" start_char="2684" end_char="2690">söyledi</TOKEN>
+<TOKEN id="token-15-51" pos="punct" morph="none" start_char="2691" end_char="2691">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2693" end_char="2914">
+<ORIGINAL_TEXT>Rumsfeld, Washington yönetimi ile müttefiklerinin soğuk savaş sırasında savunmaya dönük statik konuşlanmanın terörizm de dahil olmak üzere 21ʼinci yüzyıldaki değişen tehditlerle başa çıkmak için uygun olmadığını vurguladı.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2693" end_char="2700">Rumsfeld</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="2701" end_char="2701">,</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2703" end_char="2712">Washington</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2714" end_char="2721">yönetimi</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2723" end_char="2725">ile</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2727" end_char="2741">müttefiklerinin</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2743" end_char="2747">soğuk</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2749" end_char="2753">savaş</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2755" end_char="2763">sırasında</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2765" end_char="2773">savunmaya</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2775" end_char="2779">dönük</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2781" end_char="2786">statik</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2788" end_char="2800">konuşlanmanın</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="2802" end_char="2809">terörizm</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="2811" end_char="2812">de</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="2814" end_char="2818">dahil</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2820" end_char="2824">olmak</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="2826" end_char="2830">üzere</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="2832" end_char="2838">21ʼinci</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="2840" end_char="2849">yüzyıldaki</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="2851" end_char="2857">değişen</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="2859" end_char="2869">tehditlerle</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="2871" end_char="2874">başa</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="2876" end_char="2881">çıkmak</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="2883" end_char="2886">için</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="2888" end_char="2892">uygun</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="2894" end_char="2903">olmadığını</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="2905" end_char="2913">vurguladı</TOKEN>
+<TOKEN id="token-16-28" pos="punct" morph="none" start_char="2914" end_char="2914">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2916" end_char="3073">
+<ORIGINAL_TEXT>Rumsfeld, yeni anlayışın tehdidin nereden geldiğinin hatta ne tür bir tehdit olduğunun bile tahmin edilemediği koşullara uygun bir anlayış olacağını kaydetti.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2916" end_char="2923">Rumsfeld</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="2924" end_char="2924">,</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2926" end_char="2929">yeni</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2931" end_char="2939">anlayışın</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2941" end_char="2948">tehdidin</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2950" end_char="2956">nereden</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2958" end_char="2967">geldiğinin</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2969" end_char="2973">hatta</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2975" end_char="2976">ne</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2978" end_char="2980">tür</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2982" end_char="2984">bir</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2986" end_char="2991">tehdit</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2993" end_char="3001">olduğunun</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="3003" end_char="3006">bile</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="3008" end_char="3013">tahmin</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="3015" end_char="3025">edilemediği</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="3027" end_char="3035">koşullara</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="3037" end_char="3041">uygun</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="3043" end_char="3045">bir</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="3047" end_char="3053">anlayış</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="3055" end_char="3063">olacağını</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="3065" end_char="3072">kaydetti</TOKEN>
+<TOKEN id="token-17-22" pos="punct" morph="none" start_char="3073" end_char="3073">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="3075" end_char="3075">
+<ORIGINAL_TEXT>"</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="3075" end_char="3075">"</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

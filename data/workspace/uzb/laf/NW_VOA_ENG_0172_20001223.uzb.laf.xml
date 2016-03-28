@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_VOA_ENG_0172_20001223.uzb" lang="UZB">
+    <ANNOTATION id="NW_VOA_ENG_0172_20001223.uzb-NE1" task="NE">
+      <EXTENT start_char="0" end_char="8">Kolumbiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0172_20001223.uzb-NE2" task="NE">
+      <EXTENT start_char="31" end_char="61">marksist qoʻzgʻolonchi armiyasi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0172_20001223.uzb-NE3" task="NE">
+      <EXTENT start_char="139" end_char="156">Shimoliy Kolumbiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0172_20001223.uzb-NE4" task="NE">
+      <EXTENT start_char="166" end_char="188">Milliy Ozodlik Armiyasi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

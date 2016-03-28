@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_MAR_ENG_0123_20050210.uzb" lang="UZB">
+    <ANNOTATION id="NW_MAR_ENG_0123_20050210.uzb-NE1" task="NE">
+      <EXTENT start_char="11" end_char="15">Karli</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_MAR_ENG_0123_20050210.uzb-NE2" task="NE">
+      <EXTENT start_char="26" end_char="27">HP</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_MAR_ENG_0123_20050210.uzb-NE3" task="NE">
+      <EXTENT start_char="132" end_char="142">Kerol Lumis</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_MAR_ENG_0123_20050210.uzb-NE4" task="NE">
+      <EXTENT start_char="314" end_char="318">Karli</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_MAR_ENG_0123_20050210.uzb-NE5" task="NE">
+      <EXTENT start_char="454" end_char="455">HP</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_MAR_ENG_0123_20050210.uzb-NE6" task="NE">
+      <EXTENT start_char="706" end_char="710">Karli</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

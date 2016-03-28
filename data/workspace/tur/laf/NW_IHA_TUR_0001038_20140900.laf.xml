@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_IHA_TUR_0001038_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="8" end_char="15">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="31" end_char="38">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="ORG">
+      <EXTENT start_char="132" end_char="135">AKOM</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="LOC">
+      <EXTENT start_char="295" end_char="309">Marmara bölgesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="341" end_char="348">TEKİRDAĞ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="412" end_char="419">Tekirdağ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="517" end_char="524">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="594" end_char="600">Marmara</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="LOC">
+      <EXTENT start_char="657" end_char="664">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="LOC">
+      <EXTENT start_char="667" end_char="673">Kocaeli</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="LOC">
+      <EXTENT start_char="678" end_char="684">Sakarya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="ORG">
+      <EXTENT start_char="810" end_char="813">AKOM</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="ORG">
+      <EXTENT start_char="837" end_char="866">İstanbul Büyükşehir Belediyesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="PER">
+      <EXTENT start_char="884" end_char="896">Hayri Baraçlı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="ORG">
+      <EXTENT start_char="913" end_char="916">AKOM</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="ORG">
+      <EXTENT start_char="1005" end_char="1007">İBB</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="PER">
+      <EXTENT start_char="1035" end_char="1046">Mevlüt Bulut</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="ORG">
+      <EXTENT start_char="1049" end_char="1052">İSKİ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="PER">
+      <EXTENT start_char="1067" end_char="1085">Dursun Atilla Altay</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="ORG">
+      <EXTENT start_char="1088" end_char="1094">İtfaiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="TTL">
+      <EXTENT start_char="1102" end_char="1107">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="PER">
+      <EXTENT start_char="1110" end_char="1120">Ali Karahan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="ORG">
+      <EXTENT start_char="1123" end_char="1138">Yol Bakım Onarım</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="TTL">
+      <EXTENT start_char="1146" end_char="1151">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="PER">
+      <EXTENT start_char="1154" end_char="1168">Turgay Gökdemir</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="ORG">
+      <EXTENT start_char="1171" end_char="1180">Fen İşleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="TTL">
+      <EXTENT start_char="1188" end_char="1193">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="PER">
+      <EXTENT start_char="1196" end_char="1215">Mustafa Özkan Dönmez</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="ORG">
+      <EXTENT start_char="1218" end_char="1222">İSTAÇ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="PER">
+      <EXTENT start_char="1237" end_char="1247">Osman Akgül</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-31" task="NE" type="ORG">
+      <EXTENT start_char="1250" end_char="1253">İSKİ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-32" task="NE" type="ORG">
+      <EXTENT start_char="1281" end_char="1293">Park Bahçeler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-33" task="NE" type="ORG">
+      <EXTENT start_char="1308" end_char="1319">Atık Yönetim</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-34" task="NE" type="ORG">
+      <EXTENT start_char="1479" end_char="1485">İtfaiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-35" task="NE" type="ORG">
+      <EXTENT start_char="1488" end_char="1491">AKOM</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-36" task="NE" type="ORG">
+      <EXTENT start_char="1494" end_char="1497">İSKİ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-37" task="NE" type="ORG">
+      <EXTENT start_char="1500" end_char="1513">ATIK Müdürlüğü</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-38" task="NE" type="PER">
+      <EXTENT start_char="1577" end_char="1589">Hayri Baraçlı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-39" task="NE" type="LOC">
+      <EXTENT start_char="1650" end_char="1657">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-40" task="NE" type="ORG">
+      <EXTENT start_char="1820" end_char="1826">İtfaiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-41" task="NE" type="ORG">
+      <EXTENT start_char="117" end_char="127">meteoroloji</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-42" task="NE" type="ORG">
+      <EXTENT start_char="581" end_char="591">Meteoroloji</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-43" task="NE" type="TTL">
+      <EXTENT start_char="874" end_char="881">Sekreter</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-44" task="NE" type="TTL">
+      <EXTENT start_char="1015" end_char="1022">Sekreter</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-45" task="NE" type="TTL">
+      <EXTENT start_char="1024" end_char="1031">Yardımcı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-46" task="NE" type="TTL">
+      <EXTENT start_char="1060" end_char="1064">Müdür</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-47" task="NE" type="TTL">
+      <EXTENT start_char="1230" end_char="1234">Müdür</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-48" task="NE" type="TTL">
+      <EXTENT start_char="1568" end_char="1575">Sekreter</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-49" task="NE" type="LOC">
+      <EXTENT start_char="1604" end_char="1608">Dünya</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

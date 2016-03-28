@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_XAB_UZB_190749_20020224" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="6339" raw_text_md5="1046aac0861da9e24a713b17cf25cbb7">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="48">
+<ORIGINAL_TEXT>XABARLAR - 24 fevralʼ 2002 21:00 (Toshkent vakti)</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="7">XABARLAR</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="9" end_char="9">-</TOKEN>
+<TOKEN id="token-0-2" pos="number" morph="none" start_char="11" end_char="12">24</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="14" end_char="20">fevralʼ</TOKEN>
+<TOKEN id="token-0-4" pos="number" morph="none" start_char="22" end_char="25">2002</TOKEN>
+<TOKEN id="token-0-5" pos="numstring" morph="none" start_char="27" end_char="31">21:00</TOKEN>
+<TOKEN id="token-0-6" pos="punct" morph="none" start_char="33" end_char="33">(</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="34" end_char="41">Toshkent</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="43" end_char="47">vakti</TOKEN>
+<TOKEN id="token-0-9" pos="punct" morph="none" start_char="48" end_char="48">)</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="51" end_char="99">
+<ORIGINAL_TEXT>Markaziy Osiyo demokratlarini birlashtirish lozim</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="51" end_char="58">Markaziy</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="60" end_char="64">Osiyo</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="66" end_char="79">demokratlarini</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="81" end_char="93">birlashtirish</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="95" end_char="99">lozim</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="102" end_char="406">
+<ORIGINAL_TEXT>Kirgiziston «Erkinlik» partiyasining raisi, Inson xukuklari institutining raxbari, yakinda 2 yillik kamokdan keyin ozod kilingan Topchibek Turgunaliyev AKShga kilgan safari chogida Uzbekiston «Birlik» xalk xarakati va Birlik partiyasining raisi professor Abduraxim Pulat bilan bugun Vashintonda uchrashdi.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="102" end_char="112">Kirgiziston</TOKEN>
+<TOKEN id="token-2-1" pos="punct" morph="none" start_char="114" end_char="114">«</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="115" end_char="122">Erkinlik</TOKEN>
+<TOKEN id="token-2-3" pos="punct" morph="none" start_char="123" end_char="123">»</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="125" end_char="137">partiyasining</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="139" end_char="143">raisi</TOKEN>
+<TOKEN id="token-2-6" pos="punct" morph="none" start_char="144" end_char="144">,</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="146" end_char="150">Inson</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="152" end_char="160">xukuklari</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="162" end_char="174">institutining</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="176" end_char="182">raxbari</TOKEN>
+<TOKEN id="token-2-11" pos="punct" morph="none" start_char="183" end_char="183">,</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="185" end_char="191">yakinda</TOKEN>
+<TOKEN id="token-2-13" pos="number" morph="none" start_char="193" end_char="193">2</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="195" end_char="200">yillik</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="202" end_char="209">kamokdan</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="211" end_char="215">keyin</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="217" end_char="220">ozod</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="222" end_char="229">kilingan</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="231" end_char="239">Topchibek</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="241" end_char="252">Turgunaliyev</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="254" end_char="259">AKShga</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="261" end_char="266">kilgan</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="268" end_char="273">safari</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="275" end_char="281">chogida</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="283" end_char="292">Uzbekiston</TOKEN>
+<TOKEN id="token-2-26" pos="punct" morph="none" start_char="294" end_char="294">«</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="295" end_char="300">Birlik</TOKEN>
+<TOKEN id="token-2-28" pos="punct" morph="none" start_char="301" end_char="301">»</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="303" end_char="306">xalk</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="308" end_char="315">xarakati</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="317" end_char="318">va</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="320" end_char="325">Birlik</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="327" end_char="339">partiyasining</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="341" end_char="345">raisi</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="347" end_char="355">professor</TOKEN>
+<TOKEN id="token-2-36" pos="word" morph="none" start_char="357" end_char="365">Abduraxim</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="367" end_char="371">Pulat</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="373" end_char="377">bilan</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="379" end_char="383">bugun</TOKEN>
+<TOKEN id="token-2-40" pos="word" morph="none" start_char="385" end_char="395">Vashintonda</TOKEN>
+<TOKEN id="token-2-41" pos="word" morph="none" start_char="397" end_char="405">uchrashdi</TOKEN>
+<TOKEN id="token-2-42" pos="punct" morph="none" start_char="406" end_char="406">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="409" end_char="559">
+<ORIGINAL_TEXT>Ular Markaziy Osiyodagi umumiy axvol, Avgoniston vokealaridan keyin buladigan uzgarishlar va region demokratlarining vazifalari xakida suxbatlashdilar.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="409" end_char="412">Ular</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="414" end_char="421">Markaziy</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="423" end_char="431">Osiyodagi</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="433" end_char="438">umumiy</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="440" end_char="444">axvol</TOKEN>
+<TOKEN id="token-3-5" pos="punct" morph="none" start_char="445" end_char="445">,</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="447" end_char="456">Avgoniston</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="458" end_char="469">vokealaridan</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="471" end_char="475">keyin</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="477" end_char="485">buladigan</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="487" end_char="497">uzgarishlar</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="499" end_char="500">va</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="502" end_char="507">region</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="509" end_char="524">demokratlarining</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="526" end_char="535">vazifalari</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="537" end_char="542">xakida</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="544" end_char="558">suxbatlashdilar</TOKEN>
+<TOKEN id="token-3-17" pos="punct" morph="none" start_char="559" end_char="559">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="562" end_char="682">
+<ORIGINAL_TEXT>Bu regiondagi diktator tuzumlarga karshi unumli kurashish uchun demokratik kuchlarning birlashishi lozimligi taʼkidlandi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="562" end_char="563">Bu</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="565" end_char="574">regiondagi</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="576" end_char="583">diktator</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="585" end_char="594">tuzumlarga</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="596" end_char="601">karshi</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="603" end_char="608">unumli</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="610" end_char="618">kurashish</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="620" end_char="624">uchun</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="626" end_char="635">demokratik</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="637" end_char="647">kuchlarning</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="649" end_char="659">birlashishi</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="661" end_char="669">lozimligi</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="671" end_char="681">taʼkidlandi</TOKEN>
+<TOKEN id="token-4-13" pos="punct" morph="none" start_char="682" end_char="682">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="685" end_char="964">
+<ORIGINAL_TEXT>Shu yunalishda xarakat kilishning birinchi kadami sifatida 1991 yilning baxorida tuzilib, maʼlum sabablar bilan 1992 yildan beri faoliyat kursatmayotgan Urta Osiyo va Kozogiston Demokratik Kuchlar Forumini Markaziy Osiy Demokratik Forumi nomi ostida kaytadan tiklashga kelishildi.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="685" end_char="687">Shu</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="689" end_char="698">yunalishda</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="700" end_char="706">xarakat</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="708" end_char="717">kilishning</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="719" end_char="726">birinchi</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="728" end_char="733">kadami</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="735" end_char="742">sifatida</TOKEN>
+<TOKEN id="token-5-7" pos="number" morph="none" start_char="744" end_char="747">1991</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="749" end_char="755">yilning</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="757" end_char="764">baxorida</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="766" end_char="772">tuzilib</TOKEN>
+<TOKEN id="token-5-11" pos="punct" morph="none" start_char="773" end_char="773">,</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="775" end_char="780">maʼlum</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="782" end_char="789">sabablar</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="791" end_char="795">bilan</TOKEN>
+<TOKEN id="token-5-15" pos="number" morph="none" start_char="797" end_char="800">1992</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="802" end_char="807">yildan</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="809" end_char="812">beri</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="814" end_char="821">faoliyat</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="823" end_char="836">kursatmayotgan</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="838" end_char="841">Urta</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="843" end_char="847">Osiyo</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="849" end_char="850">va</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="852" end_char="861">Kozogiston</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="863" end_char="872">Demokratik</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="874" end_char="880">Kuchlar</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="882" end_char="889">Forumini</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="891" end_char="898">Markaziy</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="900" end_char="903">Osiy</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="905" end_char="914">Demokratik</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="916" end_char="921">Forumi</TOKEN>
+<TOKEN id="token-5-31" pos="word" morph="none" start_char="923" end_char="926">nomi</TOKEN>
+<TOKEN id="token-5-32" pos="word" morph="none" start_char="928" end_char="933">ostida</TOKEN>
+<TOKEN id="token-5-33" pos="word" morph="none" start_char="935" end_char="942">kaytadan</TOKEN>
+<TOKEN id="token-5-34" pos="word" morph="none" start_char="944" end_char="952">tiklashga</TOKEN>
+<TOKEN id="token-5-35" pos="word" morph="none" start_char="954" end_char="963">kelishildi</TOKEN>
+<TOKEN id="token-5-36" pos="punct" morph="none" start_char="964" end_char="964">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="967" end_char="1046">
+<ORIGINAL_TEXT>Xark ikkala lider shu yunalishda konkret ishlar kilishni maslaxatlashib olishdi.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="967" end_char="970">Xark</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="972" end_char="977">ikkala</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="979" end_char="983">lider</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="985" end_char="987">shu</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="989" end_char="998">yunalishda</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1000" end_char="1006">konkret</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1008" end_char="1013">ishlar</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="1015" end_char="1022">kilishni</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="1024" end_char="1037">maslaxatlashib</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="1039" end_char="1045">olishdi</TOKEN>
+<TOKEN id="token-6-10" pos="punct" morph="none" start_char="1046" end_char="1046">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1049" end_char="1070">
+<ORIGINAL_TEXT>10:00 (Toshkent vakti)</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="numstring" morph="none" start_char="1049" end_char="1053">10:00</TOKEN>
+<TOKEN id="token-7-1" pos="punct" morph="none" start_char="1055" end_char="1055">(</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1056" end_char="1063">Toshkent</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1065" end_char="1069">vakti</TOKEN>
+<TOKEN id="token-7-4" pos="punct" morph="none" start_char="1070" end_char="1070">)</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1073" end_char="1107">
+<ORIGINAL_TEXT>860 maxbusning ozod bulgani rostmi?</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="number" morph="none" start_char="1073" end_char="1075">860</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1077" end_char="1086">maxbusning</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1088" end_char="1091">ozod</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1093" end_char="1099">bulgani</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1101" end_char="1106">rostmi</TOKEN>
+<TOKEN id="token-8-5" pos="punct" morph="none" start_char="1107" end_char="1107">?</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1110" end_char="1334">
+<ORIGINAL_TEXT>2001 yil 22 avgustda I.Karimovning “Amnistiya xakida...”gi Farmoniga kura diniy tashkilotga aʼzolikda ayblanib xibs kilingan 860 nafar kishining ruyxatini Uzbekiston Inson Xukuklari «Ezgulik» Jamiyati topishga muyassar buldi.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="number" morph="none" start_char="1110" end_char="1113">2001</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1115" end_char="1117">yil</TOKEN>
+<TOKEN id="token-9-2" pos="number" morph="none" start_char="1119" end_char="1120">22</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1122" end_char="1129">avgustda</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1131" end_char="1131">I</TOKEN>
+<TOKEN id="token-9-5" pos="punct" morph="none" start_char="1132" end_char="1132">.</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1133" end_char="1143">Karimovning</TOKEN>
+<TOKEN id="token-9-7" pos="punct" morph="none" start_char="1145" end_char="1145">“</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1146" end_char="1154">Amnistiya</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1156" end_char="1161">xakida</TOKEN>
+<TOKEN id="token-9-10" pos="punct" morph="none" start_char="1162" end_char="1165">...”</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1166" end_char="1167">gi</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1169" end_char="1177">Farmoniga</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1179" end_char="1182">kura</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1184" end_char="1188">diniy</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1190" end_char="1200">tashkilotga</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1202" end_char="1210">aʼzolikda</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="1212" end_char="1219">ayblanib</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="1221" end_char="1224">xibs</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="1226" end_char="1233">kilingan</TOKEN>
+<TOKEN id="token-9-20" pos="number" morph="none" start_char="1235" end_char="1237">860</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="1239" end_char="1243">nafar</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="1245" end_char="1253">kishining</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="1255" end_char="1263">ruyxatini</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="1265" end_char="1274">Uzbekiston</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="1276" end_char="1280">Inson</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="1282" end_char="1290">Xukuklari</TOKEN>
+<TOKEN id="token-9-27" pos="punct" morph="none" start_char="1292" end_char="1292">«</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="1293" end_char="1299">Ezgulik</TOKEN>
+<TOKEN id="token-9-29" pos="punct" morph="none" start_char="1300" end_char="1300">»</TOKEN>
+<TOKEN id="token-9-30" pos="word" morph="none" start_char="1302" end_char="1309">Jamiyati</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="1311" end_char="1318">topishga</TOKEN>
+<TOKEN id="token-9-32" pos="word" morph="none" start_char="1320" end_char="1327">muyassar</TOKEN>
+<TOKEN id="token-9-33" pos="word" morph="none" start_char="1329" end_char="1333">buldi</TOKEN>
+<TOKEN id="token-9-34" pos="punct" morph="none" start_char="1334" end_char="1334">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1337" end_char="1413">
+<ORIGINAL_TEXT>Ushbu ruyxatda ozod kilingan deb kursatilayotganlar ichida 17 nafari ayollar.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1337" end_char="1341">Ushbu</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1343" end_char="1350">ruyxatda</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1352" end_char="1355">ozod</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1357" end_char="1364">kilingan</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1366" end_char="1368">deb</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1370" end_char="1387">kursatilayotganlar</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1389" end_char="1394">ichida</TOKEN>
+<TOKEN id="token-10-7" pos="number" morph="none" start_char="1396" end_char="1397">17</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1399" end_char="1404">nafari</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1406" end_char="1412">ayollar</TOKEN>
+<TOKEN id="token-10-10" pos="punct" morph="none" start_char="1413" end_char="1413">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1416" end_char="1593">
+<ORIGINAL_TEXT>Ozod etilganlarlar sirasiga, asosan 5 yilgacha kamok jazosiga xukm kilinib jazoning yarmidan ortigini utagan, kechirim xakida ariza yozgan, salomatligi ogir maxbuslar kiritilgan.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1416" end_char="1419">Ozod</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1421" end_char="1433">etilganlarlar</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1435" end_char="1442">sirasiga</TOKEN>
+<TOKEN id="token-11-3" pos="punct" morph="none" start_char="1443" end_char="1443">,</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1445" end_char="1450">asosan</TOKEN>
+<TOKEN id="token-11-5" pos="number" morph="none" start_char="1452" end_char="1452">5</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1454" end_char="1461">yilgacha</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1463" end_char="1467">kamok</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1469" end_char="1476">jazosiga</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1478" end_char="1481">xukm</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1483" end_char="1489">kilinib</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1491" end_char="1498">jazoning</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1500" end_char="1507">yarmidan</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1509" end_char="1516">ortigini</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1518" end_char="1523">utagan</TOKEN>
+<TOKEN id="token-11-15" pos="punct" morph="none" start_char="1524" end_char="1524">,</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1526" end_char="1533">kechirim</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1535" end_char="1540">xakida</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1542" end_char="1546">ariza</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1548" end_char="1553">yozgan</TOKEN>
+<TOKEN id="token-11-20" pos="punct" morph="none" start_char="1554" end_char="1554">,</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="1556" end_char="1566">salomatligi</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="1568" end_char="1571">ogir</TOKEN>
+<TOKEN id="token-11-23" pos="word" morph="none" start_char="1573" end_char="1581">maxbuslar</TOKEN>
+<TOKEN id="token-11-24" pos="word" morph="none" start_char="1583" end_char="1592">kiritilgan</TOKEN>
+<TOKEN id="token-11-25" pos="punct" morph="none" start_char="1593" end_char="1593">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1596" end_char="1875">
+<ORIGINAL_TEXT>Xizbut Taxrir partiyasining aʼzolariga bu ruyxat kursatilganda, ular ismi zikr etilganlarning kupi ozod etilmagani, ozod etilganlarning 10ga yakini sil va boshka kasallikdan vafot etgani, kolaversa bu ruyxat kimlarningdir oldida uz-uzini maktash uchun tayyorlanganini bildirishdi.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1596" end_char="1601">Xizbut</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1603" end_char="1608">Taxrir</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1610" end_char="1622">partiyasining</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1624" end_char="1633">aʼzolariga</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1635" end_char="1636">bu</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1638" end_char="1643">ruyxat</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1645" end_char="1657">kursatilganda</TOKEN>
+<TOKEN id="token-12-7" pos="punct" morph="none" start_char="1658" end_char="1658">,</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1660" end_char="1663">ular</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1665" end_char="1668">ismi</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1670" end_char="1673">zikr</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1675" end_char="1688">etilganlarning</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1690" end_char="1693">kupi</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1695" end_char="1698">ozod</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1700" end_char="1709">etilmagani</TOKEN>
+<TOKEN id="token-12-15" pos="punct" morph="none" start_char="1710" end_char="1710">,</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1712" end_char="1715">ozod</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1717" end_char="1730">etilganlarning</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1732" end_char="1735">10ga</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1737" end_char="1742">yakini</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="1744" end_char="1746">sil</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="1748" end_char="1749">va</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="1751" end_char="1756">boshka</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="1758" end_char="1768">kasallikdan</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="1770" end_char="1774">vafot</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="1776" end_char="1781">etgani</TOKEN>
+<TOKEN id="token-12-26" pos="punct" morph="none" start_char="1782" end_char="1782">,</TOKEN>
+<TOKEN id="token-12-27" pos="word" morph="none" start_char="1784" end_char="1792">kolaversa</TOKEN>
+<TOKEN id="token-12-28" pos="word" morph="none" start_char="1794" end_char="1795">bu</TOKEN>
+<TOKEN id="token-12-29" pos="word" morph="none" start_char="1797" end_char="1802">ruyxat</TOKEN>
+<TOKEN id="token-12-30" pos="word" morph="none" start_char="1804" end_char="1816">kimlarningdir</TOKEN>
+<TOKEN id="token-12-31" pos="word" morph="none" start_char="1818" end_char="1823">oldida</TOKEN>
+<TOKEN id="token-12-32" pos="word" morph="none" start_char="1825" end_char="1826">uz</TOKEN>
+<TOKEN id="token-12-33" pos="punct" morph="none" start_char="1827" end_char="1827">-</TOKEN>
+<TOKEN id="token-12-34" pos="word" morph="none" start_char="1828" end_char="1832">uzini</TOKEN>
+<TOKEN id="token-12-35" pos="word" morph="none" start_char="1834" end_char="1840">maktash</TOKEN>
+<TOKEN id="token-12-36" pos="word" morph="none" start_char="1842" end_char="1846">uchun</TOKEN>
+<TOKEN id="token-12-37" pos="word" morph="none" start_char="1848" end_char="1862">tayyorlanganini</TOKEN>
+<TOKEN id="token-12-38" pos="word" morph="none" start_char="1864" end_char="1874">bildirishdi</TOKEN>
+<TOKEN id="token-12-39" pos="punct" morph="none" start_char="1875" end_char="1875">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1878" end_char="2019">
+<ORIGINAL_TEXT>Maʼlum bulishicha, bu ruyxat xech yerda ochik eʼlon kilinmay, fakatgina Amerika xukumatining baʼzi bir obruli tashkilotlarigagina tarkatilgan.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1878" end_char="1883">Maʼlum</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1885" end_char="1894">bulishicha</TOKEN>
+<TOKEN id="token-13-2" pos="punct" morph="none" start_char="1895" end_char="1895">,</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1897" end_char="1898">bu</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1900" end_char="1905">ruyxat</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1907" end_char="1910">xech</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1912" end_char="1916">yerda</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1918" end_char="1922">ochik</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1924" end_char="1928">eʼlon</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1930" end_char="1937">kilinmay</TOKEN>
+<TOKEN id="token-13-10" pos="punct" morph="none" start_char="1938" end_char="1938">,</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1940" end_char="1948">fakatgina</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1950" end_char="1956">Amerika</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1958" end_char="1969">xukumatining</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1971" end_char="1975">baʼzi</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1977" end_char="1979">bir</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1981" end_char="1986">obruli</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1988" end_char="2006">tashkilotlarigagina</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="2008" end_char="2018">tarkatilgan</TOKEN>
+<TOKEN id="token-13-19" pos="punct" morph="none" start_char="2019" end_char="2019">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="2022" end_char="2116">
+<ORIGINAL_TEXT>U bilan kizikkanlar «Ezgulik» Jamiyatining raisi Vasila Inoyatovaga murojaat kilishlari mumkin.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="2022" end_char="2022">U</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="2024" end_char="2028">bilan</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="2030" end_char="2040">kizikkanlar</TOKEN>
+<TOKEN id="token-14-3" pos="punct" morph="none" start_char="2042" end_char="2042">«</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2043" end_char="2049">Ezgulik</TOKEN>
+<TOKEN id="token-14-5" pos="punct" morph="none" start_char="2050" end_char="2050">»</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2052" end_char="2063">Jamiyatining</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2065" end_char="2069">raisi</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2071" end_char="2076">Vasila</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="2078" end_char="2088">Inoyatovaga</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2090" end_char="2097">murojaat</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2099" end_char="2108">kilishlari</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="2110" end_char="2115">mumkin</TOKEN>
+<TOKEN id="token-14-13" pos="punct" morph="none" start_char="2116" end_char="2116">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2119" end_char="2171">
+<ORIGINAL_TEXT>Urgutliklar xakida Britaniyaliklar filʼm kilishmokchi</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2119" end_char="2129">Urgutliklar</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2131" end_char="2136">xakida</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2138" end_char="2152">Britaniyaliklar</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2154" end_char="2158">filʼm</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2160" end_char="2171">kilishmokchi</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2174" end_char="2359">
+<ORIGINAL_TEXT>Shu yilning 10-12 fevralʼ kunlari Buyuk Britaniya televideniyesining ikki muxbiri Samarkand viloyatining Urgut tumani Navoiy jamoa xujaligiga oid «Yona» kishlogi axolisi bilan uchrashdi.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2174" end_char="2176">Shu</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2178" end_char="2184">yilning</TOKEN>
+<TOKEN id="token-16-2" pos="number" morph="none" start_char="2186" end_char="2187">10</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="2188" end_char="2188">-</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2189" end_char="2190">12</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2192" end_char="2198">fevralʼ</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2200" end_char="2206">kunlari</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2208" end_char="2212">Buyuk</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2214" end_char="2222">Britaniya</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2224" end_char="2241">televideniyesining</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2243" end_char="2246">ikki</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2248" end_char="2254">muxbiri</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2256" end_char="2264">Samarkand</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="2266" end_char="2277">viloyatining</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="2279" end_char="2283">Urgut</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="2285" end_char="2290">tumani</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2292" end_char="2297">Navoiy</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="2299" end_char="2303">jamoa</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="2305" end_char="2314">xujaligiga</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="2316" end_char="2318">oid</TOKEN>
+<TOKEN id="token-16-20" pos="punct" morph="none" start_char="2320" end_char="2320">«</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="2321" end_char="2324">Yona</TOKEN>
+<TOKEN id="token-16-22" pos="punct" morph="none" start_char="2325" end_char="2325">»</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="2327" end_char="2334">kishlogi</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="2336" end_char="2342">axolisi</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="2344" end_char="2348">bilan</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="2350" end_char="2358">uchrashdi</TOKEN>
+<TOKEN id="token-16-27" pos="punct" morph="none" start_char="2359" end_char="2359">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2362" end_char="2621">
+<ORIGINAL_TEXT>Uchrashuv chogida urgutliklar muxbirlarga ogir iktisodiy axvolda yashayotganliklari, yeyishga xatto non xam yukligi, baʼzi birovlar shulxadan non pishirib yeyishga utishgani, kishlokda 7 nafar kishi ochlik va kasallikdan vafot etgani xakida gapirib berishibdi.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2362" end_char="2370">Uchrashuv</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2372" end_char="2378">chogida</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2380" end_char="2390">urgutliklar</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2392" end_char="2402">muxbirlarga</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2404" end_char="2407">ogir</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2409" end_char="2417">iktisodiy</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2419" end_char="2425">axvolda</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2427" end_char="2444">yashayotganliklari</TOKEN>
+<TOKEN id="token-17-8" pos="punct" morph="none" start_char="2445" end_char="2445">,</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2447" end_char="2454">yeyishga</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2456" end_char="2460">xatto</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2462" end_char="2464">non</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2466" end_char="2468">xam</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2470" end_char="2476">yukligi</TOKEN>
+<TOKEN id="token-17-14" pos="punct" morph="none" start_char="2477" end_char="2477">,</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2479" end_char="2483">baʼzi</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2485" end_char="2492">birovlar</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2494" end_char="2502">shulxadan</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2504" end_char="2506">non</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2508" end_char="2515">pishirib</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2517" end_char="2524">yeyishga</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2526" end_char="2534">utishgani</TOKEN>
+<TOKEN id="token-17-22" pos="punct" morph="none" start_char="2535" end_char="2535">,</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="2537" end_char="2545">kishlokda</TOKEN>
+<TOKEN id="token-17-24" pos="number" morph="none" start_char="2547" end_char="2547">7</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="2549" end_char="2553">nafar</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="2555" end_char="2559">kishi</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="2561" end_char="2566">ochlik</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="2568" end_char="2569">va</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="2571" end_char="2581">kasallikdan</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="2583" end_char="2587">vafot</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="2589" end_char="2594">etgani</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="2596" end_char="2601">xakida</TOKEN>
+<TOKEN id="token-17-33" pos="word" morph="none" start_char="2603" end_char="2609">gapirib</TOKEN>
+<TOKEN id="token-17-34" pos="word" morph="none" start_char="2611" end_char="2620">berishibdi</TOKEN>
+<TOKEN id="token-17-35" pos="punct" morph="none" start_char="2621" end_char="2621">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2624" end_char="2680">
+<ORIGINAL_TEXT>Bu suxbat muxbirlar tomonidan video tasvirga tushirilgan.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2624" end_char="2625">Bu</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2627" end_char="2632">suxbat</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2634" end_char="2642">muxbirlar</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2644" end_char="2652">tomonidan</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2654" end_char="2658">video</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2660" end_char="2667">tasvirga</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2669" end_char="2679">tushirilgan</TOKEN>
+<TOKEN id="token-18-7" pos="punct" morph="none" start_char="2680" end_char="2680">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2683" end_char="2827">
+<ORIGINAL_TEXT>Shundan sung muxbirlar Uzbekiston xukumati raxbari bilan bulgan uchrashuvda Urgut vokeasini gapirib, bu xakda filʼm yaratilayotganini aytishipti.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2683" end_char="2689">Shundan</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2691" end_char="2694">sung</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2696" end_char="2704">muxbirlar</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2706" end_char="2715">Uzbekiston</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2717" end_char="2724">xukumati</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2726" end_char="2732">raxbari</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2734" end_char="2738">bilan</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2740" end_char="2745">bulgan</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2747" end_char="2757">uchrashuvda</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2759" end_char="2763">Urgut</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="2765" end_char="2773">vokeasini</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2775" end_char="2781">gapirib</TOKEN>
+<TOKEN id="token-19-12" pos="punct" morph="none" start_char="2782" end_char="2782">,</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2784" end_char="2785">bu</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2787" end_char="2791">xakda</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2793" end_char="2797">filʼm</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2799" end_char="2815">yaratilayotganini</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2817" end_char="2826">aytishipti</TOKEN>
+<TOKEN id="token-19-18" pos="punct" morph="none" start_char="2827" end_char="2827">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2830" end_char="2867">
+<ORIGINAL_TEXT>Xamma balo ana shundan sung boshlandi.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2830" end_char="2834">Xamma</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2836" end_char="2839">balo</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2841" end_char="2843">ana</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2845" end_char="2851">shundan</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2853" end_char="2856">sung</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2858" end_char="2866">boshlandi</TOKEN>
+<TOKEN id="token-20-6" pos="punct" morph="none" start_char="2867" end_char="2867">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2870" end_char="2957">
+<ORIGINAL_TEXT>Birinchi bulib, muxbirlarni Urgutga utkazib yuborgan militsiya xodimlariga kaltak tegdi.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2870" end_char="2877">Birinchi</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2879" end_char="2883">bulib</TOKEN>
+<TOKEN id="token-21-2" pos="punct" morph="none" start_char="2884" end_char="2884">,</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2886" end_char="2896">muxbirlarni</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2898" end_char="2904">Urgutga</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2906" end_char="2912">utkazib</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2914" end_char="2921">yuborgan</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2923" end_char="2931">militsiya</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2933" end_char="2943">xodimlariga</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2945" end_char="2950">kaltak</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2952" end_char="2956">tegdi</TOKEN>
+<TOKEN id="token-21-11" pos="punct" morph="none" start_char="2957" end_char="2957">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2960" end_char="3094">
+<ORIGINAL_TEXT>Navbatdan tashkari chakirilgan Vazirlar Maxkamasining yigilishida Prezident Urgut tuman xokimi Nurullayevga kattik ogoxlantirish berdi.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2960" end_char="2968">Navbatdan</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2970" end_char="2977">tashkari</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2979" end_char="2989">chakirilgan</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2991" end_char="2998">Vazirlar</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="3000" end_char="3012">Maxkamasining</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="3014" end_char="3024">yigilishida</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3026" end_char="3034">Prezident</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="3036" end_char="3040">Urgut</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="3042" end_char="3046">tuman</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="3048" end_char="3053">xokimi</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="3055" end_char="3066">Nurullayevga</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="3068" end_char="3073">kattik</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="3075" end_char="3087">ogoxlantirish</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="3089" end_char="3093">berdi</TOKEN>
+<TOKEN id="token-22-14" pos="punct" morph="none" start_char="3094" end_char="3094">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3097" end_char="3284">
+<ORIGINAL_TEXT>Urgutliklarning inglizlar bilan uchrashuvda ishtirok etgan Uzbekiston Inson xukuklari «Ezgulik» jamiyatining Samarkand bulimi raisi Komiljon Gofurovga nisbatan xam tayʼziklar utkazilmokda.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3097" end_char="3111">Urgutliklarning</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3113" end_char="3121">inglizlar</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3123" end_char="3127">bilan</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3129" end_char="3139">uchrashuvda</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3141" end_char="3148">ishtirok</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3150" end_char="3154">etgan</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3156" end_char="3165">Uzbekiston</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="3167" end_char="3171">Inson</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3173" end_char="3181">xukuklari</TOKEN>
+<TOKEN id="token-23-9" pos="punct" morph="none" start_char="3183" end_char="3183">«</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="3184" end_char="3190">Ezgulik</TOKEN>
+<TOKEN id="token-23-11" pos="punct" morph="none" start_char="3191" end_char="3191">»</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="3193" end_char="3204">jamiyatining</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="3206" end_char="3214">Samarkand</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="3216" end_char="3221">bulimi</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="3223" end_char="3227">raisi</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="3229" end_char="3236">Komiljon</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="3238" end_char="3246">Gofurovga</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="3248" end_char="3255">nisbatan</TOKEN>
+<TOKEN id="token-23-19" pos="word" morph="none" start_char="3257" end_char="3259">xam</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="3261" end_char="3270">tayʼziklar</TOKEN>
+<TOKEN id="token-23-21" pos="word" morph="none" start_char="3272" end_char="3283">utkazilmokda</TOKEN>
+<TOKEN id="token-23-22" pos="punct" morph="none" start_char="3284" end_char="3284">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3287" end_char="3383">
+<ORIGINAL_TEXT>Ana endi, Uzbekistonning xakikiy axvoli xakida Buyuk Britaniyaliklar xam bilib oladigan bulishdi.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="3287" end_char="3289">Ana</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3291" end_char="3294">endi</TOKEN>
+<TOKEN id="token-24-2" pos="punct" morph="none" start_char="3295" end_char="3295">,</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3297" end_char="3310">Uzbekistonning</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3312" end_char="3318">xakikiy</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3320" end_char="3325">axvoli</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3327" end_char="3332">xakida</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="3334" end_char="3338">Buyuk</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3340" end_char="3354">Britaniyaliklar</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="3356" end_char="3358">xam</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="3360" end_char="3364">bilib</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3366" end_char="3373">oladigan</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3375" end_char="3382">bulishdi</TOKEN>
+<TOKEN id="token-24-13" pos="punct" morph="none" start_char="3383" end_char="3383">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3386" end_char="3418">
+<ORIGINAL_TEXT>Uzbeklar xam gapirishni bilishadi</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="3386" end_char="3393">Uzbeklar</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3395" end_char="3397">xam</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3399" end_char="3408">gapirishni</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3410" end_char="3418">bilishadi</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="3421" end_char="3560">
+<ORIGINAL_TEXT>Konrad Adenauer fondi Uzbenkistonda ayollar va usmirlar uchun maorif va meditsina soxalarida bir necha unlab seminarlar utkazib kelayotibdi.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="3421" end_char="3426">Konrad</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="3428" end_char="3435">Adenauer</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="3437" end_char="3441">fondi</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="3443" end_char="3455">Uzbenkistonda</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="3457" end_char="3463">ayollar</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="3465" end_char="3466">va</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="3468" end_char="3475">usmirlar</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="3477" end_char="3481">uchun</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="3483" end_char="3488">maorif</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="3490" end_char="3491">va</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="3493" end_char="3501">meditsina</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="3503" end_char="3512">soxalarida</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="3514" end_char="3516">bir</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="3518" end_char="3522">necha</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="3524" end_char="3528">unlab</TOKEN>
+<TOKEN id="token-26-15" pos="word" morph="none" start_char="3530" end_char="3539">seminarlar</TOKEN>
+<TOKEN id="token-26-16" pos="word" morph="none" start_char="3541" end_char="3547">utkazib</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="3549" end_char="3559">kelayotibdi</TOKEN>
+<TOKEN id="token-26-18" pos="punct" morph="none" start_char="3560" end_char="3560">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="3563" end_char="3685">
+<ORIGINAL_TEXT>Ana shunday seminarlardan biri Samarkand tumanida uz-uzini boshkaruv organlarining ish yurituvlariga bagishlanib utkazildi.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="3563" end_char="3565">Ana</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="3567" end_char="3573">shunday</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="3575" end_char="3587">seminarlardan</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="3589" end_char="3592">biri</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="3594" end_char="3602">Samarkand</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="3604" end_char="3611">tumanida</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="3613" end_char="3614">uz</TOKEN>
+<TOKEN id="token-27-7" pos="punct" morph="none" start_char="3615" end_char="3615">-</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="3616" end_char="3620">uzini</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="3622" end_char="3630">boshkaruv</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="3632" end_char="3644">organlarining</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="3646" end_char="3648">ish</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="3650" end_char="3662">yurituvlariga</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="3664" end_char="3674">bagishlanib</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="3676" end_char="3684">utkazildi</TOKEN>
+<TOKEN id="token-27-15" pos="punct" morph="none" start_char="3685" end_char="3685">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="3688" end_char="4029">
+<ORIGINAL_TEXT>Seminar katnashchilari zalda yarim mudrok xolda utirib, xech kanday baxs munozaraga kirishmayotganini kurgan «Jurnalistlarni kayta tayyorlash» xalkaro Markazi raxbari G.Bobojonova bu yerda ishtirok etayotgan donor va boshka chet ellik mexmonlar oldida izza buldi shekilli: «Nima uchun muammolarni ochik aytmayapsizlar, nimadan kurkayapsizlar?</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="3688" end_char="3694">Seminar</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="3696" end_char="3709">katnashchilari</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="3711" end_char="3715">zalda</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="3717" end_char="3721">yarim</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="3723" end_char="3728">mudrok</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="3730" end_char="3734">xolda</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="3736" end_char="3741">utirib</TOKEN>
+<TOKEN id="token-28-7" pos="punct" morph="none" start_char="3742" end_char="3742">,</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="3744" end_char="3747">xech</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="3749" end_char="3754">kanday</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="3756" end_char="3759">baxs</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="3761" end_char="3770">munozaraga</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="3772" end_char="3788">kirishmayotganini</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="3790" end_char="3795">kurgan</TOKEN>
+<TOKEN id="token-28-14" pos="punct" morph="none" start_char="3797" end_char="3797">«</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="3798" end_char="3811">Jurnalistlarni</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="3813" end_char="3817">kayta</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="3819" end_char="3828">tayyorlash</TOKEN>
+<TOKEN id="token-28-18" pos="punct" morph="none" start_char="3829" end_char="3829">»</TOKEN>
+<TOKEN id="token-28-19" pos="word" morph="none" start_char="3831" end_char="3837">xalkaro</TOKEN>
+<TOKEN id="token-28-20" pos="word" morph="none" start_char="3839" end_char="3845">Markazi</TOKEN>
+<TOKEN id="token-28-21" pos="word" morph="none" start_char="3847" end_char="3853">raxbari</TOKEN>
+<TOKEN id="token-28-22" pos="word" morph="none" start_char="3855" end_char="3855">G</TOKEN>
+<TOKEN id="token-28-23" pos="punct" morph="none" start_char="3856" end_char="3856">.</TOKEN>
+<TOKEN id="token-28-24" pos="word" morph="none" start_char="3857" end_char="3866">Bobojonova</TOKEN>
+<TOKEN id="token-28-25" pos="word" morph="none" start_char="3868" end_char="3869">bu</TOKEN>
+<TOKEN id="token-28-26" pos="word" morph="none" start_char="3871" end_char="3875">yerda</TOKEN>
+<TOKEN id="token-28-27" pos="word" morph="none" start_char="3877" end_char="3884">ishtirok</TOKEN>
+<TOKEN id="token-28-28" pos="word" morph="none" start_char="3886" end_char="3894">etayotgan</TOKEN>
+<TOKEN id="token-28-29" pos="word" morph="none" start_char="3896" end_char="3900">donor</TOKEN>
+<TOKEN id="token-28-30" pos="word" morph="none" start_char="3902" end_char="3903">va</TOKEN>
+<TOKEN id="token-28-31" pos="word" morph="none" start_char="3905" end_char="3910">boshka</TOKEN>
+<TOKEN id="token-28-32" pos="word" morph="none" start_char="3912" end_char="3915">chet</TOKEN>
+<TOKEN id="token-28-33" pos="word" morph="none" start_char="3917" end_char="3921">ellik</TOKEN>
+<TOKEN id="token-28-34" pos="word" morph="none" start_char="3923" end_char="3931">mexmonlar</TOKEN>
+<TOKEN id="token-28-35" pos="word" morph="none" start_char="3933" end_char="3938">oldida</TOKEN>
+<TOKEN id="token-28-36" pos="word" morph="none" start_char="3940" end_char="3943">izza</TOKEN>
+<TOKEN id="token-28-37" pos="word" morph="none" start_char="3945" end_char="3949">buldi</TOKEN>
+<TOKEN id="token-28-38" pos="word" morph="none" start_char="3951" end_char="3958">shekilli</TOKEN>
+<TOKEN id="token-28-39" pos="punct" morph="none" start_char="3959" end_char="3959">:</TOKEN>
+<TOKEN id="token-28-40" pos="punct" morph="none" start_char="3961" end_char="3961">«</TOKEN>
+<TOKEN id="token-28-41" pos="word" morph="none" start_char="3962" end_char="3965">Nima</TOKEN>
+<TOKEN id="token-28-42" pos="word" morph="none" start_char="3967" end_char="3971">uchun</TOKEN>
+<TOKEN id="token-28-43" pos="word" morph="none" start_char="3973" end_char="3983">muammolarni</TOKEN>
+<TOKEN id="token-28-44" pos="word" morph="none" start_char="3985" end_char="3989">ochik</TOKEN>
+<TOKEN id="token-28-45" pos="word" morph="none" start_char="3991" end_char="4004">aytmayapsizlar</TOKEN>
+<TOKEN id="token-28-46" pos="punct" morph="none" start_char="4005" end_char="4005">,</TOKEN>
+<TOKEN id="token-28-47" pos="word" morph="none" start_char="4007" end_char="4013">nimadan</TOKEN>
+<TOKEN id="token-28-48" pos="word" morph="none" start_char="4015" end_char="4028">kurkayapsizlar</TOKEN>
+<TOKEN id="token-28-49" pos="punct" morph="none" start_char="4029" end_char="4029">?</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="4032" end_char="4088">
+<ORIGINAL_TEXT>Axir sukut saklasangiz xech nimaga erisha olmaysizlarku!»</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="4032" end_char="4035">Axir</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="4037" end_char="4041">sukut</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="4043" end_char="4053">saklasangiz</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="4055" end_char="4058">xech</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="4060" end_char="4065">nimaga</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="4067" end_char="4072">erisha</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="4074" end_char="4086">olmaysizlarku</TOKEN>
+<TOKEN id="token-29-7" pos="punct" morph="none" start_char="4087" end_char="4088">!»</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="4091" end_char="4109">
+<ORIGINAL_TEXT>deya murojaat etdi.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="4091" end_char="4094">deya</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="4096" end_char="4103">murojaat</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="4105" end_char="4108">etdi</TOKEN>
+<TOKEN id="token-30-3" pos="punct" morph="none" start_char="4109" end_char="4109">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="4112" end_char="4220">
+<ORIGINAL_TEXT>Adenauer fondi mintakaviy muxtor vakili Shrayber xam «Nima, Uzbekistonda ochik fikr bildirish mumkin emasmi?»</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="4112" end_char="4119">Adenauer</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="4121" end_char="4125">fondi</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="4127" end_char="4136">mintakaviy</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="4138" end_char="4143">muxtor</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="4145" end_char="4150">vakili</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="4152" end_char="4159">Shrayber</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="4161" end_char="4163">xam</TOKEN>
+<TOKEN id="token-31-7" pos="punct" morph="none" start_char="4165" end_char="4165">«</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="4166" end_char="4169">Nima</TOKEN>
+<TOKEN id="token-31-9" pos="punct" morph="none" start_char="4170" end_char="4170">,</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="4172" end_char="4183">Uzbekistonda</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="4185" end_char="4189">ochik</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="4191" end_char="4194">fikr</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="4196" end_char="4204">bildirish</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="4206" end_char="4211">mumkin</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="4213" end_char="4218">emasmi</TOKEN>
+<TOKEN id="token-31-16" pos="punct" morph="none" start_char="4219" end_char="4220">?»</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="4223" end_char="4241">
+<ORIGINAL_TEXT>deya xayratlanibdi.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="4223" end_char="4226">deya</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="4228" end_char="4240">xayratlanibdi</TOKEN>
+<TOKEN id="token-32-2" pos="punct" morph="none" start_char="4241" end_char="4241">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="4244" end_char="4327">
+<ORIGINAL_TEXT>Tanaffusdan sung seminar katnashchilari biram faol bulib ketishdi, asti kuyaverasiz!</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="4244" end_char="4254">Tanaffusdan</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="4256" end_char="4259">sung</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="4261" end_char="4267">seminar</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="4269" end_char="4282">katnashchilari</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="4284" end_char="4288">biram</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="4290" end_char="4293">faol</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="4295" end_char="4299">bulib</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="4301" end_char="4308">ketishdi</TOKEN>
+<TOKEN id="token-33-8" pos="punct" morph="none" start_char="4309" end_char="4309">,</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="4311" end_char="4314">asti</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="4316" end_char="4326">kuyaverasiz</TOKEN>
+<TOKEN id="token-33-11" pos="punct" morph="none" start_char="4327" end_char="4327">!</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="4330" end_char="4505">
+<ORIGINAL_TEXT>Ular mustakil Uzbekistonning ravnaki, uning Prezidenti olib borayotgan siyosatini shunday maktab ketishdi-ki, Janob Shrayber usha zaxoti zalni tark etib poytaxtga kaytib ketdi.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="4330" end_char="4333">Ular</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="4335" end_char="4342">mustakil</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="4344" end_char="4357">Uzbekistonning</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="4359" end_char="4365">ravnaki</TOKEN>
+<TOKEN id="token-34-4" pos="punct" morph="none" start_char="4366" end_char="4366">,</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="4368" end_char="4372">uning</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="4374" end_char="4383">Prezidenti</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="4385" end_char="4388">olib</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="4390" end_char="4399">borayotgan</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="4401" end_char="4410">siyosatini</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="4412" end_char="4418">shunday</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="4420" end_char="4425">maktab</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="4427" end_char="4434">ketishdi</TOKEN>
+<TOKEN id="token-34-13" pos="punct" morph="none" start_char="4435" end_char="4435">-</TOKEN>
+<TOKEN id="token-34-14" pos="word" morph="none" start_char="4436" end_char="4437">ki</TOKEN>
+<TOKEN id="token-34-15" pos="punct" morph="none" start_char="4438" end_char="4438">,</TOKEN>
+<TOKEN id="token-34-16" pos="word" morph="none" start_char="4440" end_char="4444">Janob</TOKEN>
+<TOKEN id="token-34-17" pos="word" morph="none" start_char="4446" end_char="4453">Shrayber</TOKEN>
+<TOKEN id="token-34-18" pos="word" morph="none" start_char="4455" end_char="4458">usha</TOKEN>
+<TOKEN id="token-34-19" pos="word" morph="none" start_char="4460" end_char="4465">zaxoti</TOKEN>
+<TOKEN id="token-34-20" pos="word" morph="none" start_char="4467" end_char="4471">zalni</TOKEN>
+<TOKEN id="token-34-21" pos="word" morph="none" start_char="4473" end_char="4476">tark</TOKEN>
+<TOKEN id="token-34-22" pos="word" morph="none" start_char="4478" end_char="4481">etib</TOKEN>
+<TOKEN id="token-34-23" pos="word" morph="none" start_char="4483" end_char="4491">poytaxtga</TOKEN>
+<TOKEN id="token-34-24" pos="word" morph="none" start_char="4493" end_char="4498">kaytib</TOKEN>
+<TOKEN id="token-34-25" pos="word" morph="none" start_char="4500" end_char="4504">ketdi</TOKEN>
+<TOKEN id="token-34-26" pos="punct" morph="none" start_char="4505" end_char="4505">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="4508" end_char="4591">
+<ORIGINAL_TEXT>V Uzbekistane amnistiruyut chlenov zapreshchaennoy islamskoy partii «Xizb-ut Taxrir»</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="4508" end_char="4508">V</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="4510" end_char="4520">Uzbekistane</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="4522" end_char="4533">amnistiruyut</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="4535" end_char="4541">chlenov</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="4543" end_char="4557">zapreshchaennoy</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="4559" end_char="4567">islamskoy</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="4569" end_char="4574">partii</TOKEN>
+<TOKEN id="token-35-7" pos="punct" morph="none" start_char="4576" end_char="4576">«</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="4577" end_char="4580">Xizb</TOKEN>
+<TOKEN id="token-35-9" pos="punct" morph="none" start_char="4581" end_char="4581">-</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="4582" end_char="4583">ut</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="4585" end_char="4590">Taxrir</TOKEN>
+<TOKEN id="token-35-12" pos="punct" morph="none" start_char="4591" end_char="4591">»</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="4594" end_char="4654">
+<ORIGINAL_TEXT>(Ruslan Sharipov, rukovoditelʼ press tsentra OPChU «Ezgulik»)</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="punct" morph="none" start_char="4594" end_char="4594">(</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="4595" end_char="4600">Ruslan</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="4602" end_char="4609">Sharipov</TOKEN>
+<TOKEN id="token-36-3" pos="punct" morph="none" start_char="4610" end_char="4610">,</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="4612" end_char="4623">rukovoditelʼ</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="4625" end_char="4629">press</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="4631" end_char="4637">tsentra</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="4639" end_char="4643">OPChU</TOKEN>
+<TOKEN id="token-36-8" pos="punct" morph="none" start_char="4645" end_char="4645">«</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="4646" end_char="4652">Ezgulik</TOKEN>
+<TOKEN id="token-36-10" pos="punct" morph="none" start_char="4653" end_char="4654">»)</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="4657" end_char="4857">
+<ORIGINAL_TEXT>Soglasno ofitsialʼnoy informatsii po ukazu Prezidenta RUz Islama Karimova «ob amnistii» ot 22 avgusta 2001 goda v Uzbekistane amnistirovano 860 zaklyuchennyerux, osujdenyerux po religioznyerum motivam.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="4657" end_char="4664">Soglasno</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="4666" end_char="4677">ofitsialʼnoy</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="4679" end_char="4689">informatsii</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="4691" end_char="4692">po</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="4694" end_char="4698">ukazu</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="4700" end_char="4709">Prezidenta</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="4711" end_char="4713">RUz</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="4715" end_char="4720">Islama</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="4722" end_char="4729">Karimova</TOKEN>
+<TOKEN id="token-37-9" pos="punct" morph="none" start_char="4731" end_char="4731">«</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="4732" end_char="4733">ob</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="4735" end_char="4742">amnistii</TOKEN>
+<TOKEN id="token-37-12" pos="punct" morph="none" start_char="4743" end_char="4743">»</TOKEN>
+<TOKEN id="token-37-13" pos="word" morph="none" start_char="4745" end_char="4746">ot</TOKEN>
+<TOKEN id="token-37-14" pos="number" morph="none" start_char="4748" end_char="4749">22</TOKEN>
+<TOKEN id="token-37-15" pos="word" morph="none" start_char="4751" end_char="4757">avgusta</TOKEN>
+<TOKEN id="token-37-16" pos="number" morph="none" start_char="4759" end_char="4762">2001</TOKEN>
+<TOKEN id="token-37-17" pos="word" morph="none" start_char="4764" end_char="4767">goda</TOKEN>
+<TOKEN id="token-37-18" pos="word" morph="none" start_char="4769" end_char="4769">v</TOKEN>
+<TOKEN id="token-37-19" pos="word" morph="none" start_char="4771" end_char="4781">Uzbekistane</TOKEN>
+<TOKEN id="token-37-20" pos="word" morph="none" start_char="4783" end_char="4795">amnistirovano</TOKEN>
+<TOKEN id="token-37-21" pos="number" morph="none" start_char="4797" end_char="4799">860</TOKEN>
+<TOKEN id="token-37-22" pos="word" morph="none" start_char="4801" end_char="4816">zaklyuchennyerux</TOKEN>
+<TOKEN id="token-37-23" pos="punct" morph="none" start_char="4817" end_char="4817">,</TOKEN>
+<TOKEN id="token-37-24" pos="word" morph="none" start_char="4819" end_char="4830">osujdenyerux</TOKEN>
+<TOKEN id="token-37-25" pos="word" morph="none" start_char="4832" end_char="4833">po</TOKEN>
+<TOKEN id="token-37-26" pos="word" morph="none" start_char="4835" end_char="4848">religioznyerum</TOKEN>
+<TOKEN id="token-37-27" pos="word" morph="none" start_char="4850" end_char="4856">motivam</TOKEN>
+<TOKEN id="token-37-28" pos="punct" morph="none" start_char="4857" end_char="4857">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="4860" end_char="4966">
+<ORIGINAL_TEXT>Bolʼshinstvo iz nix sostavlyayut chlenyeru zapreshchaennoy v Uzbekistane islamskoy partii «Xizb-ut Taxrir».</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="4860" end_char="4871">Bolʼshinstvo</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="4873" end_char="4874">iz</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="4876" end_char="4878">nix</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="4880" end_char="4891">sostavlyayut</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="4893" end_char="4901">chlenyeru</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="4903" end_char="4917">zapreshchaennoy</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="4919" end_char="4919">v</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="4921" end_char="4931">Uzbekistane</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="4933" end_char="4941">islamskoy</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="4943" end_char="4948">partii</TOKEN>
+<TOKEN id="token-38-10" pos="punct" morph="none" start_char="4950" end_char="4950">«</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="4951" end_char="4954">Xizb</TOKEN>
+<TOKEN id="token-38-12" pos="punct" morph="none" start_char="4955" end_char="4955">-</TOKEN>
+<TOKEN id="token-38-13" pos="word" morph="none" start_char="4956" end_char="4957">ut</TOKEN>
+<TOKEN id="token-38-14" pos="word" morph="none" start_char="4959" end_char="4964">Taxrir</TOKEN>
+<TOKEN id="token-38-15" pos="punct" morph="none" start_char="4965" end_char="4966">».</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="4969" end_char="5146">
+<ORIGINAL_TEXT>Po dannyerum uzbekskix pravozashchaitnyerux organizatsiy v tyurʼmax Uzbekistana naxodyatsya svyerushe 7.000 uzbekskix grajdan lishennyerux svobodyeru za mirnoye veroispovedaniye.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="4969" end_char="4970">Po</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="4972" end_char="4980">dannyerum</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="4982" end_char="4990">uzbekskix</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="4992" end_char="5011">pravozashchaitnyerux</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="5013" end_char="5024">organizatsiy</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="5026" end_char="5026">v</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="5028" end_char="5035">tyurʼmax</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="5037" end_char="5047">Uzbekistana</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="5049" end_char="5059">naxodyatsya</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="5061" end_char="5069">svyerushe</TOKEN>
+<TOKEN id="token-39-10" pos="number" morph="none" start_char="5071" end_char="5075">7.000</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="5077" end_char="5085">uzbekskix</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="5087" end_char="5093">grajdan</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="5095" end_char="5106">lishennyerux</TOKEN>
+<TOKEN id="token-39-14" pos="word" morph="none" start_char="5108" end_char="5117">svobodyeru</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="5119" end_char="5120">za</TOKEN>
+<TOKEN id="token-39-16" pos="word" morph="none" start_char="5122" end_char="5128">mirnoye</TOKEN>
+<TOKEN id="token-39-17" pos="word" morph="none" start_char="5130" end_char="5145">veroispovedaniye</TOKEN>
+<TOKEN id="token-39-18" pos="punct" morph="none" start_char="5146" end_char="5146">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="5149" end_char="5347">
+<ORIGINAL_TEXT>V intervʼyu predstavitelyu Obshchaestva Prav Cheloveka Uzbekistana «Ezgulik», chlenyeru partii «Xizb-ut Taxrir» zayavili, chto ofitsialʼnyerue tsifryeru po chislu amnistirovannyerux preuvelichenyeru.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="5149" end_char="5149">V</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="5151" end_char="5159">intervʼyu</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="5161" end_char="5174">predstavitelyu</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="5176" end_char="5187">Obshchaestva</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="5189" end_char="5192">Prav</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="5194" end_char="5202">Cheloveka</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="5204" end_char="5214">Uzbekistana</TOKEN>
+<TOKEN id="token-40-7" pos="punct" morph="none" start_char="5216" end_char="5216">«</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="5217" end_char="5223">Ezgulik</TOKEN>
+<TOKEN id="token-40-9" pos="punct" morph="none" start_char="5224" end_char="5225">»,</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="5227" end_char="5235">chlenyeru</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="5237" end_char="5242">partii</TOKEN>
+<TOKEN id="token-40-12" pos="punct" morph="none" start_char="5244" end_char="5244">«</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="5245" end_char="5248">Xizb</TOKEN>
+<TOKEN id="token-40-14" pos="punct" morph="none" start_char="5249" end_char="5249">-</TOKEN>
+<TOKEN id="token-40-15" pos="word" morph="none" start_char="5250" end_char="5251">ut</TOKEN>
+<TOKEN id="token-40-16" pos="word" morph="none" start_char="5253" end_char="5258">Taxrir</TOKEN>
+<TOKEN id="token-40-17" pos="punct" morph="none" start_char="5259" end_char="5259">»</TOKEN>
+<TOKEN id="token-40-18" pos="word" morph="none" start_char="5261" end_char="5268">zayavili</TOKEN>
+<TOKEN id="token-40-19" pos="punct" morph="none" start_char="5269" end_char="5269">,</TOKEN>
+<TOKEN id="token-40-20" pos="word" morph="none" start_char="5271" end_char="5274">chto</TOKEN>
+<TOKEN id="token-40-21" pos="word" morph="none" start_char="5276" end_char="5290">ofitsialʼnyerue</TOKEN>
+<TOKEN id="token-40-22" pos="word" morph="none" start_char="5292" end_char="5300">tsifryeru</TOKEN>
+<TOKEN id="token-40-23" pos="word" morph="none" start_char="5302" end_char="5303">po</TOKEN>
+<TOKEN id="token-40-24" pos="word" morph="none" start_char="5305" end_char="5310">chislu</TOKEN>
+<TOKEN id="token-40-25" pos="word" morph="none" start_char="5312" end_char="5329">amnistirovannyerux</TOKEN>
+<TOKEN id="token-40-26" pos="word" morph="none" start_char="5331" end_char="5346">preuvelichenyeru</TOKEN>
+<TOKEN id="token-40-27" pos="punct" morph="none" start_char="5347" end_char="5347">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="5350" end_char="5499">
+<ORIGINAL_TEXT>V chastnosti, oni utverjdayut, chto chislo amnistirovannyerux po ukazu Prezidenta chlenov ix partii na samom dele sostavlyayet ne boleye 300 chelovek.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="5350" end_char="5350">V</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="5352" end_char="5361">chastnosti</TOKEN>
+<TOKEN id="token-41-2" pos="punct" morph="none" start_char="5362" end_char="5362">,</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="5364" end_char="5366">oni</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="5368" end_char="5378">utverjdayut</TOKEN>
+<TOKEN id="token-41-5" pos="punct" morph="none" start_char="5379" end_char="5379">,</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="5381" end_char="5384">chto</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="5386" end_char="5391">chislo</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="5393" end_char="5410">amnistirovannyerux</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="5412" end_char="5413">po</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="5415" end_char="5419">ukazu</TOKEN>
+<TOKEN id="token-41-11" pos="word" morph="none" start_char="5421" end_char="5430">Prezidenta</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="5432" end_char="5438">chlenov</TOKEN>
+<TOKEN id="token-41-13" pos="word" morph="none" start_char="5440" end_char="5441">ix</TOKEN>
+<TOKEN id="token-41-14" pos="word" morph="none" start_char="5443" end_char="5448">partii</TOKEN>
+<TOKEN id="token-41-15" pos="word" morph="none" start_char="5450" end_char="5451">na</TOKEN>
+<TOKEN id="token-41-16" pos="word" morph="none" start_char="5453" end_char="5457">samom</TOKEN>
+<TOKEN id="token-41-17" pos="word" morph="none" start_char="5459" end_char="5462">dele</TOKEN>
+<TOKEN id="token-41-18" pos="word" morph="none" start_char="5464" end_char="5475">sostavlyayet</TOKEN>
+<TOKEN id="token-41-19" pos="word" morph="none" start_char="5477" end_char="5478">ne</TOKEN>
+<TOKEN id="token-41-20" pos="word" morph="none" start_char="5480" end_char="5485">boleye</TOKEN>
+<TOKEN id="token-41-21" pos="number" morph="none" start_char="5487" end_char="5489">300</TOKEN>
+<TOKEN id="token-41-22" pos="word" morph="none" start_char="5491" end_char="5498">chelovek</TOKEN>
+<TOKEN id="token-41-23" pos="punct" morph="none" start_char="5499" end_char="5499">.</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="5502" end_char="5628">
+<ORIGINAL_TEXT>Po informatsii chlenov partii «Xizb-ut Taxrir», nekotoryerue iz amnistirovannyerux zaklyuchennyerux skonchalisʼ ot tuberkuleza.</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="5502" end_char="5503">Po</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="5505" end_char="5515">informatsii</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="5517" end_char="5523">chlenov</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="5525" end_char="5530">partii</TOKEN>
+<TOKEN id="token-42-4" pos="punct" morph="none" start_char="5532" end_char="5532">«</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="5533" end_char="5536">Xizb</TOKEN>
+<TOKEN id="token-42-6" pos="punct" morph="none" start_char="5537" end_char="5537">-</TOKEN>
+<TOKEN id="token-42-7" pos="word" morph="none" start_char="5538" end_char="5539">ut</TOKEN>
+<TOKEN id="token-42-8" pos="word" morph="none" start_char="5541" end_char="5546">Taxrir</TOKEN>
+<TOKEN id="token-42-9" pos="punct" morph="none" start_char="5547" end_char="5548">»,</TOKEN>
+<TOKEN id="token-42-10" pos="word" morph="none" start_char="5550" end_char="5561">nekotoryerue</TOKEN>
+<TOKEN id="token-42-11" pos="word" morph="none" start_char="5563" end_char="5564">iz</TOKEN>
+<TOKEN id="token-42-12" pos="word" morph="none" start_char="5566" end_char="5583">amnistirovannyerux</TOKEN>
+<TOKEN id="token-42-13" pos="word" morph="none" start_char="5585" end_char="5600">zaklyuchennyerux</TOKEN>
+<TOKEN id="token-42-14" pos="word" morph="none" start_char="5602" end_char="5612">skonchalisʼ</TOKEN>
+<TOKEN id="token-42-15" pos="word" morph="none" start_char="5614" end_char="5615">ot</TOKEN>
+<TOKEN id="token-42-16" pos="word" morph="none" start_char="5617" end_char="5627">tuberkuleza</TOKEN>
+<TOKEN id="token-42-17" pos="punct" morph="none" start_char="5628" end_char="5628">.</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="5631" end_char="5720">
+<ORIGINAL_TEXT>Mnogix iz nix ne prinimayut na rabotu, a takje zastavlyayut postoyanno yavlyatʼsya v ROVD.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="5631" end_char="5636">Mnogix</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="5638" end_char="5639">iz</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="5641" end_char="5643">nix</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="5645" end_char="5646">ne</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="5648" end_char="5657">prinimayut</TOKEN>
+<TOKEN id="token-43-5" pos="word" morph="none" start_char="5659" end_char="5660">na</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="5662" end_char="5667">rabotu</TOKEN>
+<TOKEN id="token-43-7" pos="punct" morph="none" start_char="5668" end_char="5668">,</TOKEN>
+<TOKEN id="token-43-8" pos="word" morph="none" start_char="5670" end_char="5670">a</TOKEN>
+<TOKEN id="token-43-9" pos="word" morph="none" start_char="5672" end_char="5676">takje</TOKEN>
+<TOKEN id="token-43-10" pos="word" morph="none" start_char="5678" end_char="5689">zastavlyayut</TOKEN>
+<TOKEN id="token-43-11" pos="word" morph="none" start_char="5691" end_char="5700">postoyanno</TOKEN>
+<TOKEN id="token-43-12" pos="word" morph="none" start_char="5702" end_char="5712">yavlyatʼsya</TOKEN>
+<TOKEN id="token-43-13" pos="word" morph="none" start_char="5714" end_char="5714">v</TOKEN>
+<TOKEN id="token-43-14" pos="word" morph="none" start_char="5716" end_char="5719">ROVD</TOKEN>
+<TOKEN id="token-43-15" pos="punct" morph="none" start_char="5720" end_char="5720">.</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="5723" end_char="5951">
+<ORIGINAL_TEXT>OPChU «Ezgulik» raspolagayet ofitsialʼnyerum spiskom amnistirovannyerux uzbekskix grajdan (860 chelovek), osujdennyerux po religiozyerum motivam, kotoryeruy budet proveryatʼsya nashimi regionalʼnyerumi otdeleniyami po respublike.</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="5723" end_char="5727">OPChU</TOKEN>
+<TOKEN id="token-44-1" pos="punct" morph="none" start_char="5729" end_char="5729">«</TOKEN>
+<TOKEN id="token-44-2" pos="word" morph="none" start_char="5730" end_char="5736">Ezgulik</TOKEN>
+<TOKEN id="token-44-3" pos="punct" morph="none" start_char="5737" end_char="5737">»</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="5739" end_char="5750">raspolagayet</TOKEN>
+<TOKEN id="token-44-5" pos="word" morph="none" start_char="5752" end_char="5766">ofitsialʼnyerum</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="5768" end_char="5774">spiskom</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="5776" end_char="5793">amnistirovannyerux</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="5795" end_char="5803">uzbekskix</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="5805" end_char="5811">grajdan</TOKEN>
+<TOKEN id="token-44-10" pos="punct" morph="none" start_char="5813" end_char="5813">(</TOKEN>
+<TOKEN id="token-44-11" pos="word" morph="none" start_char="5814" end_char="5816">860</TOKEN>
+<TOKEN id="token-44-12" pos="word" morph="none" start_char="5818" end_char="5825">chelovek</TOKEN>
+<TOKEN id="token-44-13" pos="punct" morph="none" start_char="5826" end_char="5827">),</TOKEN>
+<TOKEN id="token-44-14" pos="word" morph="none" start_char="5829" end_char="5841">osujdennyerux</TOKEN>
+<TOKEN id="token-44-15" pos="word" morph="none" start_char="5843" end_char="5844">po</TOKEN>
+<TOKEN id="token-44-16" pos="word" morph="none" start_char="5846" end_char="5858">religiozyerum</TOKEN>
+<TOKEN id="token-44-17" pos="word" morph="none" start_char="5860" end_char="5866">motivam</TOKEN>
+<TOKEN id="token-44-18" pos="punct" morph="none" start_char="5867" end_char="5867">,</TOKEN>
+<TOKEN id="token-44-19" pos="word" morph="none" start_char="5869" end_char="5878">kotoryeruy</TOKEN>
+<TOKEN id="token-44-20" pos="word" morph="none" start_char="5880" end_char="5884">budet</TOKEN>
+<TOKEN id="token-44-21" pos="word" morph="none" start_char="5886" end_char="5898">proveryatʼsya</TOKEN>
+<TOKEN id="token-44-22" pos="word" morph="none" start_char="5900" end_char="5906">nashimi</TOKEN>
+<TOKEN id="token-44-23" pos="word" morph="none" start_char="5908" end_char="5923">regionalʼnyerumi</TOKEN>
+<TOKEN id="token-44-24" pos="word" morph="none" start_char="5925" end_char="5936">otdeleniyami</TOKEN>
+<TOKEN id="token-44-25" pos="word" morph="none" start_char="5938" end_char="5939">po</TOKEN>
+<TOKEN id="token-44-26" pos="word" morph="none" start_char="5941" end_char="5950">respublike</TOKEN>
+<TOKEN id="token-44-27" pos="punct" morph="none" start_char="5951" end_char="5951">.</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="5954" end_char="6288">
+<ORIGINAL_TEXT>Mejdu tem v respublike prodoljayutsya aktsii protesta veruyushchaix, trebuyushchaix ot pravitelʼstva respubliki prekratitʼ zaklyucheniye v tyurʼmyeru musulʼman, ispoveduyushchaix mirnyeruy islam, a takje prekratitʼ pyerutki i jestokoye beschelovechnoye obrashchaeniye vo vremya nepravomernyerux arestov i v mestax lisheniya svobodyeru.</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="5954" end_char="5958">Mejdu</TOKEN>
+<TOKEN id="token-45-1" pos="word" morph="none" start_char="5960" end_char="5962">tem</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="5964" end_char="5964">v</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="5966" end_char="5975">respublike</TOKEN>
+<TOKEN id="token-45-4" pos="word" morph="none" start_char="5977" end_char="5990">prodoljayutsya</TOKEN>
+<TOKEN id="token-45-5" pos="word" morph="none" start_char="5992" end_char="5997">aktsii</TOKEN>
+<TOKEN id="token-45-6" pos="word" morph="none" start_char="5999" end_char="6006">protesta</TOKEN>
+<TOKEN id="token-45-7" pos="word" morph="none" start_char="6008" end_char="6020">veruyushchaix</TOKEN>
+<TOKEN id="token-45-8" pos="punct" morph="none" start_char="6021" end_char="6021">,</TOKEN>
+<TOKEN id="token-45-9" pos="word" morph="none" start_char="6023" end_char="6036">trebuyushchaix</TOKEN>
+<TOKEN id="token-45-10" pos="word" morph="none" start_char="6038" end_char="6039">ot</TOKEN>
+<TOKEN id="token-45-11" pos="word" morph="none" start_char="6041" end_char="6053">pravitelʼstva</TOKEN>
+<TOKEN id="token-45-12" pos="word" morph="none" start_char="6055" end_char="6064">respubliki</TOKEN>
+<TOKEN id="token-45-13" pos="word" morph="none" start_char="6066" end_char="6075">prekratitʼ</TOKEN>
+<TOKEN id="token-45-14" pos="word" morph="none" start_char="6077" end_char="6089">zaklyucheniye</TOKEN>
+<TOKEN id="token-45-15" pos="word" morph="none" start_char="6091" end_char="6091">v</TOKEN>
+<TOKEN id="token-45-16" pos="word" morph="none" start_char="6093" end_char="6102">tyurʼmyeru</TOKEN>
+<TOKEN id="token-45-17" pos="word" morph="none" start_char="6104" end_char="6112">musulʼman</TOKEN>
+<TOKEN id="token-45-18" pos="punct" morph="none" start_char="6113" end_char="6113">,</TOKEN>
+<TOKEN id="token-45-19" pos="word" morph="none" start_char="6115" end_char="6131">ispoveduyushchaix</TOKEN>
+<TOKEN id="token-45-20" pos="word" morph="none" start_char="6133" end_char="6141">mirnyeruy</TOKEN>
+<TOKEN id="token-45-21" pos="word" morph="none" start_char="6143" end_char="6147">islam</TOKEN>
+<TOKEN id="token-45-22" pos="punct" morph="none" start_char="6148" end_char="6148">,</TOKEN>
+<TOKEN id="token-45-23" pos="word" morph="none" start_char="6150" end_char="6150">a</TOKEN>
+<TOKEN id="token-45-24" pos="word" morph="none" start_char="6152" end_char="6156">takje</TOKEN>
+<TOKEN id="token-45-25" pos="word" morph="none" start_char="6158" end_char="6167">prekratitʼ</TOKEN>
+<TOKEN id="token-45-26" pos="word" morph="none" start_char="6169" end_char="6176">pyerutki</TOKEN>
+<TOKEN id="token-45-27" pos="word" morph="none" start_char="6178" end_char="6178">i</TOKEN>
+<TOKEN id="token-45-28" pos="word" morph="none" start_char="6180" end_char="6188">jestokoye</TOKEN>
+<TOKEN id="token-45-29" pos="word" morph="none" start_char="6190" end_char="6205">beschelovechnoye</TOKEN>
+<TOKEN id="token-45-30" pos="word" morph="none" start_char="6207" end_char="6220">obrashchaeniye</TOKEN>
+<TOKEN id="token-45-31" pos="word" morph="none" start_char="6222" end_char="6223">vo</TOKEN>
+<TOKEN id="token-45-32" pos="word" morph="none" start_char="6225" end_char="6230">vremya</TOKEN>
+<TOKEN id="token-45-33" pos="word" morph="none" start_char="6232" end_char="6247">nepravomernyerux</TOKEN>
+<TOKEN id="token-45-34" pos="word" morph="none" start_char="6249" end_char="6255">arestov</TOKEN>
+<TOKEN id="token-45-35" pos="word" morph="none" start_char="6257" end_char="6257">i</TOKEN>
+<TOKEN id="token-45-36" pos="word" morph="none" start_char="6259" end_char="6259">v</TOKEN>
+<TOKEN id="token-45-37" pos="word" morph="none" start_char="6261" end_char="6266">mestax</TOKEN>
+<TOKEN id="token-45-38" pos="word" morph="none" start_char="6268" end_char="6276">lisheniya</TOKEN>
+<TOKEN id="token-45-39" pos="word" morph="none" start_char="6278" end_char="6287">svobodyeru</TOKEN>
+<TOKEN id="token-45-40" pos="punct" morph="none" start_char="6288" end_char="6288">.</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="6291" end_char="6310">
+<ORIGINAL_TEXT>Asosiy betga kaytish</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="6291" end_char="6296">Asosiy</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="6298" end_char="6302">betga</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="6304" end_char="6310">kaytish</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="6313" end_char="6336">
+<ORIGINAL_TEXT>Xabarlar arxiviga uʼtish</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="word" morph="none" start_char="6313" end_char="6320">Xabarlar</TOKEN>
+<TOKEN id="token-47-1" pos="word" morph="none" start_char="6322" end_char="6329">arxiviga</TOKEN>
+<TOKEN id="token-47-2" pos="word" morph="none" start_char="6331" end_char="6336">uʼtish</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

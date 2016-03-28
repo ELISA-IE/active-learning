@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DAN_HAU_007507_20120317_segment-1" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007507_20120317_segment-1-NE1" task="NE" type="LOC">
+      <EXTENT start_char="63" end_char="70">Najeriya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007507_20120317_segment-1-NE2" task="NE" type="ORG">
+      <EXTENT start_char="82" end_char="95">Majalisar koli</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007507_20120317_segment-1-NE3" task="NE" type="ORG">
+      <EXTENT start_char="221" end_char="250">kungiyar nan ta Jamaʼatu Ahlis</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007507_20120317_segment-1-NE4" task="NE" type="ORG">
+      <EXTENT start_char="301" end_char="310">Boko Haram</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

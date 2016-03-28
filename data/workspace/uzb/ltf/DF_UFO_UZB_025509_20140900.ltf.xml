@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_UFO_UZB_025509_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1896" raw_text_md5="12dc313c3059de1b7b3af4fd99466dc2">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="31">
+<ORIGINAL_TEXT>Yaxshidan yaxshi, yomondan yomon</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="8">Yaxshidan</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="10" end_char="15">yaxshi</TOKEN>
+<TOKEN id="token-0-2" pos="punct" morph="none" start_char="16" end_char="16">,</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="18" end_char="25">yomondan</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="27" end_char="31">yomon</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="34" end_char="101">
+<ORIGINAL_TEXT>Har bir inson bu nom ostida nimalar borligiga qiziqib koʻrishi aniq.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="34" end_char="36">Har</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="38" end_char="40">bir</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="42" end_char="46">inson</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="48" end_char="49">bu</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="51" end_char="53">nom</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="55" end_char="60">ostida</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="62" end_char="68">nimalar</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="70" end_char="78">borligiga</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="80" end_char="86">qiziqib</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="88" end_char="95">koʻrishi</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="97" end_char="100">aniq</TOKEN>
+<TOKEN id="token-1-11" pos="punct" morph="none" start_char="101" end_char="101">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="103" end_char="248">
+<ORIGINAL_TEXT>Bu nom ostida qiziqarli oʻyin tarzidagi iboralar jangi boʻladi.Masalan hammaga tanish boʻlgan 1) " yashash yaxshi, yaxshi yashash undanam yaxshi "</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="103" end_char="104">Bu</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="106" end_char="108">nom</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="110" end_char="115">ostida</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="117" end_char="125">qiziqarli</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="127" end_char="131">oʻyin</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="133" end_char="141">tarzidagi</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="143" end_char="150">iboralar</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="152" end_char="156">jangi</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="158" end_char="164">boʻladi</TOKEN>
+<TOKEN id="token-2-9" pos="punct" morph="none" start_char="165" end_char="165">.</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="166" end_char="172">Masalan</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="174" end_char="180">hammaga</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="182" end_char="187">tanish</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="189" end_char="195">boʻlgan</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="197" end_char="197">1</TOKEN>
+<TOKEN id="token-2-15" pos="punct" morph="none" start_char="198" end_char="198">)</TOKEN>
+<TOKEN id="token-2-16" pos="unknown" morph="none" start_char="200" end_char="200">"</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="202" end_char="208">yashash</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="210" end_char="215">yaxshi</TOKEN>
+<TOKEN id="token-2-19" pos="punct" morph="none" start_char="216" end_char="216">,</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="218" end_char="223">yaxshi</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="225" end_char="231">yashash</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="233" end_char="239">undanam</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="241" end_char="246">yaxshi</TOKEN>
+<TOKEN id="token-2-24" pos="unknown" morph="none" start_char="248" end_char="248">"</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="251" end_char="317">
+<ORIGINAL_TEXT>, 2) "Dushmanning boʻlgani yomon, sotqin doʻst esa undanda yomon ",</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="251" end_char="251">,</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="253" end_char="253">2</TOKEN>
+<TOKEN id="token-3-2" pos="punct" morph="none" start_char="254" end_char="254">)</TOKEN>
+<TOKEN id="token-3-3" pos="punct" morph="none" start_char="256" end_char="256">"</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="257" end_char="267">Dushmanning</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="269" end_char="276">boʻlgani</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="278" end_char="282">yomon</TOKEN>
+<TOKEN id="token-3-7" pos="punct" morph="none" start_char="283" end_char="283">,</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="285" end_char="290">sotqin</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="292" end_char="296">doʻst</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="298" end_char="300">esa</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="302" end_char="308">undanda</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="310" end_char="314">yomon</TOKEN>
+<TOKEN id="token-3-13" pos="unknown" morph="none" start_char="316" end_char="317">",</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="320" end_char="377">
+<ORIGINAL_TEXT>3) "Doʻsting boʻlsa yaxshi, oila davrasida undanda yaxshi"</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="320" end_char="320">3</TOKEN>
+<TOKEN id="token-4-1" pos="punct" morph="none" start_char="321" end_char="321">)</TOKEN>
+<TOKEN id="token-4-2" pos="punct" morph="none" start_char="323" end_char="323">"</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="324" end_char="331">Doʻsting</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="333" end_char="338">boʻlsa</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="340" end_char="345">yaxshi</TOKEN>
+<TOKEN id="token-4-6" pos="punct" morph="none" start_char="346" end_char="346">,</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="348" end_char="351">oila</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="353" end_char="361">davrasida</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="363" end_char="369">undanda</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="371" end_char="376">yaxshi</TOKEN>
+<TOKEN id="token-4-11" pos="punct" morph="none" start_char="377" end_char="377">"</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="380" end_char="429">
+<ORIGINAL_TEXT>4) "Oʻqish yaxshi, dam olib yotish undanda yaxshi"</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="380" end_char="380">4</TOKEN>
+<TOKEN id="token-5-1" pos="punct" morph="none" start_char="381" end_char="381">)</TOKEN>
+<TOKEN id="token-5-2" pos="punct" morph="none" start_char="383" end_char="383">"</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="384" end_char="389">Oʻqish</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="391" end_char="396">yaxshi</TOKEN>
+<TOKEN id="token-5-5" pos="punct" morph="none" start_char="397" end_char="397">,</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="399" end_char="401">dam</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="403" end_char="406">olib</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="408" end_char="413">yotish</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="415" end_char="421">undanda</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="423" end_char="428">yaxshi</TOKEN>
+<TOKEN id="token-5-11" pos="punct" morph="none" start_char="429" end_char="429">"</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="432" end_char="479">
+<ORIGINAL_TEXT>Siz ham shunday qiziqarli iboralarni bilasiz-mi?</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="432" end_char="434">Siz</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="436" end_char="438">ham</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="440" end_char="446">shunday</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="448" end_char="456">qiziqarli</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="458" end_char="467">iboralarni</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="469" end_char="475">bilasiz</TOKEN>
+<TOKEN id="token-6-6" pos="punct" morph="none" start_char="476" end_char="476">-</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="477" end_char="478">mi</TOKEN>
+<TOKEN id="token-6-8" pos="punct" morph="none" start_char="479" end_char="479">?</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="481" end_char="501">
+<ORIGINAL_TEXT>Unda yozib qoldiring!</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="481" end_char="484">Unda</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="486" end_char="490">yozib</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="492" end_char="500">qoldiring</TOKEN>
+<TOKEN id="token-7-3" pos="punct" morph="none" start_char="501" end_char="501">!</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="504" end_char="548">
+<ORIGINAL_TEXT>Yaxshidan yaxshi til, yomondan yomon ham til.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="504" end_char="512">Yaxshidan</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="514" end_char="519">yaxshi</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="521" end_char="523">til</TOKEN>
+<TOKEN id="token-8-3" pos="punct" morph="none" start_char="524" end_char="524">,</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="526" end_char="533">yomondan</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="535" end_char="539">yomon</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="541" end_char="543">ham</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="545" end_char="547">til</TOKEN>
+<TOKEN id="token-8-8" pos="punct" morph="none" start_char="548" end_char="548">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="551" end_char="582">
+<ORIGINAL_TEXT>1) "yaxshilikning oʻlchovi yoʻq"</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="551" end_char="551">1</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="552" end_char="552">)</TOKEN>
+<TOKEN id="token-9-2" pos="punct" morph="none" start_char="554" end_char="554">"</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="555" end_char="567">yaxshilikning</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="569" end_char="576">oʻlchovi</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="578" end_char="581">yoʻq</TOKEN>
+<TOKEN id="token-9-6" pos="punct" morph="none" start_char="582" end_char="582">"</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="585" end_char="621">
+<ORIGINAL_TEXT>2) "yaxshidan ot qolar, yomondan dod"</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="585" end_char="585">2</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="586" end_char="586">)</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="588" end_char="588">"</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="589" end_char="597">yaxshidan</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="599" end_char="600">ot</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="602" end_char="606">qolar</TOKEN>
+<TOKEN id="token-10-6" pos="punct" morph="none" start_char="607" end_char="607">,</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="609" end_char="616">yomondan</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="618" end_char="620">dod</TOKEN>
+<TOKEN id="token-10-9" pos="punct" morph="none" start_char="621" end_char="621">"</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="624" end_char="674">
+<ORIGINAL_TEXT>3) "yaxshi otga bir qamchi, yomon otga ming qamchi"</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="624" end_char="624">3</TOKEN>
+<TOKEN id="token-11-1" pos="punct" morph="none" start_char="625" end_char="625">)</TOKEN>
+<TOKEN id="token-11-2" pos="punct" morph="none" start_char="627" end_char="627">"</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="628" end_char="633">yaxshi</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="635" end_char="638">otga</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="640" end_char="642">bir</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="644" end_char="649">qamchi</TOKEN>
+<TOKEN id="token-11-7" pos="punct" morph="none" start_char="650" end_char="650">,</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="652" end_char="656">yomon</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="658" end_char="661">otga</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="663" end_char="666">ming</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="668" end_char="673">qamchi</TOKEN>
+<TOKEN id="token-11-12" pos="punct" morph="none" start_char="674" end_char="674">"</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="677" end_char="729">
+<ORIGINAL_TEXT>"kino koʻrish yaxshi,reklama boʻlmasa undanam yaxshi.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="punct" morph="none" start_char="677" end_char="677">"</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="678" end_char="681">kino</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="683" end_char="689">koʻrish</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="691" end_char="696">yaxshi</TOKEN>
+<TOKEN id="token-12-4" pos="punct" morph="none" start_char="697" end_char="697">,</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="698" end_char="704">reklama</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="706" end_char="713">boʻlmasa</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="715" end_char="721">undanam</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="723" end_char="728">yaxshi</TOKEN>
+<TOKEN id="token-12-9" pos="punct" morph="none" start_char="729" end_char="729">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="731" end_char="731">
+<ORIGINAL_TEXT>"</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="731" end_char="731">"</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="734" end_char="801">
+<ORIGINAL_TEXT>Har bir inson bu nom ostida nimalar borligiga qiziqib koʻrishi aniq.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="734" end_char="736">Har</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="738" end_char="740">bir</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="742" end_char="746">inson</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="748" end_char="749">bu</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="751" end_char="753">nom</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="755" end_char="760">ostida</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="762" end_char="768">nimalar</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="770" end_char="778">borligiga</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="780" end_char="786">qiziqib</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="788" end_char="795">koʻrishi</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="797" end_char="800">aniq</TOKEN>
+<TOKEN id="token-14-11" pos="punct" morph="none" start_char="801" end_char="801">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="803" end_char="948">
+<ORIGINAL_TEXT>Bu nom ostida qiziqarli oʻyin tarzidagi iboralar jangi boʻladi.Masalan hammaga tanish boʻlgan 1) " yashash yaxshi, yaxshi yashash undanam yaxshi "</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="803" end_char="804">Bu</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="806" end_char="808">nom</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="810" end_char="815">ostida</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="817" end_char="825">qiziqarli</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="827" end_char="831">oʻyin</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="833" end_char="841">tarzidagi</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="843" end_char="850">iboralar</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="852" end_char="856">jangi</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="858" end_char="864">boʻladi</TOKEN>
+<TOKEN id="token-15-9" pos="punct" morph="none" start_char="865" end_char="865">.</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="866" end_char="872">Masalan</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="874" end_char="880">hammaga</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="882" end_char="887">tanish</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="889" end_char="895">boʻlgan</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="897" end_char="897">1</TOKEN>
+<TOKEN id="token-15-15" pos="punct" morph="none" start_char="898" end_char="898">)</TOKEN>
+<TOKEN id="token-15-16" pos="unknown" morph="none" start_char="900" end_char="900">"</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="902" end_char="908">yashash</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="910" end_char="915">yaxshi</TOKEN>
+<TOKEN id="token-15-19" pos="punct" morph="none" start_char="916" end_char="916">,</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="918" end_char="923">yaxshi</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="925" end_char="931">yashash</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="933" end_char="939">undanam</TOKEN>
+<TOKEN id="token-15-23" pos="word" morph="none" start_char="941" end_char="946">yaxshi</TOKEN>
+<TOKEN id="token-15-24" pos="unknown" morph="none" start_char="948" end_char="948">"</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="951" end_char="1017">
+<ORIGINAL_TEXT>, 2) "Dushmanning boʻlgani yomon, sotqin doʻst esa undanda yomon ",</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="951" end_char="951">,</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="953" end_char="953">2</TOKEN>
+<TOKEN id="token-16-2" pos="punct" morph="none" start_char="954" end_char="954">)</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="956" end_char="956">"</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="957" end_char="967">Dushmanning</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="969" end_char="976">boʻlgani</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="978" end_char="982">yomon</TOKEN>
+<TOKEN id="token-16-7" pos="punct" morph="none" start_char="983" end_char="983">,</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="985" end_char="990">sotqin</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="992" end_char="996">doʻst</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="998" end_char="1000">esa</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1002" end_char="1008">undanda</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1010" end_char="1014">yomon</TOKEN>
+<TOKEN id="token-16-13" pos="unknown" morph="none" start_char="1016" end_char="1017">",</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1020" end_char="1077">
+<ORIGINAL_TEXT>3) "Doʻsting boʻlsa yaxshi, oila davrasida undanda yaxshi"</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1020" end_char="1020">3</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="1021" end_char="1021">)</TOKEN>
+<TOKEN id="token-17-2" pos="punct" morph="none" start_char="1023" end_char="1023">"</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1024" end_char="1031">Doʻsting</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1033" end_char="1038">boʻlsa</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1040" end_char="1045">yaxshi</TOKEN>
+<TOKEN id="token-17-6" pos="punct" morph="none" start_char="1046" end_char="1046">,</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1048" end_char="1051">oila</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1053" end_char="1061">davrasida</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1063" end_char="1069">undanda</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1071" end_char="1076">yaxshi</TOKEN>
+<TOKEN id="token-17-11" pos="punct" morph="none" start_char="1077" end_char="1077">"</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1080" end_char="1129">
+<ORIGINAL_TEXT>4) "Oʻqish yaxshi, dam olib yotish undanda yaxshi"</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1080" end_char="1080">4</TOKEN>
+<TOKEN id="token-18-1" pos="punct" morph="none" start_char="1081" end_char="1081">)</TOKEN>
+<TOKEN id="token-18-2" pos="punct" morph="none" start_char="1083" end_char="1083">"</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1084" end_char="1089">Oʻqish</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1091" end_char="1096">yaxshi</TOKEN>
+<TOKEN id="token-18-5" pos="punct" morph="none" start_char="1097" end_char="1097">,</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1099" end_char="1101">dam</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1103" end_char="1106">olib</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1108" end_char="1113">yotish</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="1115" end_char="1121">undanda</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="1123" end_char="1128">yaxshi</TOKEN>
+<TOKEN id="token-18-11" pos="punct" morph="none" start_char="1129" end_char="1129">"</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1132" end_char="1179">
+<ORIGINAL_TEXT>Siz ham shunday qiziqarli iboralarni bilasiz-mi?</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1132" end_char="1134">Siz</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1136" end_char="1138">ham</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1140" end_char="1146">shunday</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1148" end_char="1156">qiziqarli</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1158" end_char="1167">iboralarni</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1169" end_char="1175">bilasiz</TOKEN>
+<TOKEN id="token-19-6" pos="punct" morph="none" start_char="1176" end_char="1176">-</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1177" end_char="1178">mi</TOKEN>
+<TOKEN id="token-19-8" pos="punct" morph="none" start_char="1179" end_char="1179">?</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1181" end_char="1201">
+<ORIGINAL_TEXT>Unda yozib qoldiring!</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1181" end_char="1184">Unda</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1186" end_char="1190">yozib</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1192" end_char="1200">qoldiring</TOKEN>
+<TOKEN id="token-20-3" pos="punct" morph="none" start_char="1201" end_char="1201">!</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1204" end_char="1231">
+<ORIGINAL_TEXT>Xurmatli Shoista Quchqorova!</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1204" end_char="1211">Xurmatli</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1213" end_char="1219">Shoista</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1221" end_char="1230">Quchqorova</TOKEN>
+<TOKEN id="token-21-3" pos="punct" morph="none" start_char="1231" end_char="1231">!</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1233" end_char="1287">
+<ORIGINAL_TEXT>Juda ham qiziqarli mavzu ochibsiz menga juda ham yoqdi.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1233" end_char="1236">Juda</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1238" end_char="1240">ham</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1242" end_char="1250">qiziqarli</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1252" end_char="1256">mavzu</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1258" end_char="1265">ochibsiz</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1267" end_char="1271">menga</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1273" end_char="1276">juda</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1278" end_char="1280">ham</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="1282" end_char="1286">yoqdi</TOKEN>
+<TOKEN id="token-22-9" pos="punct" morph="none" start_char="1287" end_char="1287">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1290" end_char="1329">
+<ORIGINAL_TEXT>1) Yaxshi bilan yurdim, Yoʻlimni topdim.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1290" end_char="1290">1</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="1291" end_char="1291">)</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1293" end_char="1298">Yaxshi</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="1300" end_char="1304">bilan</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1306" end_char="1311">yurdim</TOKEN>
+<TOKEN id="token-23-5" pos="punct" morph="none" start_char="1312" end_char="1312">,</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="1314" end_char="1321">Yoʻlimni</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="1323" end_char="1328">topdim</TOKEN>
+<TOKEN id="token-23-8" pos="punct" morph="none" start_char="1329" end_char="1329">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1331" end_char="1365">
+<ORIGINAL_TEXT>Yomon bilan yurib, Goʻrimni topdim.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="1331" end_char="1335">Yomon</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="1337" end_char="1341">bilan</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="1343" end_char="1347">yurib</TOKEN>
+<TOKEN id="token-24-3" pos="punct" morph="none" start_char="1348" end_char="1348">,</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="1350" end_char="1357">Goʻrimni</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="1359" end_char="1364">topdim</TOKEN>
+<TOKEN id="token-24-6" pos="punct" morph="none" start_char="1365" end_char="1365">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1368" end_char="1417">
+<ORIGINAL_TEXT>2) Yaxshi boʻlsang, yasharsan, Nasibangni olarsan.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="1368" end_char="1368">2</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="1369" end_char="1369">)</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="1371" end_char="1376">Yaxshi</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="1378" end_char="1385">boʻlsang</TOKEN>
+<TOKEN id="token-25-4" pos="punct" morph="none" start_char="1386" end_char="1386">,</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="1388" end_char="1396">yasharsan</TOKEN>
+<TOKEN id="token-25-6" pos="punct" morph="none" start_char="1397" end_char="1397">,</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="1399" end_char="1408">Nasibangni</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="1410" end_char="1416">olarsan</TOKEN>
+<TOKEN id="token-25-9" pos="punct" morph="none" start_char="1417" end_char="1417">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1420" end_char="1456">
+<ORIGINAL_TEXT>3) Yomon dan qoch, yaxshi ga yondosh.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1420" end_char="1420">3</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="1421" end_char="1421">)</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1423" end_char="1427">Yomon</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="1429" end_char="1431">dan</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="1433" end_char="1436">qoch</TOKEN>
+<TOKEN id="token-26-5" pos="punct" morph="none" start_char="1437" end_char="1437">,</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="1439" end_char="1444">yaxshi</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="1446" end_char="1447">ga</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="1449" end_char="1455">yondosh</TOKEN>
+<TOKEN id="token-26-9" pos="punct" morph="none" start_char="1456" end_char="1456">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1459" end_char="1503">
+<ORIGINAL_TEXT>Yaxshidan yaxshi til, yomondan yomon ham til.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="1459" end_char="1467">Yaxshidan</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="1469" end_char="1474">yaxshi</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="1476" end_char="1478">til</TOKEN>
+<TOKEN id="token-27-3" pos="punct" morph="none" start_char="1479" end_char="1479">,</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="1481" end_char="1488">yomondan</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="1490" end_char="1494">yomon</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="1496" end_char="1498">ham</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="1500" end_char="1502">til</TOKEN>
+<TOKEN id="token-27-8" pos="punct" morph="none" start_char="1503" end_char="1503">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1506" end_char="1507">
+<ORIGINAL_TEXT>1.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="1506" end_char="1506">1</TOKEN>
+<TOKEN id="token-28-1" pos="punct" morph="none" start_char="1507" end_char="1507">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1509" end_char="1554">
+<ORIGINAL_TEXT>Til bor, bol keltirar, Til bor, balo keltirar.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="1509" end_char="1511">Til</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="1513" end_char="1515">bor</TOKEN>
+<TOKEN id="token-29-2" pos="punct" morph="none" start_char="1516" end_char="1516">,</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="1518" end_char="1520">bol</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="1522" end_char="1529">keltirar</TOKEN>
+<TOKEN id="token-29-5" pos="punct" morph="none" start_char="1530" end_char="1530">,</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="1532" end_char="1534">Til</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="1536" end_char="1538">bor</TOKEN>
+<TOKEN id="token-29-8" pos="punct" morph="none" start_char="1539" end_char="1539">,</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="1541" end_char="1544">balo</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="1546" end_char="1553">keltirar</TOKEN>
+<TOKEN id="token-29-11" pos="punct" morph="none" start_char="1554" end_char="1554">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1557" end_char="1558">
+<ORIGINAL_TEXT>2.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="1557" end_char="1557">2</TOKEN>
+<TOKEN id="token-30-1" pos="punct" morph="none" start_char="1558" end_char="1558">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1560" end_char="1604">
+<ORIGINAL_TEXT>Tilingda boʻlsa boling, Kulib turar iqboling.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="1560" end_char="1567">Tilingda</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="1569" end_char="1574">boʻlsa</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="1576" end_char="1581">boling</TOKEN>
+<TOKEN id="token-31-3" pos="punct" morph="none" start_char="1582" end_char="1582">,</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="1584" end_char="1588">Kulib</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="1590" end_char="1594">turar</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="1596" end_char="1603">iqboling</TOKEN>
+<TOKEN id="token-31-7" pos="punct" morph="none" start_char="1604" end_char="1604">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1607" end_char="1643">
+<ORIGINAL_TEXT>Yaxshidan bogʻ qoladi, yomondan-dogʻ.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="1607" end_char="1615">Yaxshidan</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="1617" end_char="1620">bogʻ</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="1622" end_char="1627">qoladi</TOKEN>
+<TOKEN id="token-32-3" pos="punct" morph="none" start_char="1628" end_char="1628">,</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="1630" end_char="1637">yomondan</TOKEN>
+<TOKEN id="token-32-5" pos="punct" morph="none" start_char="1638" end_char="1638">-</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="1639" end_char="1642">dogʻ</TOKEN>
+<TOKEN id="token-32-7" pos="punct" morph="none" start_char="1643" end_char="1643">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1646" end_char="1684">
+<ORIGINAL_TEXT>Gapning ozi yaxshi, Mayizning - magʻzi.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="1646" end_char="1652">Gapning</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="1654" end_char="1656">ozi</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="1658" end_char="1663">yaxshi</TOKEN>
+<TOKEN id="token-33-3" pos="punct" morph="none" start_char="1664" end_char="1664">,</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="1666" end_char="1674">Mayizning</TOKEN>
+<TOKEN id="token-33-5" pos="unknown" morph="none" start_char="1676" end_char="1676">-</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="1678" end_char="1683">magʻzi</TOKEN>
+<TOKEN id="token-33-7" pos="punct" morph="none" start_char="1684" end_char="1684">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1687" end_char="1725">
+<ORIGINAL_TEXT>Gapning ozi yaxshi, Mayizning - magʻzi.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="1687" end_char="1693">Gapning</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="1695" end_char="1697">ozi</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="1699" end_char="1704">yaxshi</TOKEN>
+<TOKEN id="token-34-3" pos="punct" morph="none" start_char="1705" end_char="1705">,</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="1707" end_char="1715">Mayizning</TOKEN>
+<TOKEN id="token-34-5" pos="unknown" morph="none" start_char="1717" end_char="1717">-</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="1719" end_char="1724">magʻzi</TOKEN>
+<TOKEN id="token-34-7" pos="punct" morph="none" start_char="1725" end_char="1725">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1728" end_char="1849">
+<ORIGINAL_TEXT>1) Yomonning oʻzi yomon Oʻzidan ham soʻzi yomon 2) Yaxshilik qilish yaxshi, Xar kun qilingan yaxshilik undanda yaxshi HELP</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1728" end_char="1728">1</TOKEN>
+<TOKEN id="token-35-1" pos="punct" morph="none" start_char="1729" end_char="1729">)</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="1731" end_char="1739">Yomonning</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="1741" end_char="1744">oʻzi</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="1746" end_char="1750">yomon</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="1752" end_char="1758">Oʻzidan</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="1760" end_char="1762">ham</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="1764" end_char="1768">soʻzi</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="1770" end_char="1774">yomon</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="1776" end_char="1776">2</TOKEN>
+<TOKEN id="token-35-10" pos="punct" morph="none" start_char="1777" end_char="1777">)</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="1779" end_char="1787">Yaxshilik</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="1789" end_char="1794">qilish</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="1796" end_char="1801">yaxshi</TOKEN>
+<TOKEN id="token-35-14" pos="punct" morph="none" start_char="1802" end_char="1802">,</TOKEN>
+<TOKEN id="token-35-15" pos="word" morph="none" start_char="1804" end_char="1806">Xar</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="1808" end_char="1810">kun</TOKEN>
+<TOKEN id="token-35-17" pos="word" morph="none" start_char="1812" end_char="1819">qilingan</TOKEN>
+<TOKEN id="token-35-18" pos="word" morph="none" start_char="1821" end_char="1829">yaxshilik</TOKEN>
+<TOKEN id="token-35-19" pos="word" morph="none" start_char="1831" end_char="1837">undanda</TOKEN>
+<TOKEN id="token-35-20" pos="word" morph="none" start_char="1839" end_char="1844">yaxshi</TOKEN>
+<TOKEN id="token-35-21" pos="word" morph="none" start_char="1846" end_char="1849">HELP</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1852" end_char="1893">
+<ORIGINAL_TEXT>Yahshidan yahshilik,yomondan yomonlik kut.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="1852" end_char="1860">Yahshidan</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="1862" end_char="1870">yahshilik</TOKEN>
+<TOKEN id="token-36-2" pos="punct" morph="none" start_char="1871" end_char="1871">,</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="1872" end_char="1879">yomondan</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="1881" end_char="1888">yomonlik</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="1890" end_char="1892">kut</TOKEN>
+<TOKEN id="token-36-6" pos="punct" morph="none" start_char="1893" end_char="1893">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

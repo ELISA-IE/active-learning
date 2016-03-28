@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_YNS_TUR_0000373_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1390" raw_text_md5="3525bcf66e6f70cc6d2741cfcff34246">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="32">
+<ORIGINAL_TEXT>Kamerunʼda sıtma salgını: 800 ölü</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="9">Kamerunʼda</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="11" end_char="15">sıtma</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="17" end_char="23">salgını</TOKEN>
+<TOKEN id="token-0-3" pos="punct" morph="none" start_char="24" end_char="24">:</TOKEN>
+<TOKEN id="token-0-4" pos="number" morph="none" start_char="26" end_char="28">800</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="30" end_char="32">ölü</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="35" end_char="124">
+<ORIGINAL_TEXT>Kamerunʼun kuzeyinde patlak veren sıtma salgınında yaklaşık 800 kişinin öldüğü bildirildi.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="35" end_char="44">Kamerunʼun</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="46" end_char="54">kuzeyinde</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="56" end_char="61">patlak</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="63" end_char="67">veren</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="69" end_char="73">sıtma</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="75" end_char="84">salgınında</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="86" end_char="93">yaklaşık</TOKEN>
+<TOKEN id="token-1-7" pos="number" morph="none" start_char="95" end_char="97">800</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="99" end_char="105">kişinin</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="107" end_char="112">öldüğü</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="114" end_char="123">bildirildi</TOKEN>
+<TOKEN id="token-1-11" pos="punct" morph="none" start_char="124" end_char="124">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="127" end_char="244">
+<ORIGINAL_TEXT>Kamerun Kamu Sağlığı Bakanlığıʼna göre, sıtma salgınında 12 binden fazla kişi ağır hastalandı ve tedavi altına alındı.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="127" end_char="133">Kamerun</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="135" end_char="138">Kamu</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="140" end_char="146">Sağlığı</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="148" end_char="159">Bakanlığıʼna</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="161" end_char="164">göre</TOKEN>
+<TOKEN id="token-2-5" pos="punct" morph="none" start_char="165" end_char="165">,</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="167" end_char="171">sıtma</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="173" end_char="182">salgınında</TOKEN>
+<TOKEN id="token-2-8" pos="number" morph="none" start_char="184" end_char="185">12</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="187" end_char="192">binden</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="194" end_char="198">fazla</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="200" end_char="203">kişi</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="205" end_char="208">ağır</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="210" end_char="219">hastalandı</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="221" end_char="222">ve</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="224" end_char="229">tedavi</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="231" end_char="236">altına</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="238" end_char="243">alındı</TOKEN>
+<TOKEN id="token-2-18" pos="punct" morph="none" start_char="244" end_char="244">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="247" end_char="451">
+<ORIGINAL_TEXT>Yetkililer, salgın nedeniyle yaklaşık 800 kişinin hayatını kaybettiğini açıklarken, son üç haftada sıtmadan hayatını kaybedenlerin büyük bölümünü hamile kadınlar ve küçük çocukların oluşturduğu belirtildi.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="247" end_char="256">Yetkililer</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="257" end_char="257">,</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="259" end_char="264">salgın</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="266" end_char="274">nedeniyle</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="276" end_char="283">yaklaşık</TOKEN>
+<TOKEN id="token-3-5" pos="number" morph="none" start_char="285" end_char="287">800</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="289" end_char="295">kişinin</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="297" end_char="304">hayatını</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="306" end_char="317">kaybettiğini</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="319" end_char="328">açıklarken</TOKEN>
+<TOKEN id="token-3-10" pos="punct" morph="none" start_char="329" end_char="329">,</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="331" end_char="333">son</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="335" end_char="336">üç</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="338" end_char="344">haftada</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="346" end_char="353">sıtmadan</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="355" end_char="362">hayatını</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="364" end_char="376">kaybedenlerin</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="378" end_char="382">büyük</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="384" end_char="391">bölümünü</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="393" end_char="398">hamile</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="400" end_char="407">kadınlar</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="409" end_char="410">ve</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="412" end_char="416">küçük</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="418" end_char="427">çocukların</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="429" end_char="439">oluşturduğu</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="441" end_char="450">belirtildi</TOKEN>
+<TOKEN id="token-3-26" pos="punct" morph="none" start_char="451" end_char="451">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="454" end_char="678">
+<ORIGINAL_TEXT>Sağlık görevlileri tarafından "ani ve şiddetli" olarak tanımlanan salgında, 10ʼdan az tedavi merkezinin hizmet verdiği, binlerce kadın ve çocuğun, cibinliksiz aşırı kalabalık odalarda ya da açık havada yatırıldığı kaydedildi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="454" end_char="459">Sağlık</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="461" end_char="471">görevlileri</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="473" end_char="482">tarafından</TOKEN>
+<TOKEN id="token-4-3" pos="punct" morph="none" start_char="484" end_char="484">"</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="485" end_char="487">ani</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="489" end_char="490">ve</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="492" end_char="499">şiddetli</TOKEN>
+<TOKEN id="token-4-7" pos="punct" morph="none" start_char="500" end_char="500">"</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="502" end_char="507">olarak</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="509" end_char="518">tanımlanan</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="520" end_char="527">salgında</TOKEN>
+<TOKEN id="token-4-11" pos="punct" morph="none" start_char="528" end_char="528">,</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="530" end_char="535">10ʼdan</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="537" end_char="538">az</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="540" end_char="545">tedavi</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="547" end_char="556">merkezinin</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="558" end_char="563">hizmet</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="565" end_char="571">verdiği</TOKEN>
+<TOKEN id="token-4-18" pos="punct" morph="none" start_char="572" end_char="572">,</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="574" end_char="581">binlerce</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="583" end_char="587">kadın</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="589" end_char="590">ve</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="592" end_char="598">çocuğun</TOKEN>
+<TOKEN id="token-4-23" pos="punct" morph="none" start_char="599" end_char="599">,</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="601" end_char="611">cibinliksiz</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="613" end_char="617">aşırı</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="619" end_char="627">kalabalık</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="629" end_char="636">odalarda</TOKEN>
+<TOKEN id="token-4-28" pos="word" morph="none" start_char="638" end_char="639">ya</TOKEN>
+<TOKEN id="token-4-29" pos="word" morph="none" start_char="641" end_char="642">da</TOKEN>
+<TOKEN id="token-4-30" pos="word" morph="none" start_char="644" end_char="647">açık</TOKEN>
+<TOKEN id="token-4-31" pos="word" morph="none" start_char="649" end_char="654">havada</TOKEN>
+<TOKEN id="token-4-32" pos="word" morph="none" start_char="656" end_char="666">yatırıldığı</TOKEN>
+<TOKEN id="token-4-33" pos="word" morph="none" start_char="668" end_char="677">kaydedildi</TOKEN>
+<TOKEN id="token-4-34" pos="punct" morph="none" start_char="678" end_char="678">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="681" end_char="828">
+<ORIGINAL_TEXT>Maroua bölgesinde son dönemde aşırı yağışların, sivrisinekler için uygun üreme koşullarını barındıran su baskınlarına neden olduğuna dikkat çekildi.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="681" end_char="686">Maroua</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="688" end_char="697">bölgesinde</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="699" end_char="701">son</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="703" end_char="709">dönemde</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="711" end_char="715">aşırı</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="717" end_char="726">yağışların</TOKEN>
+<TOKEN id="token-5-6" pos="punct" morph="none" start_char="727" end_char="727">,</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="729" end_char="741">sivrisinekler</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="743" end_char="746">için</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="748" end_char="752">uygun</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="754" end_char="758">üreme</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="760" end_char="770">koşullarını</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="772" end_char="781">barındıran</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="783" end_char="784">su</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="786" end_char="797">baskınlarına</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="799" end_char="803">neden</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="805" end_char="812">olduğuna</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="814" end_char="819">dikkat</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="821" end_char="827">çekildi</TOKEN>
+<TOKEN id="token-5-19" pos="punct" morph="none" start_char="828" end_char="828">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="831" end_char="992">
+<ORIGINAL_TEXT>Kamerunlu gazetecilerden oluşan bir heyet, devlet radyosunda, hükümeti salgınla ilgili haberleri yaymamak ve uluslararası yardım talebinde bulunmamakla eleştirdi.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="831" end_char="839">Kamerunlu</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="841" end_char="854">gazetecilerden</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="856" end_char="861">oluşan</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="863" end_char="865">bir</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="867" end_char="871">heyet</TOKEN>
+<TOKEN id="token-6-5" pos="punct" morph="none" start_char="872" end_char="872">,</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="874" end_char="879">devlet</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="881" end_char="890">radyosunda</TOKEN>
+<TOKEN id="token-6-8" pos="punct" morph="none" start_char="891" end_char="891">,</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="893" end_char="900">hükümeti</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="902" end_char="909">salgınla</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="911" end_char="916">ilgili</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="918" end_char="926">haberleri</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="928" end_char="935">yaymamak</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="937" end_char="938">ve</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="940" end_char="951">uluslararası</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="953" end_char="958">yardım</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="960" end_char="968">talebinde</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="970" end_char="981">bulunmamakla</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="983" end_char="991">eleştirdi</TOKEN>
+<TOKEN id="token-6-20" pos="punct" morph="none" start_char="992" end_char="992">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="995" end_char="1136">
+<ORIGINAL_TEXT>Kamerun Tıp Konseyi, Batı Afrika ülkesinde doktor başına 40 bin hastanın düştüğünü, şu anda ülkede binden az hekimin görev yaptığını açıkladı.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="995" end_char="1001">Kamerun</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1003" end_char="1005">Tıp</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1007" end_char="1013">Konseyi</TOKEN>
+<TOKEN id="token-7-3" pos="punct" morph="none" start_char="1014" end_char="1014">,</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1016" end_char="1019">Batı</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1021" end_char="1026">Afrika</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1028" end_char="1036">ülkesinde</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1038" end_char="1043">doktor</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1045" end_char="1050">başına</TOKEN>
+<TOKEN id="token-7-9" pos="number" morph="none" start_char="1052" end_char="1053">40</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1055" end_char="1057">bin</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1059" end_char="1066">hastanın</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1068" end_char="1076">düştüğünü</TOKEN>
+<TOKEN id="token-7-13" pos="punct" morph="none" start_char="1077" end_char="1077">,</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1079" end_char="1080">şu</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1082" end_char="1085">anda</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1087" end_char="1092">ülkede</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1094" end_char="1099">binden</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1101" end_char="1102">az</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1104" end_char="1110">hekimin</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1112" end_char="1116">görev</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1118" end_char="1126">yaptığını</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1128" end_char="1135">açıkladı</TOKEN>
+<TOKEN id="token-7-23" pos="punct" morph="none" start_char="1136" end_char="1136">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1139" end_char="1308">
+<ORIGINAL_TEXT>Gözlemciler de Devlet Başkanı Paul Biyaʼyı, 6 Kasımʼda liderliğinin 31. yılı kutlamaları hazırlıklarına odaklanarak, salgında artan ölü sayısını göz ardı etmekle suçladı.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1139" end_char="1149">Gözlemciler</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1151" end_char="1152">de</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1154" end_char="1159">Devlet</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1161" end_char="1167">Başkanı</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1169" end_char="1172">Paul</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1174" end_char="1180">Biyaʼyı</TOKEN>
+<TOKEN id="token-8-6" pos="punct" morph="none" start_char="1181" end_char="1181">,</TOKEN>
+<TOKEN id="token-8-7" pos="number" morph="none" start_char="1183" end_char="1183">6</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1185" end_char="1192">Kasımʼda</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1194" end_char="1205">liderliğinin</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1207" end_char="1208">31</TOKEN>
+<TOKEN id="token-8-11" pos="punct" morph="none" start_char="1209" end_char="1209">.</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1211" end_char="1214">yılı</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1216" end_char="1226">kutlamaları</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1228" end_char="1241">hazırlıklarına</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1243" end_char="1253">odaklanarak</TOKEN>
+<TOKEN id="token-8-16" pos="punct" morph="none" start_char="1254" end_char="1254">,</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1256" end_char="1263">salgında</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1265" end_char="1269">artan</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1271" end_char="1273">ölü</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1275" end_char="1282">sayısını</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1284" end_char="1286">göz</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1288" end_char="1291">ardı</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1293" end_char="1299">etmekle</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="1301" end_char="1307">suçladı</TOKEN>
+<TOKEN id="token-8-25" pos="punct" morph="none" start_char="1308" end_char="1308">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1311" end_char="1387">
+<ORIGINAL_TEXT>Dünya Sağlık Örgütüʼne göre, 2010 yılında dünyada 660 bin kişi sıtmadan öldü.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1311" end_char="1315">Dünya</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1317" end_char="1322">Sağlık</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1324" end_char="1332">Örgütüʼne</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1334" end_char="1337">göre</TOKEN>
+<TOKEN id="token-9-4" pos="punct" morph="none" start_char="1338" end_char="1338">,</TOKEN>
+<TOKEN id="token-9-5" pos="number" morph="none" start_char="1340" end_char="1343">2010</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1345" end_char="1351">yılında</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1353" end_char="1359">dünyada</TOKEN>
+<TOKEN id="token-9-8" pos="number" morph="none" start_char="1361" end_char="1363">660</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1365" end_char="1367">bin</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1369" end_char="1372">kişi</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1374" end_char="1381">sıtmadan</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1383" end_char="1386">öldü</TOKEN>
+<TOKEN id="token-9-13" pos="punct" morph="none" start_char="1387" end_char="1387">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

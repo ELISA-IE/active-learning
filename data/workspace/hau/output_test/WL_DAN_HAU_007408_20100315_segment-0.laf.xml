@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DAN_HAU_007408_20100315" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007408_20100315-NE1" task="NE" type="PER">
+      <EXTENT start_char="0" end_char="4">HAUSA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007408_20100315-NE2" task="NE" type="PER">
+      <EXTENT start_char="6" end_char="6">A</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007408_20100315-NE3" task="NE" type="PER">
+      <EXTENT start_char="8" end_char="13">WANNAN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007408_20100315-NE4" task="NE" type="PER">
+      <EXTENT start_char="15" end_char="20">ZAMANI</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

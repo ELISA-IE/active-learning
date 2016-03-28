@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_CIH_TUR_0000352_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="5832" raw_text_md5="3016437d5bd44915f05342b67f906113">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="4">
+<ORIGINAL_TEXT>Prof.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="3">Prof</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="4" end_char="4">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="6" end_char="56">
+<ORIGINAL_TEXT>Akhan: Yeni ilaçlarla Hepatit C tedavi edilebiliyor</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="6" end_char="10">Akhan</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="11" end_char="11">:</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="13" end_char="16">Yeni</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="18" end_char="26">ilaçlarla</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="28" end_char="34">Hepatit</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="36" end_char="36">C</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="38" end_char="43">tedavi</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="45" end_char="56">edilebiliyor</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="59" end_char="164">
+<ORIGINAL_TEXT>Kocaeli Üniversitesi Tıp Fakültesi Dahili Tıp Bilimleri Enfeksiyon Hastalıkları Bölümü Öğretim Üyesi Prof.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="59" end_char="65">Kocaeli</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="67" end_char="78">Üniversitesi</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="80" end_char="82">Tıp</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="84" end_char="92">Fakültesi</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="94" end_char="99">Dahili</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="101" end_char="103">Tıp</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="105" end_char="113">Bilimleri</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="115" end_char="124">Enfeksiyon</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="126" end_char="137">Hastalıkları</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="139" end_char="144">Bölümü</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="146" end_char="152">Öğretim</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="154" end_char="158">Üyesi</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="160" end_char="163">Prof</TOKEN>
+<TOKEN id="token-2-13" pos="punct" morph="none" start_char="164" end_char="164">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="166" end_char="168">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="166" end_char="167">Dr</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="168" end_char="168">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="170" end_char="322">
+<ORIGINAL_TEXT>Sıla Akhan, Hepatit Cʼnin, yeni ilaçların kullanıma başlanmasıyla birlikte, kronikleşen diğer virüslere göre daha şanslı bir konumda bulunduğunu söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="170" end_char="173">Sıla</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="175" end_char="179">Akhan</TOKEN>
+<TOKEN id="token-4-2" pos="punct" morph="none" start_char="180" end_char="180">,</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="182" end_char="188">Hepatit</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="190" end_char="194">Cʼnin</TOKEN>
+<TOKEN id="token-4-5" pos="punct" morph="none" start_char="195" end_char="195">,</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="197" end_char="200">yeni</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="202" end_char="210">ilaçların</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="212" end_char="220">kullanıma</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="222" end_char="234">başlanmasıyla</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="236" end_char="243">birlikte</TOKEN>
+<TOKEN id="token-4-11" pos="punct" morph="none" start_char="244" end_char="244">,</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="246" end_char="256">kronikleşen</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="258" end_char="262">diğer</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="264" end_char="272">virüslere</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="274" end_char="277">göre</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="279" end_char="282">daha</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="284" end_char="289">şanslı</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="291" end_char="293">bir</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="295" end_char="301">konumda</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="303" end_char="313">bulunduğunu</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="315" end_char="321">söyledi</TOKEN>
+<TOKEN id="token-4-22" pos="punct" morph="none" start_char="322" end_char="322">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="324" end_char="522">
+<ORIGINAL_TEXT>Hepatit Cʼde önceki yıllarda ikili tedavi uygulanarak, hastalarda yüzde 50 oranında etki etme imkanı bulduklarını belirten Akhan, “Geçen yıl geliştirilen tedaviyle birlikte yüzde 70ʼlere kadar çıktı.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="324" end_char="330">Hepatit</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="332" end_char="335">Cʼde</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="337" end_char="342">önceki</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="344" end_char="351">yıllarda</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="353" end_char="357">ikili</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="359" end_char="364">tedavi</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="366" end_char="376">uygulanarak</TOKEN>
+<TOKEN id="token-5-7" pos="punct" morph="none" start_char="377" end_char="377">,</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="379" end_char="388">hastalarda</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="390" end_char="394">yüzde</TOKEN>
+<TOKEN id="token-5-10" pos="number" morph="none" start_char="396" end_char="397">50</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="399" end_char="406">oranında</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="408" end_char="411">etki</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="413" end_char="416">etme</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="418" end_char="423">imkanı</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="425" end_char="436">bulduklarını</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="438" end_char="445">belirten</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="447" end_char="451">Akhan</TOKEN>
+<TOKEN id="token-5-18" pos="punct" morph="none" start_char="452" end_char="452">,</TOKEN>
+<TOKEN id="token-5-19" pos="punct" morph="none" start_char="454" end_char="454">“</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="455" end_char="459">Geçen</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="461" end_char="463">yıl</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="465" end_char="476">geliştirilen</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="478" end_char="486">tedaviyle</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="488" end_char="495">birlikte</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="497" end_char="501">yüzde</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="503" end_char="509">70ʼlere</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="511" end_char="515">kadar</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="517" end_char="521">çıktı</TOKEN>
+<TOKEN id="token-5-29" pos="punct" morph="none" start_char="522" end_char="522">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="524" end_char="643">
+<ORIGINAL_TEXT>Avrupa ve Amerikaʼda onaya giren iki ilaçla da yüzde 90ʼlara, bazı gruplarda yüzde 100ʼlere varan başarı ortaya çıkacak.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="524" end_char="529">Avrupa</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="531" end_char="532">ve</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="534" end_char="543">Amerikaʼda</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="545" end_char="549">onaya</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="551" end_char="555">giren</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="557" end_char="559">iki</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="561" end_char="566">ilaçla</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="568" end_char="569">da</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="571" end_char="575">yüzde</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="577" end_char="583">90ʼlara</TOKEN>
+<TOKEN id="token-6-10" pos="punct" morph="none" start_char="584" end_char="584">,</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="586" end_char="589">bazı</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="591" end_char="599">gruplarda</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="601" end_char="605">yüzde</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="607" end_char="614">100ʼlere</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="616" end_char="620">varan</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="622" end_char="627">başarı</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="629" end_char="634">ortaya</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="636" end_char="642">çıkacak</TOKEN>
+<TOKEN id="token-6-19" pos="punct" morph="none" start_char="643" end_char="643">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="645" end_char="692">
+<ORIGINAL_TEXT>Hepatit C için bunlar önemli haberlerdir.” dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="645" end_char="651">Hepatit</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="653" end_char="653">C</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="655" end_char="658">için</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="660" end_char="665">bunlar</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="667" end_char="672">önemli</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="674" end_char="684">haberlerdir</TOKEN>
+<TOKEN id="token-7-6" pos="punct" morph="none" start_char="685" end_char="686">.”</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="688" end_char="691">dedi</TOKEN>
+<TOKEN id="token-7-8" pos="punct" morph="none" start_char="692" end_char="692">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="695" end_char="952">
+<ORIGINAL_TEXT>Türk Klinik Mikrobiyoloji ve İnfeksiyon Hastalıkları (Klimik) Derneği bünyesinde oluşturulan Viral Hepatit Çalışma Grubu (VHÇG) tarafından düzenlenen Ulusal Viral Hepatit Sempozyumuʼnun beşincisi Nevşehirʼin Ürgüp ilçesine bağlı Ortahisar beldesinde başladı.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="695" end_char="698">Türk</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="700" end_char="705">Klinik</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="707" end_char="719">Mikrobiyoloji</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="721" end_char="722">ve</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="724" end_char="733">İnfeksiyon</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="735" end_char="746">Hastalıkları</TOKEN>
+<TOKEN id="token-8-6" pos="punct" morph="none" start_char="748" end_char="748">(</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="749" end_char="754">Klimik</TOKEN>
+<TOKEN id="token-8-8" pos="punct" morph="none" start_char="755" end_char="755">)</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="757" end_char="763">Derneği</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="765" end_char="774">bünyesinde</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="776" end_char="786">oluşturulan</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="788" end_char="792">Viral</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="794" end_char="800">Hepatit</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="802" end_char="808">Çalışma</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="810" end_char="814">Grubu</TOKEN>
+<TOKEN id="token-8-16" pos="punct" morph="none" start_char="816" end_char="816">(</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="817" end_char="820">VHÇG</TOKEN>
+<TOKEN id="token-8-18" pos="punct" morph="none" start_char="821" end_char="821">)</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="823" end_char="832">tarafından</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="834" end_char="843">düzenlenen</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="845" end_char="850">Ulusal</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="852" end_char="856">Viral</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="858" end_char="864">Hepatit</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="866" end_char="879">Sempozyumuʼnun</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="881" end_char="889">beşincisi</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="891" end_char="901">Nevşehirʼin</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="903" end_char="907">Ürgüp</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="909" end_char="916">ilçesine</TOKEN>
+<TOKEN id="token-8-29" pos="word" morph="none" start_char="918" end_char="922">bağlı</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="924" end_char="932">Ortahisar</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="934" end_char="943">beldesinde</TOKEN>
+<TOKEN id="token-8-32" pos="word" morph="none" start_char="945" end_char="951">başladı</TOKEN>
+<TOKEN id="token-8-33" pos="punct" morph="none" start_char="952" end_char="952">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="955" end_char="989">
+<ORIGINAL_TEXT>HEPATİT CʼNİN TEDAVİSİ ARTIK MÜMKÜN</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="955" end_char="961">HEPATİT</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="963" end_char="967">CʼNİN</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="969" end_char="976">TEDAVİSİ</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="978" end_char="982">ARTIK</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="984" end_char="989">MÜMKÜN</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="992" end_char="1097">
+<ORIGINAL_TEXT>Kocaeli Üniversitesi Tıp Fakültesi Dahili Tıp Bilimleri Enfeksiyon Hastalıkları Bölümü Öğretim Üyesi Prof.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="992" end_char="998">Kocaeli</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1000" end_char="1011">Üniversitesi</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1013" end_char="1015">Tıp</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1017" end_char="1025">Fakültesi</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1027" end_char="1032">Dahili</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1034" end_char="1036">Tıp</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1038" end_char="1046">Bilimleri</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1048" end_char="1057">Enfeksiyon</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1059" end_char="1070">Hastalıkları</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1072" end_char="1077">Bölümü</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1079" end_char="1085">Öğretim</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1087" end_char="1091">Üyesi</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1093" end_char="1096">Prof</TOKEN>
+<TOKEN id="token-10-13" pos="punct" morph="none" start_char="1097" end_char="1097">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1099" end_char="1101">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1099" end_char="1100">Dr</TOKEN>
+<TOKEN id="token-11-1" pos="punct" morph="none" start_char="1101" end_char="1101">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1103" end_char="1164">
+<ORIGINAL_TEXT>Sıla Akhan, kongrede basın mensuplarının sorularını cevapladı.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1103" end_char="1106">Sıla</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1108" end_char="1112">Akhan</TOKEN>
+<TOKEN id="token-12-2" pos="punct" morph="none" start_char="1113" end_char="1113">,</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1115" end_char="1122">kongrede</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1124" end_char="1128">basın</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1130" end_char="1142">mensuplarının</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1144" end_char="1153">sorularını</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1155" end_char="1163">cevapladı</TOKEN>
+<TOKEN id="token-12-8" pos="punct" morph="none" start_char="1164" end_char="1164">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1166" end_char="1357">
+<ORIGINAL_TEXT>Hepatit B ve Cʼde bulaşma yolları aynı olmasına rağmen Hepatit Bʼde, Cʼdeki kadar başarılı durumda olunmadığını kaydeden Akhan, bunun Hepatit C virüsünün yapısından kaynaklandığını ifade etti.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1166" end_char="1172">Hepatit</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1174" end_char="1174">B</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1176" end_char="1177">ve</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1179" end_char="1182">Cʼde</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1184" end_char="1190">bulaşma</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1192" end_char="1198">yolları</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1200" end_char="1203">aynı</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1205" end_char="1212">olmasına</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1214" end_char="1219">rağmen</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1221" end_char="1227">Hepatit</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1229" end_char="1232">Bʼde</TOKEN>
+<TOKEN id="token-13-11" pos="punct" morph="none" start_char="1233" end_char="1233">,</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1235" end_char="1240">Cʼdeki</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1242" end_char="1246">kadar</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1248" end_char="1255">başarılı</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1257" end_char="1263">durumda</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1265" end_char="1276">olunmadığını</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1278" end_char="1285">kaydeden</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1287" end_char="1291">Akhan</TOKEN>
+<TOKEN id="token-13-19" pos="punct" morph="none" start_char="1292" end_char="1292">,</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="1294" end_char="1298">bunun</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="1300" end_char="1306">Hepatit</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="1308" end_char="1308">C</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="1310" end_char="1318">virüsünün</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="1320" end_char="1329">yapısından</TOKEN>
+<TOKEN id="token-13-25" pos="word" morph="none" start_char="1331" end_char="1345">kaynaklandığını</TOKEN>
+<TOKEN id="token-13-26" pos="word" morph="none" start_char="1347" end_char="1351">ifade</TOKEN>
+<TOKEN id="token-13-27" pos="word" morph="none" start_char="1353" end_char="1356">etti</TOKEN>
+<TOKEN id="token-13-28" pos="punct" morph="none" start_char="1357" end_char="1357">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1359" end_char="1363">
+<ORIGINAL_TEXT>Prof.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1359" end_char="1362">Prof</TOKEN>
+<TOKEN id="token-14-1" pos="punct" morph="none" start_char="1363" end_char="1363">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1365" end_char="1367">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1365" end_char="1366">Dr</TOKEN>
+<TOKEN id="token-15-1" pos="punct" morph="none" start_char="1367" end_char="1367">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1369" end_char="1504">
+<ORIGINAL_TEXT>Sıla Akhan, hepatit C virüsün infeksiyonunun tedavisinde, hepatit B virüsünden farklı olarak tam kürün söz konusu olabildiğini kaydetti.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1369" end_char="1372">Sıla</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1374" end_char="1378">Akhan</TOKEN>
+<TOKEN id="token-16-2" pos="punct" morph="none" start_char="1379" end_char="1379">,</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1381" end_char="1387">hepatit</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1389" end_char="1389">C</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1391" end_char="1397">virüsün</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1399" end_char="1412">infeksiyonunun</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1414" end_char="1424">tedavisinde</TOKEN>
+<TOKEN id="token-16-8" pos="punct" morph="none" start_char="1425" end_char="1425">,</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1427" end_char="1433">hepatit</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1435" end_char="1435">B</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1437" end_char="1446">virüsünden</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1448" end_char="1453">farklı</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="1455" end_char="1460">olarak</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="1462" end_char="1464">tam</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1466" end_char="1470">kürün</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="1472" end_char="1474">söz</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="1476" end_char="1481">konusu</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="1483" end_char="1494">olabildiğini</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="1496" end_char="1503">kaydetti</TOKEN>
+<TOKEN id="token-16-20" pos="punct" morph="none" start_char="1504" end_char="1504">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1507" end_char="1769">
+<ORIGINAL_TEXT>Bulaşma yollarının aynı gibi görünmekle beraber, hepatit C virüsünün karaciğer hücresine girdiğinde hücre çekirdeğine uğramadığını ifade eden Sıla Akhan, şöyle dedi: “Hepatit B virüsü ise çekirdeğe girer ve bu yüzden virüsü vücuttan tam olarak atmak çok zorlaşır.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1507" end_char="1513">Bulaşma</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1515" end_char="1524">yollarının</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1526" end_char="1529">aynı</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1531" end_char="1534">gibi</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1536" end_char="1545">görünmekle</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1547" end_char="1553">beraber</TOKEN>
+<TOKEN id="token-17-6" pos="punct" morph="none" start_char="1554" end_char="1554">,</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1556" end_char="1562">hepatit</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1564" end_char="1564">C</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1566" end_char="1574">virüsünün</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1576" end_char="1584">karaciğer</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1586" end_char="1594">hücresine</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1596" end_char="1605">girdiğinde</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="1607" end_char="1611">hücre</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="1613" end_char="1623">çekirdeğine</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="1625" end_char="1636">uğramadığını</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="1638" end_char="1642">ifade</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="1644" end_char="1647">eden</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="1649" end_char="1652">Sıla</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="1654" end_char="1658">Akhan</TOKEN>
+<TOKEN id="token-17-20" pos="punct" morph="none" start_char="1659" end_char="1659">,</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="1661" end_char="1665">şöyle</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="1667" end_char="1670">dedi</TOKEN>
+<TOKEN id="token-17-23" pos="punct" morph="none" start_char="1671" end_char="1671">:</TOKEN>
+<TOKEN id="token-17-24" pos="punct" morph="none" start_char="1673" end_char="1673">“</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="1674" end_char="1680">Hepatit</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="1682" end_char="1682">B</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="1684" end_char="1689">virüsü</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="1691" end_char="1693">ise</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="1695" end_char="1703">çekirdeğe</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="1705" end_char="1709">girer</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="1711" end_char="1712">ve</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="1714" end_char="1715">bu</TOKEN>
+<TOKEN id="token-17-33" pos="word" morph="none" start_char="1717" end_char="1722">yüzden</TOKEN>
+<TOKEN id="token-17-34" pos="word" morph="none" start_char="1724" end_char="1729">virüsü</TOKEN>
+<TOKEN id="token-17-35" pos="word" morph="none" start_char="1731" end_char="1738">vücuttan</TOKEN>
+<TOKEN id="token-17-36" pos="word" morph="none" start_char="1740" end_char="1742">tam</TOKEN>
+<TOKEN id="token-17-37" pos="word" morph="none" start_char="1744" end_char="1749">olarak</TOKEN>
+<TOKEN id="token-17-38" pos="word" morph="none" start_char="1751" end_char="1755">atmak</TOKEN>
+<TOKEN id="token-17-39" pos="word" morph="none" start_char="1757" end_char="1759">çok</TOKEN>
+<TOKEN id="token-17-40" pos="word" morph="none" start_char="1761" end_char="1768">zorlaşır</TOKEN>
+<TOKEN id="token-17-41" pos="punct" morph="none" start_char="1769" end_char="1769">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1771" end_char="1833">
+<ORIGINAL_TEXT>Hepatit C tedavisinde bu yüzden tam kürden bahsetmek mümkündür.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1771" end_char="1777">Hepatit</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1779" end_char="1779">C</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1781" end_char="1791">tedavisinde</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1793" end_char="1794">bu</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1796" end_char="1801">yüzden</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1803" end_char="1805">tam</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1807" end_char="1812">kürden</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1814" end_char="1822">bahsetmek</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1824" end_char="1832">mümkündür</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="1833" end_char="1833">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1835" end_char="1947">
+<ORIGINAL_TEXT>Ama yakın zamana kadar olan tedavi opsiyonları ile sadece tek bir tedavi şekli ile kür elde etmeye çalışılıyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1835" end_char="1837">Ama</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1839" end_char="1843">yakın</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1845" end_char="1850">zamana</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1852" end_char="1856">kadar</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1858" end_char="1861">olan</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1863" end_char="1868">tedavi</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1870" end_char="1880">opsiyonları</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1882" end_char="1884">ile</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1886" end_char="1891">sadece</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1893" end_char="1895">tek</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1897" end_char="1899">bir</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1901" end_char="1906">tedavi</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1908" end_char="1912">şekli</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1914" end_char="1916">ile</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="1918" end_char="1920">kür</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="1922" end_char="1925">elde</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="1927" end_char="1932">etmeye</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="1934" end_char="1946">çalışılıyordu</TOKEN>
+<TOKEN id="token-19-18" pos="punct" morph="none" start_char="1947" end_char="1947">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1949" end_char="2014">
+<ORIGINAL_TEXT>Bu şekilde hastaların yaklaşık yarısında tam kür sağlanabiliyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1949" end_char="1950">Bu</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1952" end_char="1958">şekilde</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1960" end_char="1969">hastaların</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1971" end_char="1978">yaklaşık</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1980" end_char="1988">yarısında</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1990" end_char="1992">tam</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1994" end_char="1996">kür</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="1998" end_char="2013">sağlanabiliyordu</TOKEN>
+<TOKEN id="token-20-8" pos="punct" morph="none" start_char="2014" end_char="2014">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2016" end_char="2127">
+<ORIGINAL_TEXT>Tedavi edilemeyen diğer yarı için bir kez daha aynı tedavinin uygulanması dışında bir seçenek ne yazık ki yoktu.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2016" end_char="2021">Tedavi</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2023" end_char="2032">edilemeyen</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2034" end_char="2038">diğer</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2040" end_char="2043">yarı</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2045" end_char="2048">için</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2050" end_char="2052">bir</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2054" end_char="2056">kez</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2058" end_char="2061">daha</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2063" end_char="2066">aynı</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2068" end_char="2076">tedavinin</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2078" end_char="2088">uygulanması</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="2090" end_char="2096">dışında</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="2098" end_char="2100">bir</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="2102" end_char="2108">seçenek</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2110" end_char="2111">ne</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="2113" end_char="2117">yazık</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="2119" end_char="2120">ki</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="2122" end_char="2126">yoktu</TOKEN>
+<TOKEN id="token-21-18" pos="punct" morph="none" start_char="2127" end_char="2127">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2129" end_char="2214">
+<ORIGINAL_TEXT>İkinci kez aynı tedaviyi alan hastada da kür olasılığı birinciye göre oldukça düşüktü.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2129" end_char="2134">İkinci</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2136" end_char="2138">kez</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2140" end_char="2143">aynı</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2145" end_char="2152">tedaviyi</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2154" end_char="2157">alan</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="2159" end_char="2165">hastada</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="2167" end_char="2168">da</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="2170" end_char="2172">kür</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="2174" end_char="2182">olasılığı</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="2184" end_char="2192">birinciye</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="2194" end_char="2197">göre</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="2199" end_char="2205">oldukça</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="2207" end_char="2213">düşüktü</TOKEN>
+<TOKEN id="token-22-13" pos="punct" morph="none" start_char="2214" end_char="2214">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2216" end_char="2318">
+<ORIGINAL_TEXT>Fakat son dönemde ortaya çıkan yeni ilaçlar sayesinde tedavi opsiyonları bir iken, altıya yükselmiştir.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2216" end_char="2220">Fakat</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2222" end_char="2224">son</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2226" end_char="2232">dönemde</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2234" end_char="2239">ortaya</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2241" end_char="2245">çıkan</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2247" end_char="2250">yeni</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2252" end_char="2258">ilaçlar</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2260" end_char="2268">sayesinde</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2270" end_char="2275">tedavi</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2277" end_char="2287">opsiyonları</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2289" end_char="2291">bir</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2293" end_char="2296">iken</TOKEN>
+<TOKEN id="token-23-12" pos="punct" morph="none" start_char="2297" end_char="2297">,</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="2299" end_char="2304">altıya</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2306" end_char="2317">yükselmiştir</TOKEN>
+<TOKEN id="token-23-15" pos="punct" morph="none" start_char="2318" end_char="2318">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2320" end_char="2380">
+<ORIGINAL_TEXT>Böylelikle hastalarda tam kür yüzde 90ʼlara ulaşabilmektedir.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2320" end_char="2329">Böylelikle</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="2331" end_char="2340">hastalarda</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="2342" end_char="2344">tam</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="2346" end_char="2348">kür</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="2350" end_char="2354">yüzde</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="2356" end_char="2362">90ʼlara</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="2364" end_char="2379">ulaşabilmektedir</TOKEN>
+<TOKEN id="token-24-7" pos="punct" morph="none" start_char="2380" end_char="2380">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2382" end_char="2518">
+<ORIGINAL_TEXT>Tedavi seçenekleri oldukça pahalı olmasının yanı sıra yan etkileri dolayısıyla hem hasta hem de hekim için oldukça zahmetli bir süreçtir.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2382" end_char="2387">Tedavi</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="2389" end_char="2399">seçenekleri</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2401" end_char="2407">oldukça</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="2409" end_char="2414">pahalı</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="2416" end_char="2424">olmasının</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="2426" end_char="2429">yanı</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="2431" end_char="2434">sıra</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2436" end_char="2438">yan</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="2440" end_char="2447">etkileri</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="2449" end_char="2459">dolayısıyla</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="2461" end_char="2463">hem</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="2465" end_char="2469">hasta</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="2471" end_char="2473">hem</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="2475" end_char="2476">de</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="2478" end_char="2482">hekim</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="2484" end_char="2487">için</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="2489" end_char="2495">oldukça</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="2497" end_char="2504">zahmetli</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="2506" end_char="2508">bir</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="2510" end_char="2517">süreçtir</TOKEN>
+<TOKEN id="token-25-20" pos="punct" morph="none" start_char="2518" end_char="2518">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2520" end_char="2594">
+<ORIGINAL_TEXT>Ancak bütün bu zorluklar aşılırsa tedavi başarısı yüz güldürücü olmaktadır.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2520" end_char="2524">Ancak</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="2526" end_char="2530">bütün</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2532" end_char="2533">bu</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="2535" end_char="2543">zorluklar</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="2545" end_char="2552">aşılırsa</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2554" end_char="2559">tedavi</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="2561" end_char="2568">başarısı</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="2570" end_char="2572">yüz</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="2574" end_char="2582">güldürücü</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="2584" end_char="2593">olmaktadır</TOKEN>
+<TOKEN id="token-26-10" pos="punct" morph="none" start_char="2594" end_char="2594">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2596" end_char="2732">
+<ORIGINAL_TEXT>Bizim ülkemizde henüz Sağlık Uygulama Tebliğiʼne girmeyen bir iki ilaç bulunduğu için bahsettiğim altı opsiyon henüz kullanımda değildir.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2596" end_char="2600">Bizim</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2602" end_char="2610">ülkemizde</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2612" end_char="2616">henüz</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="2618" end_char="2623">Sağlık</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2625" end_char="2632">Uygulama</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="2634" end_char="2643">Tebliğiʼne</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="2645" end_char="2652">girmeyen</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="2654" end_char="2656">bir</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="2658" end_char="2660">iki</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="2662" end_char="2665">ilaç</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="2667" end_char="2675">bulunduğu</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="2677" end_char="2680">için</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="2682" end_char="2692">bahsettiğim</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="2694" end_char="2697">altı</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="2699" end_char="2705">opsiyon</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="2707" end_char="2711">henüz</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="2713" end_char="2722">kullanımda</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="2724" end_char="2731">değildir</TOKEN>
+<TOKEN id="token-27-18" pos="punct" morph="none" start_char="2732" end_char="2732">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2734" end_char="2801">
+<ORIGINAL_TEXT>Ama zaman içinde bizim de kullanmamız mümkün olacaktır kanısındayım.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2734" end_char="2736">Ama</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="2738" end_char="2742">zaman</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="2744" end_char="2749">içinde</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="2751" end_char="2755">bizim</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="2757" end_char="2758">de</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="2760" end_char="2770">kullanmamız</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="2772" end_char="2777">mümkün</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="2779" end_char="2787">olacaktır</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="2789" end_char="2800">kanısındayım</TOKEN>
+<TOKEN id="token-28-9" pos="punct" morph="none" start_char="2801" end_char="2801">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2803" end_char="2858">
+<ORIGINAL_TEXT>Her bir hasta için tedavi maliyeti son derece yüksektir.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="2803" end_char="2805">Her</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="2807" end_char="2809">bir</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="2811" end_char="2815">hasta</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="2817" end_char="2820">için</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="2822" end_char="2827">tedavi</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="2829" end_char="2836">maliyeti</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="2838" end_char="2840">son</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="2842" end_char="2847">derece</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="2849" end_char="2857">yüksektir</TOKEN>
+<TOKEN id="token-29-9" pos="punct" morph="none" start_char="2858" end_char="2858">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="2860" end_char="2965">
+<ORIGINAL_TEXT>Hepatit hastaları eğer tanı almışlarsa mutlaka konuyla ilgilenen bir hekimin kontrolüne girmeleri gerekir.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="2860" end_char="2866">Hepatit</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="2868" end_char="2876">hastaları</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="2878" end_char="2881">eğer</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="2883" end_char="2886">tanı</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="2888" end_char="2897">almışlarsa</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="2899" end_char="2905">mutlaka</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="2907" end_char="2913">konuyla</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="2915" end_char="2923">ilgilenen</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="2925" end_char="2927">bir</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="2929" end_char="2935">hekimin</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="2937" end_char="2946">kontrolüne</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="2948" end_char="2956">girmeleri</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="2958" end_char="2964">gerekir</TOKEN>
+<TOKEN id="token-30-13" pos="punct" morph="none" start_char="2965" end_char="2965">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="2967" end_char="3035">
+<ORIGINAL_TEXT>Hastalık kronik bir süreç olup, çok iyi yönetilmeye ihtiyaç gösterir.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="2967" end_char="2974">Hastalık</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="2976" end_char="2981">kronik</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="2983" end_char="2985">bir</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="2987" end_char="2991">süreç</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="2993" end_char="2996">olup</TOKEN>
+<TOKEN id="token-31-5" pos="punct" morph="none" start_char="2997" end_char="2997">,</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="2999" end_char="3001">çok</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="3003" end_char="3005">iyi</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="3007" end_char="3017">yönetilmeye</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="3019" end_char="3025">ihtiyaç</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="3027" end_char="3034">gösterir</TOKEN>
+<TOKEN id="token-31-11" pos="punct" morph="none" start_char="3035" end_char="3035">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="3037" end_char="3125">
+<ORIGINAL_TEXT>Hastalık tanısı olmayan kişiler ise bu önde tetkiklerini hekimden bizzat talep etmelidir.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="3037" end_char="3044">Hastalık</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="3046" end_char="3051">tanısı</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="3053" end_char="3059">olmayan</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="3061" end_char="3067">kişiler</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="3069" end_char="3071">ise</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="3073" end_char="3074">bu</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="3076" end_char="3079">önde</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="3081" end_char="3092">tetkiklerini</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="3094" end_char="3101">hekimden</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="3103" end_char="3108">bizzat</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="3110" end_char="3114">talep</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="3116" end_char="3124">etmelidir</TOKEN>
+<TOKEN id="token-32-12" pos="punct" morph="none" start_char="3125" end_char="3125">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="3127" end_char="3215">
+<ORIGINAL_TEXT>Çünkü hastalık çok sinsidir ve siroz olana kadar herhangi bir şikayete sebep olmayabilir.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="3127" end_char="3131">Çünkü</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="3133" end_char="3140">hastalık</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="3142" end_char="3144">çok</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="3146" end_char="3153">sinsidir</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="3155" end_char="3156">ve</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="3158" end_char="3162">siroz</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="3164" end_char="3168">olana</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="3170" end_char="3174">kadar</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="3176" end_char="3183">herhangi</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="3185" end_char="3187">bir</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="3189" end_char="3196">şikayete</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="3198" end_char="3202">sebep</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="3204" end_char="3214">olmayabilir</TOKEN>
+<TOKEN id="token-33-13" pos="punct" morph="none" start_char="3215" end_char="3215">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="3217" end_char="3365">
+<ORIGINAL_TEXT>Hekim kontrolünde olunduğu zaman hem tedavi edilme şanslarını kullanmaları hem de birtakım komplikasyonlara zamanında müdahale imkanı olabilmektedir.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="3217" end_char="3221">Hekim</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="3223" end_char="3233">kontrolünde</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="3235" end_char="3242">olunduğu</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="3244" end_char="3248">zaman</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="3250" end_char="3252">hem</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="3254" end_char="3259">tedavi</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="3261" end_char="3266">edilme</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="3268" end_char="3277">şanslarını</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="3279" end_char="3290">kullanmaları</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="3292" end_char="3294">hem</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="3296" end_char="3297">de</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="3299" end_char="3306">birtakım</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="3308" end_char="3323">komplikasyonlara</TOKEN>
+<TOKEN id="token-34-13" pos="word" morph="none" start_char="3325" end_char="3333">zamanında</TOKEN>
+<TOKEN id="token-34-14" pos="word" morph="none" start_char="3335" end_char="3342">müdahale</TOKEN>
+<TOKEN id="token-34-15" pos="word" morph="none" start_char="3344" end_char="3349">imkanı</TOKEN>
+<TOKEN id="token-34-16" pos="word" morph="none" start_char="3351" end_char="3364">olabilmektedir</TOKEN>
+<TOKEN id="token-34-17" pos="punct" morph="none" start_char="3365" end_char="3365">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="3367" end_char="3423">
+<ORIGINAL_TEXT>Ama ne yazık ki tedaviyi etkileyen çok sayıda faktör var.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="3367" end_char="3369">Ama</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="3371" end_char="3372">ne</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="3374" end_char="3378">yazık</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="3380" end_char="3381">ki</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="3383" end_char="3390">tedaviyi</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="3392" end_char="3400">etkileyen</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="3402" end_char="3404">çok</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="3406" end_char="3411">sayıda</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="3413" end_char="3418">faktör</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="3420" end_char="3422">var</TOKEN>
+<TOKEN id="token-35-10" pos="punct" morph="none" start_char="3423" end_char="3423">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="3425" end_char="3470">
+<ORIGINAL_TEXT>Genotip 1, Türkiyeʼde hakim durumda bulunuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="3425" end_char="3431">Genotip</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="3433" end_char="3433">1</TOKEN>
+<TOKEN id="token-36-2" pos="punct" morph="none" start_char="3434" end_char="3434">,</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="3436" end_char="3445">Türkiyeʼde</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="3447" end_char="3451">hakim</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="3453" end_char="3459">durumda</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="3461" end_char="3469">bulunuyor</TOKEN>
+<TOKEN id="token-36-7" pos="punct" morph="none" start_char="3470" end_char="3470">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="3472" end_char="3505">
+<ORIGINAL_TEXT>Bu çok zor tedavi edilen bir grup.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="3472" end_char="3473">Bu</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="3475" end_char="3477">çok</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="3479" end_char="3481">zor</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="3483" end_char="3488">tedavi</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="3490" end_char="3495">edilen</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="3497" end_char="3499">bir</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="3501" end_char="3504">grup</TOKEN>
+<TOKEN id="token-37-7" pos="punct" morph="none" start_char="3505" end_char="3505">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="3507" end_char="3561">
+<ORIGINAL_TEXT>Diğer 6 tip genotipten en zor tedavi edilen Türkiyeʼde.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="3507" end_char="3511">Diğer</TOKEN>
+<TOKEN id="token-38-1" pos="number" morph="none" start_char="3513" end_char="3513">6</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="3515" end_char="3517">tip</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="3519" end_char="3528">genotipten</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="3530" end_char="3531">en</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="3533" end_char="3535">zor</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="3537" end_char="3542">tedavi</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="3544" end_char="3549">edilen</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="3551" end_char="3560">Türkiyeʼde</TOKEN>
+<TOKEN id="token-38-9" pos="punct" morph="none" start_char="3561" end_char="3561">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="3563" end_char="3624">
+<ORIGINAL_TEXT>2 veya 3 olsaydı tedavi daha kısa sürede ve başarılı oluyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="number" morph="none" start_char="3563" end_char="3563">2</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="3565" end_char="3568">veya</TOKEN>
+<TOKEN id="token-39-2" pos="number" morph="none" start_char="3570" end_char="3570">3</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="3572" end_char="3578">olsaydı</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="3580" end_char="3585">tedavi</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="3587" end_char="3590">daha</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="3592" end_char="3595">kısa</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="3597" end_char="3602">sürede</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="3604" end_char="3605">ve</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="3607" end_char="3614">başarılı</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="3616" end_char="3623">oluyordu</TOKEN>
+<TOKEN id="token-39-11" pos="punct" morph="none" start_char="3624" end_char="3624">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="3626" end_char="3678">
+<ORIGINAL_TEXT>Ama Türkiyeʼde yüzde 90 oranında Genotip 1 bulunuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="3626" end_char="3628">Ama</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="3630" end_char="3639">Türkiyeʼde</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="3641" end_char="3645">yüzde</TOKEN>
+<TOKEN id="token-40-3" pos="number" morph="none" start_char="3647" end_char="3648">90</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="3650" end_char="3657">oranında</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="3659" end_char="3665">Genotip</TOKEN>
+<TOKEN id="token-40-6" pos="number" morph="none" start_char="3667" end_char="3667">1</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="3669" end_char="3677">bulunuyor</TOKEN>
+<TOKEN id="token-40-8" pos="punct" morph="none" start_char="3678" end_char="3678">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="3680" end_char="3747">
+<ORIGINAL_TEXT>Bu tipte de yeni teknikle tedavilerde başarı yüzde 100ʼlere ulaştı.”</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="3680" end_char="3681">Bu</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="3683" end_char="3687">tipte</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="3689" end_char="3690">de</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="3692" end_char="3695">yeni</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="3697" end_char="3704">teknikle</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="3706" end_char="3716">tedavilerde</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="3718" end_char="3723">başarı</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="3725" end_char="3729">yüzde</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="3731" end_char="3738">100ʼlere</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="3740" end_char="3745">ulaştı</TOKEN>
+<TOKEN id="token-41-10" pos="punct" morph="none" start_char="3746" end_char="3747">.”</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="3750" end_char="3784">
+<ORIGINAL_TEXT>KRONİKLEŞEN HEPATİTLER SORUN OLUYOR</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="3750" end_char="3760">KRONİKLEŞEN</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="3762" end_char="3771">HEPATİTLER</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="3773" end_char="3777">SORUN</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="3779" end_char="3784">OLUYOR</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="3787" end_char="3900">
+<ORIGINAL_TEXT>Dicle Üniversitesi Tıp Fakültesi Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Anabilim Dalı Öğretim Üyesi Prof.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="3787" end_char="3791">Dicle</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="3793" end_char="3804">Üniversitesi</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="3806" end_char="3808">Tıp</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="3810" end_char="3818">Fakültesi</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="3820" end_char="3829">Enfeksiyon</TOKEN>
+<TOKEN id="token-43-5" pos="word" morph="none" start_char="3831" end_char="3842">Hastalıkları</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="3844" end_char="3845">ve</TOKEN>
+<TOKEN id="token-43-7" pos="word" morph="none" start_char="3847" end_char="3852">Klinik</TOKEN>
+<TOKEN id="token-43-8" pos="word" morph="none" start_char="3854" end_char="3866">Mikrobiyoloji</TOKEN>
+<TOKEN id="token-43-9" pos="word" morph="none" start_char="3868" end_char="3875">Anabilim</TOKEN>
+<TOKEN id="token-43-10" pos="word" morph="none" start_char="3877" end_char="3880">Dalı</TOKEN>
+<TOKEN id="token-43-11" pos="word" morph="none" start_char="3882" end_char="3888">Öğretim</TOKEN>
+<TOKEN id="token-43-12" pos="word" morph="none" start_char="3890" end_char="3894">Üyesi</TOKEN>
+<TOKEN id="token-43-13" pos="word" morph="none" start_char="3896" end_char="3899">Prof</TOKEN>
+<TOKEN id="token-43-14" pos="punct" morph="none" start_char="3900" end_char="3900">.</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="3902" end_char="3904">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="3902" end_char="3903">Dr</TOKEN>
+<TOKEN id="token-44-1" pos="punct" morph="none" start_char="3904" end_char="3904">.</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="3906" end_char="4053">
+<ORIGINAL_TEXT>Celal Ayaz ise yaptığı açıklamada, Hepatitʼin A, B, C, D, E gibi çeşitleri olduğunu, bu virüslerden iki tanesinin ağız yoluyla bulaştığını kaydetti.</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="3906" end_char="3910">Celal</TOKEN>
+<TOKEN id="token-45-1" pos="word" morph="none" start_char="3912" end_char="3915">Ayaz</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="3917" end_char="3919">ise</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="3921" end_char="3927">yaptığı</TOKEN>
+<TOKEN id="token-45-4" pos="word" morph="none" start_char="3929" end_char="3938">açıklamada</TOKEN>
+<TOKEN id="token-45-5" pos="punct" morph="none" start_char="3939" end_char="3939">,</TOKEN>
+<TOKEN id="token-45-6" pos="word" morph="none" start_char="3941" end_char="3950">Hepatitʼin</TOKEN>
+<TOKEN id="token-45-7" pos="word" morph="none" start_char="3952" end_char="3952">A</TOKEN>
+<TOKEN id="token-45-8" pos="punct" morph="none" start_char="3953" end_char="3953">,</TOKEN>
+<TOKEN id="token-45-9" pos="word" morph="none" start_char="3955" end_char="3955">B</TOKEN>
+<TOKEN id="token-45-10" pos="punct" morph="none" start_char="3956" end_char="3956">,</TOKEN>
+<TOKEN id="token-45-11" pos="word" morph="none" start_char="3958" end_char="3958">C</TOKEN>
+<TOKEN id="token-45-12" pos="punct" morph="none" start_char="3959" end_char="3959">,</TOKEN>
+<TOKEN id="token-45-13" pos="word" morph="none" start_char="3961" end_char="3961">D</TOKEN>
+<TOKEN id="token-45-14" pos="punct" morph="none" start_char="3962" end_char="3962">,</TOKEN>
+<TOKEN id="token-45-15" pos="word" morph="none" start_char="3964" end_char="3964">E</TOKEN>
+<TOKEN id="token-45-16" pos="word" morph="none" start_char="3966" end_char="3969">gibi</TOKEN>
+<TOKEN id="token-45-17" pos="word" morph="none" start_char="3971" end_char="3979">çeşitleri</TOKEN>
+<TOKEN id="token-45-18" pos="word" morph="none" start_char="3981" end_char="3988">olduğunu</TOKEN>
+<TOKEN id="token-45-19" pos="punct" morph="none" start_char="3989" end_char="3989">,</TOKEN>
+<TOKEN id="token-45-20" pos="word" morph="none" start_char="3991" end_char="3992">bu</TOKEN>
+<TOKEN id="token-45-21" pos="word" morph="none" start_char="3994" end_char="4004">virüslerden</TOKEN>
+<TOKEN id="token-45-22" pos="word" morph="none" start_char="4006" end_char="4008">iki</TOKEN>
+<TOKEN id="token-45-23" pos="word" morph="none" start_char="4010" end_char="4018">tanesinin</TOKEN>
+<TOKEN id="token-45-24" pos="word" morph="none" start_char="4020" end_char="4023">ağız</TOKEN>
+<TOKEN id="token-45-25" pos="word" morph="none" start_char="4025" end_char="4031">yoluyla</TOKEN>
+<TOKEN id="token-45-26" pos="word" morph="none" start_char="4033" end_char="4043">bulaştığını</TOKEN>
+<TOKEN id="token-45-27" pos="word" morph="none" start_char="4045" end_char="4052">kaydetti</TOKEN>
+<TOKEN id="token-45-28" pos="punct" morph="none" start_char="4053" end_char="4053">.</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="4055" end_char="4276">
+<ORIGINAL_TEXT>Ağız yoluyla bulaşan virüslerin vücutta kalıcı olmadığını, kendiliğinden temizlendiğini, herhangi bir tedaviye ihtiyaç duymadığını anlatan Ayaz, “Ama B, C ve Delta Hepatiti ise bir çok kişi de kendiliğinden iyileşebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="4055" end_char="4058">Ağız</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="4060" end_char="4066">yoluyla</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="4068" end_char="4074">bulaşan</TOKEN>
+<TOKEN id="token-46-3" pos="word" morph="none" start_char="4076" end_char="4085">virüslerin</TOKEN>
+<TOKEN id="token-46-4" pos="word" morph="none" start_char="4087" end_char="4093">vücutta</TOKEN>
+<TOKEN id="token-46-5" pos="word" morph="none" start_char="4095" end_char="4100">kalıcı</TOKEN>
+<TOKEN id="token-46-6" pos="word" morph="none" start_char="4102" end_char="4111">olmadığını</TOKEN>
+<TOKEN id="token-46-7" pos="punct" morph="none" start_char="4112" end_char="4112">,</TOKEN>
+<TOKEN id="token-46-8" pos="word" morph="none" start_char="4114" end_char="4126">kendiliğinden</TOKEN>
+<TOKEN id="token-46-9" pos="word" morph="none" start_char="4128" end_char="4141">temizlendiğini</TOKEN>
+<TOKEN id="token-46-10" pos="punct" morph="none" start_char="4142" end_char="4142">,</TOKEN>
+<TOKEN id="token-46-11" pos="word" morph="none" start_char="4144" end_char="4151">herhangi</TOKEN>
+<TOKEN id="token-46-12" pos="word" morph="none" start_char="4153" end_char="4155">bir</TOKEN>
+<TOKEN id="token-46-13" pos="word" morph="none" start_char="4157" end_char="4164">tedaviye</TOKEN>
+<TOKEN id="token-46-14" pos="word" morph="none" start_char="4166" end_char="4172">ihtiyaç</TOKEN>
+<TOKEN id="token-46-15" pos="word" morph="none" start_char="4174" end_char="4184">duymadığını</TOKEN>
+<TOKEN id="token-46-16" pos="word" morph="none" start_char="4186" end_char="4192">anlatan</TOKEN>
+<TOKEN id="token-46-17" pos="word" morph="none" start_char="4194" end_char="4197">Ayaz</TOKEN>
+<TOKEN id="token-46-18" pos="punct" morph="none" start_char="4198" end_char="4198">,</TOKEN>
+<TOKEN id="token-46-19" pos="punct" morph="none" start_char="4200" end_char="4200">“</TOKEN>
+<TOKEN id="token-46-20" pos="word" morph="none" start_char="4201" end_char="4203">Ama</TOKEN>
+<TOKEN id="token-46-21" pos="word" morph="none" start_char="4205" end_char="4205">B</TOKEN>
+<TOKEN id="token-46-22" pos="punct" morph="none" start_char="4206" end_char="4206">,</TOKEN>
+<TOKEN id="token-46-23" pos="word" morph="none" start_char="4208" end_char="4208">C</TOKEN>
+<TOKEN id="token-46-24" pos="word" morph="none" start_char="4210" end_char="4211">ve</TOKEN>
+<TOKEN id="token-46-25" pos="word" morph="none" start_char="4213" end_char="4217">Delta</TOKEN>
+<TOKEN id="token-46-26" pos="word" morph="none" start_char="4219" end_char="4226">Hepatiti</TOKEN>
+<TOKEN id="token-46-27" pos="word" morph="none" start_char="4228" end_char="4230">ise</TOKEN>
+<TOKEN id="token-46-28" pos="word" morph="none" start_char="4232" end_char="4234">bir</TOKEN>
+<TOKEN id="token-46-29" pos="word" morph="none" start_char="4236" end_char="4238">çok</TOKEN>
+<TOKEN id="token-46-30" pos="word" morph="none" start_char="4240" end_char="4243">kişi</TOKEN>
+<TOKEN id="token-46-31" pos="word" morph="none" start_char="4245" end_char="4246">de</TOKEN>
+<TOKEN id="token-46-32" pos="word" morph="none" start_char="4248" end_char="4260">kendiliğinden</TOKEN>
+<TOKEN id="token-46-33" pos="word" morph="none" start_char="4262" end_char="4275">iyileşebiliyor</TOKEN>
+<TOKEN id="token-46-34" pos="punct" morph="none" start_char="4276" end_char="4276">.</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="4278" end_char="4360">
+<ORIGINAL_TEXT>Özellikle B, yetişkinlerde yüzde 95 geçirdikten sonra kendiliğinden iyileşebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="word" morph="none" start_char="4278" end_char="4286">Özellikle</TOKEN>
+<TOKEN id="token-47-1" pos="word" morph="none" start_char="4288" end_char="4288">B</TOKEN>
+<TOKEN id="token-47-2" pos="punct" morph="none" start_char="4289" end_char="4289">,</TOKEN>
+<TOKEN id="token-47-3" pos="word" morph="none" start_char="4291" end_char="4303">yetişkinlerde</TOKEN>
+<TOKEN id="token-47-4" pos="word" morph="none" start_char="4305" end_char="4309">yüzde</TOKEN>
+<TOKEN id="token-47-5" pos="number" morph="none" start_char="4311" end_char="4312">95</TOKEN>
+<TOKEN id="token-47-6" pos="word" morph="none" start_char="4314" end_char="4324">geçirdikten</TOKEN>
+<TOKEN id="token-47-7" pos="word" morph="none" start_char="4326" end_char="4330">sonra</TOKEN>
+<TOKEN id="token-47-8" pos="word" morph="none" start_char="4332" end_char="4344">kendiliğinden</TOKEN>
+<TOKEN id="token-47-9" pos="word" morph="none" start_char="4346" end_char="4359">iyileşebiliyor</TOKEN>
+<TOKEN id="token-47-10" pos="punct" morph="none" start_char="4360" end_char="4360">.</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="4362" end_char="4444">
+<ORIGINAL_TEXT>Çocuklar, annede doğum esnasında aldığı zaman kalıcı olabiliyor, kronikleşebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="4362" end_char="4369">Çocuklar</TOKEN>
+<TOKEN id="token-48-1" pos="punct" morph="none" start_char="4370" end_char="4370">,</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="4372" end_char="4377">annede</TOKEN>
+<TOKEN id="token-48-3" pos="word" morph="none" start_char="4379" end_char="4383">doğum</TOKEN>
+<TOKEN id="token-48-4" pos="word" morph="none" start_char="4385" end_char="4393">esnasında</TOKEN>
+<TOKEN id="token-48-5" pos="word" morph="none" start_char="4395" end_char="4400">aldığı</TOKEN>
+<TOKEN id="token-48-6" pos="word" morph="none" start_char="4402" end_char="4406">zaman</TOKEN>
+<TOKEN id="token-48-7" pos="word" morph="none" start_char="4408" end_char="4413">kalıcı</TOKEN>
+<TOKEN id="token-48-8" pos="word" morph="none" start_char="4415" end_char="4424">olabiliyor</TOKEN>
+<TOKEN id="token-48-9" pos="punct" morph="none" start_char="4425" end_char="4425">,</TOKEN>
+<TOKEN id="token-48-10" pos="word" morph="none" start_char="4427" end_char="4443">kronikleşebiliyor</TOKEN>
+<TOKEN id="token-48-11" pos="punct" morph="none" start_char="4444" end_char="4444">.</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="4446" end_char="4477">
+<ORIGINAL_TEXT>Mutlaka ilaçla tedavi gerekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="word" morph="none" start_char="4446" end_char="4452">Mutlaka</TOKEN>
+<TOKEN id="token-49-1" pos="word" morph="none" start_char="4454" end_char="4459">ilaçla</TOKEN>
+<TOKEN id="token-49-2" pos="word" morph="none" start_char="4461" end_char="4466">tedavi</TOKEN>
+<TOKEN id="token-49-3" pos="word" morph="none" start_char="4468" end_char="4476">gerekiyor</TOKEN>
+<TOKEN id="token-49-4" pos="punct" morph="none" start_char="4477" end_char="4477">.</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="4479" end_char="4530">
+<ORIGINAL_TEXT>B ile birlikte Deltaʼda bunun üzerine eklenebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="word" morph="none" start_char="4479" end_char="4479">B</TOKEN>
+<TOKEN id="token-50-1" pos="word" morph="none" start_char="4481" end_char="4483">ile</TOKEN>
+<TOKEN id="token-50-2" pos="word" morph="none" start_char="4485" end_char="4492">birlikte</TOKEN>
+<TOKEN id="token-50-3" pos="word" morph="none" start_char="4494" end_char="4501">Deltaʼda</TOKEN>
+<TOKEN id="token-50-4" pos="word" morph="none" start_char="4503" end_char="4507">bunun</TOKEN>
+<TOKEN id="token-50-5" pos="word" morph="none" start_char="4509" end_char="4515">üzerine</TOKEN>
+<TOKEN id="token-50-6" pos="word" morph="none" start_char="4517" end_char="4529">eklenebiliyor</TOKEN>
+<TOKEN id="token-50-7" pos="punct" morph="none" start_char="4530" end_char="4530">.</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="4532" end_char="4581">
+<ORIGINAL_TEXT>Bu da hastada erken yaşta siroza neden olabiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="4532" end_char="4533">Bu</TOKEN>
+<TOKEN id="token-51-1" pos="word" morph="none" start_char="4535" end_char="4536">da</TOKEN>
+<TOKEN id="token-51-2" pos="word" morph="none" start_char="4538" end_char="4544">hastada</TOKEN>
+<TOKEN id="token-51-3" pos="word" morph="none" start_char="4546" end_char="4550">erken</TOKEN>
+<TOKEN id="token-51-4" pos="word" morph="none" start_char="4552" end_char="4556">yaşta</TOKEN>
+<TOKEN id="token-51-5" pos="word" morph="none" start_char="4558" end_char="4563">siroza</TOKEN>
+<TOKEN id="token-51-6" pos="word" morph="none" start_char="4565" end_char="4569">neden</TOKEN>
+<TOKEN id="token-51-7" pos="word" morph="none" start_char="4571" end_char="4580">olabiliyor</TOKEN>
+<TOKEN id="token-51-8" pos="punct" morph="none" start_char="4581" end_char="4581">.</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="4583" end_char="4661">
+<ORIGINAL_TEXT>Hepatit Cʼde kan ve kan ürünleriyle bulaşabiliyor, bunlar da kronikleşebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="4583" end_char="4589">Hepatit</TOKEN>
+<TOKEN id="token-52-1" pos="word" morph="none" start_char="4591" end_char="4594">Cʼde</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="4596" end_char="4598">kan</TOKEN>
+<TOKEN id="token-52-3" pos="word" morph="none" start_char="4600" end_char="4601">ve</TOKEN>
+<TOKEN id="token-52-4" pos="word" morph="none" start_char="4603" end_char="4605">kan</TOKEN>
+<TOKEN id="token-52-5" pos="word" morph="none" start_char="4607" end_char="4617">ürünleriyle</TOKEN>
+<TOKEN id="token-52-6" pos="word" morph="none" start_char="4619" end_char="4631">bulaşabiliyor</TOKEN>
+<TOKEN id="token-52-7" pos="punct" morph="none" start_char="4632" end_char="4632">,</TOKEN>
+<TOKEN id="token-52-8" pos="word" morph="none" start_char="4634" end_char="4639">bunlar</TOKEN>
+<TOKEN id="token-52-9" pos="word" morph="none" start_char="4641" end_char="4642">da</TOKEN>
+<TOKEN id="token-52-10" pos="word" morph="none" start_char="4644" end_char="4660">kronikleşebiliyor</TOKEN>
+<TOKEN id="token-52-11" pos="punct" morph="none" start_char="4661" end_char="4661">.</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="4663" end_char="4834">
+<ORIGINAL_TEXT>En çok kronikleşen Hepatit B, çocuklarda yüzde 95ʼe kadar, yetişkinlerde yüzde 5, Hepatit C ise özellikle yetişkinlerde görülüyor ve yüzde 90ʼun üzerinde kronikleşebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="word" morph="none" start_char="4663" end_char="4664">En</TOKEN>
+<TOKEN id="token-53-1" pos="word" morph="none" start_char="4666" end_char="4668">çok</TOKEN>
+<TOKEN id="token-53-2" pos="word" morph="none" start_char="4670" end_char="4680">kronikleşen</TOKEN>
+<TOKEN id="token-53-3" pos="word" morph="none" start_char="4682" end_char="4688">Hepatit</TOKEN>
+<TOKEN id="token-53-4" pos="word" morph="none" start_char="4690" end_char="4690">B</TOKEN>
+<TOKEN id="token-53-5" pos="punct" morph="none" start_char="4691" end_char="4691">,</TOKEN>
+<TOKEN id="token-53-6" pos="word" morph="none" start_char="4693" end_char="4702">çocuklarda</TOKEN>
+<TOKEN id="token-53-7" pos="word" morph="none" start_char="4704" end_char="4708">yüzde</TOKEN>
+<TOKEN id="token-53-8" pos="word" morph="none" start_char="4710" end_char="4713">95ʼe</TOKEN>
+<TOKEN id="token-53-9" pos="word" morph="none" start_char="4715" end_char="4719">kadar</TOKEN>
+<TOKEN id="token-53-10" pos="punct" morph="none" start_char="4720" end_char="4720">,</TOKEN>
+<TOKEN id="token-53-11" pos="word" morph="none" start_char="4722" end_char="4734">yetişkinlerde</TOKEN>
+<TOKEN id="token-53-12" pos="word" morph="none" start_char="4736" end_char="4740">yüzde</TOKEN>
+<TOKEN id="token-53-13" pos="word" morph="none" start_char="4742" end_char="4742">5</TOKEN>
+<TOKEN id="token-53-14" pos="punct" morph="none" start_char="4743" end_char="4743">,</TOKEN>
+<TOKEN id="token-53-15" pos="word" morph="none" start_char="4745" end_char="4751">Hepatit</TOKEN>
+<TOKEN id="token-53-16" pos="word" morph="none" start_char="4753" end_char="4753">C</TOKEN>
+<TOKEN id="token-53-17" pos="word" morph="none" start_char="4755" end_char="4757">ise</TOKEN>
+<TOKEN id="token-53-18" pos="word" morph="none" start_char="4759" end_char="4767">özellikle</TOKEN>
+<TOKEN id="token-53-19" pos="word" morph="none" start_char="4769" end_char="4781">yetişkinlerde</TOKEN>
+<TOKEN id="token-53-20" pos="word" morph="none" start_char="4783" end_char="4791">görülüyor</TOKEN>
+<TOKEN id="token-53-21" pos="word" morph="none" start_char="4793" end_char="4794">ve</TOKEN>
+<TOKEN id="token-53-22" pos="word" morph="none" start_char="4796" end_char="4800">yüzde</TOKEN>
+<TOKEN id="token-53-23" pos="word" morph="none" start_char="4802" end_char="4806">90ʼun</TOKEN>
+<TOKEN id="token-53-24" pos="word" morph="none" start_char="4808" end_char="4815">üzerinde</TOKEN>
+<TOKEN id="token-53-25" pos="word" morph="none" start_char="4817" end_char="4833">kronikleşebiliyor</TOKEN>
+<TOKEN id="token-53-26" pos="punct" morph="none" start_char="4834" end_char="4834">.</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="4836" end_char="4880">
+<ORIGINAL_TEXT>Bunlarda erken yaşta siroza neden olabiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="word" morph="none" start_char="4836" end_char="4843">Bunlarda</TOKEN>
+<TOKEN id="token-54-1" pos="word" morph="none" start_char="4845" end_char="4849">erken</TOKEN>
+<TOKEN id="token-54-2" pos="word" morph="none" start_char="4851" end_char="4855">yaşta</TOKEN>
+<TOKEN id="token-54-3" pos="word" morph="none" start_char="4857" end_char="4862">siroza</TOKEN>
+<TOKEN id="token-54-4" pos="word" morph="none" start_char="4864" end_char="4868">neden</TOKEN>
+<TOKEN id="token-54-5" pos="word" morph="none" start_char="4870" end_char="4879">olabiliyor</TOKEN>
+<TOKEN id="token-54-6" pos="punct" morph="none" start_char="4880" end_char="4880">.</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="4882" end_char="4925">
+<ORIGINAL_TEXT>Bu grubun mutlaka ilaç kullanması gerekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="4882" end_char="4883">Bu</TOKEN>
+<TOKEN id="token-55-1" pos="word" morph="none" start_char="4885" end_char="4890">grubun</TOKEN>
+<TOKEN id="token-55-2" pos="word" morph="none" start_char="4892" end_char="4898">mutlaka</TOKEN>
+<TOKEN id="token-55-3" pos="word" morph="none" start_char="4900" end_char="4903">ilaç</TOKEN>
+<TOKEN id="token-55-4" pos="word" morph="none" start_char="4905" end_char="4914">kullanması</TOKEN>
+<TOKEN id="token-55-5" pos="word" morph="none" start_char="4916" end_char="4924">gerekiyor</TOKEN>
+<TOKEN id="token-55-6" pos="punct" morph="none" start_char="4925" end_char="4925">.</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="4927" end_char="4978">
+<ORIGINAL_TEXT>Hepatit B ve Deltaʼda benzer tedaviler kullanılıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="word" morph="none" start_char="4927" end_char="4933">Hepatit</TOKEN>
+<TOKEN id="token-56-1" pos="word" morph="none" start_char="4935" end_char="4935">B</TOKEN>
+<TOKEN id="token-56-2" pos="word" morph="none" start_char="4937" end_char="4938">ve</TOKEN>
+<TOKEN id="token-56-3" pos="word" morph="none" start_char="4940" end_char="4947">Deltaʼda</TOKEN>
+<TOKEN id="token-56-4" pos="word" morph="none" start_char="4949" end_char="4954">benzer</TOKEN>
+<TOKEN id="token-56-5" pos="word" morph="none" start_char="4956" end_char="4964">tedaviler</TOKEN>
+<TOKEN id="token-56-6" pos="word" morph="none" start_char="4966" end_char="4977">kullanılıyor</TOKEN>
+<TOKEN id="token-56-7" pos="punct" morph="none" start_char="4978" end_char="4978">.</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="4980" end_char="5021">
+<ORIGINAL_TEXT>Cʼde ise daha farklı bir tedavi yapılıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="word" morph="none" start_char="4980" end_char="4983">Cʼde</TOKEN>
+<TOKEN id="token-57-1" pos="word" morph="none" start_char="4985" end_char="4987">ise</TOKEN>
+<TOKEN id="token-57-2" pos="word" morph="none" start_char="4989" end_char="4992">daha</TOKEN>
+<TOKEN id="token-57-3" pos="word" morph="none" start_char="4994" end_char="4999">farklı</TOKEN>
+<TOKEN id="token-57-4" pos="word" morph="none" start_char="5001" end_char="5003">bir</TOKEN>
+<TOKEN id="token-57-5" pos="word" morph="none" start_char="5005" end_char="5010">tedavi</TOKEN>
+<TOKEN id="token-57-6" pos="word" morph="none" start_char="5012" end_char="5020">yapılıyor</TOKEN>
+<TOKEN id="token-57-7" pos="punct" morph="none" start_char="5021" end_char="5021">.</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="5024" end_char="5109">
+<ORIGINAL_TEXT>Hepatit C, hemen hemen bütün bölgelerde birbirine yakın yüzde bir civarında bulunuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="5024" end_char="5030">Hepatit</TOKEN>
+<TOKEN id="token-58-1" pos="word" morph="none" start_char="5032" end_char="5032">C</TOKEN>
+<TOKEN id="token-58-2" pos="punct" morph="none" start_char="5033" end_char="5033">,</TOKEN>
+<TOKEN id="token-58-3" pos="word" morph="none" start_char="5035" end_char="5039">hemen</TOKEN>
+<TOKEN id="token-58-4" pos="word" morph="none" start_char="5041" end_char="5045">hemen</TOKEN>
+<TOKEN id="token-58-5" pos="word" morph="none" start_char="5047" end_char="5051">bütün</TOKEN>
+<TOKEN id="token-58-6" pos="word" morph="none" start_char="5053" end_char="5062">bölgelerde</TOKEN>
+<TOKEN id="token-58-7" pos="word" morph="none" start_char="5064" end_char="5072">birbirine</TOKEN>
+<TOKEN id="token-58-8" pos="word" morph="none" start_char="5074" end_char="5078">yakın</TOKEN>
+<TOKEN id="token-58-9" pos="word" morph="none" start_char="5080" end_char="5084">yüzde</TOKEN>
+<TOKEN id="token-58-10" pos="word" morph="none" start_char="5086" end_char="5088">bir</TOKEN>
+<TOKEN id="token-58-11" pos="word" morph="none" start_char="5090" end_char="5098">civarında</TOKEN>
+<TOKEN id="token-58-12" pos="word" morph="none" start_char="5100" end_char="5108">bulunuyor</TOKEN>
+<TOKEN id="token-58-13" pos="punct" morph="none" start_char="5109" end_char="5109">.</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="5111" end_char="5214">
+<ORIGINAL_TEXT>Ama uyuşturucu kullanan gruplarda, diyalize girenlerde, şekeri olan hastalarda daha fazla görülebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="word" morph="none" start_char="5111" end_char="5113">Ama</TOKEN>
+<TOKEN id="token-59-1" pos="word" morph="none" start_char="5115" end_char="5124">uyuşturucu</TOKEN>
+<TOKEN id="token-59-2" pos="word" morph="none" start_char="5126" end_char="5133">kullanan</TOKEN>
+<TOKEN id="token-59-3" pos="word" morph="none" start_char="5135" end_char="5143">gruplarda</TOKEN>
+<TOKEN id="token-59-4" pos="punct" morph="none" start_char="5144" end_char="5144">,</TOKEN>
+<TOKEN id="token-59-5" pos="word" morph="none" start_char="5146" end_char="5153">diyalize</TOKEN>
+<TOKEN id="token-59-6" pos="word" morph="none" start_char="5155" end_char="5164">girenlerde</TOKEN>
+<TOKEN id="token-59-7" pos="punct" morph="none" start_char="5165" end_char="5165">,</TOKEN>
+<TOKEN id="token-59-8" pos="word" morph="none" start_char="5167" end_char="5172">şekeri</TOKEN>
+<TOKEN id="token-59-9" pos="word" morph="none" start_char="5174" end_char="5177">olan</TOKEN>
+<TOKEN id="token-59-10" pos="word" morph="none" start_char="5179" end_char="5188">hastalarda</TOKEN>
+<TOKEN id="token-59-11" pos="word" morph="none" start_char="5190" end_char="5193">daha</TOKEN>
+<TOKEN id="token-59-12" pos="word" morph="none" start_char="5195" end_char="5199">fazla</TOKEN>
+<TOKEN id="token-59-13" pos="word" morph="none" start_char="5201" end_char="5213">görülebiliyor</TOKEN>
+<TOKEN id="token-59-14" pos="punct" morph="none" start_char="5214" end_char="5214">.</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="5216" end_char="5288">
+<ORIGINAL_TEXT>Hepatit B ve Delta ise Güneydoğu ve Doğu Anadoluʼda daha fazla görülüyor.</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="word" morph="none" start_char="5216" end_char="5222">Hepatit</TOKEN>
+<TOKEN id="token-60-1" pos="word" morph="none" start_char="5224" end_char="5224">B</TOKEN>
+<TOKEN id="token-60-2" pos="word" morph="none" start_char="5226" end_char="5227">ve</TOKEN>
+<TOKEN id="token-60-3" pos="word" morph="none" start_char="5229" end_char="5233">Delta</TOKEN>
+<TOKEN id="token-60-4" pos="word" morph="none" start_char="5235" end_char="5237">ise</TOKEN>
+<TOKEN id="token-60-5" pos="word" morph="none" start_char="5239" end_char="5247">Güneydoğu</TOKEN>
+<TOKEN id="token-60-6" pos="word" morph="none" start_char="5249" end_char="5250">ve</TOKEN>
+<TOKEN id="token-60-7" pos="word" morph="none" start_char="5252" end_char="5255">Doğu</TOKEN>
+<TOKEN id="token-60-8" pos="word" morph="none" start_char="5257" end_char="5266">Anadoluʼda</TOKEN>
+<TOKEN id="token-60-9" pos="word" morph="none" start_char="5268" end_char="5271">daha</TOKEN>
+<TOKEN id="token-60-10" pos="word" morph="none" start_char="5273" end_char="5277">fazla</TOKEN>
+<TOKEN id="token-60-11" pos="word" morph="none" start_char="5279" end_char="5287">görülüyor</TOKEN>
+<TOKEN id="token-60-12" pos="punct" morph="none" start_char="5288" end_char="5288">.</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="5290" end_char="5313">
+<ORIGINAL_TEXT>Hepatit Bʼnin aşısı var.</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="5290" end_char="5296">Hepatit</TOKEN>
+<TOKEN id="token-61-1" pos="word" morph="none" start_char="5298" end_char="5302">Bʼnin</TOKEN>
+<TOKEN id="token-61-2" pos="word" morph="none" start_char="5304" end_char="5308">aşısı</TOKEN>
+<TOKEN id="token-61-3" pos="word" morph="none" start_char="5310" end_char="5312">var</TOKEN>
+<TOKEN id="token-61-4" pos="punct" morph="none" start_char="5313" end_char="5313">.</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="5315" end_char="5332">
+<ORIGINAL_TEXT>Gittikçe azalıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="word" morph="none" start_char="5315" end_char="5322">Gittikçe</TOKEN>
+<TOKEN id="token-62-1" pos="word" morph="none" start_char="5324" end_char="5331">azalıyor</TOKEN>
+<TOKEN id="token-62-2" pos="punct" morph="none" start_char="5332" end_char="5332">.</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="5334" end_char="5470">
+<ORIGINAL_TEXT>Cʼnin ise aşısı olmadığı için yüzde bir oranında bile olsa karaciğer nakline veya siroza yakalanan hasta sayısı daha fazla oluyor.” dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="word" morph="none" start_char="5334" end_char="5338">Cʼnin</TOKEN>
+<TOKEN id="token-63-1" pos="word" morph="none" start_char="5340" end_char="5342">ise</TOKEN>
+<TOKEN id="token-63-2" pos="word" morph="none" start_char="5344" end_char="5348">aşısı</TOKEN>
+<TOKEN id="token-63-3" pos="word" morph="none" start_char="5350" end_char="5357">olmadığı</TOKEN>
+<TOKEN id="token-63-4" pos="word" morph="none" start_char="5359" end_char="5362">için</TOKEN>
+<TOKEN id="token-63-5" pos="word" morph="none" start_char="5364" end_char="5368">yüzde</TOKEN>
+<TOKEN id="token-63-6" pos="word" morph="none" start_char="5370" end_char="5372">bir</TOKEN>
+<TOKEN id="token-63-7" pos="word" morph="none" start_char="5374" end_char="5381">oranında</TOKEN>
+<TOKEN id="token-63-8" pos="word" morph="none" start_char="5383" end_char="5386">bile</TOKEN>
+<TOKEN id="token-63-9" pos="word" morph="none" start_char="5388" end_char="5391">olsa</TOKEN>
+<TOKEN id="token-63-10" pos="word" morph="none" start_char="5393" end_char="5401">karaciğer</TOKEN>
+<TOKEN id="token-63-11" pos="word" morph="none" start_char="5403" end_char="5409">nakline</TOKEN>
+<TOKEN id="token-63-12" pos="word" morph="none" start_char="5411" end_char="5414">veya</TOKEN>
+<TOKEN id="token-63-13" pos="word" morph="none" start_char="5416" end_char="5421">siroza</TOKEN>
+<TOKEN id="token-63-14" pos="word" morph="none" start_char="5423" end_char="5431">yakalanan</TOKEN>
+<TOKEN id="token-63-15" pos="word" morph="none" start_char="5433" end_char="5437">hasta</TOKEN>
+<TOKEN id="token-63-16" pos="word" morph="none" start_char="5439" end_char="5444">sayısı</TOKEN>
+<TOKEN id="token-63-17" pos="word" morph="none" start_char="5446" end_char="5449">daha</TOKEN>
+<TOKEN id="token-63-18" pos="word" morph="none" start_char="5451" end_char="5455">fazla</TOKEN>
+<TOKEN id="token-63-19" pos="word" morph="none" start_char="5457" end_char="5462">oluyor</TOKEN>
+<TOKEN id="token-63-20" pos="punct" morph="none" start_char="5463" end_char="5464">.”</TOKEN>
+<TOKEN id="token-63-21" pos="word" morph="none" start_char="5466" end_char="5469">dedi</TOKEN>
+<TOKEN id="token-63-22" pos="punct" morph="none" start_char="5470" end_char="5470">.</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="5473" end_char="5645">
+<ORIGINAL_TEXT>Sempozyumda, Türkiyeʼde ve dünyada çeşitli boyutlarıyla sorun olmaya devam eden viral hepatitlerin tedavi deneyimli HCV hastalarının yönetimi konusu uzmanlarca tartışılacak.</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="word" morph="none" start_char="5473" end_char="5483">Sempozyumda</TOKEN>
+<TOKEN id="token-64-1" pos="punct" morph="none" start_char="5484" end_char="5484">,</TOKEN>
+<TOKEN id="token-64-2" pos="word" morph="none" start_char="5486" end_char="5495">Türkiyeʼde</TOKEN>
+<TOKEN id="token-64-3" pos="word" morph="none" start_char="5497" end_char="5498">ve</TOKEN>
+<TOKEN id="token-64-4" pos="word" morph="none" start_char="5500" end_char="5506">dünyada</TOKEN>
+<TOKEN id="token-64-5" pos="word" morph="none" start_char="5508" end_char="5514">çeşitli</TOKEN>
+<TOKEN id="token-64-6" pos="word" morph="none" start_char="5516" end_char="5527">boyutlarıyla</TOKEN>
+<TOKEN id="token-64-7" pos="word" morph="none" start_char="5529" end_char="5533">sorun</TOKEN>
+<TOKEN id="token-64-8" pos="word" morph="none" start_char="5535" end_char="5540">olmaya</TOKEN>
+<TOKEN id="token-64-9" pos="word" morph="none" start_char="5542" end_char="5546">devam</TOKEN>
+<TOKEN id="token-64-10" pos="word" morph="none" start_char="5548" end_char="5551">eden</TOKEN>
+<TOKEN id="token-64-11" pos="word" morph="none" start_char="5553" end_char="5557">viral</TOKEN>
+<TOKEN id="token-64-12" pos="word" morph="none" start_char="5559" end_char="5570">hepatitlerin</TOKEN>
+<TOKEN id="token-64-13" pos="word" morph="none" start_char="5572" end_char="5577">tedavi</TOKEN>
+<TOKEN id="token-64-14" pos="word" morph="none" start_char="5579" end_char="5587">deneyimli</TOKEN>
+<TOKEN id="token-64-15" pos="word" morph="none" start_char="5589" end_char="5591">HCV</TOKEN>
+<TOKEN id="token-64-16" pos="word" morph="none" start_char="5593" end_char="5604">hastalarının</TOKEN>
+<TOKEN id="token-64-17" pos="word" morph="none" start_char="5606" end_char="5613">yönetimi</TOKEN>
+<TOKEN id="token-64-18" pos="word" morph="none" start_char="5615" end_char="5620">konusu</TOKEN>
+<TOKEN id="token-64-19" pos="word" morph="none" start_char="5622" end_char="5631">uzmanlarca</TOKEN>
+<TOKEN id="token-64-20" pos="word" morph="none" start_char="5633" end_char="5644">tartışılacak</TOKEN>
+<TOKEN id="token-64-21" pos="punct" morph="none" start_char="5645" end_char="5645">.</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="5647" end_char="5829">
+<ORIGINAL_TEXT>Tedavisinde sorun yaşanılan HCV olgularının yönetiminde yeni kullanıma giren ve üzerinde çalışılan ajanların yerinin gözden geçirilmesi, bilgi ve deneyimlerin paylaşılması sağlanacak.</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="word" morph="none" start_char="5647" end_char="5657">Tedavisinde</TOKEN>
+<TOKEN id="token-65-1" pos="word" morph="none" start_char="5659" end_char="5663">sorun</TOKEN>
+<TOKEN id="token-65-2" pos="word" morph="none" start_char="5665" end_char="5673">yaşanılan</TOKEN>
+<TOKEN id="token-65-3" pos="word" morph="none" start_char="5675" end_char="5677">HCV</TOKEN>
+<TOKEN id="token-65-4" pos="word" morph="none" start_char="5679" end_char="5689">olgularının</TOKEN>
+<TOKEN id="token-65-5" pos="word" morph="none" start_char="5691" end_char="5701">yönetiminde</TOKEN>
+<TOKEN id="token-65-6" pos="word" morph="none" start_char="5703" end_char="5706">yeni</TOKEN>
+<TOKEN id="token-65-7" pos="word" morph="none" start_char="5708" end_char="5716">kullanıma</TOKEN>
+<TOKEN id="token-65-8" pos="word" morph="none" start_char="5718" end_char="5722">giren</TOKEN>
+<TOKEN id="token-65-9" pos="word" morph="none" start_char="5724" end_char="5725">ve</TOKEN>
+<TOKEN id="token-65-10" pos="word" morph="none" start_char="5727" end_char="5734">üzerinde</TOKEN>
+<TOKEN id="token-65-11" pos="word" morph="none" start_char="5736" end_char="5744">çalışılan</TOKEN>
+<TOKEN id="token-65-12" pos="word" morph="none" start_char="5746" end_char="5754">ajanların</TOKEN>
+<TOKEN id="token-65-13" pos="word" morph="none" start_char="5756" end_char="5762">yerinin</TOKEN>
+<TOKEN id="token-65-14" pos="word" morph="none" start_char="5764" end_char="5769">gözden</TOKEN>
+<TOKEN id="token-65-15" pos="word" morph="none" start_char="5771" end_char="5781">geçirilmesi</TOKEN>
+<TOKEN id="token-65-16" pos="punct" morph="none" start_char="5782" end_char="5782">,</TOKEN>
+<TOKEN id="token-65-17" pos="word" morph="none" start_char="5784" end_char="5788">bilgi</TOKEN>
+<TOKEN id="token-65-18" pos="word" morph="none" start_char="5790" end_char="5791">ve</TOKEN>
+<TOKEN id="token-65-19" pos="word" morph="none" start_char="5793" end_char="5804">deneyimlerin</TOKEN>
+<TOKEN id="token-65-20" pos="word" morph="none" start_char="5806" end_char="5817">paylaşılması</TOKEN>
+<TOKEN id="token-65-21" pos="word" morph="none" start_char="5819" end_char="5828">sağlanacak</TOKEN>
+<TOKEN id="token-65-22" pos="punct" morph="none" start_char="5829" end_char="5829">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

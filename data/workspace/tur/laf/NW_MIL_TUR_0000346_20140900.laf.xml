@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_MIL_TUR_0000346_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="TTL">
+      <EXTENT start_char="41" end_char="44">Prof</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="TTL">
+      <EXTENT start_char="47" end_char="48">Dr</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="PER">
+      <EXTENT start_char="51" end_char="63">Orhan Özturan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="ORG">
+      <EXTENT start_char="191" end_char="218">Bezmialem Vakıf Üniversitesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="ORG">
+      <EXTENT start_char="220" end_char="232">Tıp Fakültesi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="TTL">
+      <EXTENT start_char="265" end_char="269">uzman</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="TTL">
+      <EXTENT start_char="272" end_char="275">Prof</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="TTL">
+      <EXTENT start_char="278" end_char="279">Dr</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="ORG">
+      <EXTENT start_char="234" end_char="263">kulak burun boğaz hastalıkları</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="PER">
+      <EXTENT start_char="282" end_char="294">Orhan Özturan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="TTL">
+      <EXTENT start_char="584" end_char="587">Prof</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="TTL">
+      <EXTENT start_char="590" end_char="591">Dr</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="PER">
+      <EXTENT start_char="594" end_char="600">Özturan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="PER">
+      <EXTENT start_char="915" end_char="921">Özturan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="PER">
+      <EXTENT start_char="1082" end_char="1088">Özturan</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

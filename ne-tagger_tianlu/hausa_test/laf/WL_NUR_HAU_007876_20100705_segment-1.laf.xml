@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="HAU">
+  <DOC id="WL_NUR_HAU_007876_20100705_segment-1" lang="HAU">
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-3" task="NE" type="TTL">
+      <EXTENT start_char="46" end_char="51">Sheikh</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-4" task="NE" type="PER">
+      <EXTENT start_char="53" end_char="63">Ahmad Yasin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-5" task="NE" type="TTL">
+      <EXTENT start_char="73" end_char="80">shugaban</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-6" task="NE" type="ORG">
+      <EXTENT start_char="82" end_char="95">kungiyar Hamas</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="148" end_char="162">kauyen al-Jawra</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-8" task="NE" type="LOC">
+      <EXTENT start_char="178" end_char="181">Gaza</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-9" task="NE" type="LOC">
+      <EXTENT start_char="185" end_char="199">kasar Palastinu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-10" task="NE" type="LOC">
+      <EXTENT start_char="255" end_char="264">Birtaniyya</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

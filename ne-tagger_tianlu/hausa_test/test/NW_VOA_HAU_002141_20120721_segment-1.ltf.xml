@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+  <DOC id="NW_VOA_HAU_002141_20120721_segment-1">
+    <TEXT><SEG id="segment-1" start_char="136" end_char="370">
+<ORIGINAL_TEXT>ʼYan majalisar wadanda suka fito daga manyan jamʼiyun siyasar kasar dake adawa da juna, Jamʼiyar shugaba Robert Mugabe, ZANU-PF da kuma ta Firai Minista Morgan Tsvangirai, MDC, sun dauki matakin hadin guiwar a yunkurin shawo kan cutar.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="ʼYan:ʼyan=NOUN" start_char="136" end_char="139">ʼYan</TOKEN>
+<TOKEN id="token-1-1" pos="NOUN" morph="majalisa:majalisa=NOUN r:r=CONSTRUCT" start_char="141" end_char="149">majalisar</TOKEN>
+<TOKEN id="token-1-2" pos="DEMPRON" morph="wadanda:wadanda=DEMPRON" start_char="151" end_char="157">wadanda</TOKEN>
+<TOKEN id="token-1-3" pos="PRON" morph="suka:suka=PRON_WSP_3P" start_char="159" end_char="162">suka</TOKEN>
+<TOKEN id="token-1-4" pos="VERB" morph="fito:fito=VERB" start_char="164" end_char="167">fito</TOKEN>
+<TOKEN id="token-1-5" pos="PREP" morph="daga:daga=PREP" start_char="169" end_char="172">daga</TOKEN>
+<TOKEN id="token-1-6" pos="NOUN" morph="manya:manya=NOUN n:n=CONSTRUCT" start_char="174" end_char="179">manyan</TOKEN>
+<TOKEN id="token-1-7" pos="NOUN" morph="jamʼiyu:jamʼiyu=NOUN n:n=CONSTRUCT" start_char="181" end_char="188">jamʼiyun</TOKEN>
+<TOKEN id="token-1-8" pos="NOUN" morph="siyasa:siyasa=NOUN r:r=CONSTRUCT" start_char="190" end_char="196">siyasar</TOKEN>
+<TOKEN id="token-1-9" pos="NOUN" morph="kasa:kasa=NOUN r:r=DEFINITE" start_char="198" end_char="202">kasar</TOKEN>
+<TOKEN id="token-1-10" pos="PRON" morph="da:da=RELPRON ke:ke=CONT" start_char="204" end_char="207">dake</TOKEN>
+<TOKEN id="token-1-11" pos="NOUN" morph="adawa:adawa=NOUN" start_char="209" end_char="213">adawa</TOKEN>
+<TOKEN id="token-1-12" pos="PREP" morph="da:da=PREP" start_char="215" end_char="216">da</TOKEN>
+<TOKEN id="token-1-13" pos="NOUN" morph="juna:juna=NOUN" start_char="218" end_char="221">juna</TOKEN>
+<TOKEN id="token-1-14" pos="punct" morph="none" start_char="222" end_char="222">,</TOKEN>
+<TOKEN id="token-1-15" pos="NOUN" morph="Jamʼiyar:jamʼiyar=NOUN" start_char="224" end_char="231">Jamʼiyar</TOKEN>
+<TOKEN id="token-1-16" pos="NOUN" morph="shugaba:shugaba=NOUN" start_char="233" end_char="239">shugaba</TOKEN>
+<TOKEN id="token-1-17" pos="NOUN" morph="Robert:robert=NOUN" start_char="241" end_char="246">Robert</TOKEN>
+<TOKEN id="token-1-18" pos="NOUN" morph="Mugabe:mugabe=NOUN" start_char="248" end_char="253">Mugabe</TOKEN>
+<TOKEN id="token-1-19" pos="punct" morph="none" start_char="254" end_char="254">,</TOKEN>
+<TOKEN id="token-1-20" pos="NOUN" morph="ZANU:zanu=NOUN" start_char="256" end_char="259">ZANU</TOKEN>
+<TOKEN id="token-1-21" pos="punct" morph="none" start_char="260" end_char="260">-</TOKEN>
+<TOKEN id="token-1-22" pos="NOUN" morph="PF:pf=NOUN" start_char="261" end_char="262">PF</TOKEN>
+<TOKEN id="token-1-23" pos="CONJ" morph="da:da=CONJ" start_char="264" end_char="265">da</TOKEN>
+<TOKEN id="token-1-24" pos="PREP" morph="kuma:kuma=PREP" start_char="267" end_char="270">kuma</TOKEN>
+<TOKEN id="token-1-25" pos="CONSTRUCT" morph="ta:ta=CONSTRUCT" start_char="272" end_char="273">ta</TOKEN>
+<TOKEN id="token-1-26" pos="NOUN" morph="Firai:firai=NOUN" start_char="275" end_char="279">Firai</TOKEN>
+<TOKEN id="token-1-27" pos="NOUN" morph="Minista:minista=NOUN" start_char="281" end_char="287">Minista</TOKEN>
+<TOKEN id="token-1-28" pos="NOUN" morph="Morgan:morgan=NOUN" start_char="289" end_char="294">Morgan</TOKEN>
+<TOKEN id="token-1-29" pos="NOUN" morph="Tsvangirai:tsvangirai=NOUN" start_char="296" end_char="305">Tsvangirai</TOKEN>
+<TOKEN id="token-1-30" pos="punct" morph="none" start_char="306" end_char="306">,</TOKEN>
+<TOKEN id="token-1-31" pos="NOUN" morph="MDC:mdc=NOUN" start_char="308" end_char="310">MDC</TOKEN>
+<TOKEN id="token-1-32" pos="punct" morph="none" start_char="311" end_char="311">,</TOKEN>
+<TOKEN id="token-1-33" pos="PRON" morph="sun:sun=PRON_WSP_3P" start_char="313" end_char="315">sun</TOKEN>
+<TOKEN id="token-1-34" pos="VERB" morph="dauki:dauki=VERB" start_char="317" end_char="321">dauki</TOKEN>
+<TOKEN id="token-1-35" pos="NOUN" morph="mataki:mataki=NOUN n:n=CONSTRUCT" start_char="323" end_char="329">matakin</TOKEN>
+<TOKEN id="token-1-36" pos="NOUN" morph="hadi:hadi=NOUN n:n=CONSTRUCT" start_char="331" end_char="335">hadin</TOKEN>
+<TOKEN id="token-1-37" pos="NOUN" morph="guiwar:guiwar=NOUN" start_char="337" end_char="342">guiwar</TOKEN>
+<TOKEN id="token-1-38" pos="PREP" morph="a:a=PREP" start_char="344" end_char="344">a</TOKEN>
+<TOKEN id="token-1-39" pos="NOUN" morph="yunkuri:yunkuri=NOUN n:n=CONSTRUCT" start_char="346" end_char="353">yunkurin</TOKEN>
+<TOKEN id="token-1-40" pos="VERB" morph="shawo:shawo=VERB" start_char="355" end_char="359">shawo</TOKEN>
+<TOKEN id="token-1-41" pos="NOUN" morph="ka:ka=NOUN n:n=CONSTRUCT" start_char="361" end_char="363">kan</TOKEN>
+<TOKEN id="token-1-42" pos="NOUN" morph="cuta:cuta=NOUN r:r=DEFINITE" start_char="365" end_char="369">cutar</TOKEN>
+<TOKEN id="token-1-43" pos="punct" morph="none" start_char="370" end_char="370">.</TOKEN>
+</SEG>
+</TEXT>
+  </DOC>
+</LCTL_TEXT>

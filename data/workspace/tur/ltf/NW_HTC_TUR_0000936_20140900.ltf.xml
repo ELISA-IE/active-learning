@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_HTC_TUR_0000936_20140900" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="1502" raw_text_md5="6e8deb84277fe6f6d00aeeb220a0766b">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="42">
+<ORIGINAL_TEXT>Ereğliʼde yağmur suları heyelana neden oldu</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="Ereğliʼ:ereğliʼ=NOUN de:de=CASE_LOC" start_char="0" end_char="8">Ereğliʼde</TOKEN>
+<TOKEN id="token-0-1" pos="NOUN" morph="yağmur:yağmur=NOUN" start_char="10" end_char="15">yağmur</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="su:su=NOUN lar:lar=PLURAL ı:ı=CASE_ACC" start_char="17" end_char="22">suları</TOKEN>
+<TOKEN id="token-0-3" pos="NOUN" morph="heyelan:heyelan=NOUN a:a=CASE_DAT" start_char="24" end_char="31">heyelana</TOKEN>
+<TOKEN id="token-0-4" pos="ADV" morph="neden:neden=ADV" start_char="33" end_char="37">neden</TOKEN>
+<TOKEN id="token-0-5" pos="VERB" morph="ol:ol=VERB du:du=DIPAST" start_char="39" end_char="42">oldu</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="45" end_char="121">
+<ORIGINAL_TEXT>Zonguldakʼta etkili olan şiddetli yağış, Ereğli ilçesinde heyelana neden oldu</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="Zonguldakʼ:zonguldakʼ=NOUN ta:ta=CASE_LOC" start_char="45" end_char="56">Zonguldakʼta</TOKEN>
+<TOKEN id="token-1-1" pos="ADJ" morph="etkili:etkili=ADJ" start_char="58" end_char="63">etkili</TOKEN>
+<TOKEN id="token-1-2" pos="ADJ" morph="ol:ol=VERB an:an=PARTICIPLE" start_char="65" end_char="68">olan</TOKEN>
+<TOKEN id="token-1-3" pos="ADJ" morph="şiddetli:şiddetli=ADJ" start_char="70" end_char="77">şiddetli</TOKEN>
+<TOKEN id="token-1-4" pos="NOUN" morph="yağış:yağış=NOUN" start_char="79" end_char="83">yağış</TOKEN>
+<TOKEN id="token-1-5" pos="." morph="none" start_char="84" end_char="84">,</TOKEN>
+<TOKEN id="token-1-6" pos="NOUN" morph="Ereğli:ereğli=NOUN" start_char="86" end_char="91">Ereğli</TOKEN>
+<TOKEN id="token-1-7" pos="NOUN" morph="ilçe:ilçe=NOUN si:si=POSS_3S nde:nde=CASE_LOC" start_char="93" end_char="101">ilçesinde</TOKEN>
+<TOKEN id="token-1-8" pos="NOUN" morph="heyelan:heyelan=NOUN a:a=CASE_DAT" start_char="103" end_char="110">heyelana</TOKEN>
+<TOKEN id="token-1-9" pos="ADV" morph="neden:neden=ADV" start_char="112" end_char="116">neden</TOKEN>
+<TOKEN id="token-1-10" pos="VERB" morph="ol:ol=VERB du:du=DIPAST" start_char="118" end_char="121">oldu</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="124" end_char="268">
+<ORIGINAL_TEXT>Zonguldakʼın Ereğli ilçesinde gece saatlerinde başlayan ve kısa sürede etkili olan yağış sonrasında Kirmanlı Mahallesiʼnde heyelan meydana geldi.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="NOUN" morph="Zonguldakʼ:zonguldakʼ=NOUN ın:ın=POSS_2S" start_char="124" end_char="135">Zonguldakʼın</TOKEN>
+<TOKEN id="token-2-1" pos="NOUN" morph="Ereğli:ereğli=NOUN" start_char="137" end_char="142">Ereğli</TOKEN>
+<TOKEN id="token-2-2" pos="NOUN" morph="ilçe:ilçe=NOUN si:si=POSS_3S nde:nde=CASE_LOC" start_char="144" end_char="152">ilçesinde</TOKEN>
+<TOKEN id="token-2-3" pos="ADJ" morph="gece:gece=ADJ" start_char="154" end_char="157">gece</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="saat:saat=NOUN ler:ler=PLURAL i:i=POSS_3S nde:nde=CASE_LOC" start_char="159" end_char="169">saatlerinde</TOKEN>
+<TOKEN id="token-2-5" pos="ADJ" morph="başla:başla=VERB yan:yan=PARTICIPLE" start_char="171" end_char="178">başlayan</TOKEN>
+<TOKEN id="token-2-6" pos="CONJ" morph="ve:ve=CONJ" start_char="180" end_char="181">ve</TOKEN>
+<TOKEN id="token-2-7" pos="ADJ" morph="kısa:kısa=ADJ" start_char="183" end_char="186">kısa</TOKEN>
+<TOKEN id="token-2-8" pos="NOUN" morph="süre:süre=NOUN de:de=CASE_LOC" start_char="188" end_char="193">sürede</TOKEN>
+<TOKEN id="token-2-9" pos="ADJ" morph="etkili:etkili=ADJ" start_char="195" end_char="200">etkili</TOKEN>
+<TOKEN id="token-2-10" pos="ADJ" morph="ol:ol=VERB an:an=PARTICIPLE" start_char="202" end_char="205">olan</TOKEN>
+<TOKEN id="token-2-11" pos="NOUN" morph="yağış:yağış=NOUN" start_char="207" end_char="211">yağış</TOKEN>
+<TOKEN id="token-2-12" pos="NOUN" morph="sonra:sonra=NOUN sı:sı=POSS_3S nda:nda=CASE_LOC" start_char="213" end_char="222">sonrasında</TOKEN>
+<TOKEN id="token-2-13" pos="NOUN" morph="Kirmanlı:kirmanlı=NOUN" start_char="224" end_char="231">Kirmanlı</TOKEN>
+<TOKEN id="token-2-14" pos="NOUN" morph="Mahallesiʼ:mahallesiʼ=NOUN n:n=POSS_2S de:de=CASE_LOC" start_char="233" end_char="245">Mahallesiʼnde</TOKEN>
+<TOKEN id="token-2-15" pos="NOUN" morph="heyelan:heyelan=NOUN" start_char="247" end_char="253">heyelan</TOKEN>
+<TOKEN id="token-2-16" pos="NOUN" morph="meydan:meydan=NOUN a:a=CASE_DAT" start_char="255" end_char="261">meydana</TOKEN>
+<TOKEN id="token-2-17" pos="VERB" morph="gel:gel=VERB di:di=DIPAST" start_char="263" end_char="267">geldi</TOKEN>
+<TOKEN id="token-2-18" pos="." morph="none" start_char="268" end_char="268">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="270" end_char="384">
+<ORIGINAL_TEXT>Ağaçların da yıkıldığı heyelanda bir araç zarar görürken, toprak yığını ve ağaçlar belediye ekiplerince temizlendi.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Ağaç:ağaç=NOUN lar:lar=PLURAL ın:ın=CASE_GEN" start_char="270" end_char="278">Ağaçların</TOKEN>
+<TOKEN id="token-3-1" pos="ADP" morph="da:da=POSTP" start_char="280" end_char="281">da</TOKEN>
+<TOKEN id="token-3-2" pos="ADJ" morph="yıkıl:yıkıl=VERB dığ:dığ=PARTICIPLE ı:ı=CASE_ACC" start_char="283" end_char="291">yıkıldığı</TOKEN>
+<TOKEN id="token-3-3" pos="NOUN" morph="heyelan:heyelan=NOUN da:da=CASE_LOC" start_char="293" end_char="301">heyelanda</TOKEN>
+<TOKEN id="token-3-4" pos="NUM" morph="bir:bir=NUM" start_char="303" end_char="305">bir</TOKEN>
+<TOKEN id="token-3-5" pos="NOUN" morph="araç:araç=NOUN" start_char="307" end_char="310">araç</TOKEN>
+<TOKEN id="token-3-6" pos="NOUN" morph="zarar:zarar=NOUN" start_char="312" end_char="316">zarar</TOKEN>
+<TOKEN id="token-3-7" pos="VERB" morph="görürken:görürken=VERB" start_char="318" end_char="325">görürken</TOKEN>
+<TOKEN id="token-3-8" pos="." morph="none" start_char="326" end_char="326">,</TOKEN>
+<TOKEN id="token-3-9" pos="NOUN" morph="toprak:toprak=NOUN" start_char="328" end_char="333">toprak</TOKEN>
+<TOKEN id="token-3-10" pos="NOUN" morph="yığın:yığın=NOUN ı:ı=CASE_ACC" start_char="335" end_char="340">yığını</TOKEN>
+<TOKEN id="token-3-11" pos="CONJ" morph="ve:ve=CONJ" start_char="342" end_char="343">ve</TOKEN>
+<TOKEN id="token-3-12" pos="NOUN" morph="ağaç:ağaç=NOUN lar:lar=PLURAL" start_char="345" end_char="351">ağaçlar</TOKEN>
+<TOKEN id="token-3-13" pos="NOUN" morph="belediye:belediye=NOUN" start_char="353" end_char="360">belediye</TOKEN>
+<TOKEN id="token-3-14" pos="ADV" morph="ekiplerince:ekiplerince=ADV" start_char="362" end_char="372">ekiplerince</TOKEN>
+<TOKEN id="token-3-15" pos="VERB" morph="temizle:temizle=VERB n:n=REFL di:di=DIPAST" start_char="374" end_char="383">temizlendi</TOKEN>
+<TOKEN id="token-3-16" pos="." morph="none" start_char="384" end_char="384">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="387" end_char="466">
+<ORIGINAL_TEXT>Olay saat 10.30 sularında Kirmanlı Mahallesi Zirve Sokak üzerinde meydana geldi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="NOUN" morph="Olay:olay=NOUN" start_char="387" end_char="390">Olay</TOKEN>
+<TOKEN id="token-4-1" pos="NOUN" morph="saat:saat=NOUN" start_char="392" end_char="395">saat</TOKEN>
+<TOKEN id="token-4-2" pos="NUM" morph="none" start_char="397" end_char="401">10.30</TOKEN>
+<TOKEN id="token-4-3" pos="ADV" morph="sularında:sularında=ADV" start_char="403" end_char="411">sularında</TOKEN>
+<TOKEN id="token-4-4" pos="NOUN" morph="Kirmanlı:kirmanlı=NOUN" start_char="413" end_char="420">Kirmanlı</TOKEN>
+<TOKEN id="token-4-5" pos="NOUN" morph="Mahalle:mahalle=NOUN si:si=POSS_3S" start_char="422" end_char="430">Mahallesi</TOKEN>
+<TOKEN id="token-4-6" pos="NOUN" morph="Zirve:zirve=NOUN" start_char="432" end_char="436">Zirve</TOKEN>
+<TOKEN id="token-4-7" pos="NOUN" morph="Sokak:sokak=NOUN" start_char="438" end_char="442">Sokak</TOKEN>
+<TOKEN id="token-4-8" pos="ADP" morph="üzerinde:üzerinde=POSTP" start_char="444" end_char="451">üzerinde</TOKEN>
+<TOKEN id="token-4-9" pos="NOUN" morph="meydan:meydan=NOUN a:a=CASE_DAT" start_char="453" end_char="459">meydana</TOKEN>
+<TOKEN id="token-4-10" pos="VERB" morph="gel:gel=VERB di:di=DIPAST" start_char="461" end_char="465">geldi</TOKEN>
+<TOKEN id="token-4-11" pos="." morph="none" start_char="466" end_char="466">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="468" end_char="557">
+<ORIGINAL_TEXT>Alınan bilgilere göre dün gece itibari ile başlayan sağanak yağış kısa sürede etkili oldu.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="ADJ" morph="Alın:alın=VERB an:an=PARTICIPLE" start_char="468" end_char="473">Alınan</TOKEN>
+<TOKEN id="token-5-1" pos="NOUN" morph="bilgi:bilgi=NOUN ler:ler=PLURAL e:e=CASE_DAT" start_char="475" end_char="483">bilgilere</TOKEN>
+<TOKEN id="token-5-2" pos="ADV" morph="göre:göre=ADV" start_char="485" end_char="488">göre</TOKEN>
+<TOKEN id="token-5-3" pos="ADJ" morph="dün:dün=ADJ" start_char="490" end_char="492">dün</TOKEN>
+<TOKEN id="token-5-4" pos="NOUN" morph="gece:gece=NOUN" start_char="494" end_char="497">gece</TOKEN>
+<TOKEN id="token-5-5" pos="ADP" morph="itibari:itibari=POSTP" start_char="499" end_char="505">itibari</TOKEN>
+<TOKEN id="token-5-6" pos="ADP" morph="ile:ile=POSTP" start_char="507" end_char="509">ile</TOKEN>
+<TOKEN id="token-5-7" pos="ADJ" morph="başla:başla=VERB yan:yan=PARTICIPLE" start_char="511" end_char="518">başlayan</TOKEN>
+<TOKEN id="token-5-8" pos="NOUN" morph="sağanak:sağanak=NOUN" start_char="520" end_char="526">sağanak</TOKEN>
+<TOKEN id="token-5-9" pos="NOUN" morph="yağış:yağış=NOUN" start_char="528" end_char="532">yağış</TOKEN>
+<TOKEN id="token-5-10" pos="ADJ" morph="kısa:kısa=ADJ" start_char="534" end_char="537">kısa</TOKEN>
+<TOKEN id="token-5-11" pos="NOUN" morph="süre:süre=NOUN de:de=CASE_LOC" start_char="539" end_char="544">sürede</TOKEN>
+<TOKEN id="token-5-12" pos="ADJ" morph="etkili:etkili=ADJ" start_char="546" end_char="551">etkili</TOKEN>
+<TOKEN id="token-5-13" pos="VERB" morph="ol:ol=VERB du:du=DIPAST" start_char="553" end_char="556">oldu</TOKEN>
+<TOKEN id="token-5-14" pos="." morph="none" start_char="557" end_char="557">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="559" end_char="583">
+<ORIGINAL_TEXT>Yollarda göletler oluştu.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="NOUN" morph="Yol:yol=NOUN lar:lar=PLURAL da:da=CASE_LOC" start_char="559" end_char="566">Yollarda</TOKEN>
+<TOKEN id="token-6-1" pos="NOUN" morph="gölet:gölet=NOUN ler:ler=PLURAL" start_char="568" end_char="575">göletler</TOKEN>
+<TOKEN id="token-6-2" pos="VERB" morph="ol:ol=VERB uş:uş=REC tu:tu=DIPAST" start_char="577" end_char="582">oluştu</TOKEN>
+<TOKEN id="token-6-3" pos="." morph="none" start_char="583" end_char="583">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="585" end_char="664">
+<ORIGINAL_TEXT>Kirmanlı Mahallesiʼnde ise yağmur sularından boşalan toprak heyelana neden oldu.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="NOUN" morph="Kirmanlı:kirmanlı=NOUN" start_char="585" end_char="592">Kirmanlı</TOKEN>
+<TOKEN id="token-7-1" pos="NOUN" morph="Mahallesiʼ:mahallesiʼ=NOUN n:n=POSS_2S de:de=CASE_LOC" start_char="594" end_char="606">Mahallesiʼnde</TOKEN>
+<TOKEN id="token-7-2" pos="ADP" morph="ise:ise=POSTP" start_char="608" end_char="610">ise</TOKEN>
+<TOKEN id="token-7-3" pos="NOUN" morph="yağmur:yağmur=NOUN" start_char="612" end_char="617">yağmur</TOKEN>
+<TOKEN id="token-7-4" pos="NOUN" morph="su:su=NOUN lar:lar=PLURAL ı:ı=POSS_3S ndan:ndan=CASE_ABL" start_char="619" end_char="628">sularından</TOKEN>
+<TOKEN id="token-7-5" pos="ADJ" morph="boşal:boşal=VERB an:an=PARTICIPLE" start_char="630" end_char="636">boşalan</TOKEN>
+<TOKEN id="token-7-6" pos="NOUN" morph="toprak:toprak=NOUN" start_char="638" end_char="643">toprak</TOKEN>
+<TOKEN id="token-7-7" pos="NOUN" morph="heyelan:heyelan=NOUN a:a=CASE_DAT" start_char="645" end_char="652">heyelana</TOKEN>
+<TOKEN id="token-7-8" pos="ADV" morph="neden:neden=ADV" start_char="654" end_char="658">neden</TOKEN>
+<TOKEN id="token-7-9" pos="VERB" morph="ol:ol=VERB du:du=DIPAST" start_char="660" end_char="663">oldu</TOKEN>
+<TOKEN id="token-7-10" pos="." morph="none" start_char="664" end_char="664">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="666" end_char="829">
+<ORIGINAL_TEXT>Sabah saatlerinde aniden yola kayan toprak ve ağaç altında bir araç kalırken, heyelan sırasında yoldan geçen olmaması sebebiyle yaralanma ya da can kaybı yaşanmadı.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="NOUN" morph="Sabah:sabah=NOUN" start_char="666" end_char="670">Sabah</TOKEN>
+<TOKEN id="token-8-1" pos="NOUN" morph="saat:saat=NOUN ler:ler=PLURAL i:i=POSS_3S nde:nde=CASE_LOC" start_char="672" end_char="682">saatlerinde</TOKEN>
+<TOKEN id="token-8-2" pos="ADJ" morph="ani:ani=ADJ den:den=CASE_ABL" start_char="684" end_char="689">aniden</TOKEN>
+<TOKEN id="token-8-3" pos="NOUN" morph="yol:yol=NOUN a:a=CASE_DAT" start_char="691" end_char="694">yola</TOKEN>
+<TOKEN id="token-8-4" pos="ADJ" morph="kay:kay=VERB an:an=PARTICIPLE" start_char="696" end_char="700">kayan</TOKEN>
+<TOKEN id="token-8-5" pos="NOUN" morph="toprak:toprak=NOUN" start_char="702" end_char="707">toprak</TOKEN>
+<TOKEN id="token-8-6" pos="CONJ" morph="ve:ve=CONJ" start_char="709" end_char="710">ve</TOKEN>
+<TOKEN id="token-8-7" pos="NOUN" morph="ağaç:ağaç=NOUN" start_char="712" end_char="715">ağaç</TOKEN>
+<TOKEN id="token-8-8" pos="ADJ" morph="alt:alt=ADJ ı:ı=POSS_3S nda:nda=CASE_LOC" start_char="717" end_char="723">altında</TOKEN>
+<TOKEN id="token-8-9" pos="NUM" morph="bir:bir=NUM" start_char="725" end_char="727">bir</TOKEN>
+<TOKEN id="token-8-10" pos="NOUN" morph="araç:araç=NOUN" start_char="729" end_char="732">araç</TOKEN>
+<TOKEN id="token-8-11" pos="ADV" morph="kalırken:kalırken=ADV" start_char="734" end_char="741">kalırken</TOKEN>
+<TOKEN id="token-8-12" pos="." morph="none" start_char="742" end_char="742">,</TOKEN>
+<TOKEN id="token-8-13" pos="NOUN" morph="heyelan:heyelan=NOUN" start_char="744" end_char="750">heyelan</TOKEN>
+<TOKEN id="token-8-14" pos="ADP" morph="sırasında:sırasında=POSTP" start_char="752" end_char="760">sırasında</TOKEN>
+<TOKEN id="token-8-15" pos="NOUN" morph="yol:yol=NOUN dan:dan=CASE_ABL" start_char="762" end_char="767">yoldan</TOKEN>
+<TOKEN id="token-8-16" pos="ADJ" morph="geç:geç=VERB en:en=PARTICIPLE" start_char="769" end_char="773">geçen</TOKEN>
+<TOKEN id="token-8-17" pos="ADV" morph="olmaması:olmaması=ADV" start_char="775" end_char="782">olmaması</TOKEN>
+<TOKEN id="token-8-18" pos="NOUN" morph="sebeb:sebep=NOUN i:i=POSS_3S yle:yle=CASE_INS" start_char="784" end_char="792">sebebiyle</TOKEN>
+<TOKEN id="token-8-19" pos="NOUN" morph="yaralanma:yaralanma=NOUN" start_char="794" end_char="802">yaralanma</TOKEN>
+<TOKEN id="token-8-20" pos="CONJ" morph="ya:ya=CONJ" start_char="804" end_char="805">ya</TOKEN>
+<TOKEN id="token-8-21" pos="CONJ" morph="da:da=CONJ" start_char="807" end_char="808">da</TOKEN>
+<TOKEN id="token-8-22" pos="NOUN" morph="can:can=NOUN" start_char="810" end_char="812">can</TOKEN>
+<TOKEN id="token-8-23" pos="NOUN" morph="kayb:kayb=NOUN ı:ı=POSS_3S" start_char="814" end_char="818">kaybı</TOKEN>
+<TOKEN id="token-8-24" pos="VERB" morph="yaşa:yaşa=VERB n:n=REFL ma:ma=NEG dı:dı=DIPAST" start_char="820" end_char="828">yaşanmadı</TOKEN>
+<TOKEN id="token-8-25" pos="." morph="none" start_char="829" end_char="829">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="832" end_char="903">
+<ORIGINAL_TEXT>Mahalle halkı heyelan sonrasında polis ve zabıta ekiplerine haber verdi.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="NOUN" morph="Mahalle:mahalle=NOUN" start_char="832" end_char="838">Mahalle</TOKEN>
+<TOKEN id="token-9-1" pos="NOUN" morph="halk:halk=NOUN ı:ı=POSS_3S" start_char="840" end_char="844">halkı</TOKEN>
+<TOKEN id="token-9-2" pos="NOUN" morph="heyelan:heyelan=NOUN" start_char="846" end_char="852">heyelan</TOKEN>
+<TOKEN id="token-9-3" pos="ADP" morph="sonrasında:sonrasında=POSTP" start_char="854" end_char="863">sonrasında</TOKEN>
+<TOKEN id="token-9-4" pos="NOUN" morph="polis:polis=NOUN" start_char="865" end_char="869">polis</TOKEN>
+<TOKEN id="token-9-5" pos="CONJ" morph="ve:ve=CONJ" start_char="871" end_char="872">ve</TOKEN>
+<TOKEN id="token-9-6" pos="NOUN" morph="zabıta:zabıta=NOUN" start_char="874" end_char="879">zabıta</TOKEN>
+<TOKEN id="token-9-7" pos="NOUN" morph="ekip:ekip=NOUN ler:ler=PLURAL i:i=POSS_3S ne:ne=CASE_DAT" start_char="881" end_char="890">ekiplerine</TOKEN>
+<TOKEN id="token-9-8" pos="NOUN" morph="haber:haber=NOUN" start_char="892" end_char="896">haber</TOKEN>
+<TOKEN id="token-9-9" pos="VERB" morph="ver:ver=VERB di:di=DIPAST" start_char="898" end_char="902">verdi</TOKEN>
+<TOKEN id="token-9-10" pos="." morph="none" start_char="903" end_char="903">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="905" end_char="970">
+<ORIGINAL_TEXT>Heyelan bölgesine gelen polisler, emniyet şeridi ile yolu kapattı.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="NOUN" morph="Heyelan:heyelan=NOUN" start_char="905" end_char="911">Heyelan</TOKEN>
+<TOKEN id="token-10-1" pos="NOUN" morph="bölge:bölge=NOUN si:si=POSS_3S ne:ne=CASE_DAT" start_char="913" end_char="921">bölgesine</TOKEN>
+<TOKEN id="token-10-2" pos="ADJ" morph="gel:gel=VERB en:en=PARTICIPLE" start_char="923" end_char="927">gelen</TOKEN>
+<TOKEN id="token-10-3" pos="NOUN" morph="polis:polis=NOUN ler:ler=PLURAL" start_char="929" end_char="936">polisler</TOKEN>
+<TOKEN id="token-10-4" pos="." morph="none" start_char="937" end_char="937">,</TOKEN>
+<TOKEN id="token-10-5" pos="NOUN" morph="emniyet:emniyet=NOUN" start_char="939" end_char="945">emniyet</TOKEN>
+<TOKEN id="token-10-6" pos="NOUN" morph="şerid:şerit=NOUN i:i=CASE_ACC" start_char="947" end_char="952">şeridi</TOKEN>
+<TOKEN id="token-10-7" pos="ADP" morph="ile:ile=POSTP" start_char="954" end_char="956">ile</TOKEN>
+<TOKEN id="token-10-8" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="958" end_char="961">yolu</TOKEN>
+<TOKEN id="token-10-9" pos="VERB" morph="kapat:kapat=VERB tı:tı=DIPAST" start_char="963" end_char="969">kapattı</TOKEN>
+<TOKEN id="token-10-10" pos="." morph="none" start_char="970" end_char="970">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="972" end_char="1153">
+<ORIGINAL_TEXT>Mahalle sakinlerinden Atalay Dilaver (21) olay sırasında dışarıda olduklarını heyelandan 10 saniye önce kamyonun geçtiğini ve hemen sonrasında da heyelanın meydana geldiğini söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="NOUN" morph="Mahalle:mahalle=NOUN" start_char="972" end_char="978">Mahalle</TOKEN>
+<TOKEN id="token-11-1" pos="NOUN" morph="sakin:sakin=NOUN ler:ler=PLURAL in:in=POSS_2S den:den=CASE_ABL" start_char="980" end_char="992">sakinlerinden</TOKEN>
+<TOKEN id="token-11-2" pos="NOUN" morph="Atalay:atalay=NOUN" start_char="994" end_char="999">Atalay</TOKEN>
+<TOKEN id="token-11-3" pos="NOUN" morph="Dilaver:dilaver=NOUN" start_char="1001" end_char="1007">Dilaver</TOKEN>
+<TOKEN id="token-11-4" pos="." morph="none" start_char="1009" end_char="1009">(</TOKEN>
+<TOKEN id="token-11-5" pos="NUM" morph="21:21=NUM" start_char="1010" end_char="1011">21</TOKEN>
+<TOKEN id="token-11-6" pos="." morph="none" start_char="1012" end_char="1012">)</TOKEN>
+<TOKEN id="token-11-7" pos="NOUN" morph="olay:olay=NOUN" start_char="1014" end_char="1017">olay</TOKEN>
+<TOKEN id="token-11-8" pos="ADP" morph="sırasında:sırasında=POSTP" start_char="1019" end_char="1027">sırasında</TOKEN>
+<TOKEN id="token-11-9" pos="ADJ" morph="dışarıda:dışarıda=ADJ" start_char="1029" end_char="1036">dışarıda</TOKEN>
+<TOKEN id="token-11-10" pos="VERB" morph="olduklarını:olduklarını=VERB" start_char="1038" end_char="1048">olduklarını</TOKEN>
+<TOKEN id="token-11-11" pos="NOUN" morph="heyelan:heyelan=NOUN dan:dan=CASE_ABL" start_char="1050" end_char="1059">heyelandan</TOKEN>
+<TOKEN id="token-11-12" pos="NUM" morph="none" start_char="1061" end_char="1062">10</TOKEN>
+<TOKEN id="token-11-13" pos="NOUN" morph="saniye:saniye=NOUN" start_char="1064" end_char="1069">saniye</TOKEN>
+<TOKEN id="token-11-14" pos="ADP" morph="önce:önce=POSTP" start_char="1071" end_char="1074">önce</TOKEN>
+<TOKEN id="token-11-15" pos="NOUN" morph="kamyon:kamyon=NOUN un:un=CASE_GEN" start_char="1076" end_char="1083">kamyonun</TOKEN>
+<TOKEN id="token-11-16" pos="ADJ" morph="geç:geç=VERB tiğ:tiğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="1085" end_char="1093">geçtiğini</TOKEN>
+<TOKEN id="token-11-17" pos="CONJ" morph="ve:ve=CONJ" start_char="1095" end_char="1096">ve</TOKEN>
+<TOKEN id="token-11-18" pos="ADV" morph="hemen:hemen=ADV" start_char="1098" end_char="1102">hemen</TOKEN>
+<TOKEN id="token-11-19" pos="NOUN" morph="sonra:sonra=NOUN sı:sı=POSS_3S nda:nda=CASE_LOC" start_char="1104" end_char="1113">sonrasında</TOKEN>
+<TOKEN id="token-11-20" pos="ADP" morph="da:da=POSTP" start_char="1115" end_char="1116">da</TOKEN>
+<TOKEN id="token-11-21" pos="NOUN" morph="heyelan:heyelan=NOUN ın:ın=CASE_GEN" start_char="1118" end_char="1126">heyelanın</TOKEN>
+<TOKEN id="token-11-22" pos="NOUN" morph="meydan:meydan=NOUN a:a=CASE_DAT" start_char="1128" end_char="1134">meydana</TOKEN>
+<TOKEN id="token-11-23" pos="ADJ" morph="gel:gel=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="1136" end_char="1144">geldiğini</TOKEN>
+<TOKEN id="token-11-24" pos="VERB" morph="söyle:söyle=VERB di:di=DIPAST" start_char="1146" end_char="1152">söyledi</TOKEN>
+<TOKEN id="token-11-25" pos="." morph="none" start_char="1153" end_char="1153">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1156" end_char="1399">
+<ORIGINAL_TEXT>Aşırı yağış nedeni ile heyelanın meydana geldiğini ifade eden İtfaiye Müdürü Muhammet Ali Ateş, ilk olarak ağacı ve daha sonra da toprak yığınını kaldırdıktan sonra yolu açacaklarını, bahçenin üst taraflarında da inceleme yapacaklarını söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="ADJ" morph="Aşırı:aşırı=ADJ" start_char="1156" end_char="1160">Aşırı</TOKEN>
+<TOKEN id="token-12-1" pos="NOUN" morph="yağış:yağış=NOUN" start_char="1162" end_char="1166">yağış</TOKEN>
+<TOKEN id="token-12-2" pos="NOUN" morph="neden:neden=NOUN i:i=CASE_ACC" start_char="1168" end_char="1173">nedeni</TOKEN>
+<TOKEN id="token-12-3" pos="CONJ" morph="ile:ile=CONJ" start_char="1175" end_char="1177">ile</TOKEN>
+<TOKEN id="token-12-4" pos="NOUN" morph="heyelan:heyelan=NOUN ın:ın=CASE_GEN" start_char="1179" end_char="1187">heyelanın</TOKEN>
+<TOKEN id="token-12-5" pos="NOUN" morph="meydan:meydan=NOUN a:a=CASE_DAT" start_char="1189" end_char="1195">meydana</TOKEN>
+<TOKEN id="token-12-6" pos="ADJ" morph="gel:gel=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="1197" end_char="1205">geldiğini</TOKEN>
+<TOKEN id="token-12-7" pos="NOUN" morph="ifade:ifade=NOUN" start_char="1207" end_char="1211">ifade</TOKEN>
+<TOKEN id="token-12-8" pos="ADP" morph="eden:eden=POSTP" start_char="1213" end_char="1216">eden</TOKEN>
+<TOKEN id="token-12-9" pos="NOUN" morph="İtfaiye:İtfaiye=NOUN" start_char="1218" end_char="1224">İtfaiye</TOKEN>
+<TOKEN id="token-12-10" pos="NOUN" morph="Müdür:müdür=NOUN ü:ü=POSS_3S" start_char="1226" end_char="1231">Müdürü</TOKEN>
+<TOKEN id="token-12-11" pos="NOUN" morph="Muhammet:muhammet=NOUN" start_char="1233" end_char="1240">Muhammet</TOKEN>
+<TOKEN id="token-12-12" pos="NOUN" morph="Ali:ali=NOUN" start_char="1242" end_char="1244">Ali</TOKEN>
+<TOKEN id="token-12-13" pos="NOUN" morph="Ateş:ateş=NOUN" start_char="1246" end_char="1249">Ateş</TOKEN>
+<TOKEN id="token-12-14" pos="." morph="none" start_char="1250" end_char="1250">,</TOKEN>
+<TOKEN id="token-12-15" pos="ADJ" morph="ilk:ilk=ADJ" start_char="1252" end_char="1254">ilk</TOKEN>
+<TOKEN id="token-12-16" pos="ADV" morph="olarak:olarak=ADV" start_char="1256" end_char="1261">olarak</TOKEN>
+<TOKEN id="token-12-17" pos="NOUN" morph="ağac:ağaç=NOUN ı:ı=CASE_ACC" start_char="1263" end_char="1267">ağacı</TOKEN>
+<TOKEN id="token-12-18" pos="CONJ" morph="ve:ve=CONJ" start_char="1269" end_char="1270">ve</TOKEN>
+<TOKEN id="token-12-19" pos="ADV" morph="daha:daha=ADV" start_char="1272" end_char="1275">daha</TOKEN>
+<TOKEN id="token-12-20" pos="ADV" morph="sonra:sonra=ADV" start_char="1277" end_char="1281">sonra</TOKEN>
+<TOKEN id="token-12-21" pos="ADP" morph="da:da=POSTP" start_char="1283" end_char="1284">da</TOKEN>
+<TOKEN id="token-12-22" pos="NOUN" morph="toprak:toprak=NOUN" start_char="1286" end_char="1291">toprak</TOKEN>
+<TOKEN id="token-12-23" pos="NOUN" morph="yığın:yığın=NOUN ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="1293" end_char="1300">yığınını</TOKEN>
+<TOKEN id="token-12-24" pos="ADJ" morph="kaldır:kaldır=VERB dık:dık=PARTICIPLE tan:tan=CASE_ABL" start_char="1302" end_char="1313">kaldırdıktan</TOKEN>
+<TOKEN id="token-12-25" pos="ADV" morph="sonra:sonra=ADV" start_char="1315" end_char="1319">sonra</TOKEN>
+<TOKEN id="token-12-26" pos="NOUN" morph="yol:yol=NOUN u:u=CASE_ACC" start_char="1321" end_char="1324">yolu</TOKEN>
+<TOKEN id="token-12-27" pos="VERB" morph="açacaklarını:açacaklarını=VERB" start_char="1326" end_char="1337">açacaklarını</TOKEN>
+<TOKEN id="token-12-28" pos="." morph="none" start_char="1338" end_char="1338">,</TOKEN>
+<TOKEN id="token-12-29" pos="ADJ" morph="bahçe:bahçe=ADJ nin:nin=CASE_GEN" start_char="1340" end_char="1347">bahçenin</TOKEN>
+<TOKEN id="token-12-30" pos="ADJ" morph="üst:üst=ADJ" start_char="1349" end_char="1351">üst</TOKEN>
+<TOKEN id="token-12-31" pos="NOUN" morph="taraf:taraf=NOUN lar:lar=PLURAL ı:ı=POSS_3S nda:nda=CASE_LOC" start_char="1353" end_char="1364">taraflarında</TOKEN>
+<TOKEN id="token-12-32" pos="ADP" morph="da:da=POSTP" start_char="1366" end_char="1367">da</TOKEN>
+<TOKEN id="token-12-33" pos="NOUN" morph="inceleme:inceleme=NOUN" start_char="1369" end_char="1376">inceleme</TOKEN>
+<TOKEN id="token-12-34" pos="VERB" morph="yapacaklarını:yapacaklarını=VERB" start_char="1378" end_char="1390">yapacaklarını</TOKEN>
+<TOKEN id="token-12-35" pos="VERB" morph="söyle:söyle=VERB di:di=DIPAST" start_char="1392" end_char="1398">söyledi</TOKEN>
+<TOKEN id="token-12-36" pos="." morph="none" start_char="1399" end_char="1399">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1402" end_char="1499">
+<ORIGINAL_TEXT>Kirmanlı Mahalle Muhtarı Nurettin Yaman ise bu olayın mahallesinde ikinci kez yaşandığını söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="NOUN" morph="Kirmanlı:kirmanlı=NOUN" start_char="1402" end_char="1409">Kirmanlı</TOKEN>
+<TOKEN id="token-13-1" pos="NOUN" morph="Mahalle:mahalle=NOUN" start_char="1411" end_char="1417">Mahalle</TOKEN>
+<TOKEN id="token-13-2" pos="NOUN" morph="Muhtar:muhtar=NOUN ı:ı=CASE_ACC" start_char="1419" end_char="1425">Muhtarı</TOKEN>
+<TOKEN id="token-13-3" pos="NOUN" morph="Nurettin:nurettin=NOUN" start_char="1427" end_char="1434">Nurettin</TOKEN>
+<TOKEN id="token-13-4" pos="NOUN" morph="Yaman:yaman=NOUN" start_char="1436" end_char="1440">Yaman</TOKEN>
+<TOKEN id="token-13-5" pos="ADV" morph="ise:ise=ADV" start_char="1442" end_char="1444">ise</TOKEN>
+<TOKEN id="token-13-6" pos="PRON" morph="bu:bu=DEMPRON" start_char="1446" end_char="1447">bu</TOKEN>
+<TOKEN id="token-13-7" pos="NOUN" morph="olay:olay=NOUN ın:ın=CASE_GEN" start_char="1449" end_char="1454">olayın</TOKEN>
+<TOKEN id="token-13-8" pos="NOUN" morph="mahalle:mahalle=NOUN si:si=POSS_3S nde:nde=CASE_LOC" start_char="1456" end_char="1467">mahallesinde</TOKEN>
+<TOKEN id="token-13-9" pos="NUM" morph="iki:iki=NUM nci:nci=ORD" start_char="1469" end_char="1474">ikinci</TOKEN>
+<TOKEN id="token-13-10" pos="ADV" morph="kez:kez=ADV" start_char="1476" end_char="1478">kez</TOKEN>
+<TOKEN id="token-13-11" pos="ADJ" morph="yaşan:yaşan=VERB dığ:dığ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="1480" end_char="1490">yaşandığını</TOKEN>
+<TOKEN id="token-13-12" pos="VERB" morph="söyle:söyle=VERB di:di=DIPAST" start_char="1492" end_char="1498">söyledi</TOKEN>
+<TOKEN id="token-13-13" pos="." morph="none" start_char="1499" end_char="1499">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

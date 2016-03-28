@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="DF_KIT_UZB_027040_20140900" lang="UZB">
+    <ANNOTATION id="DF_KIT_UZB_027040_20140900-NE2" task="NE">
+      <EXTENT start_char="0" end_char="10">A.S.Pushkin</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="DF_KIT_UZB_027040_20140900-NE3" task="NE">
+      <EXTENT start_char="127" end_char="130">shoh</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="DF_KIT_UZB_027040_20140900-NE4" task="NE">
+      <EXTENT start_char="132" end_char="144">Dadon Yoshlik</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="DF_KIT_UZB_027040_20140900-NE5" task="NE">
+      <EXTENT start_char="424" end_char="428">Dadon</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="DF_KIT_UZB_027040_20140900-NE6" task="NE">
+      <EXTENT start_char="4615" end_char="4620">Malika</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="DF_KIT_UZB_027040_20140900-NE7" task="NE">
+      <EXTENT start_char="4844" end_char="4851">Shamoxon</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="DF_KIT_UZB_027040_20140900-NE8" task="NE">
+      <EXTENT start_char="4405" end_char="4412">Shamoxon</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="DF_KIT_UZB_027040_20140900-NE9" task="NE">
+      <EXTENT start_char="4473" end_char="4477">Dadon</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="DF_KIT_UZB_027040_20140900-NE10" task="NE">
+      <EXTENT start_char="2165" end_char="2169">Dadon</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

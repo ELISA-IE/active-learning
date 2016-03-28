@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_CRI_HAU_006511_20141204">
+<TEXT>
+<SEG end_char="159" id="segment-0" start_char="0">
+<ORIGINAL_TEXT>Babban magatakardar MDD Ban Ki-moon ya bayyana bukatar samarwa nakasassu damar amfana daga sabbin fasahohin zamani, ta yadda za su rika samun muhimman sakwanni.</ORIGINAL_TEXT>
+<TOKEN end_char="5" id="token-0-0" morph="Babba:babba=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="0">Babban</TOKEN>
+<TOKEN end_char="18" id="token-0-1" morph="magatakarda:magatakarda=NOUN r:r=CONSTRUCT" pos="NOUN" start_char="7">magatakardar</TOKEN>
+<TOKEN end_char="22" id="token-0-2" morph="MDD:mdd=NOUN" pos="NOUN" start_char="20">MDD</TOKEN>
+<TOKEN end_char="26" id="token-0-3" morph="Ban:ban=NOUN" pos="NOUN" start_char="24">Ban</TOKEN>
+<TOKEN end_char="29" id="token-0-4" morph="Ki:ki=NOUN" pos="NOUN" start_char="28">Ki</TOKEN>
+<TOKEN end_char="30" id="token-0-5" morph="none" pos="punct" start_char="30">-</TOKEN>
+<TOKEN end_char="34" id="token-0-6" morph="moon:moon=NOUN" pos="NOUN" start_char="31">moon</TOKEN>
+<TOKEN end_char="37" id="token-0-7" morph="ya:ya=PRON_WSP_3SM" pos="PRON" start_char="36">ya</TOKEN>
+<TOKEN end_char="45" id="token-0-8" morph="bayyana:bayyana=VERB" pos="VERB" start_char="39">bayyana</TOKEN>
+<TOKEN end_char="53" id="token-0-9" morph="bukata:bukata=NOUN r:r=CONSTRUCT" pos="NOUN" start_char="47">bukatar</TOKEN>
+<TOKEN end_char="61" id="token-0-10" morph="samarwa:samarwa=VERB" pos="VERB" start_char="55">samarwa</TOKEN>
+<TOKEN end_char="71" id="token-0-11" morph="nakasassu:nakasassu=NOUN" pos="NOUN" start_char="63">nakasassu</TOKEN>
+<TOKEN end_char="77" id="token-0-12" morph="dama:dama=NOUN r:r=CONSTRUCT" pos="NOUN" start_char="73">damar</TOKEN>
+<TOKEN end_char="84" id="token-0-13" morph="amfana:amfana=VERB" pos="VERB" start_char="79">amfana</TOKEN>
+<TOKEN end_char="89" id="token-0-14" morph="daga:daga=PREP" pos="PREP" start_char="86">daga</TOKEN>
+<TOKEN end_char="96" id="token-0-15" morph="sabbi:sabbi=ADJ n:n=CONSTRUCT" pos="ADJ" start_char="91">sabbin</TOKEN>
+<TOKEN end_char="106" id="token-0-16" morph="fasahohi:fasahohi=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="98">fasahohin</TOKEN>
+<TOKEN end_char="113" id="token-0-17" morph="zamani:zamani=NOUN" pos="NOUN" start_char="108">zamani</TOKEN>
+<TOKEN end_char="114" id="token-0-18" morph="none" pos="punct" start_char="114">,</TOKEN>
+<TOKEN end_char="117" id="token-0-19" morph="ta:ta=CONSTRUCT" pos="CONSTRUCT" start_char="116">ta</TOKEN>
+<TOKEN end_char="123" id="token-0-20" morph="yadda:yadda=ADV" pos="ADV" start_char="119">yadda</TOKEN>
+<TOKEN end_char="126" id="token-0-21" morph="za:za=FUT1" pos="PRON" start_char="125">za</TOKEN>
+<TOKEN end_char="129" id="token-0-22" morph="su:su=PRON_WSP_3P" pos="PRON" start_char="128">su</TOKEN>
+<TOKEN end_char="134" id="token-0-23" morph="rika:rika=VERB" pos="VERB" start_char="131">rika</TOKEN>
+<TOKEN end_char="140" id="token-0-24" morph="samun:samun=NOUN" pos="NOUN" start_char="136">samun</TOKEN>
+<TOKEN end_char="149" id="token-0-25" morph="muhimma:muhimma=NOUN n:n=CONSTRUCT" pos="NOUN" start_char="142">muhimman</TOKEN>
+<TOKEN end_char="158" id="token-0-26" morph="sakwanni:sakwanni=NOUN" pos="NOUN" start_char="151">sakwanni</TOKEN>
+<TOKEN end_char="159" id="token-0-27" morph="none" pos="punct" start_char="159">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_CNN_ENG_0093_20001107.uzb" lang="UZB">
+    <ANNOTATION id="NW_CNN_ENG_0093_20001107.uzb-NE1" task="NE">
+      <EXTENT start_char="262" end_char="267">Nevada</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0093_20001107.uzb-NE2" task="NE">
+      <EXTENT start_char="25" end_char="30">oregon</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0093_20001107.uzb-NE3" task="NE">
+      <EXTENT start_char="187" end_char="195">politsiya</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0093_20001107.uzb-NE4" task="NE">
+      <EXTENT start_char="269" end_char="304">xavfsizlikni muxofaza qiluvchi idora</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0093_20001107.uzb-NE5" task="NE">
+      <EXTENT start_char="137" end_char="154">Fellon Mari Xodjes</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

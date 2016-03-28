@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_OZO_UZB_165244_20140900" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="467" raw_text_md5="fac28c2286399ec5176b2fed07fa4896">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="56">
+<ORIGINAL_TEXT>Chilida 33 konchining hammasi yer ostidan chiqarib olindi</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="Chili=chili:NOUN da=da:+CASE_LOC" start_char="0" end_char="6">Chilida</TOKEN>
+<TOKEN id="token-0-1" pos="number" morph="none" start_char="8" end_char="9">33</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="konchi=konchi:NOUN ning=ning:+CASE_GEN" start_char="11" end_char="20">konchining</TOKEN>
+<TOKEN id="token-0-3" pos="DET" morph="hammasi=hammasi:DET" start_char="22" end_char="28">hammasi</TOKEN>
+<TOKEN id="token-0-4" pos="NOUN" morph="yer=yer:NOUN" start_char="30" end_char="32">yer</TOKEN>
+<TOKEN id="token-0-5" pos="POSTP" morph="ostidan=ostidan:POSTP" start_char="34" end_char="40">ostidan</TOKEN>
+<TOKEN id="token-0-6" pos="VERB" morph="chiqar=chiqar:VERB ib=ib:+GERUND-PAST" start_char="42" end_char="49">chiqarib</TOKEN>
+<TOKEN id="token-0-7" pos="VERB" morph="ol=ol:VERB in=in:+REFL di=di:+PAST_3S" start_char="51" end_char="56">olindi</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="59" end_char="169">
+<ORIGINAL_TEXT>Chilida yer ostidagi konda avgust oyidan buyon qamalib qolgan 33 konchini qutqarish amaliyoti nihoyasiga yetdi.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="Chili=chili:NOUN da=da:+CASE_LOC" start_char="59" end_char="65">Chilida</TOKEN>
+<TOKEN id="token-1-1" pos="NOUN" morph="yer=yer:NOUN" start_char="67" end_char="69">yer</TOKEN>
+<TOKEN id="token-1-2" pos="ADJ" morph="ostidagi=ostidagi:ADJ" start_char="71" end_char="78">ostidagi</TOKEN>
+<TOKEN id="token-1-3" pos="NOUN" morph="kon=kon:NOUN da=da:+CASE_LOC" start_char="80" end_char="84">konda</TOKEN>
+<TOKEN id="token-1-4" pos="NOUN" morph="avgust=avgust:NOUN" start_char="86" end_char="91">avgust</TOKEN>
+<TOKEN id="token-1-5" pos="NOUN" morph="oy=oy:NOUN idan=idan:+POSS_3P+CASE_ABL" start_char="93" end_char="98">oyidan</TOKEN>
+<TOKEN id="token-1-6" pos="ADJ" morph="buyon=buyon:ADJ" start_char="100" end_char="104">buyon</TOKEN>
+<TOKEN id="token-1-7" pos="VERB" morph="qamal=qamal:VERB ib=ib:+GERUND-PAST" start_char="106" end_char="112">qamalib</TOKEN>
+<TOKEN id="token-1-8" pos="VERB" morph="qol=qol:VERB gan=gan:+PART-PAST" start_char="114" end_char="119">qolgan</TOKEN>
+<TOKEN id="token-1-9" pos="number" morph="none" start_char="121" end_char="122">33</TOKEN>
+<TOKEN id="token-1-10" pos="NOUN" morph="konchini=konchini:NOUN" start_char="124" end_char="131">konchini</TOKEN>
+<TOKEN id="token-1-11" pos="NOUN" morph="qutqarish=qutqarish:NOUN" start_char="133" end_char="141">qutqarish</TOKEN>
+<TOKEN id="token-1-12" pos="NOUN" morph="amaliyot=amaliyot:NOUN i=i:+POSS_3S" start_char="143" end_char="151">amaliyoti</TOKEN>
+<TOKEN id="token-1-13" pos="NOUN" morph="nihoya=nihoya:NOUN siga=siga:+POSS_3S+CASE_DAT" start_char="153" end_char="162">nihoyasiga</TOKEN>
+<TOKEN id="token-1-14" pos="VERB" morph="yet=yet:VERB di=di:+PAST_3S" start_char="164" end_char="168">yetdi</TOKEN>
+<TOKEN id="token-1-15" pos="." morph="none" start_char="169" end_char="169">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="172" end_char="305">
+<ORIGINAL_TEXT>Bir necha yuz metr chuqurlikda qolib ketgan konchilarning barchasi tor tuynuk orqali maxsus moslama yordamida birma-bir tortib olindi.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="NUM" morph="Bir=bir:NUM" start_char="172" end_char="174">Bir</TOKEN>
+<TOKEN id="token-2-1" pos="ADV" morph="necha=necha:ADV" start_char="176" end_char="180">necha</TOKEN>
+<TOKEN id="token-2-2" pos="NUM" morph="yuz=yuz:NUM" start_char="182" end_char="184">yuz</TOKEN>
+<TOKEN id="token-2-3" pos="NOUN" morph="metr=metr:NOUN" start_char="186" end_char="189">metr</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="chuqurlik=chuqurlik:NOUN da=da:+CASE_LOC" start_char="191" end_char="201">chuqurlikda</TOKEN>
+<TOKEN id="token-2-5" pos="VERB" morph="qol=qol:VERB ib=ib:+GERUND-PAST" start_char="203" end_char="207">qolib</TOKEN>
+<TOKEN id="token-2-6" pos="VERB" morph="ket=ket:VERB gan=gan:+PAST-PERF_3S" start_char="209" end_char="214">ketgan</TOKEN>
+<TOKEN id="token-2-7" pos="NOUN" morph="konchi=konchi:NOUN larning=larning:+PLURAL+CASE_GEN" start_char="216" end_char="228">konchilarning</TOKEN>
+<TOKEN id="token-2-8" pos="NOUN" morph="barcha=barcha:NOUN si=si:+POSS_3S" start_char="230" end_char="237">barchasi</TOKEN>
+<TOKEN id="token-2-9" pos="ADJ" morph="tor=tor:ADJ" start_char="239" end_char="241">tor</TOKEN>
+<TOKEN id="token-2-10" pos="NOUN" morph="tuynuk=tuynuk:NOUN" start_char="243" end_char="248">tuynuk</TOKEN>
+<TOKEN id="token-2-11" pos="PREP" morph="orqali=orqali:PREP" start_char="250" end_char="255">orqali</TOKEN>
+<TOKEN id="token-2-12" pos="ADJ" morph="maxsus=maxsus:ADJ" start_char="257" end_char="262">maxsus</TOKEN>
+<TOKEN id="token-2-13" pos="NOUN" morph="moslama=moslama:NOUN" start_char="264" end_char="270">moslama</TOKEN>
+<TOKEN id="token-2-14" pos="ADV" morph="yordamida=yordamida:ADV" start_char="272" end_char="280">yordamida</TOKEN>
+<TOKEN id="token-2-15" pos="ADJ" morph="birma=birma:ADJ" start_char="282" end_char="286">birma</TOKEN>
+<TOKEN id="token-2-16" pos="." morph="none" start_char="287" end_char="287">-</TOKEN>
+<TOKEN id="token-2-17" pos="NUM" morph="bir=bir:NUM" start_char="288" end_char="290">bir</TOKEN>
+<TOKEN id="token-2-18" pos="VERB" morph="tort=tort:VERB ib=ib:+GERUND-PAST" start_char="292" end_char="297">tortib</TOKEN>
+<TOKEN id="token-2-19" pos="VERB" morph="ol=ol:VERB in=in:+REFL di=di:+PAST_3S" start_char="299" end_char="304">olindi</TOKEN>
+<TOKEN id="token-2-20" pos="." morph="none" start_char="305" end_char="305">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="307" end_char="391">
+<ORIGINAL_TEXT>700 metr chuqurlikda qolib ketgan chililik konchilar 69 kunni yer tagida oʻtkazishdi.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="number" morph="none" start_char="307" end_char="309">700</TOKEN>
+<TOKEN id="token-3-1" pos="NOUN" morph="metr=metr:NOUN" start_char="311" end_char="314">metr</TOKEN>
+<TOKEN id="token-3-2" pos="NOUN" morph="chuqurlik=chuqurlik:NOUN da=da:+CASE_LOC" start_char="316" end_char="326">chuqurlikda</TOKEN>
+<TOKEN id="token-3-3" pos="VERB" morph="qol=qol:VERB ib=ib:+GERUND-PAST" start_char="328" end_char="332">qolib</TOKEN>
+<TOKEN id="token-3-4" pos="VERB" morph="ket=ket:VERB gan=gan:+PART-PAST" start_char="334" end_char="339">ketgan</TOKEN>
+<TOKEN id="token-3-5" pos="ADJ" morph="chililik=chililik:ADJ" start_char="341" end_char="348">chililik</TOKEN>
+<TOKEN id="token-3-6" pos="NOUN" morph="konchi=konchi:NOUN lar=lar:+PLURAL" start_char="350" end_char="358">konchilar</TOKEN>
+<TOKEN id="token-3-7" pos="number" morph="none" start_char="360" end_char="361">69</TOKEN>
+<TOKEN id="token-3-8" pos="unanalyzable" morph="unanalyzable" start_char="363" end_char="367">kunni</TOKEN>
+<TOKEN id="token-3-9" pos="NOUN" morph="yer=yer:NOUN" start_char="369" end_char="371">yer</TOKEN>
+<TOKEN id="token-3-10" pos="NOUN" morph="tagi=tagi:NOUN da=da:+CASE_LOC" start_char="373" end_char="378">tagida</TOKEN>
+<TOKEN id="token-3-11" pos="VERB" morph="oʻtkazish=oʻtkazish:VERB di=di:+PAST_3S" start_char="380" end_char="390">oʻtkazishdi</TOKEN>
+<TOKEN id="token-3-12" pos="." morph="none" start_char="391" end_char="391">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="394" end_char="464">
+<ORIGINAL_TEXT>Ularga tor tuynuk orqali oziq-ovqat va ichimlik yetkazib berib turildi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="DEMPRON_3P" morph="Ular=ular:DEMPRON_3P ga=ga:+CASE_DAT" start_char="394" end_char="399">Ularga</TOKEN>
+<TOKEN id="token-4-1" pos="ADJ" morph="tor=tor:ADJ" start_char="401" end_char="403">tor</TOKEN>
+<TOKEN id="token-4-2" pos="NOUN" morph="tuynuk=tuynuk:NOUN" start_char="405" end_char="410">tuynuk</TOKEN>
+<TOKEN id="token-4-3" pos="PREP" morph="orqali=orqali:PREP" start_char="412" end_char="417">orqali</TOKEN>
+<TOKEN id="token-4-4" pos="NOUN" morph="oziq=oziq:NOUN" start_char="419" end_char="422">oziq</TOKEN>
+<TOKEN id="token-4-5" pos="." morph="none" start_char="423" end_char="423">-</TOKEN>
+<TOKEN id="token-4-6" pos="NOUN" morph="ovqat=ovqat:NOUN" start_char="424" end_char="428">ovqat</TOKEN>
+<TOKEN id="token-4-7" pos="CONJ" morph="va=va:CONJ" start_char="430" end_char="431">va</TOKEN>
+<TOKEN id="token-4-8" pos="NOUN" morph="ichimlik=ichimlik:NOUN" start_char="433" end_char="440">ichimlik</TOKEN>
+<TOKEN id="token-4-9" pos="VERB" morph="yetkaz=yetkaz:VERB ib=ib:+GERUND-PAST" start_char="442" end_char="449">yetkazib</TOKEN>
+<TOKEN id="token-4-10" pos="VERB" morph="ber=ber:VERB ib=ib:+GERUND-PAST" start_char="451" end_char="455">berib</TOKEN>
+<TOKEN id="token-4-11" pos="VERB" morph="tur=tur:VERB il=il:+PASS di=di:+PAST_3S" start_char="457" end_char="463">turildi</TOKEN>
+<TOKEN id="token-4-12" pos="." morph="none" start_char="464" end_char="464">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

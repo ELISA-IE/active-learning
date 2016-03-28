@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="HAU">
+  <DOC id="WL_NUR_HAU_007876_20100705_segment-12" lang="HAU">
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-25" task="NE" type="TTL">
+      <EXTENT start_char="2198" end_char="2203">Shiekh</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-26" task="NE" type="PER">
+      <EXTENT start_char="2205" end_char="2215">Ahmad Yasin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-27" task="NE" type="LOC">
+      <EXTENT start_char="2389" end_char="2397">Palastinu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-28" task="NE" type="ORG">
+      <EXTENT start_char="2402" end_char="2404">PLO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-ann-29" task="NE" type="ORG">
+      <EXTENT start_char="2373" end_char="2397">kungiyar ʼyanto Palastinu</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

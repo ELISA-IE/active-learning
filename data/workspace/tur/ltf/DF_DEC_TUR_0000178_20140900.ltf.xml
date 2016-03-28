@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_DEC_TUR_0000178_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1112" raw_text_md5="209c4ff237ce930b13e9dfee959c3a46">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="35">
+<ORIGINAL_TEXT>sarı humma aşısı nerde yapılıyordu..</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="3">sarı</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="9">humma</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="11" end_char="15">aşısı</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="17" end_char="21">nerde</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="23" end_char="33">yapılıyordu</TOKEN>
+<TOKEN id="token-0-5" pos="punct" morph="none" start_char="34" end_char="35">..</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="38" end_char="135">
+<ORIGINAL_TEXT>karaköy meydanda sağil sağlık hudut binasında 1saatte işin biter 10yıl geçerlidir 30 ytl fiyatıdır</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="38" end_char="44">karaköy</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="46" end_char="53">meydanda</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="55" end_char="59">sağil</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="61" end_char="66">sağlık</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="68" end_char="72">hudut</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="74" end_char="82">binasında</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="84" end_char="90">1saatte</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="92" end_char="95">işin</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="97" end_char="101">biter</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="103" end_char="107">10yıl</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="109" end_char="118">geçerlidir</TOKEN>
+<TOKEN id="token-1-11" pos="number" morph="none" start_char="120" end_char="121">30</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="123" end_char="125">ytl</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="127" end_char="135">fiyatıdır</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="138" end_char="158">
+<ORIGINAL_TEXT>gerekli evrak lazımmı</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="138" end_char="144">gerekli</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="146" end_char="150">evrak</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="152" end_char="158">lazımmı</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="161" end_char="240">
+<ORIGINAL_TEXT>hayır kafa kağıdı yetiyor .cüzdaın yanındaysa götürebilirsin ben alalı 1yıl oldu</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="161" end_char="165">hayır</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="167" end_char="170">kafa</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="172" end_char="177">kağıdı</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="179" end_char="185">yetiyor</TOKEN>
+<TOKEN id="token-3-4" pos="punct" morph="none" start_char="187" end_char="187">.</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="188" end_char="194">cüzdaın</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="196" end_char="205">yanındaysa</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="207" end_char="220">götürebilirsin</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="222" end_char="224">ben</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="226" end_char="230">alalı</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="232" end_char="235">1yıl</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="237" end_char="240">oldu</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="243" end_char="346">
+<ORIGINAL_TEXT>teşekkürler murat dörtkulak...bugün niyetliyim aşı orucu bozar..şirkette acil bekliyor bakalım ne olacak</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="243" end_char="253">teşekkürler</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="255" end_char="259">murat</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="261" end_char="269">dörtkulak</TOKEN>
+<TOKEN id="token-4-3" pos="punct" morph="none" start_char="270" end_char="272">...</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="273" end_char="277">bugün</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="279" end_char="288">niyetliyim</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="290" end_char="292">aşı</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="294" end_char="298">orucu</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="300" end_char="304">bozar</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="305" end_char="306">..</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="307" end_char="314">şirkette</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="316" end_char="319">acil</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="321" end_char="328">bekliyor</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="330" end_char="336">bakalım</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="338" end_char="339">ne</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="341" end_char="346">olacak</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="349" end_char="452">
+<ORIGINAL_TEXT>buğün ölecekmiş gibi ahiret için hiç ölmeyecekmiş gibi dünya için çalış buyurmuşlar kararsenin aşçıbaşım</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="349" end_char="353">buğün</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="355" end_char="363">ölecekmiş</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="365" end_char="368">gibi</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="370" end_char="375">ahiret</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="377" end_char="380">için</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="382" end_char="384">hiç</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="386" end_char="397">ölmeyecekmiş</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="399" end_char="402">gibi</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="404" end_char="408">dünya</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="410" end_char="413">için</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="415" end_char="419">çalış</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="421" end_char="431">buyurmuşlar</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="433" end_char="442">kararsenin</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="444" end_char="452">aşçıbaşım</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="455" end_char="573">
+<ORIGINAL_TEXT>Kanka bak Tuzla liman başkanlığının oradaki sağlık hudut binasında ÜCRETSİZ yapılıyor haberin olsun boşuna 30 YTL verme</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="455" end_char="459">Kanka</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="461" end_char="463">bak</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="465" end_char="469">Tuzla</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="471" end_char="475">liman</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="477" end_char="489">başkanlığının</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="491" end_char="497">oradaki</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="499" end_char="504">sağlık</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="506" end_char="510">hudut</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="512" end_char="520">binasında</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="522" end_char="529">ÜCRETSİZ</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="531" end_char="539">yapılıyor</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="541" end_char="547">haberin</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="549" end_char="553">olsun</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="555" end_char="560">boşuna</TOKEN>
+<TOKEN id="token-6-14" pos="number" morph="none" start_char="562" end_char="563">30</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="565" end_char="567">YTL</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="569" end_char="573">verme</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="576" end_char="676">
+<ORIGINAL_TEXT>oaraya kuş uçmaz kervan geçmez allahın es geçtiği yer araban yoksa otostopla gider otostopla dönersin</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="576" end_char="581">oaraya</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="583" end_char="585">kuş</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="587" end_char="591">uçmaz</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="593" end_char="598">kervan</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="600" end_char="605">geçmez</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="607" end_char="613">allahın</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="615" end_char="616">es</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="618" end_char="624">geçtiği</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="626" end_char="628">yer</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="630" end_char="635">araban</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="637" end_char="641">yoksa</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="643" end_char="651">otostopla</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="653" end_char="657">gider</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="659" end_char="667">otostopla</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="669" end_char="676">dönersin</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="679" end_char="748">
+<ORIGINAL_TEXT>tuzlada sadıkoğlu tershanesinin karşısı ama araba yoksa gitmek çok zor</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="679" end_char="685">tuzlada</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="687" end_char="695">sadıkoğlu</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="697" end_char="709">tershanesinin</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="711" end_char="717">karşısı</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="719" end_char="721">ama</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="723" end_char="727">araba</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="729" end_char="733">yoksa</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="735" end_char="740">gitmek</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="742" end_char="744">çok</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="746" end_char="748">zor</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="751" end_char="1028">
+<ORIGINAL_TEXT>bu aşıya karaköyde yaptırısak paramı veriyoruz ana bende yaptırıcam gitti 30 lira daha...... buneya öksürsen para istiyorlar ... karaköyde 1 gün evvelden arayıp sıra alıp aşı olunuyor bedavaya .... karaköy İDO iskelesinin kadıköy vapurunun kalktığı yer hemen arkası ufak bi bina</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="751" end_char="752">bu</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="754" end_char="758">aşıya</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="760" end_char="768">karaköyde</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="770" end_char="779">yaptırısak</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="781" end_char="786">paramı</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="788" end_char="796">veriyoruz</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="798" end_char="800">ana</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="802" end_char="806">bende</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="808" end_char="817">yaptırıcam</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="819" end_char="823">gitti</TOKEN>
+<TOKEN id="token-9-10" pos="number" morph="none" start_char="825" end_char="826">30</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="828" end_char="831">lira</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="833" end_char="836">daha</TOKEN>
+<TOKEN id="token-9-13" pos="punct" morph="none" start_char="837" end_char="842">......</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="844" end_char="849">buneya</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="851" end_char="858">öksürsen</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="860" end_char="863">para</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="865" end_char="874">istiyorlar</TOKEN>
+<TOKEN id="token-9-18" pos="unknown" morph="none" start_char="876" end_char="878">...</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="880" end_char="888">karaköyde</TOKEN>
+<TOKEN id="token-9-20" pos="number" morph="none" start_char="890" end_char="890">1</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="892" end_char="894">gün</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="896" end_char="903">evvelden</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="905" end_char="910">arayıp</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="912" end_char="915">sıra</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="917" end_char="920">alıp</TOKEN>
+<TOKEN id="token-9-26" pos="word" morph="none" start_char="922" end_char="924">aşı</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="926" end_char="933">olunuyor</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="935" end_char="942">bedavaya</TOKEN>
+<TOKEN id="token-9-29" pos="unknown" morph="none" start_char="944" end_char="947">....</TOKEN>
+<TOKEN id="token-9-30" pos="word" morph="none" start_char="949" end_char="955">karaköy</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="957" end_char="959">İDO</TOKEN>
+<TOKEN id="token-9-32" pos="word" morph="none" start_char="961" end_char="971">iskelesinin</TOKEN>
+<TOKEN id="token-9-33" pos="word" morph="none" start_char="973" end_char="979">kadıköy</TOKEN>
+<TOKEN id="token-9-34" pos="word" morph="none" start_char="981" end_char="989">vapurunun</TOKEN>
+<TOKEN id="token-9-35" pos="word" morph="none" start_char="991" end_char="998">kalktığı</TOKEN>
+<TOKEN id="token-9-36" pos="word" morph="none" start_char="1000" end_char="1002">yer</TOKEN>
+<TOKEN id="token-9-37" pos="word" morph="none" start_char="1004" end_char="1008">hemen</TOKEN>
+<TOKEN id="token-9-38" pos="word" morph="none" start_char="1010" end_char="1015">arkası</TOKEN>
+<TOKEN id="token-9-39" pos="word" morph="none" start_char="1017" end_char="1020">ufak</TOKEN>
+<TOKEN id="token-9-40" pos="word" morph="none" start_char="1022" end_char="1023">bi</TOKEN>
+<TOKEN id="token-9-41" pos="word" morph="none" start_char="1025" end_char="1028">bina</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1031" end_char="1109">
+<ORIGINAL_TEXT>sahil hudut sağlık merkezlerinde gemi adamı cüzdanı olanlara ücretsiz yapıyolar</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1031" end_char="1035">sahil</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1037" end_char="1041">hudut</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1043" end_char="1048">sağlık</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1050" end_char="1062">merkezlerinde</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1064" end_char="1067">gemi</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1069" end_char="1073">adamı</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1075" end_char="1081">cüzdanı</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1083" end_char="1090">olanlara</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1092" end_char="1099">ücretsiz</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1101" end_char="1109">yapıyolar</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

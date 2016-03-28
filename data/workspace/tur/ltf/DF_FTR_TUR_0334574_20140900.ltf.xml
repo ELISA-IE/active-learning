@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_FTR_TUR_0334574_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1536" raw_text_md5="4cd3f4edc9f3298852d1f97cb2611d82">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="45">
+<ORIGINAL_TEXT>windows 98 den xp ye geçiş ve kapanmama sorunu</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="6">windows</TOKEN>
+<TOKEN id="token-0-1" pos="number" morph="none" start_char="8" end_char="9">98</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="11" end_char="13">den</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="15" end_char="16">xp</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="18" end_char="19">ye</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="21" end_char="25">geçiş</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="27" end_char="28">ve</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="30" end_char="38">kapanmama</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="40" end_char="45">sorunu</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="48" end_char="459">
+<ORIGINAL_TEXT>Merhaba arkadaşlar,bugün arkadaşımın windows 98 bilgisayarına xp pro-pack 2 kurdum.Fakat kurulumdan sonra pc bir türlü kapanmıyor.Monitör kapanıyor,bilgisayar devamlı çalışıyor.Ancak güç düğmesinden kapanıyor.Tüm ayarları yaptığımı zannediyorum ve Güç Düzenleri menüsüne gelip monitör,sabit diskler,sistem bekletme komutu ayarlarını uyguladım sonuç sıfır..Bu ayarları en güzel nasıl yapabiliriz ?..ve ne olmalı ?</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="48" end_char="54">Merhaba</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="56" end_char="65">arkadaşlar</TOKEN>
+<TOKEN id="token-1-2" pos="punct" morph="none" start_char="66" end_char="66">,</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="67" end_char="71">bugün</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="73" end_char="83">arkadaşımın</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="85" end_char="91">windows</TOKEN>
+<TOKEN id="token-1-6" pos="number" morph="none" start_char="93" end_char="94">98</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="96" end_char="108">bilgisayarına</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="110" end_char="111">xp</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="113" end_char="115">pro</TOKEN>
+<TOKEN id="token-1-10" pos="punct" morph="none" start_char="116" end_char="116">-</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="117" end_char="120">pack</TOKEN>
+<TOKEN id="token-1-12" pos="number" morph="none" start_char="122" end_char="122">2</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="124" end_char="129">kurdum</TOKEN>
+<TOKEN id="token-1-14" pos="punct" morph="none" start_char="130" end_char="130">.</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="131" end_char="135">Fakat</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="137" end_char="146">kurulumdan</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="148" end_char="152">sonra</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="154" end_char="155">pc</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="157" end_char="159">bir</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="161" end_char="165">türlü</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="167" end_char="176">kapanmıyor</TOKEN>
+<TOKEN id="token-1-22" pos="punct" morph="none" start_char="177" end_char="177">.</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="178" end_char="184">Monitör</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="186" end_char="194">kapanıyor</TOKEN>
+<TOKEN id="token-1-25" pos="punct" morph="none" start_char="195" end_char="195">,</TOKEN>
+<TOKEN id="token-1-26" pos="word" morph="none" start_char="196" end_char="205">bilgisayar</TOKEN>
+<TOKEN id="token-1-27" pos="word" morph="none" start_char="207" end_char="213">devamlı</TOKEN>
+<TOKEN id="token-1-28" pos="word" morph="none" start_char="215" end_char="223">çalışıyor</TOKEN>
+<TOKEN id="token-1-29" pos="punct" morph="none" start_char="224" end_char="224">.</TOKEN>
+<TOKEN id="token-1-30" pos="word" morph="none" start_char="225" end_char="229">Ancak</TOKEN>
+<TOKEN id="token-1-31" pos="word" morph="none" start_char="231" end_char="233">güç</TOKEN>
+<TOKEN id="token-1-32" pos="word" morph="none" start_char="235" end_char="245">düğmesinden</TOKEN>
+<TOKEN id="token-1-33" pos="word" morph="none" start_char="247" end_char="255">kapanıyor</TOKEN>
+<TOKEN id="token-1-34" pos="punct" morph="none" start_char="256" end_char="256">.</TOKEN>
+<TOKEN id="token-1-35" pos="word" morph="none" start_char="257" end_char="259">Tüm</TOKEN>
+<TOKEN id="token-1-36" pos="word" morph="none" start_char="261" end_char="268">ayarları</TOKEN>
+<TOKEN id="token-1-37" pos="word" morph="none" start_char="270" end_char="278">yaptığımı</TOKEN>
+<TOKEN id="token-1-38" pos="word" morph="none" start_char="280" end_char="291">zannediyorum</TOKEN>
+<TOKEN id="token-1-39" pos="word" morph="none" start_char="293" end_char="294">ve</TOKEN>
+<TOKEN id="token-1-40" pos="word" morph="none" start_char="296" end_char="298">Güç</TOKEN>
+<TOKEN id="token-1-41" pos="word" morph="none" start_char="300" end_char="308">Düzenleri</TOKEN>
+<TOKEN id="token-1-42" pos="word" morph="none" start_char="310" end_char="317">menüsüne</TOKEN>
+<TOKEN id="token-1-43" pos="word" morph="none" start_char="319" end_char="323">gelip</TOKEN>
+<TOKEN id="token-1-44" pos="word" morph="none" start_char="325" end_char="331">monitör</TOKEN>
+<TOKEN id="token-1-45" pos="punct" morph="none" start_char="332" end_char="332">,</TOKEN>
+<TOKEN id="token-1-46" pos="word" morph="none" start_char="333" end_char="337">sabit</TOKEN>
+<TOKEN id="token-1-47" pos="word" morph="none" start_char="339" end_char="345">diskler</TOKEN>
+<TOKEN id="token-1-48" pos="punct" morph="none" start_char="346" end_char="346">,</TOKEN>
+<TOKEN id="token-1-49" pos="word" morph="none" start_char="347" end_char="352">sistem</TOKEN>
+<TOKEN id="token-1-50" pos="word" morph="none" start_char="354" end_char="361">bekletme</TOKEN>
+<TOKEN id="token-1-51" pos="word" morph="none" start_char="363" end_char="368">komutu</TOKEN>
+<TOKEN id="token-1-52" pos="word" morph="none" start_char="370" end_char="379">ayarlarını</TOKEN>
+<TOKEN id="token-1-53" pos="word" morph="none" start_char="381" end_char="389">uyguladım</TOKEN>
+<TOKEN id="token-1-54" pos="word" morph="none" start_char="391" end_char="395">sonuç</TOKEN>
+<TOKEN id="token-1-55" pos="word" morph="none" start_char="397" end_char="401">sıfır</TOKEN>
+<TOKEN id="token-1-56" pos="punct" morph="none" start_char="402" end_char="403">..</TOKEN>
+<TOKEN id="token-1-57" pos="word" morph="none" start_char="404" end_char="405">Bu</TOKEN>
+<TOKEN id="token-1-58" pos="word" morph="none" start_char="407" end_char="414">ayarları</TOKEN>
+<TOKEN id="token-1-59" pos="word" morph="none" start_char="416" end_char="417">en</TOKEN>
+<TOKEN id="token-1-60" pos="word" morph="none" start_char="419" end_char="423">güzel</TOKEN>
+<TOKEN id="token-1-61" pos="word" morph="none" start_char="425" end_char="429">nasıl</TOKEN>
+<TOKEN id="token-1-62" pos="word" morph="none" start_char="431" end_char="441">yapabiliriz</TOKEN>
+<TOKEN id="token-1-63" pos="punct" morph="none" start_char="443" end_char="445">?..</TOKEN>
+<TOKEN id="token-1-64" pos="word" morph="none" start_char="446" end_char="447">ve</TOKEN>
+<TOKEN id="token-1-65" pos="word" morph="none" start_char="449" end_char="450">ne</TOKEN>
+<TOKEN id="token-1-66" pos="word" morph="none" start_char="452" end_char="457">olmalı</TOKEN>
+<TOKEN id="token-1-67" pos="unknown" morph="none" start_char="459" end_char="459">?</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="461" end_char="475">
+<ORIGINAL_TEXT>?...Saygıyla...</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="punct" morph="none" start_char="461" end_char="464">?...</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="465" end_char="472">Saygıyla</TOKEN>
+<TOKEN id="token-2-2" pos="punct" morph="none" start_char="473" end_char="475">...</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="478" end_char="639">
+<ORIGINAL_TEXT>belayı kendi elinle başına sarmışsın..hiç yanlış anlama..format ve aynen 98 e dön...başın ağrımaz..kullananında başı ağrımaz..bende xp sp2 ye geçtim halt ettim...</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="478" end_char="483">belayı</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="485" end_char="489">kendi</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="491" end_char="496">elinle</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="498" end_char="503">başına</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="505" end_char="513">sarmışsın</TOKEN>
+<TOKEN id="token-3-5" pos="punct" morph="none" start_char="514" end_char="515">..</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="516" end_char="518">hiç</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="520" end_char="525">yanlış</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="527" end_char="532">anlama</TOKEN>
+<TOKEN id="token-3-9" pos="punct" morph="none" start_char="533" end_char="534">..</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="535" end_char="540">format</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="542" end_char="543">ve</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="545" end_char="549">aynen</TOKEN>
+<TOKEN id="token-3-13" pos="number" morph="none" start_char="551" end_char="552">98</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="554" end_char="554">e</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="556" end_char="558">dön</TOKEN>
+<TOKEN id="token-3-16" pos="punct" morph="none" start_char="559" end_char="561">...</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="562" end_char="566">başın</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="568" end_char="574">ağrımaz</TOKEN>
+<TOKEN id="token-3-19" pos="punct" morph="none" start_char="575" end_char="576">..</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="577" end_char="588">kullananında</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="590" end_char="593">başı</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="595" end_char="601">ağrımaz</TOKEN>
+<TOKEN id="token-3-23" pos="punct" morph="none" start_char="602" end_char="603">..</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="604" end_char="608">bende</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="610" end_char="611">xp</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="613" end_char="615">sp2</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="617" end_char="618">ye</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="620" end_char="625">geçtim</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="627" end_char="630">halt</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="632" end_char="636">ettim</TOKEN>
+<TOKEN id="token-3-31" pos="punct" morph="none" start_char="637" end_char="639">...</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="642" end_char="666">
+<ORIGINAL_TEXT>geride dönemiyorum cd yok</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="642" end_char="647">geride</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="649" end_char="659">dönemiyorum</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="661" end_char="662">cd</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="664" end_char="666">yok</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="669" end_char="671">
+<ORIGINAL_TEXT>...</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="669" end_char="671">...</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="674" end_char="1219">
+<ORIGINAL_TEXT>Elindeki Winxp CD sinin sağlam olduğunu varsayıyorum.Güç seçeneklerinde Sistem bekleme konumu "hiçbir zaman" olsun.Hazırda beklet seçeneği önünde işaret varsa kaldır.Bir de öyle dene.BİOS ayarları doğrudur sanırım.Eğer BİOS a girerseniz Power management ayarları "User define" modunda olmalı.Windows 98 den sonra ilk defa xp pro yüklediğimde benimde öyle olmuştu.Home de yapmıyor bunu pro da oluyor.Win 98 de hiç problem yoktuysa bunda da olmaması lazım.Win Xp iyidir herşeye rağmen.Win98 ford taunus ise win xp ford focustur daha ne diyebilirim.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="674" end_char="681">Elindeki</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="683" end_char="687">Winxp</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="689" end_char="690">CD</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="692" end_char="696">sinin</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="698" end_char="703">sağlam</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="705" end_char="712">olduğunu</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="714" end_char="725">varsayıyorum</TOKEN>
+<TOKEN id="token-6-7" pos="punct" morph="none" start_char="726" end_char="726">.</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="727" end_char="729">Güç</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="731" end_char="744">seçeneklerinde</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="746" end_char="751">Sistem</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="753" end_char="759">bekleme</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="761" end_char="766">konumu</TOKEN>
+<TOKEN id="token-6-13" pos="punct" morph="none" start_char="768" end_char="768">"</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="769" end_char="774">hiçbir</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="776" end_char="780">zaman</TOKEN>
+<TOKEN id="token-6-16" pos="punct" morph="none" start_char="781" end_char="781">"</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="783" end_char="787">olsun</TOKEN>
+<TOKEN id="token-6-18" pos="punct" morph="none" start_char="788" end_char="788">.</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="789" end_char="795">Hazırda</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="797" end_char="802">beklet</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="804" end_char="811">seçeneği</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="813" end_char="818">önünde</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="820" end_char="825">işaret</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="827" end_char="831">varsa</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="833" end_char="838">kaldır</TOKEN>
+<TOKEN id="token-6-26" pos="punct" morph="none" start_char="839" end_char="839">.</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="840" end_char="842">Bir</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="844" end_char="845">de</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="847" end_char="850">öyle</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="852" end_char="855">dene</TOKEN>
+<TOKEN id="token-6-31" pos="punct" morph="none" start_char="856" end_char="856">.</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="857" end_char="860">BİOS</TOKEN>
+<TOKEN id="token-6-33" pos="word" morph="none" start_char="862" end_char="869">ayarları</TOKEN>
+<TOKEN id="token-6-34" pos="word" morph="none" start_char="871" end_char="878">doğrudur</TOKEN>
+<TOKEN id="token-6-35" pos="word" morph="none" start_char="880" end_char="886">sanırım</TOKEN>
+<TOKEN id="token-6-36" pos="punct" morph="none" start_char="887" end_char="887">.</TOKEN>
+<TOKEN id="token-6-37" pos="word" morph="none" start_char="888" end_char="891">Eğer</TOKEN>
+<TOKEN id="token-6-38" pos="word" morph="none" start_char="893" end_char="896">BİOS</TOKEN>
+<TOKEN id="token-6-39" pos="word" morph="none" start_char="898" end_char="898">a</TOKEN>
+<TOKEN id="token-6-40" pos="word" morph="none" start_char="900" end_char="909">girerseniz</TOKEN>
+<TOKEN id="token-6-41" pos="word" morph="none" start_char="911" end_char="915">Power</TOKEN>
+<TOKEN id="token-6-42" pos="word" morph="none" start_char="917" end_char="926">management</TOKEN>
+<TOKEN id="token-6-43" pos="word" morph="none" start_char="928" end_char="935">ayarları</TOKEN>
+<TOKEN id="token-6-44" pos="punct" morph="none" start_char="937" end_char="937">"</TOKEN>
+<TOKEN id="token-6-45" pos="word" morph="none" start_char="938" end_char="941">User</TOKEN>
+<TOKEN id="token-6-46" pos="word" morph="none" start_char="943" end_char="948">define</TOKEN>
+<TOKEN id="token-6-47" pos="punct" morph="none" start_char="949" end_char="949">"</TOKEN>
+<TOKEN id="token-6-48" pos="word" morph="none" start_char="951" end_char="957">modunda</TOKEN>
+<TOKEN id="token-6-49" pos="word" morph="none" start_char="959" end_char="964">olmalı</TOKEN>
+<TOKEN id="token-6-50" pos="punct" morph="none" start_char="965" end_char="965">.</TOKEN>
+<TOKEN id="token-6-51" pos="word" morph="none" start_char="966" end_char="972">Windows</TOKEN>
+<TOKEN id="token-6-52" pos="number" morph="none" start_char="974" end_char="975">98</TOKEN>
+<TOKEN id="token-6-53" pos="word" morph="none" start_char="977" end_char="979">den</TOKEN>
+<TOKEN id="token-6-54" pos="word" morph="none" start_char="981" end_char="985">sonra</TOKEN>
+<TOKEN id="token-6-55" pos="word" morph="none" start_char="987" end_char="989">ilk</TOKEN>
+<TOKEN id="token-6-56" pos="word" morph="none" start_char="991" end_char="994">defa</TOKEN>
+<TOKEN id="token-6-57" pos="word" morph="none" start_char="996" end_char="997">xp</TOKEN>
+<TOKEN id="token-6-58" pos="word" morph="none" start_char="999" end_char="1001">pro</TOKEN>
+<TOKEN id="token-6-59" pos="word" morph="none" start_char="1003" end_char="1014">yüklediğimde</TOKEN>
+<TOKEN id="token-6-60" pos="word" morph="none" start_char="1016" end_char="1022">benimde</TOKEN>
+<TOKEN id="token-6-61" pos="word" morph="none" start_char="1024" end_char="1027">öyle</TOKEN>
+<TOKEN id="token-6-62" pos="word" morph="none" start_char="1029" end_char="1035">olmuştu</TOKEN>
+<TOKEN id="token-6-63" pos="punct" morph="none" start_char="1036" end_char="1036">.</TOKEN>
+<TOKEN id="token-6-64" pos="word" morph="none" start_char="1037" end_char="1040">Home</TOKEN>
+<TOKEN id="token-6-65" pos="word" morph="none" start_char="1042" end_char="1043">de</TOKEN>
+<TOKEN id="token-6-66" pos="word" morph="none" start_char="1045" end_char="1052">yapmıyor</TOKEN>
+<TOKEN id="token-6-67" pos="word" morph="none" start_char="1054" end_char="1057">bunu</TOKEN>
+<TOKEN id="token-6-68" pos="word" morph="none" start_char="1059" end_char="1061">pro</TOKEN>
+<TOKEN id="token-6-69" pos="word" morph="none" start_char="1063" end_char="1064">da</TOKEN>
+<TOKEN id="token-6-70" pos="word" morph="none" start_char="1066" end_char="1071">oluyor</TOKEN>
+<TOKEN id="token-6-71" pos="punct" morph="none" start_char="1072" end_char="1072">.</TOKEN>
+<TOKEN id="token-6-72" pos="word" morph="none" start_char="1073" end_char="1075">Win</TOKEN>
+<TOKEN id="token-6-73" pos="number" morph="none" start_char="1077" end_char="1078">98</TOKEN>
+<TOKEN id="token-6-74" pos="word" morph="none" start_char="1080" end_char="1081">de</TOKEN>
+<TOKEN id="token-6-75" pos="word" morph="none" start_char="1083" end_char="1085">hiç</TOKEN>
+<TOKEN id="token-6-76" pos="word" morph="none" start_char="1087" end_char="1093">problem</TOKEN>
+<TOKEN id="token-6-77" pos="word" morph="none" start_char="1095" end_char="1102">yoktuysa</TOKEN>
+<TOKEN id="token-6-78" pos="word" morph="none" start_char="1104" end_char="1108">bunda</TOKEN>
+<TOKEN id="token-6-79" pos="word" morph="none" start_char="1110" end_char="1111">da</TOKEN>
+<TOKEN id="token-6-80" pos="word" morph="none" start_char="1113" end_char="1120">olmaması</TOKEN>
+<TOKEN id="token-6-81" pos="word" morph="none" start_char="1122" end_char="1126">lazım</TOKEN>
+<TOKEN id="token-6-82" pos="punct" morph="none" start_char="1127" end_char="1127">.</TOKEN>
+<TOKEN id="token-6-83" pos="word" morph="none" start_char="1128" end_char="1130">Win</TOKEN>
+<TOKEN id="token-6-84" pos="word" morph="none" start_char="1132" end_char="1133">Xp</TOKEN>
+<TOKEN id="token-6-85" pos="word" morph="none" start_char="1135" end_char="1140">iyidir</TOKEN>
+<TOKEN id="token-6-86" pos="word" morph="none" start_char="1142" end_char="1148">herşeye</TOKEN>
+<TOKEN id="token-6-87" pos="word" morph="none" start_char="1150" end_char="1155">rağmen</TOKEN>
+<TOKEN id="token-6-88" pos="punct" morph="none" start_char="1156" end_char="1156">.</TOKEN>
+<TOKEN id="token-6-89" pos="word" morph="none" start_char="1157" end_char="1161">Win98</TOKEN>
+<TOKEN id="token-6-90" pos="word" morph="none" start_char="1163" end_char="1166">ford</TOKEN>
+<TOKEN id="token-6-91" pos="word" morph="none" start_char="1168" end_char="1173">taunus</TOKEN>
+<TOKEN id="token-6-92" pos="word" morph="none" start_char="1175" end_char="1177">ise</TOKEN>
+<TOKEN id="token-6-93" pos="word" morph="none" start_char="1179" end_char="1181">win</TOKEN>
+<TOKEN id="token-6-94" pos="word" morph="none" start_char="1183" end_char="1184">xp</TOKEN>
+<TOKEN id="token-6-95" pos="word" morph="none" start_char="1186" end_char="1189">ford</TOKEN>
+<TOKEN id="token-6-96" pos="word" morph="none" start_char="1191" end_char="1198">focustur</TOKEN>
+<TOKEN id="token-6-97" pos="word" morph="none" start_char="1200" end_char="1203">daha</TOKEN>
+<TOKEN id="token-6-98" pos="word" morph="none" start_char="1205" end_char="1206">ne</TOKEN>
+<TOKEN id="token-6-99" pos="word" morph="none" start_char="1208" end_char="1218">diyebilirim</TOKEN>
+<TOKEN id="token-6-100" pos="punct" morph="none" start_char="1219" end_char="1219">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1222" end_char="1367">
+<ORIGINAL_TEXT>ya arkadaşlar benim pc de yeni bi sorun oldu... pc yi kapatıyorum kapanıyor ondan sonra gene başlıyor sanki yeniden başlat komutu vermişim gibi...</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1222" end_char="1223">ya</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1225" end_char="1234">arkadaşlar</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1236" end_char="1240">benim</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1242" end_char="1243">pc</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1245" end_char="1246">de</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1248" end_char="1251">yeni</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1253" end_char="1254">bi</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1256" end_char="1260">sorun</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1262" end_char="1265">oldu</TOKEN>
+<TOKEN id="token-7-9" pos="punct" morph="none" start_char="1266" end_char="1268">...</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1270" end_char="1271">pc</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1273" end_char="1274">yi</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1276" end_char="1286">kapatıyorum</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1288" end_char="1296">kapanıyor</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1298" end_char="1302">ondan</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1304" end_char="1308">sonra</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1310" end_char="1313">gene</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1315" end_char="1322">başlıyor</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1324" end_char="1328">sanki</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1330" end_char="1336">yeniden</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1338" end_char="1343">başlat</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1345" end_char="1350">komutu</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1352" end_char="1359">vermişim</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1361" end_char="1364">gibi</TOKEN>
+<TOKEN id="token-7-24" pos="punct" morph="none" start_char="1365" end_char="1367">...</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1370" end_char="1533">
+<ORIGINAL_TEXT>pc yi ilk aldığımda da vardı bu sorun ama teknik servis bana biostan bişler tarif etmişti onları yapmıştım olmuştu... power menagementten... ama şimdi olmuyor ya...</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1370" end_char="1371">pc</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1373" end_char="1374">yi</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1376" end_char="1378">ilk</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1380" end_char="1388">aldığımda</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1390" end_char="1391">da</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1393" end_char="1397">vardı</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1399" end_char="1400">bu</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1402" end_char="1406">sorun</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1408" end_char="1410">ama</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1412" end_char="1417">teknik</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1419" end_char="1424">servis</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1426" end_char="1429">bana</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1431" end_char="1437">biostan</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1439" end_char="1444">bişler</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1446" end_char="1450">tarif</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1452" end_char="1458">etmişti</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1460" end_char="1465">onları</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1467" end_char="1475">yapmıştım</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1477" end_char="1483">olmuştu</TOKEN>
+<TOKEN id="token-8-19" pos="punct" morph="none" start_char="1484" end_char="1486">...</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1488" end_char="1492">power</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1494" end_char="1506">menagementten</TOKEN>
+<TOKEN id="token-8-22" pos="punct" morph="none" start_char="1507" end_char="1509">...</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1511" end_char="1513">ama</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="1515" end_char="1519">şimdi</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1521" end_char="1527">olmuyor</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1529" end_char="1530">ya</TOKEN>
+<TOKEN id="token-8-27" pos="punct" morph="none" start_char="1531" end_char="1533">...</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

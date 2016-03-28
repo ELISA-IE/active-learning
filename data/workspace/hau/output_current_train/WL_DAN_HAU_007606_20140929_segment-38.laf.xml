@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DAN_HAU_007606_20140929" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE1" task="NE" type="PER">
+      <EXTENT start_char="3240" end_char="3241">TO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE2" task="NE" type="PER">
+      <EXTENT start_char="3243" end_char="3246">SCAN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE3" task="NE" type="PER">
+      <EXTENT start_char="3248" end_char="3250">AND</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE4" task="NE" type="PER">
+      <EXTENT start_char="3252" end_char="3255">COME</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE5" task="NE" type="PER">
+      <EXTENT start_char="3257" end_char="3260">WITH</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE6" task="NE" type="PER">
+      <EXTENT start_char="3262" end_char="3262">A</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE7" task="NE" type="PER">
+      <EXTENT start_char="3264" end_char="3267">COPY</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE8" task="NE" type="PER">
+      <EXTENT start_char="3269" end_char="3270">OF</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

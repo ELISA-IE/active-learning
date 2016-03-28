@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_ITU_TUR_0000818_20140900" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="831" raw_text_md5="b3846402574e43a72321de48eced9672">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="123">
+<ORIGINAL_TEXT>katrina kasırgasıʼnın ardından toparlanmaya çalışan amerikaʼnın güneydoğu sahillerine ikinci darbeyi vurmakta olan kasırga..</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="katrina:katrina=NOUN" start_char="0" end_char="6">katrina</TOKEN>
+<TOKEN id="token-0-1" pos="NOUN" morph="kasırgasıʼ:kasırgasıʼ=NOUN nın:nın=CASE_GEN" start_char="8" end_char="20">kasırgasıʼnın</TOKEN>
+<TOKEN id="token-0-2" pos="ADV" morph="ardından:ardından=ADV" start_char="22" end_char="29">ardından</TOKEN>
+<TOKEN id="token-0-3" pos="VERB" morph="toparlanma:toparlanma=VERB ya:ya=SJNC" start_char="31" end_char="42">toparlanmaya</TOKEN>
+<TOKEN id="token-0-4" pos="ADJ" morph="çalış:çalış=VERB an:an=PARTICIPLE" start_char="44" end_char="50">çalışan</TOKEN>
+<TOKEN id="token-0-5" pos="NOUN" morph="amerikaʼ:amerikaʼ=NOUN nın:nın=CASE_GEN" start_char="52" end_char="62">amerikaʼnın</TOKEN>
+<TOKEN id="token-0-6" pos="ADJ" morph="güneydoğu:güneydoğu=ADJ" start_char="64" end_char="72">güneydoğu</TOKEN>
+<TOKEN id="token-0-7" pos="NOUN" morph="sahil:sahil=NOUN ler:ler=PLURAL i:i=POSS_3S ne:ne=CASE_DAT" start_char="74" end_char="84">sahillerine</TOKEN>
+<TOKEN id="token-0-8" pos="NUM" morph="iki:iki=NUM nci:nci=ORD" start_char="86" end_char="91">ikinci</TOKEN>
+<TOKEN id="token-0-9" pos="NOUN" morph="darbe:darbe=NOUN yi:yi=CASE_ACC" start_char="93" end_char="99">darbeyi</TOKEN>
+<TOKEN id="token-0-10" pos="VERB" morph="vurmakta:vurmakta=VERB" start_char="101" end_char="108">vurmakta</TOKEN>
+<TOKEN id="token-0-11" pos="ADJ" morph="ol:ol=VERB an:an=PARTICIPLE" start_char="110" end_char="113">olan</TOKEN>
+<TOKEN id="token-0-12" pos="NOUN" morph="kasırga:kasırga=NOUN" start_char="115" end_char="121">kasırga</TOKEN>
+<TOKEN id="token-0-13" pos="." morph="none" start_char="122" end_char="123">..</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="126" end_char="210">
+<ORIGINAL_TEXT>bushʼun çiftliğini vurma ihmali yüzünden bushʼun gece gündüz takip ettiği kasırgadır.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="bushʼ:bushʼ=NOUN un:un=POSS_2S" start_char="126" end_char="132">bushʼun</TOKEN>
+<TOKEN id="token-1-1" pos="NOUN" morph="çiftliğ:çiftlik=NOUN i:i=POSS_3S ni:ni=CASE_ACC" start_char="134" end_char="143">çiftliğini</TOKEN>
+<TOKEN id="token-1-2" pos="VERB" morph="vurma:vurma=VERB" start_char="145" end_char="149">vurma</TOKEN>
+<TOKEN id="token-1-3" pos="NOUN" morph="ihmal:ihmal=NOUN i:i=CASE_ACC" start_char="151" end_char="156">ihmali</TOKEN>
+<TOKEN id="token-1-4" pos="ADP" morph="yüzünden:yüzünden=POSTP" start_char="158" end_char="165">yüzünden</TOKEN>
+<TOKEN id="token-1-5" pos="NOUN" morph="bushʼ:bushʼ=NOUN un:un=POSS_2S" start_char="167" end_char="173">bushʼun</TOKEN>
+<TOKEN id="token-1-6" pos="ADV" morph="gece:gece=ADV" start_char="175" end_char="178">gece</TOKEN>
+<TOKEN id="token-1-7" pos="ADV" morph="gündüz:gündüz=ADV" start_char="180" end_char="185">gündüz</TOKEN>
+<TOKEN id="token-1-8" pos="NOUN" morph="takip:takip=NOUN" start_char="187" end_char="191">takip</TOKEN>
+<TOKEN id="token-1-9" pos="ADJ" morph="et:et=VERB tiğ:tiğ=PARTICIPLE i:i=CASE_ACC" start_char="193" end_char="198">ettiği</TOKEN>
+<TOKEN id="token-1-10" pos="VERB" morph="kasırgadır:kasırgadır=VERB" start_char="200" end_char="209">kasırgadır</TOKEN>
+<TOKEN id="token-1-11" pos="." morph="none" start_char="210" end_char="210">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="212" end_char="237">
+<ORIGINAL_TEXT>-üzülme be, bushʼum benim.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="." morph="none" start_char="212" end_char="212">-</TOKEN>
+<TOKEN id="token-2-1" pos="VERB" morph="üzül:üzül=VERB me:me=NEG" start_char="213" end_char="218">üzülme</TOKEN>
+<TOKEN id="token-2-2" pos="ADP" morph="be:be=POSTP" start_char="220" end_char="221">be</TOKEN>
+<TOKEN id="token-2-3" pos="." morph="none" start_char="222" end_char="222">,</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="bushʼ:bushʼ=NOUN um:um=POSS_1S" start_char="224" end_char="230">bushʼum</TOKEN>
+<TOKEN id="token-2-5" pos="PRON" morph="ben:ben=PRON_1S im:im=CASE_GEN" start_char="232" end_char="236">benim</TOKEN>
+<TOKEN id="token-2-6" pos="." morph="none" start_char="237" end_char="237">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="240" end_char="279">
+<ORIGINAL_TEXT>allahın sopası yok dedirten doğal afet..</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="allah:allah=NOUN ın:ın=POSS_2S" start_char="240" end_char="246">allahın</TOKEN>
+<TOKEN id="token-3-1" pos="NOUN" morph="sopa:sopa=NOUN sı:sı=POSS_3S" start_char="248" end_char="253">sopası</TOKEN>
+<TOKEN id="token-3-2" pos="ADV" morph="yok:yok=ADV" start_char="255" end_char="257">yok</TOKEN>
+<TOKEN id="token-3-3" pos="ADJ" morph="dedirt:dedirt=VERB en:en=PARTICIPLE" start_char="259" end_char="266">dedirten</TOKEN>
+<TOKEN id="token-3-4" pos="ADJ" morph="doğal:doğal=ADJ" start_char="268" end_char="272">doğal</TOKEN>
+<TOKEN id="token-3-5" pos="NOUN" morph="afet:afet=NOUN" start_char="274" end_char="277">afet</TOKEN>
+<TOKEN id="token-3-6" pos="." morph="none" start_char="278" end_char="279">..</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="282" end_char="413">
+<ORIGINAL_TEXT>katrina kasırgasından daha fazla hasar vereceği düşünülen kasırga hatta insanların teksasa yerleştiği,nasanın boşaltıldığı söylendi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="NOUN" morph="katrina:katrina=NOUN" start_char="282" end_char="288">katrina</TOKEN>
+<TOKEN id="token-4-1" pos="NOUN" morph="kasırga:kasırga=NOUN sı:sı=POSS_3S ndan:ndan=CASE_ABL" start_char="290" end_char="302">kasırgasından</TOKEN>
+<TOKEN id="token-4-2" pos="ADV" morph="daha:daha=ADV" start_char="304" end_char="307">daha</TOKEN>
+<TOKEN id="token-4-3" pos="ADJ" morph="fazla:fazla=ADJ" start_char="309" end_char="313">fazla</TOKEN>
+<TOKEN id="token-4-4" pos="NOUN" morph="hasar:hasar=NOUN" start_char="315" end_char="319">hasar</TOKEN>
+<TOKEN id="token-4-5" pos="ADJ" morph="ver:ver=VERB eceğ:eceğ=PARTICIPLE i:i=CASE_ACC" start_char="321" end_char="328">vereceği</TOKEN>
+<TOKEN id="token-4-6" pos="VERB" morph="düşünülen:düşünülen=VERB" start_char="330" end_char="338">düşünülen</TOKEN>
+<TOKEN id="token-4-7" pos="NOUN" morph="kasırga:kasırga=NOUN" start_char="340" end_char="346">kasırga</TOKEN>
+<TOKEN id="token-4-8" pos="ADV" morph="hatta:hatta=ADV" start_char="348" end_char="352">hatta</TOKEN>
+<TOKEN id="token-4-9" pos="NOUN" morph="insanlar:insanlar=NOUN ın:ın=POSS_2S" start_char="354" end_char="363">insanların</TOKEN>
+<TOKEN id="token-4-10" pos="NOUN" morph="teksas:teksas=NOUN a:a=CASE_DAT" start_char="365" end_char="371">teksasa</TOKEN>
+<TOKEN id="token-4-11" pos="ADJ" morph="yerleş:yerleş=VERB tiğ:tiğ=PARTICIPLE i:i=CASE_ACC" start_char="373" end_char="382">yerleştiği</TOKEN>
+<TOKEN id="token-4-12" pos="." morph="none" start_char="383" end_char="383">,</TOKEN>
+<TOKEN id="token-4-13" pos="NOUN" morph="nasa:nasa=NOUN nın:nın=CASE_GEN" start_char="384" end_char="390">nasanın</TOKEN>
+<TOKEN id="token-4-14" pos="ADJ" morph="boşaltıl:boşaltıl=VERB dığ:dığ=PARTICIPLE ı:ı=CASE_ACC" start_char="392" end_char="403">boşaltıldığı</TOKEN>
+<TOKEN id="token-4-15" pos="VERB" morph="söyle:söyle=VERB n:n=REFL di:di=DIPAST" start_char="405" end_char="412">söylendi</TOKEN>
+<TOKEN id="token-4-16" pos="." morph="none" start_char="413" end_char="413">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="415" end_char="517">
+<ORIGINAL_TEXT>sonradan fırtınanın dördüncü dereceye düştüğü ve teksasa yöneldiği söyleniyor.eden buluyormuş demek ki.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="ADV" morph="sonradan:sonradan=ADV" start_char="415" end_char="422">sonradan</TOKEN>
+<TOKEN id="token-5-1" pos="NOUN" morph="fırtına:fırtına=NOUN nın:nın=CASE_GEN" start_char="424" end_char="433">fırtınanın</TOKEN>
+<TOKEN id="token-5-2" pos="NUM" morph="dörd:dört=NUM üncü:üncü=ORD" start_char="435" end_char="442">dördüncü</TOKEN>
+<TOKEN id="token-5-3" pos="NOUN" morph="derece:derece=NOUN ye:ye=CASE_DAT" start_char="444" end_char="451">dereceye</TOKEN>
+<TOKEN id="token-5-4" pos="ADJ" morph="düş:düş=VERB tüğ:tüğ=PARTICIPLE ü:ü=CASE_ACC" start_char="453" end_char="459">düştüğü</TOKEN>
+<TOKEN id="token-5-5" pos="CONJ" morph="ve:ve=CONJ" start_char="461" end_char="462">ve</TOKEN>
+<TOKEN id="token-5-6" pos="NOUN" morph="teksas:teksas=NOUN a:a=CASE_DAT" start_char="464" end_char="470">teksasa</TOKEN>
+<TOKEN id="token-5-7" pos="ADJ" morph="yönel:yönel=VERB diğ:diğ=PARTICIPLE i:i=CASE_ACC" start_char="472" end_char="480">yöneldiği</TOKEN>
+<TOKEN id="token-5-8" pos="VERB" morph="söyle:söyle=VERB n:n=REFL iyor:iyor=PROG" start_char="482" end_char="491">söyleniyor</TOKEN>
+<TOKEN id="token-5-9" pos="." morph="none" start_char="492" end_char="492">.</TOKEN>
+<TOKEN id="token-5-10" pos="ADJ" morph="ed:et=VERB en:en=PARTICIPLE" start_char="493" end_char="496">eden</TOKEN>
+<TOKEN id="token-5-11" pos="VERB" morph="bul:bul=VERB uyor:uyor=PROG muş:muş=mIsPAST" start_char="498" end_char="507">buluyormuş</TOKEN>
+<TOKEN id="token-5-12" pos="ADV" morph="demek:demek=ADV" start_char="509" end_char="513">demek</TOKEN>
+<TOKEN id="token-5-13" pos="ADP" morph="ki:ki=POSTP" start_char="515" end_char="516">ki</TOKEN>
+<TOKEN id="token-5-14" pos="." morph="none" start_char="517" end_char="517">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="520" end_char="545">
+<ORIGINAL_TEXT>(bkz: şeytan azapta gerek)</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="." morph="none" start_char="520" end_char="520">(</TOKEN>
+<TOKEN id="token-6-1" pos="X" morph="unanalyzable" start_char="521" end_char="523">bkz</TOKEN>
+<TOKEN id="token-6-2" pos="." morph="none" start_char="524" end_char="524">:</TOKEN>
+<TOKEN id="token-6-3" pos="NOUN" morph="şeytan:şeytan=NOUN" start_char="526" end_char="531">şeytan</TOKEN>
+<TOKEN id="token-6-4" pos="NOUN" morph="azap:azap=NOUN ta:ta=CASE_LOC" start_char="533" end_char="538">azapta</TOKEN>
+<TOKEN id="token-6-5" pos="VERB" morph="gerek:gerek=VERB" start_char="540" end_char="544">gerek</TOKEN>
+<TOKEN id="token-6-6" pos="." morph="none" start_char="545" end_char="545">)</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="548" end_char="764">
+<ORIGINAL_TEXT>11 eylül sonrası türkiyeʼde bir uçak düştüğünde yahooʼda bir kaç kendini bilmez abdʼli "oh iyi oldu müslümanlar görsün günlerini şimdi" tadında demeçlerde bulunmuşlar, türk internet camiasından ağır tepki görmüşlerdi.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="NUM" morph="none" start_char="548" end_char="549">11</TOKEN>
+<TOKEN id="token-7-1" pos="NOUN" morph="eylül:eylül=NOUN" start_char="551" end_char="555">eylül</TOKEN>
+<TOKEN id="token-7-2" pos="ADV" morph="sonrası:sonrası=ADV" start_char="557" end_char="563">sonrası</TOKEN>
+<TOKEN id="token-7-3" pos="NOUN" morph="türkiyeʼ:türkiyeʼ=NOUN de:de=CASE_LOC" start_char="565" end_char="574">türkiyeʼde</TOKEN>
+<TOKEN id="token-7-4" pos="NUM" morph="bir:bir=NUM" start_char="576" end_char="578">bir</TOKEN>
+<TOKEN id="token-7-5" pos="NOUN" morph="uçak:uçak=NOUN" start_char="580" end_char="583">uçak</TOKEN>
+<TOKEN id="token-7-6" pos="ADJ" morph="düş:düş=VERB tüğ:tüğ=PARTICIPLE ün:ün=POSS_2S de:de=CASE_LOC" start_char="585" end_char="594">düştüğünde</TOKEN>
+<TOKEN id="token-7-7" pos="NOUN" morph="yahooʼ:yahooʼ=NOUN da:da=CASE_LOC" start_char="596" end_char="603">yahooʼda</TOKEN>
+<TOKEN id="token-7-8" pos="NUM" morph="bir:bir=NUM" start_char="605" end_char="607">bir</TOKEN>
+<TOKEN id="token-7-9" pos="PRT" morph="kaç:kaç=INTERROG" start_char="609" end_char="611">kaç</TOKEN>
+<TOKEN id="token-7-10" pos="NOUN" morph="kendi:kendi=NOUN n:n=POSS_2S i:i=CASE_ACC" start_char="613" end_char="619">kendini</TOKEN>
+<TOKEN id="token-7-11" pos="ADJ" morph="bilmez:bilmez=ADJ" start_char="621" end_char="626">bilmez</TOKEN>
+<TOKEN id="token-7-12" pos="NOUN" morph="abdʼli:abdʼli=NOUN" start_char="628" end_char="633">abdʼli</TOKEN>
+<TOKEN id="token-7-13" pos="." morph="none" start_char="635" end_char="635">"</TOKEN>
+<TOKEN id="token-7-14" pos="X" morph="unanalyzable" start_char="636" end_char="637">oh</TOKEN>
+<TOKEN id="token-7-15" pos="ADJ" morph="iyi:iyi=ADJ" start_char="639" end_char="641">iyi</TOKEN>
+<TOKEN id="token-7-16" pos="VERB" morph="ol:ol=VERB du:du=DIPAST" start_char="643" end_char="646">oldu</TOKEN>
+<TOKEN id="token-7-17" pos="NOUN" morph="müslüman:müslüman=NOUN lar:lar=PLURAL" start_char="648" end_char="658">müslümanlar</TOKEN>
+<TOKEN id="token-7-18" pos="VERB" morph="gör:gör=VERB sün:sün=3S" start_char="660" end_char="665">görsün</TOKEN>
+<TOKEN id="token-7-19" pos="NOUN" morph="gün:gün=NOUN ler:ler=PLURAL i:i=POSS_3S ni:ni=CASE_ACC" start_char="667" end_char="675">günlerini</TOKEN>
+<TOKEN id="token-7-20" pos="ADV" morph="şimdi:şimdi=ADV" start_char="677" end_char="681">şimdi</TOKEN>
+<TOKEN id="token-7-21" pos="." morph="none" start_char="682" end_char="682">"</TOKEN>
+<TOKEN id="token-7-22" pos="NOUN" morph="tad:tad=NOUN ı:ı=POSS_3S nda:nda=CASE_LOC" start_char="684" end_char="690">tadında</TOKEN>
+<TOKEN id="token-7-23" pos="NOUN" morph="demeç:demeç=NOUN ler:ler=PLURAL de:de=CASE_LOC" start_char="692" end_char="701">demeçlerde</TOKEN>
+<TOKEN id="token-7-24" pos="VERB" morph="bulun:bulun=VERB muş:muş=mIsPAST lar:lar=3P" start_char="703" end_char="713">bulunmuşlar</TOKEN>
+<TOKEN id="token-7-25" pos="." morph="none" start_char="714" end_char="714">,</TOKEN>
+<TOKEN id="token-7-26" pos="NOUN" morph="türk:türk=NOUN" start_char="716" end_char="719">türk</TOKEN>
+<TOKEN id="token-7-27" pos="NOUN" morph="internet:internet=NOUN" start_char="721" end_char="728">internet</TOKEN>
+<TOKEN id="token-7-28" pos="NOUN" morph="camia:camia=NOUN sı:sı=POSS_3S ndan:ndan=CASE_ABL" start_char="730" end_char="740">camiasından</TOKEN>
+<TOKEN id="token-7-29" pos="ADJ" morph="ağır:ağır=ADJ" start_char="742" end_char="745">ağır</TOKEN>
+<TOKEN id="token-7-30" pos="NOUN" morph="tepki:tepki=NOUN" start_char="747" end_char="751">tepki</TOKEN>
+<TOKEN id="token-7-31" pos="VERB" morph="gör:gör=VERB müş:müş=mIsPAST ler:ler=3P di:di=DIPAST" start_char="753" end_char="763">görmüşlerdi</TOKEN>
+<TOKEN id="token-7-32" pos="." morph="none" start_char="764" end_char="764">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="766" end_char="828">
+<ORIGINAL_TEXT>kasırga sonrası gelen yorumlar da bu olayı hatırlatmıyor değil.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="NOUN" morph="kasırga:kasırga=NOUN" start_char="766" end_char="772">kasırga</TOKEN>
+<TOKEN id="token-8-1" pos="ADV" morph="sonrası:sonrası=ADV" start_char="774" end_char="780">sonrası</TOKEN>
+<TOKEN id="token-8-2" pos="ADJ" morph="gel:gel=VERB en:en=PARTICIPLE" start_char="782" end_char="786">gelen</TOKEN>
+<TOKEN id="token-8-3" pos="NOUN" morph="yorum:yorum=NOUN lar:lar=PLURAL" start_char="788" end_char="795">yorumlar</TOKEN>
+<TOKEN id="token-8-4" pos="ADP" morph="da:da=POSTP" start_char="797" end_char="798">da</TOKEN>
+<TOKEN id="token-8-5" pos="PRON" morph="bu:bu=DEMPRON" start_char="800" end_char="801">bu</TOKEN>
+<TOKEN id="token-8-6" pos="NOUN" morph="olay:olay=NOUN ı:ı=CASE_ACC" start_char="803" end_char="807">olayı</TOKEN>
+<TOKEN id="token-8-7" pos="VERB" morph="hatırlatmıyor:hatırlatmıyor=VERB" start_char="809" end_char="821">hatırlatmıyor</TOKEN>
+<TOKEN id="token-8-8" pos="VERB" morph="değil:değil=NCOPULA" start_char="823" end_char="827">değil</TOKEN>
+<TOKEN id="token-8-9" pos="." morph="none" start_char="828" end_char="828">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DAN_HAU_007447_20110711" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007447_20110711-NE1" task="NE" type="PER">
+      <EXTENT start_char="0" end_char="3">KANO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007447_20110711-NE2" task="NE" type="PER">
+      <EXTENT start_char="5" end_char="6">TA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007447_20110711-NE3" task="NE" type="PER">
+      <EXTENT start_char="8" end_char="11">DABO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007447_20110711-NE4" task="NE" type="PER">
+      <EXTENT start_char="13" end_char="18">TUMBIN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007447_20110711-NE5" task="NE" type="PER">
+      <EXTENT start_char="20" end_char="24">GWIWA</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

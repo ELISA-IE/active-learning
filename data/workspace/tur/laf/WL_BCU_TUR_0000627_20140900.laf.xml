@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="WL_BCU_TUR_0000627_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="5">ŞİLİLİ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="ORG">
+      <EXTENT start_char="79" end_char="82">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="124" end_char="130">Copiapo</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="LOC">
+      <EXTENT start_char="263" end_char="266">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="272" end_char="284">Copiapo kenti</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="PER">
+      <EXTENT start_char="670" end_char="685">Florencio Avalos</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="PER">
+      <EXTENT start_char="718" end_char="723">Avalos</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="PER">
+      <EXTENT start_char="801" end_char="805">Bairo</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="PER">
+      <EXTENT start_char="823" end_char="828">Monica</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="PER">
+      <EXTENT start_char="924" end_char="929">Avalos</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="PER">
+      <EXTENT start_char="950" end_char="966">Mario Sepepulveda</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="ORG">
+      <EXTENT start_char="985" end_char="988">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="PER">
+      <EXTENT start_char="1031" end_char="1041">Sepepulveda</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="1079" end_char="1082">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="TTL">
+      <EXTENT start_char="1091" end_char="1096">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="PER">
+      <EXTENT start_char="1099" end_char="1104">Pinera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="LOC">
+      <EXTENT start_char="1123" end_char="1126">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="PER">
+      <EXTENT start_char="1219" end_char="1224">Pinera</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="PER">
+      <EXTENT start_char="1240" end_char="1243">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="PER">
+      <EXTENT start_char="1911" end_char="1920">Luis Urzua</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="TTL">
+      <EXTENT start_char="1905" end_char="1908">amir</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="PER">
+      <EXTENT start_char="1942" end_char="1946">Urzua</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="LOC">
+      <EXTENT start_char="2186" end_char="2189">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="LOC">
+      <EXTENT start_char="2194" end_char="2204">Real Madrid</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="LOC">
+      <EXTENT start_char="2240" end_char="2247">Amerikan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="ORG">
+      <EXTENT start_char="2269" end_char="2273">Apple</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="TTL">
+      <EXTENT start_char="2278" end_char="2283">patron</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="PER">
+      <EXTENT start_char="2286" end_char="2295">Steve Jobs</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="PER">
+      <EXTENT start_char="2372" end_char="2386">Leonardo Farkas</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="ORG">
+      <EXTENT start_char="2633" end_char="2637">Dünya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-31" task="NE" type="LOC">
+      <EXTENT start_char="2639" end_char="2642">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-32" task="NE" type="ORG">
+      <EXTENT start_char="2667" end_char="2671">TMMOB</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-33" task="NE" type="ORG">
+      <EXTENT start_char="2673" end_char="2696">Maden Mühendisleri Odası</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-34" task="NE" type="TTL">
+      <EXTENT start_char="2713" end_char="2718">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-35" task="NE" type="PER">
+      <EXTENT start_char="2721" end_char="2732">Mehmet Torun</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-36" task="NE" type="LOC">
+      <EXTENT start_char="2735" end_char="2741">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-37" task="NE" type="LOC">
+      <EXTENT start_char="2792" end_char="2798">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-38" task="NE" type="PER">
+      <EXTENT start_char="2846" end_char="2850">Torun</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-39" task="NE" type="TTL">
+      <EXTENT start_char="3030" end_char="3034">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-40" task="NE" type="PER">
+      <EXTENT start_char="3037" end_char="3047">Ömer Dinçer</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-41" task="NE" type="LOC">
+      <EXTENT start_char="3050" end_char="3058">Zonguldak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-42" task="NE" type="ORG">
+      <EXTENT start_char="3082" end_char="3085">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-43" task="NE" type="LOC">
+      <EXTENT start_char="3139" end_char="3147">Zonguldak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-44" task="NE" type="LOC">
+      <EXTENT start_char="3188" end_char="3191">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-45" task="NE" type="LOC">
+      <EXTENT start_char="3208" end_char="3211">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-46" task="NE" type="LOC">
+      <EXTENT start_char="3328" end_char="3336">Hollywood</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-47" task="NE" type="LOC">
+      <EXTENT start_char="3368" end_char="3371">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-48" task="NE" type="PER">
+      <EXTENT start_char="3433" end_char="3446">Cilaudio Yanez</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-49" task="NE" type="PER">
+      <EXTENT start_char="3521" end_char="3533">Esteban Rojas</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-50" task="NE" type="LOC">
+      <EXTENT start_char="3633" end_char="3636">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-51" task="NE" type="LOC">
+      <EXTENT start_char="3642" end_char="3653">Atacama Çölü</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-52" task="NE" type="LOC">
+      <EXTENT start_char="4321" end_char="4327">Karadon</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-53" task="NE" type="LOC">
+      <EXTENT start_char="4343" end_char="4351">Zonguldak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-54" task="NE" type="PER">
+      <EXTENT start_char="4412" end_char="4424">Dursun Kartal</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-55" task="NE" type="PER">
+      <EXTENT start_char="4430" end_char="4441">Engin Düzcük</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-56" task="NE" type="LOC">
+      <EXTENT start_char="4456" end_char="4459">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-57" task="NE" type="PER">
+      <EXTENT start_char="4534" end_char="4548">Gülhizar Kartal</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-58" task="NE" type="LOC">
+      <EXTENT start_char="4551" end_char="4554">Şili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-59" task="NE" type="LOC">
+      <EXTENT start_char="4353" end_char="4371">Karadon maden ocağı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-60" task="NE" type="LOC">
+      <EXTENT start_char="301" end_char="336">Cerro San Jose Bakır ve Altın Madeni</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-61" task="NE" type="PER">
+      <EXTENT start_char="2066" end_char="2072">Lorenzo</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-62" task="NE" type="ORG">
+      <EXTENT start_char="2698" end_char="2711">Yönetim Kurulu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-63" task="NE" type="ORG">
+      <EXTENT start_char="3022" end_char="3028">Çalışma</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-64" task="NE" type="TTL">
+      <EXTENT start_char="3513" end_char="3519">madenci</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-65" task="NE" type="LOC">
+      <EXTENT start_char="3661" end_char="3690">San Jose Altın ve Bakır Madeni</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

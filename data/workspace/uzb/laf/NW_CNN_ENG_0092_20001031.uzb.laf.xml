@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_CNN_ENG_0092_20001031.uzb" lang="UZB">
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE1" task="NE">
+      <EXTENT start_char="41" end_char="56">Atlantika okeani</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE2" task="NE">
+      <EXTENT start_char="127" end_char="138">Bob Glaskoff</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE3" task="NE">
+      <EXTENT start_char="246" end_char="258">Luiza Vudvord</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE4" task="NE">
+      <EXTENT start_char="333" end_char="339">Vudvord</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE5" task="NE">
+      <EXTENT start_char="350" end_char="358">Britaniya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE6" task="NE">
+      <EXTENT start_char="393" end_char="406">Mettʼyu Iappen</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE7" task="NE">
+      <EXTENT start_char="468" end_char="474">Angliya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE8" task="NE">
+      <EXTENT start_char="559" end_char="572">Vudvord Iappen</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE9" task="NE">
+      <EXTENT start_char="837" end_char="843">Vudvord</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE10" task="NE">
+      <EXTENT start_char="879" end_char="887">Britaniya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE11" task="NE">
+      <EXTENT start_char="1053" end_char="1059">Vudvord</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE12" task="NE">
+      <EXTENT start_char="1100" end_char="1109">Xedlayners</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0092_20001031.uzb-NE13" task="NE">
+      <EXTENT start_char="1123" end_char="1137">Bob Glaskoffman</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

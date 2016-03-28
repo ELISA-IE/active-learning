@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_VOA_TUR_0089855_20120210.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="PER">
+      <EXTENT start_char="17" end_char="31">Ahmet Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="131" end_char="140">Washington</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="PER">
+      <EXTENT start_char="168" end_char="176">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="ORG">
+      <EXTENT start_char="185" end_char="230">Uluslararası ve Stratejik Araştırmalar Merkezi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="272" end_char="277">Suriye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="PER">
+      <EXTENT start_char="398" end_char="406">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="837" end_char="842">Suriye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="PER">
+      <EXTENT start_char="941" end_char="949">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="ORG">
+      <EXTENT start_char="953" end_char="959">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="LOC">
+      <EXTENT start_char="1230" end_char="1235">Suriye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="PER">
+      <EXTENT start_char="1433" end_char="1441">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="ORG">
+      <EXTENT start_char="1444" end_char="1447">İran</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="ORG">
+      <EXTENT start_char="1569" end_char="1574">İsrail</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="ORG">
+      <EXTENT start_char="1579" end_char="1582">İran</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="PER">
+      <EXTENT start_char="1651" end_char="1659">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="ORG">
+      <EXTENT start_char="1754" end_char="1759">İsrail</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="PER">
+      <EXTENT start_char="1919" end_char="1927">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="ORG">
+      <EXTENT start_char="1929" end_char="1932">İran</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="ORG">
+      <EXTENT start_char="1992" end_char="1998">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="ORG">
+      <EXTENT start_char="2067" end_char="2085">Birleşmiş Milletler</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="ORG">
+      <EXTENT start_char="2207" end_char="2213">Türkiye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="ORG">
+      <EXTENT start_char="2219" end_char="2226">Brezilya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="PER">
+      <EXTENT start_char="2299" end_char="2307">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="ORG">
+      <EXTENT start_char="2347" end_char="2360">Avrupa Birliği</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="PER">
+      <EXTENT start_char="2385" end_char="2400">Catherine Ashton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="LOC">
+      <EXTENT start_char="2700" end_char="2703">İran</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="LOC">
+      <EXTENT start_char="2722" end_char="2728">Vatikan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="PER">
+      <EXTENT start_char="2766" end_char="2774">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="LOC">
+      <EXTENT start_char="2990" end_char="2995">Suriye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="LOC">
+      <EXTENT start_char="2998" end_char="3002">Mısır</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-31" task="NE" type="LOC">
+      <EXTENT start_char="3005" end_char="3009">Libya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-32" task="NE" type="LOC">
+      <EXTENT start_char="3039" end_char="3046">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-33" task="NE" type="PER">
+      <EXTENT start_char="3151" end_char="3159">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-34" task="NE" type="LOC">
+      <EXTENT start_char="3194" end_char="3201">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-35" task="NE" type="PER">
+      <EXTENT start_char="3324" end_char="3332">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-36" task="NE" type="ORG">
+      <EXTENT start_char="3361" end_char="3365">Rusya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-37" task="NE" type="ORG">
+      <EXTENT start_char="3394" end_char="3412">BM Güvenlik Konseyi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-38" task="NE" type="LOC">
+      <EXTENT start_char="3427" end_char="3432">Suriye</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-39" task="NE" type="ORG">
+      <EXTENT start_char="3490" end_char="3496">Amerika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-40" task="NE" type="ORG">
+      <EXTENT start_char="3597" end_char="3601">Hamas</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-41" task="NE" type="ORG">
+      <EXTENT start_char="3606" end_char="3613">El Fetih</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-42" task="NE" type="PER">
+      <EXTENT start_char="3649" end_char="3657">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-43" task="NE" type="PER">
+      <EXTENT start_char="3697" end_char="3708">Mahmud Abbas</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-44" task="NE" type="ORG">
+      <EXTENT start_char="3713" end_char="3717">Hamas</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-45" task="NE" type="PER">
+      <EXTENT start_char="3726" end_char="3736">Halid Meşal</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-46" task="NE" type="LOC">
+      <EXTENT start_char="3741" end_char="3744">Doha</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-47" task="NE" type="PER">
+      <EXTENT start_char="3801" end_char="3809">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-48" task="NE" type="ORG">
+      <EXTENT start_char="3834" end_char="3839">İsrail</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-49" task="NE" type="ORG">
+      <EXTENT start_char="3915" end_char="3919">Hamas</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-50" task="NE" type="ORG">
+      <EXTENT start_char="3968" end_char="3973">İsrail</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-51" task="NE" type="PER">
+      <EXTENT start_char="4014" end_char="4022">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-52" task="NE" type="ORG">
+      <EXTENT start_char="4025" end_char="4030">İsrail</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-53" task="NE" type="LOC">
+      <EXTENT start_char="4269" end_char="4278">Doğu Kudüs</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-54" task="NE" type="PER">
+      <EXTENT start_char="4354" end_char="4362">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-55" task="NE" type="ORG">
+      <EXTENT start_char="4392" end_char="4397">İsrail</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-56" task="NE" type="LOC">
+      <EXTENT start_char="4456" end_char="4465">Washington</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-57" task="NE" type="PER">
+      <EXTENT start_char="4563" end_char="4577">Ahmet Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-58" task="NE" type="PER">
+      <EXTENT start_char="4659" end_char="4667">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-59" task="NE" type="PER">
+      <EXTENT start_char="4706" end_char="4720">Hillary Clinton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-60" task="NE" type="PER">
+      <EXTENT start_char="4738" end_char="4749">Leon Panetta</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-61" task="NE" type="TTL">
+      <EXTENT start_char="4754" end_char="4759">Başkan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-62" task="NE" type="PER">
+      <EXTENT start_char="4761" end_char="4772">Barack Obama</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-63" task="NE" type="TTL">
+      <EXTENT start_char="4778" end_char="4802">Ulusal Güvenlik Danışmanı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-64" task="NE" type="PER">
+      <EXTENT start_char="4804" end_char="4814">Tom Donilon</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-65" task="NE" type="PER">
+      <EXTENT start_char="4849" end_char="4857">Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-66" task="NE" type="ORG">
+      <EXTENT start_char="4889" end_char="4907">Dışişleri Bakanlığı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-67" task="NE" type="PER">
+      <EXTENT start_char="4919" end_char="4937">Feridun Sinirlioğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-68" task="NE" type="ORG">
+      <EXTENT start_char="4942" end_char="4968">Amerika Dışişleri Bakanlığı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-69" task="NE" type="PER">
+      <EXTENT start_char="5014" end_char="5028">Ahmet Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-70" task="NE" type="ORG">
+      <EXTENT start_char="0" end_char="8">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-71" task="NE" type="ORG">
+      <EXTENT start_char="1176" end_char="1184">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-72" task="NE" type="LOC">
+      <EXTENT start_char="1335" end_char="1340">Tahran</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-73" task="NE" type="ORG">
+      <EXTENT start_char="1416" end_char="1424">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-74" task="NE" type="ORG">
+      <EXTENT start_char="1828" end_char="1836">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-75" task="NE" type="ORG">
+      <EXTENT start_char="3134" end_char="3142">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-76" task="NE" type="LOC">
+      <EXTENT start_char="3233" end_char="3240">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-77" task="NE" type="LOC">
+      <EXTENT start_char="3505" end_char="3512">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-78" task="NE" type="LOC">
+      <EXTENT start_char="3672" end_char="3679">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-79" task="NE" type="LOC">
+      <EXTENT start_char="4063" end_char="4068">İsrail</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-80" task="NE" type="ORG">
+      <EXTENT start_char="4546" end_char="4554">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-81" task="NE" type="ORG">
+      <EXTENT start_char="4689" end_char="4697">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-82" task="NE" type="ORG">
+      <EXTENT start_char="4723" end_char="4729">Savunma</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-83" task="NE" type="ORG">
+      <EXTENT start_char="4997" end_char="5005">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-84" task="NE" type="PER">
+      <EXTENT start_char="5127" end_char="5131">Obama</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-85" task="NE" type="LOC">
+      <EXTENT start_char="2031" end_char="2036">Tahran</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-86" task="NE" type="LOC">
+      <EXTENT start_char="4283" end_char="4290">Filistin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-87" task="NE" type="TTL">
+      <EXTENT start_char="10" end_char="14">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-88" task="NE" type="ORG">
+      <EXTENT start_char="237" end_char="240">CSIS</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-89" task="NE" type="PER">
+      <EXTENT start_char="847" end_char="850">Esad</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-90" task="NE" type="TTL">
+      <EXTENT start_char="1426" end_char="1430">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-91" task="NE" type="LOC">
+      <EXTENT start_char="2241" end_char="2246">Tahran</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-92" task="NE" type="TTL">
+      <EXTENT start_char="2375" end_char="2381">yetkili</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-93" task="NE" type="PER">
+      <EXTENT start_char="2546" end_char="2560">Ahmet Davutoğlu</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-94" task="NE" type="ORG">
+      <EXTENT start_char="2563" end_char="2566">İran</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-95" task="NE" type="ORG">
+      <EXTENT start_char="2571" end_char="2589">BM Güvenlik Konseyi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-96" task="NE" type="ORG">
+      <EXTENT start_char="2635" end_char="2641">Almanya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-97" task="NE" type="LOC">
+      <EXTENT start_char="2646" end_char="2653">İstanbul</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-98" task="NE" type="LOC">
+      <EXTENT start_char="3085" end_char="3094">Filistinli</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-99" task="NE" type="TTL">
+      <EXTENT start_char="3144" end_char="3148">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-100" task="NE" type="LOC">
+      <EXTENT start_char="3577" end_char="3586">Filistinli</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-101" task="NE" type="TTL">
+      <EXTENT start_char="3690" end_char="3694">Lider</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-102" task="NE" type="TTL">
+      <EXTENT start_char="3719" end_char="3723">lider</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-103" task="NE" type="LOC">
+      <EXTENT start_char="3812" end_char="3821">Filistinli</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-104" task="NE" type="TTL">
+      <EXTENT start_char="4556" end_char="4560">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-105" task="NE" type="LOC">
+      <EXTENT start_char="4580" end_char="4587">Amerikan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-106" task="NE" type="TTL">
+      <EXTENT start_char="4699" end_char="4703">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-107" task="NE" type="TTL">
+      <EXTENT start_char="4731" end_char="4735">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-108" task="NE" type="TTL">
+      <EXTENT start_char="4909" end_char="4916">Müsteşar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-109" task="NE" type="TTL">
+      <EXTENT start_char="5007" end_char="5011">Bakan</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DSC_HAU_007941_20080508" lang="">
+    <ANNOTATION id="WL_DSC_HAU_007941_20080508-NE1" task="NE" type="PER">
+      <EXTENT start_char="0" end_char="8">KALUBALEN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DSC_HAU_007941_20080508-NE2" task="NE" type="PER">
+      <EXTENT start_char="10" end_char="13">DAKE</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DSC_HAU_007941_20080508-NE3" task="NE" type="PER">
+      <EXTENT start_char="15" end_char="19">GABAN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DSC_HAU_007941_20080508-NE4" task="NE" type="PER">
+      <EXTENT start_char="21" end_char="27">HUKUMAR</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DSC_HAU_007941_20080508-NE5" task="NE" type="PER">
+      <EXTENT start_char="29" end_char="32">FRSC</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_BLG_TUR_0000060_20140900" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="1512" raw_text_md5="72780caf70da358f29f2de7a7954d744">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="313">
+<ORIGINAL_TEXT>Turkiyeʼyi bekliyen AIDS (HIV) Epidemiği / Salgını Senelerdir prezervatif kullanimina karsi cikan, televizyonlarda "Cuzzamlisi gelsi bize birsey olmaz abi.." mantigiyla ortalikda dolasan, kadinlarin vajinasina limon sikan, sirke damlatip mikroplari oldurdugunu dusunen insanlarin oldugu bir ulke canim Turkiyem....</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="Turkiyeʼ:turkiyeʼ=NOUN yi:yi=CASE_ACC" start_char="0" end_char="9">Turkiyeʼyi</TOKEN>
+<TOKEN id="token-0-1" pos="ADJ" morph="bekli:bekli=VERB yen:yen=PARTICIPLE" start_char="11" end_char="18">bekliyen</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="AIDS:aids=NOUN" start_char="20" end_char="23">AIDS</TOKEN>
+<TOKEN id="token-0-3" pos="." morph="none" start_char="25" end_char="25">(</TOKEN>
+<TOKEN id="token-0-4" pos="NOUN" morph="HIV:hiv=NOUN" start_char="26" end_char="28">HIV</TOKEN>
+<TOKEN id="token-0-5" pos="." morph="none" start_char="29" end_char="29">)</TOKEN>
+<TOKEN id="token-0-6" pos="NOUN" morph="Epidemiğ:epidemiğ=NOUN i:i=POSS_3S" start_char="31" end_char="39">Epidemiği</TOKEN>
+<TOKEN id="token-0-7" pos="X" morph="none" start_char="41" end_char="41">/</TOKEN>
+<TOKEN id="token-0-8" pos="NOUN" morph="Salgın:salgın=NOUN ı:ı=POSS_3S" start_char="43" end_char="49">Salgını</TOKEN>
+<TOKEN id="token-0-9" pos="ADJ" morph="Senelerdir:senelerdir=ADJ" start_char="51" end_char="60">Senelerdir</TOKEN>
+<TOKEN id="token-0-10" pos="NOUN" morph="prezervatif:prezervatif=NOUN" start_char="62" end_char="72">prezervatif</TOKEN>
+<TOKEN id="token-0-11" pos="ADV" morph="kullanimina:kullanimina=ADV" start_char="74" end_char="84">kullanimina</TOKEN>
+<TOKEN id="token-0-12" pos="ADP" morph="karsi:karsi=POSTP" start_char="86" end_char="90">karsi</TOKEN>
+<TOKEN id="token-0-13" pos="ADV" morph="cikan:cikan=ADV" start_char="92" end_char="96">cikan</TOKEN>
+<TOKEN id="token-0-14" pos="." morph="none" start_char="97" end_char="97">,</TOKEN>
+<TOKEN id="token-0-15" pos="NOUN" morph="televizyon:televizyon=NOUN lar:lar=PLURAL da:da=CASE_LOC" start_char="99" end_char="113">televizyonlarda</TOKEN>
+<TOKEN id="token-0-16" pos="." morph="none" start_char="115" end_char="115">"</TOKEN>
+<TOKEN id="token-0-17" pos="ADJ" morph="Cuzzamli:cuzzamli=ADJ si:si=POSS_3S" start_char="116" end_char="125">Cuzzamlisi</TOKEN>
+<TOKEN id="token-0-18" pos="X" morph="unanalyzable" start_char="127" end_char="131">gelsi</TOKEN>
+<TOKEN id="token-0-19" pos="PRON" morph="biz:biz=PRON_1P e:e=CASE_DAT" start_char="133" end_char="136">bize</TOKEN>
+<TOKEN id="token-0-20" pos="NOUN" morph="birsey:birsey=NOUN" start_char="138" end_char="143">birsey</TOKEN>
+<TOKEN id="token-0-21" pos="ADV" morph="olmaz:olmaz=ADV" start_char="145" end_char="149">olmaz</TOKEN>
+<TOKEN id="token-0-22" pos="NOUN" morph="abi:abi=NOUN" start_char="151" end_char="153">abi</TOKEN>
+<TOKEN id="token-0-23" pos="." morph="none" start_char="154" end_char="156">.."</TOKEN>
+<TOKEN id="token-0-24" pos="ADJ" morph="mantigi:mantigi=ADJ yla:yla=CASE_INS" start_char="158" end_char="167">mantigiyla</TOKEN>
+<TOKEN id="token-0-25" pos="ADJ" morph="ortalik:ortalik=ADJ da:da=CASE_LOC" start_char="169" end_char="177">ortalikda</TOKEN>
+<TOKEN id="token-0-26" pos="ADJ" morph="dolas:dolas=VERB an:an=PARTICIPLE" start_char="179" end_char="185">dolasan</TOKEN>
+<TOKEN id="token-0-27" pos="." morph="none" start_char="186" end_char="186">,</TOKEN>
+<TOKEN id="token-0-28" pos="NOUN" morph="kadinlar:kadinlar=NOUN in:in=POSS_2S" start_char="188" end_char="197">kadinlarin</TOKEN>
+<TOKEN id="token-0-29" pos="NOUN" morph="vajinasina:vajinasina=NOUN" start_char="199" end_char="208">vajinasina</TOKEN>
+<TOKEN id="token-0-30" pos="NOUN" morph="limon:limon=NOUN" start_char="210" end_char="214">limon</TOKEN>
+<TOKEN id="token-0-31" pos="ADJ" morph="sik:sik=VERB an:an=PARTICIPLE" start_char="216" end_char="220">sikan</TOKEN>
+<TOKEN id="token-0-32" pos="." morph="none" start_char="221" end_char="221">,</TOKEN>
+<TOKEN id="token-0-33" pos="NOUN" morph="sirke:sirke=NOUN" start_char="223" end_char="227">sirke</TOKEN>
+<TOKEN id="token-0-34" pos="ADV" morph="damlat:damlat=VERB ip:ip=GER" start_char="229" end_char="236">damlatip</TOKEN>
+<TOKEN id="token-0-35" pos="ADJ" morph="mikroplar:mikroplar=ADJ i:i=POSS_3S" start_char="238" end_char="247">mikroplari</TOKEN>
+<TOKEN id="token-0-36" pos="ADV" morph="oldurdugunu:oldurdugunu=ADV" start_char="249" end_char="259">oldurdugunu</TOKEN>
+<TOKEN id="token-0-37" pos="ADJ" morph="dusun:dusun=VERB en:en=PARTICIPLE" start_char="261" end_char="267">dusunen</TOKEN>
+<TOKEN id="token-0-38" pos="NOUN" morph="insanlar:insanlar=NOUN in:in=POSS_2S" start_char="269" end_char="278">insanlarin</TOKEN>
+<TOKEN id="token-0-39" pos="ADV" morph="oldugu:oldugu=ADV" start_char="280" end_char="285">oldugu</TOKEN>
+<TOKEN id="token-0-40" pos="NUM" morph="bir:bir=NUM" start_char="287" end_char="289">bir</TOKEN>
+<TOKEN id="token-0-41" pos="NOUN" morph="ulke:ulke=NOUN" start_char="291" end_char="294">ulke</TOKEN>
+<TOKEN id="token-0-42" pos="NOUN" morph="canim:canim=NOUN" start_char="296" end_char="300">canim</TOKEN>
+<TOKEN id="token-0-43" pos="NOUN" morph="Turkiye:turkiye=NOUN m:m=POSS_1S" start_char="302" end_char="309">Turkiyem</TOKEN>
+<TOKEN id="token-0-44" pos="." morph="none" start_char="310" end_char="313">....</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="315" end_char="626">
+<ORIGINAL_TEXT>Bayan olsun erkek olsun, isterse 1 kisi ile isterse 100 kisi ile yattip kalkmis olsun; - "abi ben herkesle yatman", - "gozunden anlarim", - "sadece iyi aile kizi/cocugu ile birlikde olurum" - "prezervatifle yapinca zevk alamiyorum" vs... tarzi mantiklarla yasayan insanlardan hepimizin cevresinde vardir mutlaka.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="Bayan:bayan=NOUN" start_char="315" end_char="319">Bayan</TOKEN>
+<TOKEN id="token-1-1" pos="ADV" morph="olsun:olsun=ADV" start_char="321" end_char="325">olsun</TOKEN>
+<TOKEN id="token-1-2" pos="NOUN" morph="erkek:erkek=NOUN" start_char="327" end_char="331">erkek</TOKEN>
+<TOKEN id="token-1-3" pos="ADV" morph="olsun:olsun=ADV" start_char="333" end_char="337">olsun</TOKEN>
+<TOKEN id="token-1-4" pos="." morph="none" start_char="338" end_char="338">,</TOKEN>
+<TOKEN id="token-1-5" pos="VERB" morph="iste:iste=VERB r:r=AOR se:se=COND" start_char="340" end_char="346">isterse</TOKEN>
+<TOKEN id="token-1-6" pos="NUM" morph="none" start_char="348" end_char="348">1</TOKEN>
+<TOKEN id="token-1-7" pos="NOUN" morph="kisi:kisi=NOUN" start_char="350" end_char="353">kisi</TOKEN>
+<TOKEN id="token-1-8" pos="CONJ" morph="ile:ile=CONJ" start_char="355" end_char="357">ile</TOKEN>
+<TOKEN id="token-1-9" pos="VERB" morph="iste:iste=VERB r:r=AOR se:se=COND" start_char="359" end_char="365">isterse</TOKEN>
+<TOKEN id="token-1-10" pos="NUM" morph="none" start_char="367" end_char="369">100</TOKEN>
+<TOKEN id="token-1-11" pos="NOUN" morph="kisi:kisi=NOUN" start_char="371" end_char="374">kisi</TOKEN>
+<TOKEN id="token-1-12" pos="CONJ" morph="ile:ile=CONJ" start_char="376" end_char="378">ile</TOKEN>
+<TOKEN id="token-1-13" pos="X" morph="unanalyzable" start_char="380" end_char="385">yattip</TOKEN>
+<TOKEN id="token-1-14" pos="VERB" morph="kalkmis:kalkmis=VERB" start_char="387" end_char="393">kalkmis</TOKEN>
+<TOKEN id="token-1-15" pos="ADV" morph="olsun:olsun=ADV" start_char="395" end_char="399">olsun</TOKEN>
+<TOKEN id="token-1-16" pos="." morph="none" start_char="400" end_char="400">;</TOKEN>
+<TOKEN id="token-1-17" pos="X" morph="none" start_char="402" end_char="402">-</TOKEN>
+<TOKEN id="token-1-18" pos="." morph="none" start_char="404" end_char="404">"</TOKEN>
+<TOKEN id="token-1-19" pos="NOUN" morph="abi:abi=NOUN" start_char="405" end_char="407">abi</TOKEN>
+<TOKEN id="token-1-20" pos="PRON" morph="ben:ben=PRON_1S" start_char="409" end_char="411">ben</TOKEN>
+<TOKEN id="token-1-21" pos="NOUN" morph="herkes:herkes=NOUN le:le=CASE_INS" start_char="413" end_char="420">herkesle</TOKEN>
+<TOKEN id="token-1-22" pos="ADJ" morph="yatm:yatm=VERB an:an=PARTICIPLE" start_char="422" end_char="427">yatman</TOKEN>
+<TOKEN id="token-1-23" pos="." morph="none" start_char="428" end_char="429">",</TOKEN>
+<TOKEN id="token-1-24" pos="X" morph="none" start_char="431" end_char="431">-</TOKEN>
+<TOKEN id="token-1-25" pos="." morph="none" start_char="433" end_char="433">"</TOKEN>
+<TOKEN id="token-1-26" pos="NOUN" morph="gozun:gozun=NOUN den:den=CASE_ABL" start_char="434" end_char="441">gozunden</TOKEN>
+<TOKEN id="token-1-27" pos="VERB" morph="anla:anla=VERB r:r=AOR im:im=1S" start_char="443" end_char="449">anlarim</TOKEN>
+<TOKEN id="token-1-28" pos="." morph="none" start_char="450" end_char="451">",</TOKEN>
+<TOKEN id="token-1-29" pos="X" morph="none" start_char="453" end_char="453">-</TOKEN>
+<TOKEN id="token-1-30" pos="." morph="none" start_char="455" end_char="455">"</TOKEN>
+<TOKEN id="token-1-31" pos="ADV" morph="sadece:sadece=ADV" start_char="456" end_char="461">sadece</TOKEN>
+<TOKEN id="token-1-32" pos="ADJ" morph="iyi:iyi=ADJ" start_char="463" end_char="465">iyi</TOKEN>
+<TOKEN id="token-1-33" pos="NOUN" morph="aile:aile=NOUN" start_char="467" end_char="470">aile</TOKEN>
+<TOKEN id="token-1-34" pos="NOUN" morph="kiz:kiz=NOUN i:i=CASE_ACC" start_char="472" end_char="475">kizi</TOKEN>
+<TOKEN id="token-1-35" pos="." morph="none" start_char="476" end_char="476">/</TOKEN>
+<TOKEN id="token-1-36" pos="NOUN" morph="cocug:cocug=NOUN u:u=CASE_ACC" start_char="477" end_char="482">cocugu</TOKEN>
+<TOKEN id="token-1-37" pos="CONJ" morph="ile:ile=CONJ" start_char="484" end_char="486">ile</TOKEN>
+<TOKEN id="token-1-38" pos="NOUN" morph="birlik:birlik=NOUN de:de=CASE_LOC" start_char="488" end_char="495">birlikde</TOKEN>
+<TOKEN id="token-1-39" pos="VERB" morph="ol:ol=VERB ur:ur=AOR um:um=1S" start_char="497" end_char="502">olurum</TOKEN>
+<TOKEN id="token-1-40" pos="." morph="none" start_char="503" end_char="503">"</TOKEN>
+<TOKEN id="token-1-41" pos="X" morph="none" start_char="505" end_char="505">-</TOKEN>
+<TOKEN id="token-1-42" pos="." morph="none" start_char="507" end_char="507">"</TOKEN>
+<TOKEN id="token-1-43" pos="NOUN" morph="prezervatif:prezervatif=NOUN le:le=CASE_INS" start_char="508" end_char="520">prezervatifle</TOKEN>
+<TOKEN id="token-1-44" pos="ADV" morph="yapinca:yapinca=ADV" start_char="522" end_char="528">yapinca</TOKEN>
+<TOKEN id="token-1-45" pos="NOUN" morph="zevk:zevk=NOUN" start_char="530" end_char="533">zevk</TOKEN>
+<TOKEN id="token-1-46" pos="VERB" morph="alam:alam=VERB iyor:iyor=PROG um:um=1S" start_char="535" end_char="544">alamiyorum</TOKEN>
+<TOKEN id="token-1-47" pos="." morph="none" start_char="545" end_char="545">"</TOKEN>
+<TOKEN id="token-1-48" pos="X" morph="unanalyzable" start_char="547" end_char="548">vs</TOKEN>
+<TOKEN id="token-1-49" pos="." morph="none" start_char="549" end_char="551">...</TOKEN>
+<TOKEN id="token-1-50" pos="NOUN" morph="tarz:tarz=NOUN i:i=CASE_ACC" start_char="553" end_char="557">tarzi</TOKEN>
+<TOKEN id="token-1-51" pos="NOUN" morph="mantik:mantik=NOUN lar:lar=PLURAL la:la=CASE_INS" start_char="559" end_char="569">mantiklarla</TOKEN>
+<TOKEN id="token-1-52" pos="ADJ" morph="yasa:yasa=VERB yan:yan=PARTICIPLE" start_char="571" end_char="577">yasayan</TOKEN>
+<TOKEN id="token-1-53" pos="NOUN" morph="insan:insan=NOUN lar:lar=PLURAL dan:dan=CASE_ABL" start_char="579" end_char="589">insanlardan</TOKEN>
+<TOKEN id="token-1-54" pos="ADJ" morph="hepimiz:hepimiz=ADJ in:in=CASE_GEN" start_char="591" end_char="599">hepimizin</TOKEN>
+<TOKEN id="token-1-55" pos="NOUN" morph="cevre:cevre=NOUN si:si=POSS_3S nde:nde=CASE_LOC" start_char="601" end_char="610">cevresinde</TOKEN>
+<TOKEN id="token-1-56" pos="VERB" morph="vardir:vardir=VERB" start_char="612" end_char="617">vardir</TOKEN>
+<TOKEN id="token-1-57" pos="PRT" morph="mutlaka:mutlaka=INTERROG" start_char="619" end_char="625">mutlaka</TOKEN>
+<TOKEN id="token-1-58" pos="." morph="none" start_char="626" end_char="626">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="628" end_char="720">
+<ORIGINAL_TEXT>Okumaya alismaya basladigimiz bir haber daha okudum bu sabah: "İstanbulʼda AIDS alarmı" diye.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="NOUN" morph="Okuma:okuma=NOUN ya:ya=CASE_DAT" start_char="628" end_char="634">Okumaya</TOKEN>
+<TOKEN id="token-2-1" pos="ADV" morph="alisma:alisma=VERB ya:ya=GER" start_char="636" end_char="643">alismaya</TOKEN>
+<TOKEN id="token-2-2" pos="ADV" morph="basladigimiz:basladigimiz=ADV" start_char="645" end_char="656">basladigimiz</TOKEN>
+<TOKEN id="token-2-3" pos="NUM" morph="bir:bir=NUM" start_char="658" end_char="660">bir</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="haber:haber=NOUN" start_char="662" end_char="666">haber</TOKEN>
+<TOKEN id="token-2-5" pos="PRT" morph="daha:daha=INTERROG" start_char="668" end_char="671">daha</TOKEN>
+<TOKEN id="token-2-6" pos="VERB" morph="oku:oku=VERB du:du=DIPAST m:m=1S" start_char="673" end_char="678">okudum</TOKEN>
+<TOKEN id="token-2-7" pos="PRON" morph="bu:bu=DEMPRON" start_char="680" end_char="681">bu</TOKEN>
+<TOKEN id="token-2-8" pos="NOUN" morph="sabah:sabah=NOUN" start_char="683" end_char="687">sabah</TOKEN>
+<TOKEN id="token-2-9" pos="." morph="none" start_char="688" end_char="688">:</TOKEN>
+<TOKEN id="token-2-10" pos="." morph="none" start_char="690" end_char="690">"</TOKEN>
+<TOKEN id="token-2-11" pos="NOUN" morph="İstanbulʼ:İstanbulʼ=NOUN da:da=CASE_LOC" start_char="691" end_char="701">İstanbulʼda</TOKEN>
+<TOKEN id="token-2-12" pos="NOUN" morph="AIDS:aids=NOUN" start_char="703" end_char="706">AIDS</TOKEN>
+<TOKEN id="token-2-13" pos="NOUN" morph="alarm:alarm=NOUN ı:ı=CASE_ACC" start_char="708" end_char="713">alarmı</TOKEN>
+<TOKEN id="token-2-14" pos="." morph="none" start_char="714" end_char="714">"</TOKEN>
+<TOKEN id="token-2-15" pos="ADV" morph="di:di=VERB ye:ye=GER" start_char="716" end_char="719">diye</TOKEN>
+<TOKEN id="token-2-16" pos="." morph="none" start_char="720" end_char="720">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="722" end_char="859">
+<ORIGINAL_TEXT>Ozetle, Istanbulʼun ortasinda 160 tane hayat kadini yakalanmis ve bunlardan 6ʼsinda AIDSʼe yol acan HIV virusu oldugu ortaya cikmis...!!!!</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Ozet:ozet=NOUN le:le=CASE_INS" start_char="722" end_char="727">Ozetle</TOKEN>
+<TOKEN id="token-3-1" pos="." morph="none" start_char="728" end_char="728">,</TOKEN>
+<TOKEN id="token-3-2" pos="NOUN" morph="Istanbulʼ:istanbulʼ=NOUN un:un=POSS_2S" start_char="730" end_char="740">Istanbulʼun</TOKEN>
+<TOKEN id="token-3-3" pos="ADJ" morph="ortasinda:ortasinda=ADJ" start_char="742" end_char="750">ortasinda</TOKEN>
+<TOKEN id="token-3-4" pos="NUM" morph="none" start_char="752" end_char="754">160</TOKEN>
+<TOKEN id="token-3-5" pos="NOUN" morph="tane:tane=NOUN" start_char="756" end_char="759">tane</TOKEN>
+<TOKEN id="token-3-6" pos="NOUN" morph="hayat:hayat=NOUN" start_char="761" end_char="765">hayat</TOKEN>
+<TOKEN id="token-3-7" pos="NOUN" morph="kadin:kadin=NOUN i:i=CASE_ACC" start_char="767" end_char="772">kadini</TOKEN>
+<TOKEN id="token-3-8" pos="VERB" morph="yakalanmis:yakalanmis=VERB" start_char="774" end_char="783">yakalanmis</TOKEN>
+<TOKEN id="token-3-9" pos="CONJ" morph="ve:ve=CONJ" start_char="785" end_char="786">ve</TOKEN>
+<TOKEN id="token-3-10" pos="PRON" morph="bunlar:bunlar=DEMPRON dan:dan=CASE_ABL" start_char="788" end_char="796">bunlardan</TOKEN>
+<TOKEN id="token-3-11" pos="X" morph="unanalyzable" start_char="798" end_char="804">6ʼsinda</TOKEN>
+<TOKEN id="token-3-12" pos="NOUN" morph="AIDSʼ:aidsʼ=NOUN e:e=CASE_DAT" start_char="806" end_char="811">AIDSʼe</TOKEN>
+<TOKEN id="token-3-13" pos="NOUN" morph="yol:yol=NOUN" start_char="813" end_char="815">yol</TOKEN>
+<TOKEN id="token-3-14" pos="ADJ" morph="ac:aç=VERB an:an=PARTICIPLE" start_char="817" end_char="820">acan</TOKEN>
+<TOKEN id="token-3-15" pos="NOUN" morph="HIV:hiv=NOUN" start_char="822" end_char="824">HIV</TOKEN>
+<TOKEN id="token-3-16" pos="NOUN" morph="virus:virus=NOUN u:u=POSS_3S" start_char="826" end_char="831">virusu</TOKEN>
+<TOKEN id="token-3-17" pos="ADV" morph="oldugu:oldugu=ADV" start_char="833" end_char="838">oldugu</TOKEN>
+<TOKEN id="token-3-18" pos="ADJ" morph="orta:orta=ADJ ya:ya=CASE_DAT" start_char="840" end_char="845">ortaya</TOKEN>
+<TOKEN id="token-3-19" pos="VERB" morph="cikmis:cikmis=VERB" start_char="847" end_char="852">cikmis</TOKEN>
+<TOKEN id="token-3-20" pos="." morph="none" start_char="853" end_char="859">...!!!!</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="861" end_char="996">
+<ORIGINAL_TEXT>AIDS hastaligini yani HIV virusunu kapmak icin sadece 1 (bir) defa bu virusu vucudunda bulunduran biriyle birlikte olmak yeterli oluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="NOUN" morph="AIDS:aids=NOUN" start_char="861" end_char="864">AIDS</TOKEN>
+<TOKEN id="token-4-1" pos="NOUN" morph="hastalig:hastalig=NOUN i:i=POSS_3S ni:ni=CASE_ACC" start_char="866" end_char="876">hastaligini</TOKEN>
+<TOKEN id="token-4-2" pos="PRT" morph="yani:yani=INTERROG" start_char="878" end_char="881">yani</TOKEN>
+<TOKEN id="token-4-3" pos="NOUN" morph="HIV:hiv=NOUN" start_char="883" end_char="885">HIV</TOKEN>
+<TOKEN id="token-4-4" pos="NOUN" morph="virus:virus=NOUN u:u=POSS_3S nu:nu=CASE_ACC" start_char="887" end_char="894">virusunu</TOKEN>
+<TOKEN id="token-4-5" pos="NOUN" morph="kap:kap=VERB mak:mak=INF" start_char="896" end_char="901">kapmak</TOKEN>
+<TOKEN id="token-4-6" pos="ADP" morph="icin:icin=POSTP" start_char="903" end_char="906">icin</TOKEN>
+<TOKEN id="token-4-7" pos="ADV" morph="sadece:sadece=ADV" start_char="908" end_char="913">sadece</TOKEN>
+<TOKEN id="token-4-8" pos="NUM" morph="none" start_char="915" end_char="915">1</TOKEN>
+<TOKEN id="token-4-9" pos="." morph="none" start_char="917" end_char="917">(</TOKEN>
+<TOKEN id="token-4-10" pos="NUM" morph="bir:bir=NUM" start_char="918" end_char="920">bir</TOKEN>
+<TOKEN id="token-4-11" pos="." morph="none" start_char="921" end_char="921">)</TOKEN>
+<TOKEN id="token-4-12" pos="NOUN" morph="defa:defa=NOUN" start_char="923" end_char="926">defa</TOKEN>
+<TOKEN id="token-4-13" pos="PRON" morph="bu:bu=DEMPRON" start_char="928" end_char="929">bu</TOKEN>
+<TOKEN id="token-4-14" pos="NOUN" morph="virus:virus=NOUN u:u=CASE_ACC" start_char="931" end_char="936">virusu</TOKEN>
+<TOKEN id="token-4-15" pos="NOUN" morph="vucud:vucud=NOUN un:un=POSS_2S da:da=CASE_LOC" start_char="938" end_char="946">vucudunda</TOKEN>
+<TOKEN id="token-4-16" pos="ADJ" morph="bulundur:bulundur=VERB an:an=PARTICIPLE" start_char="948" end_char="957">bulunduran</TOKEN>
+<TOKEN id="token-4-17" pos="NOUN" morph="biri:biri=NOUN yle:yle=CASE_INS" start_char="959" end_char="965">biriyle</TOKEN>
+<TOKEN id="token-4-18" pos="NOUN" morph="birlik:birlik=NOUN te:te=CASE_LOC" start_char="967" end_char="974">birlikte</TOKEN>
+<TOKEN id="token-4-19" pos="NOUN" morph="ol:ol=VERB mak:mak=INF" start_char="976" end_char="980">olmak</TOKEN>
+<TOKEN id="token-4-20" pos="ADJ" morph="yeterli:yeterli=ADJ" start_char="982" end_char="988">yeterli</TOKEN>
+<TOKEN id="token-4-21" pos="VERB" morph="ol:ol=VERB uyor:uyor=PROG" start_char="990" end_char="995">oluyor</TOKEN>
+<TOKEN id="token-4-22" pos="." morph="none" start_char="996" end_char="996">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="998" end_char="1113">
+<ORIGINAL_TEXT>Daha kotusu ise, bir insanin bu virusu tasiyip tasimadigini gosteren ogeler, 3-5 sene sonra ortaya cikmaya basliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="ADV" morph="Daha:daha=ADV" start_char="998" end_char="1001">Daha</TOKEN>
+<TOKEN id="token-5-1" pos="ADJ" morph="kotu:kotu=ADJ su:su=POSS_3S" start_char="1003" end_char="1008">kotusu</TOKEN>
+<TOKEN id="token-5-2" pos="CONJ" morph="ise:ise=CONJ" start_char="1010" end_char="1012">ise</TOKEN>
+<TOKEN id="token-5-3" pos="." morph="none" start_char="1013" end_char="1013">,</TOKEN>
+<TOKEN id="token-5-4" pos="NUM" morph="bir:bir=NUM" start_char="1015" end_char="1017">bir</TOKEN>
+<TOKEN id="token-5-5" pos="NOUN" morph="insan:insan=NOUN in:in=POSS_2S" start_char="1019" end_char="1025">insanin</TOKEN>
+<TOKEN id="token-5-6" pos="PRON" morph="bu:bu=DEMPRON" start_char="1027" end_char="1028">bu</TOKEN>
+<TOKEN id="token-5-7" pos="NOUN" morph="virus:virus=NOUN u:u=CASE_ACC" start_char="1030" end_char="1035">virusu</TOKEN>
+<TOKEN id="token-5-8" pos="ADV" morph="tasi:tasi=VERB yip:yip=GER" start_char="1037" end_char="1043">tasiyip</TOKEN>
+<TOKEN id="token-5-9" pos="ADV" morph="tasimadigini:tasimadigini=ADV" start_char="1045" end_char="1056">tasimadigini</TOKEN>
+<TOKEN id="token-5-10" pos="ADJ" morph="goster:goster=VERB en:en=PARTICIPLE" start_char="1058" end_char="1065">gosteren</TOKEN>
+<TOKEN id="token-5-11" pos="NOUN" morph="oge:oge=NOUN ler:ler=PLURAL" start_char="1067" end_char="1072">ogeler</TOKEN>
+<TOKEN id="token-5-12" pos="." morph="none" start_char="1073" end_char="1073">,</TOKEN>
+<TOKEN id="token-5-13" pos="NUM" morph="none" start_char="1075" end_char="1075">3</TOKEN>
+<TOKEN id="token-5-14" pos="." morph="none" start_char="1076" end_char="1076">-</TOKEN>
+<TOKEN id="token-5-15" pos="ADP" morph="5:5=POSTP" start_char="1077" end_char="1077">5</TOKEN>
+<TOKEN id="token-5-16" pos="NOUN" morph="sene:sene=NOUN" start_char="1079" end_char="1082">sene</TOKEN>
+<TOKEN id="token-5-17" pos="ADP" morph="sonra:sonra=POSTP" start_char="1084" end_char="1088">sonra</TOKEN>
+<TOKEN id="token-5-18" pos="ADJ" morph="orta:orta=ADJ ya:ya=CASE_DAT" start_char="1090" end_char="1095">ortaya</TOKEN>
+<TOKEN id="token-5-19" pos="VERB" morph="cik:cik=VERB ma:ma=NEG ya:ya=SJNC" start_char="1097" end_char="1103">cikmaya</TOKEN>
+<TOKEN id="token-5-20" pos="VERB" morph="basli:basli=VERB yor:yor=PROG" start_char="1105" end_char="1112">basliyor</TOKEN>
+<TOKEN id="token-5-21" pos="." morph="none" start_char="1113" end_char="1113">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="1115" end_char="1218">
+<ORIGINAL_TEXT>T.C. Sağlık Bakanlığı Haziran 2006 verilerine göre Türkiyeʼde bilinen HIV pozitif hasta sayısı 2412ʼdir.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="X" morph="unanalyzable" start_char="1115" end_char="1115">T</TOKEN>
+<TOKEN id="token-6-1" pos="." morph="none" start_char="1116" end_char="1116">.</TOKEN>
+<TOKEN id="token-6-2" pos="X" morph="unanalyzable" start_char="1117" end_char="1117">C</TOKEN>
+<TOKEN id="token-6-3" pos="." morph="none" start_char="1118" end_char="1118">.</TOKEN>
+<TOKEN id="token-6-4" pos="NOUN" morph="Sağlık:sağlık=NOUN" start_char="1120" end_char="1125">Sağlık</TOKEN>
+<TOKEN id="token-6-5" pos="NOUN" morph="Bakanlığ:bakanlık=NOUN ı:ı=POSS_3S" start_char="1127" end_char="1135">Bakanlığı</TOKEN>
+<TOKEN id="token-6-6" pos="NOUN" morph="Haziran:haziran=NOUN" start_char="1137" end_char="1143">Haziran</TOKEN>
+<TOKEN id="token-6-7" pos="NUM" morph="none" start_char="1145" end_char="1148">2006</TOKEN>
+<TOKEN id="token-6-8" pos="NOUN" morph="veri:veri=NOUN ler:ler=PLURAL i:i=POSS_3S ne:ne=CASE_DAT" start_char="1150" end_char="1159">verilerine</TOKEN>
+<TOKEN id="token-6-9" pos="ADV" morph="göre:göre=ADV" start_char="1161" end_char="1164">göre</TOKEN>
+<TOKEN id="token-6-10" pos="NOUN" morph="Türkiyeʼ:türkiyeʼ=NOUN de:de=CASE_LOC" start_char="1166" end_char="1175">Türkiyeʼde</TOKEN>
+<TOKEN id="token-6-11" pos="ADJ" morph="bilinen:bilinen=ADJ" start_char="1177" end_char="1183">bilinen</TOKEN>
+<TOKEN id="token-6-12" pos="NOUN" morph="HIV:hiv=NOUN" start_char="1185" end_char="1187">HIV</TOKEN>
+<TOKEN id="token-6-13" pos="ADJ" morph="pozitif:pozitif=ADJ" start_char="1189" end_char="1195">pozitif</TOKEN>
+<TOKEN id="token-6-14" pos="NOUN" morph="hasta:hasta=NOUN" start_char="1197" end_char="1201">hasta</TOKEN>
+<TOKEN id="token-6-15" pos="NOUN" morph="sayı:sayı=NOUN sı:sı=POSS_3S" start_char="1203" end_char="1208">sayısı</TOKEN>
+<TOKEN id="token-6-16" pos="X" morph="unanalyzable" start_char="1210" end_char="1217">2412ʼdir</TOKEN>
+<TOKEN id="token-6-17" pos="." morph="none" start_char="1218" end_char="1218">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1220" end_char="1288">
+<ORIGINAL_TEXT>2009 yili sonunda bu sayinin cok ama cok ustune cikilmasi bekleniyor.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="NUM" morph="none" start_char="1220" end_char="1223">2009</TOKEN>
+<TOKEN id="token-7-1" pos="NOUN" morph="yil:yil=NOUN i:i=CASE_ACC" start_char="1225" end_char="1228">yili</TOKEN>
+<TOKEN id="token-7-2" pos="ADJ" morph="son:son=ADJ u:u=POSS_3S nda:nda=CASE_LOC" start_char="1230" end_char="1236">sonunda</TOKEN>
+<TOKEN id="token-7-3" pos="PRON" morph="bu:bu=DEMPRON" start_char="1238" end_char="1239">bu</TOKEN>
+<TOKEN id="token-7-4" pos="NOUN" morph="sayi:sayi=NOUN nin:nin=CASE_GEN" start_char="1241" end_char="1247">sayinin</TOKEN>
+<TOKEN id="token-7-5" pos="ADJ" morph="cok:cok=ADJ" start_char="1249" end_char="1251">cok</TOKEN>
+<TOKEN id="token-7-6" pos="CONJ" morph="ama:ama=CONJ" start_char="1253" end_char="1255">ama</TOKEN>
+<TOKEN id="token-7-7" pos="ADJ" morph="cok:cok=ADJ" start_char="1257" end_char="1259">cok</TOKEN>
+<TOKEN id="token-7-8" pos="ADJ" morph="ustune:ustune=ADJ" start_char="1261" end_char="1266">ustune</TOKEN>
+<TOKEN id="token-7-9" pos="VERB" morph="cikilmasi:cikilmasi=VERB" start_char="1268" end_char="1276">cikilmasi</TOKEN>
+<TOKEN id="token-7-10" pos="VERB" morph="bekle:bekle=VERB n:n=REFL iyor:iyor=PROG" start_char="1278" end_char="1287">bekleniyor</TOKEN>
+<TOKEN id="token-7-11" pos="." morph="none" start_char="1288" end_char="1288">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1290" end_char="1458">
+<ORIGINAL_TEXT>Umarim insanlarimiz 10-15 dakikalik bir zevk ugrana hem kendi hayatlarini hemde sevdikleri, beraber olduklari hatta evli oldujlari insanlarin hayatlarinida karartmazlar.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="ADV" morph="Umarim:umarim=ADV" start_char="1290" end_char="1295">Umarim</TOKEN>
+<TOKEN id="token-8-1" pos="NOUN" morph="insanlar:insanlar=NOUN imiz:imiz=POSS_1P" start_char="1297" end_char="1308">insanlarimiz</TOKEN>
+<TOKEN id="token-8-2" pos="NUM" morph="none" start_char="1310" end_char="1311">10</TOKEN>
+<TOKEN id="token-8-3" pos="." morph="none" start_char="1312" end_char="1312">-</TOKEN>
+<TOKEN id="token-8-4" pos="NUM" morph="15:15=NUM" start_char="1313" end_char="1314">15</TOKEN>
+<TOKEN id="token-8-5" pos="ADJ" morph="dakikalik:dakikalik=ADJ" start_char="1316" end_char="1324">dakikalik</TOKEN>
+<TOKEN id="token-8-6" pos="NUM" morph="bir:bir=NUM" start_char="1326" end_char="1328">bir</TOKEN>
+<TOKEN id="token-8-7" pos="NOUN" morph="zevk:zevk=NOUN" start_char="1330" end_char="1333">zevk</TOKEN>
+<TOKEN id="token-8-8" pos="ADV" morph="ugrana:ugrana=ADV" start_char="1335" end_char="1340">ugrana</TOKEN>
+<TOKEN id="token-8-9" pos="ADV" morph="hem:hem=ADV" start_char="1342" end_char="1344">hem</TOKEN>
+<TOKEN id="token-8-10" pos="ADV" morph="kendi:kendi=ADV" start_char="1346" end_char="1350">kendi</TOKEN>
+<TOKEN id="token-8-11" pos="NOUN" morph="hayatlar:hayatlar=NOUN i:i=POSS_3S ni:ni=CASE_ACC" start_char="1352" end_char="1362">hayatlarini</TOKEN>
+<TOKEN id="token-8-12" pos="ADV" morph="hemde:hemde=ADV" start_char="1364" end_char="1368">hemde</TOKEN>
+<TOKEN id="token-8-13" pos="ADJ" morph="sevdik:sevdik=ADJ ler:ler=PLURAL i:i=POSS_3S" start_char="1370" end_char="1379">sevdikleri</TOKEN>
+<TOKEN id="token-8-14" pos="." morph="none" start_char="1380" end_char="1380">,</TOKEN>
+<TOKEN id="token-8-15" pos="ADV" morph="beraber:beraber=ADV" start_char="1382" end_char="1388">beraber</TOKEN>
+<TOKEN id="token-8-16" pos="ADJ" morph="olduklari:olduklari=ADJ" start_char="1390" end_char="1398">olduklari</TOKEN>
+<TOKEN id="token-8-17" pos="ADV" morph="hatta:hatta=ADV" start_char="1400" end_char="1404">hatta</TOKEN>
+<TOKEN id="token-8-18" pos="ADJ" morph="evli:evli=ADJ" start_char="1406" end_char="1409">evli</TOKEN>
+<TOKEN id="token-8-19" pos="ADJ" morph="oldujlari:oldujlari=ADJ" start_char="1411" end_char="1419">oldujlari</TOKEN>
+<TOKEN id="token-8-20" pos="NOUN" morph="insanlar:insanlar=NOUN in:in=CASE_GEN" start_char="1421" end_char="1430">insanlarin</TOKEN>
+<TOKEN id="token-8-21" pos="VERB" morph="hayatlarinida:hayatlarinida=VERB" start_char="1432" end_char="1444">hayatlarinida</TOKEN>
+<TOKEN id="token-8-22" pos="VERB" morph="karartmazlar:karartmazlar=VERB" start_char="1446" end_char="1457">karartmazlar</TOKEN>
+<TOKEN id="token-8-23" pos="." morph="none" start_char="1458" end_char="1458">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1460" end_char="1509">
+<ORIGINAL_TEXT>Daha cok bilgi icin: http://www.hivaidsturkiye.org</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="ADV" morph="Daha:daha=ADV" start_char="1460" end_char="1463">Daha</TOKEN>
+<TOKEN id="token-9-1" pos="ADJ" morph="cok:cok=ADJ" start_char="1465" end_char="1467">cok</TOKEN>
+<TOKEN id="token-9-2" pos="NOUN" morph="bilgi:bilgi=NOUN" start_char="1469" end_char="1473">bilgi</TOKEN>
+<TOKEN id="token-9-3" pos="ADP" morph="icin:icin=POSTP" start_char="1475" end_char="1478">icin</TOKEN>
+<TOKEN id="token-9-4" pos="." morph="none" start_char="1479" end_char="1479">:</TOKEN>
+<TOKEN id="token-9-5" pos="url" morph="none" start_char="1481" end_char="1509">http://www.hivaidsturkiye.org</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

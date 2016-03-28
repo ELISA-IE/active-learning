@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="TUR" source_text_file="NW_AAN_TUR_0000971_20140900.rsd.txt">
+  <DOC id="doc-1" lang="TUR">
+    <ANNOTATION id="doc-1-ann-1" task="NE" type="ORG">
+      <EXTENT start_char="35" end_char="40">Norveç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-2" task="NE" type="ORG">
+      <EXTENT start_char="43" end_char="53">Bulgaristan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-3" task="NE" type="ORG">
+      <EXTENT start_char="58" end_char="65">Hollanda</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-4" task="NE" type="ORG">
+      <EXTENT start_char="91" end_char="102">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-5" task="NE" type="ORG">
+      <EXTENT start_char="107" end_char="115">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-6" task="NE" type="LOC">
+      <EXTENT start_char="150" end_char="159">SARAYBOSNA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-7" task="NE" type="LOC">
+      <EXTENT start_char="162" end_char="169">Hollanda</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-8" task="NE" type="ORG">
+      <EXTENT start_char="223" end_char="234">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-9" task="NE" type="ORG">
+      <EXTENT start_char="375" end_char="382">Kızılhaç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-10" task="NE" type="LOC">
+      <EXTENT start_char="412" end_char="419">Hollanda</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-11" task="NE" type="ORG">
+      <EXTENT start_char="719" end_char="726">Kızılhaç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-12" task="NE" type="ORG">
+      <EXTENT start_char="518" end_char="550">Dış Ticaret ve Kalkınma Bakanlığı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-13" task="NE" type="ORG">
+      <EXTENT start_char="799" end_char="806">Kızılhaç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="1023" end_char="1030">Hollanda</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-15" task="NE" type="ORG">
+      <EXTENT start_char="1374" end_char="1384">Bulgaristan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-16" task="NE" type="PER">
+      <EXTENT start_char="1518" end_char="1531">Daniela Bobeva</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-17" task="NE" type="LOC">
+      <EXTENT start_char="1534" end_char="1542">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-18" task="NE" type="PER">
+      <EXTENT start_char="1564" end_char="1575">İvitza Daçiç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-19" task="NE" type="LOC">
+      <EXTENT start_char="1578" end_char="1589">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-20" task="NE" type="TTL">
+      <EXTENT start_char="1591" end_char="1598">Başbakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-21" task="NE" type="PER">
+      <EXTENT start_char="1601" end_char="1617">Viekoslav Devanda</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-22" task="NE" type="LOC">
+      <EXTENT start_char="1622" end_char="1628">Karadağ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-23" task="NE" type="LOC">
+      <EXTENT start_char="1633" end_char="1637">Sofya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-24" task="NE" type="TTL">
+      <EXTENT start_char="1639" end_char="1647">Büyükelçi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-25" task="NE" type="PER">
+      <EXTENT start_char="1651" end_char="1668">Milomir Mihalyeviç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-26" task="NE" type="LOC">
+      <EXTENT start_char="1732" end_char="1740">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-27" task="NE" type="LOC">
+      <EXTENT start_char="1745" end_char="1756">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-28" task="NE" type="LOC">
+      <EXTENT start_char="1937" end_char="1947">Bulgaristan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-29" task="NE" type="ORG">
+      <EXTENT start_char="1949" end_char="1956">Kızılhaç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-30" task="NE" type="PER">
+      <EXTENT start_char="2025" end_char="2030">Bobeva</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-31" task="NE" type="LOC">
+      <EXTENT start_char="2033" end_char="2043">Bulgaristan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-32" task="NE" type="PER">
+      <EXTENT start_char="2321" end_char="2326">Bobeva</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-33" task="NE" type="ORG">
+      <EXTENT start_char="2463" end_char="2468">Norveç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-34" task="NE" type="ORG">
+      <EXTENT start_char="2506" end_char="2511">Norveç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-35" task="NE" type="ORG">
+      <EXTENT start_char="2538" end_char="2549">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-36" task="NE" type="ORG">
+      <EXTENT start_char="2554" end_char="2562">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-37" task="NE" type="ORG">
+      <EXTENT start_char="2613" end_char="2621">Dışişleri</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-38" task="NE" type="TTL">
+      <EXTENT start_char="2623" end_char="2627">Bakan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-39" task="NE" type="PER">
+      <EXTENT start_char="2630" end_char="2641">Börge Brende</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-40" task="NE" type="LOC">
+      <EXTENT start_char="2795" end_char="2806">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-41" task="NE" type="LOC">
+      <EXTENT start_char="2811" end_char="2819">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-42" task="NE" type="PER">
+      <EXTENT start_char="2903" end_char="2908">Brende</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-43" task="NE" type="ORG">
+      <EXTENT start_char="3080" end_char="3089">Azerbaycan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-44" task="NE" type="ORG">
+      <EXTENT start_char="3130" end_char="3139">Azerbaycan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-45" task="NE" type="LOC">
+      <EXTENT start_char="3200" end_char="3211">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-46" task="NE" type="LOC">
+      <EXTENT start_char="3216" end_char="3224">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-47" task="NE" type="LOC">
+      <EXTENT start_char="3237" end_char="3246">Azerbaycan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-48" task="NE" type="ORG">
+      <EXTENT start_char="3248" end_char="3274">Olağanüstü Haller Bakanlığı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-49" task="NE" type="TTL">
+      <EXTENT start_char="3300" end_char="3312">Cumhurbaşkanı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-50" task="NE" type="PER">
+      <EXTENT start_char="3314" end_char="3325">İlham Aliyev</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-51" task="NE" type="ORG">
+      <EXTENT start_char="3347" end_char="3355">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-52" task="NE" type="ORG">
+      <EXTENT start_char="3360" end_char="3371">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-53" task="NE" type="ORG">
+      <EXTENT start_char="3473" end_char="3481">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-54" task="NE" type="TTL">
+      <EXTENT start_char="3518" end_char="3530">Cumhurbaşkanı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-55" task="NE" type="PER">
+      <EXTENT start_char="3532" end_char="3547">Tomislav Nikoliç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-56" task="NE" type="PER">
+      <EXTENT start_char="3556" end_char="3570">Dragika Nikoliç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-57" task="NE" type="PER">
+      <EXTENT start_char="3625" end_char="3631">Nikoliç</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-58" task="NE" type="TTL">
+      <EXTENT start_char="3636" end_char="3648">Cumhurbaşkanı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-59" task="NE" type="PER">
+      <EXTENT start_char="3650" end_char="3655">Aliyev</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-60" task="NE" type="LOC">
+      <EXTENT start_char="3662" end_char="3671">Azerbaycan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-61" task="NE" type="LOC">
+      <EXTENT start_char="3718" end_char="3729">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-62" task="NE" type="ORG">
+      <EXTENT start_char="3897" end_char="3908">Bosna Hersek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-63" task="NE" type="ORG">
+      <EXTENT start_char="3913" end_char="3921">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-64" task="NE" type="ORG">
+      <EXTENT start_char="239" end_char="247">Sırbistan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-65" task="NE" type="TTL">
+      <EXTENT start_char="1498" end_char="1516">Başbakan Yardımcısı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-66" task="NE" type="TTL">
+      <EXTENT start_char="2301" end_char="2319">Başbakan Yardımcısı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-67" task="NE" type="ORG">
+      <EXTENT start_char="1450" end_char="1474">Başbakanlık basın merkezi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-68" task="NE" type="TTL">
+      <EXTENT start_char="1544" end_char="1562">Başbakan Yardımcısı</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="doc-1-ann-69" task="NE" type="TTL">
+      <EXTENT start_char="2005" end_char="2023">Başbakan Yardımcısı</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

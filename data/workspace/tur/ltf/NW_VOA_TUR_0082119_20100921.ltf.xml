@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_VOA_TUR_0082119_20100921" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="2974" raw_text_md5="8a7c231678ec4aec8e1c8facb4c807ec">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="104">
+<ORIGINAL_TEXT>Ramazan ayında New Yorklu iki Müslüman genç 30 günde 30 eyalette 30 camiyi ziyaret etmek için yola çıktı.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="Ramazan:ramazan=NOUN" start_char="0" end_char="6">Ramazan</TOKEN>
+<TOKEN id="token-0-1" pos="NOUN" morph="ay:ay=NOUN ı:ı=POSS_3S nda:nda=CASE_LOC" start_char="8" end_char="13">ayında</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="New:new=NOUN" start_char="15" end_char="17">New</TOKEN>
+<TOKEN id="token-0-3" pos="NOUN" morph="Yorklu:yorklu=NOUN" start_char="19" end_char="24">Yorklu</TOKEN>
+<TOKEN id="token-0-4" pos="NUM" morph="iki:iki=NUM" start_char="26" end_char="28">iki</TOKEN>
+<TOKEN id="token-0-5" pos="NOUN" morph="Müslüman:müslüman=NOUN" start_char="30" end_char="37">Müslüman</TOKEN>
+<TOKEN id="token-0-6" pos="NOUN" morph="genç:genç=NOUN" start_char="39" end_char="42">genç</TOKEN>
+<TOKEN id="token-0-7" pos="NUM" morph="none" start_char="44" end_char="45">30</TOKEN>
+<TOKEN id="token-0-8" pos="NOUN" morph="gün:gün=NOUN de:de=CASE_LOC" start_char="47" end_char="51">günde</TOKEN>
+<TOKEN id="token-0-9" pos="NUM" morph="none" start_char="53" end_char="54">30</TOKEN>
+<TOKEN id="token-0-10" pos="NOUN" morph="eyalet:eyalet=NOUN te:te=CASE_LOC" start_char="56" end_char="63">eyalette</TOKEN>
+<TOKEN id="token-0-11" pos="NUM" morph="none" start_char="65" end_char="66">30</TOKEN>
+<TOKEN id="token-0-12" pos="NOUN" morph="cami:cami=NOUN yi:yi=CASE_ACC" start_char="68" end_char="73">camiyi</TOKEN>
+<TOKEN id="token-0-13" pos="NOUN" morph="ziyaret:ziyaret=NOUN" start_char="75" end_char="81">ziyaret</TOKEN>
+<TOKEN id="token-0-14" pos="NOUN" morph="et:et=VERB mek:mek=INF" start_char="83" end_char="87">etmek</TOKEN>
+<TOKEN id="token-0-15" pos="ADP" morph="için:için=POSTP" start_char="89" end_char="92">için</TOKEN>
+<TOKEN id="token-0-16" pos="ADV" morph="yol:yol=VERB a:a=GER" start_char="94" end_char="97">yola</TOKEN>
+<TOKEN id="token-0-17" pos="VERB" morph="çık:çık=VERB tı:tı=DIPAST" start_char="99" end_char="103">çıktı</TOKEN>
+<TOKEN id="token-0-18" pos="." morph="none" start_char="104" end_char="104">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="106" end_char="209">
+<ORIGINAL_TEXT>Seyahatleri sırasında New Yorkʼtaki İslam merkezi tartışmaları da gündemin birinci maddesi haline geldi.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="Seyahat:seyahat=NOUN ler:ler=PLURAL i:i=POSS_3S" start_char="106" end_char="116">Seyahatleri</TOKEN>
+<TOKEN id="token-1-1" pos="ADP" morph="sırasında:sırasında=POSTP" start_char="118" end_char="126">sırasında</TOKEN>
+<TOKEN id="token-1-2" pos="NOUN" morph="New:new=NOUN" start_char="128" end_char="130">New</TOKEN>
+<TOKEN id="token-1-3" pos="NOUN" morph="Yorkʼ:yorkʼ=NOUN ta:ta=CASE_LOC ki:ki=PARTICLE" start_char="132" end_char="140">Yorkʼtaki</TOKEN>
+<TOKEN id="token-1-4" pos="NOUN" morph="İslam:İslam=NOUN" start_char="142" end_char="146">İslam</TOKEN>
+<TOKEN id="token-1-5" pos="NOUN" morph="merkez:merkez=NOUN i:i=POSS_3S" start_char="148" end_char="154">merkezi</TOKEN>
+<TOKEN id="token-1-6" pos="NOUN" morph="tartışma:tartışma=NOUN lar:lar=PLURAL ı:ı=CASE_ACC" start_char="156" end_char="167">tartışmaları</TOKEN>
+<TOKEN id="token-1-7" pos="ADP" morph="da:da=POSTP" start_char="169" end_char="170">da</TOKEN>
+<TOKEN id="token-1-8" pos="NOUN" morph="gündem:gündem=NOUN in:in=CASE_GEN" start_char="172" end_char="179">gündemin</TOKEN>
+<TOKEN id="token-1-9" pos="NUM" morph="bir:bir=NUM inci:inci=ORD" start_char="181" end_char="187">birinci</TOKEN>
+<TOKEN id="token-1-10" pos="NOUN" morph="madde:madde=NOUN si:si=POSS_3S" start_char="189" end_char="195">maddesi</TOKEN>
+<TOKEN id="token-1-11" pos="ADP" morph="haline:haline=POSTP" start_char="197" end_char="202">haline</TOKEN>
+<TOKEN id="token-1-12" pos="VERB" morph="gel:gel=VERB di:di=DIPAST" start_char="204" end_char="208">geldi</TOKEN>
+<TOKEN id="token-1-13" pos="." morph="none" start_char="209" end_char="209">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="211" end_char="327">
+<ORIGINAL_TEXT>Oysa iki genç, Amerikaʼyı boydan boya katettikleri serüvenleri boyunca İslam korkusuyla karşılaşmadıklarını söylüyor.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="ADV" morph="Oysa:oysa=ADV" start_char="211" end_char="214">Oysa</TOKEN>
+<TOKEN id="token-2-1" pos="NUM" morph="iki:iki=NUM" start_char="216" end_char="218">iki</TOKEN>
+<TOKEN id="token-2-2" pos="NOUN" morph="genç:genç=NOUN" start_char="220" end_char="223">genç</TOKEN>
+<TOKEN id="token-2-3" pos="." morph="none" start_char="224" end_char="224">,</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="Amerikaʼ:amerikaʼ=NOUN yı:yı=CASE_ACC" start_char="226" end_char="235">Amerikaʼyı</TOKEN>
+<TOKEN id="token-2-5" pos="NOUN" morph="boy:boy=NOUN dan:dan=CASE_ABL" start_char="237" end_char="242">boydan</TOKEN>
+<TOKEN id="token-2-6" pos="ADP" morph="boya:boya=POSTP" start_char="244" end_char="247">boya</TOKEN>
+<TOKEN id="token-2-7" pos="NOUN" morph="katettik:katettik=NOUN leri:leri=PLURAL&amp;POSS_3P" start_char="249" end_char="260">katettikleri</TOKEN>
+<TOKEN id="token-2-8" pos="NOUN" morph="serüven:serüven=NOUN ler:ler=PLURAL i:i=POSS_3S" start_char="262" end_char="272">serüvenleri</TOKEN>
+<TOKEN id="token-2-9" pos="ADV" morph="boyunca:boyunca=ADV" start_char="274" end_char="280">boyunca</TOKEN>
+<TOKEN id="token-2-10" pos="NOUN" morph="İslam:İslam=NOUN" start_char="282" end_char="286">İslam</TOKEN>
+<TOKEN id="token-2-11" pos="NOUN" morph="korku:korku=NOUN su:su=POSS_3S yla:yla=CASE_INS" start_char="288" end_char="297">korkusuyla</TOKEN>
+<TOKEN id="token-2-12" pos="NOUN" morph="karşılaşmadık:karşılaşmadık=NOUN lar:lar=PLURAL ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="299" end_char="317">karşılaşmadıklarını</TOKEN>
+<TOKEN id="token-2-13" pos="VERB" morph="söyl:söyle=VERB üyor:üyor=PROG" start_char="319" end_char="326">söylüyor</TOKEN>
+<TOKEN id="token-2-14" pos="." morph="none" start_char="327" end_char="327">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="329" end_char="441">
+<ORIGINAL_TEXT>Ohio eyaletinde küçük bir kasabada büyüyen Aman Ali, Amerikaʼda yaşama dair kendine özgü bir bakış açısına sahip.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Ohio:ohio=NOUN" start_char="329" end_char="332">Ohio</TOKEN>
+<TOKEN id="token-3-1" pos="NOUN" morph="eyalet:eyalet=NOUN i:i=POSS_3S nde:nde=CASE_LOC" start_char="334" end_char="343">eyaletinde</TOKEN>
+<TOKEN id="token-3-2" pos="NOUN" morph="küçük:küçük=NOUN" start_char="345" end_char="349">küçük</TOKEN>
+<TOKEN id="token-3-3" pos="NUM" morph="bir:bir=NUM" start_char="351" end_char="353">bir</TOKEN>
+<TOKEN id="token-3-4" pos="NOUN" morph="kasaba:kasaba=NOUN da:da=CASE_LOC" start_char="355" end_char="362">kasabada</TOKEN>
+<TOKEN id="token-3-5" pos="ADJ" morph="büyüyen:büyüyen=ADJ" start_char="364" end_char="370">büyüyen</TOKEN>
+<TOKEN id="token-3-6" pos="NOUN" morph="Aman:aman=NOUN" start_char="372" end_char="375">Aman</TOKEN>
+<TOKEN id="token-3-7" pos="NOUN" morph="Ali:ali=NOUN" start_char="377" end_char="379">Ali</TOKEN>
+<TOKEN id="token-3-8" pos="." morph="none" start_char="380" end_char="380">,</TOKEN>
+<TOKEN id="token-3-9" pos="NOUN" morph="Amerikaʼ:amerikaʼ=NOUN da:da=CASE_LOC" start_char="382" end_char="391">Amerikaʼda</TOKEN>
+<TOKEN id="token-3-10" pos="NOUN" morph="yaşam:yaşam=NOUN a:a=CASE_DAT" start_char="393" end_char="398">yaşama</TOKEN>
+<TOKEN id="token-3-11" pos="ADP" morph="dair:dair=POSTP" start_char="400" end_char="403">dair</TOKEN>
+<TOKEN id="token-3-12" pos="NOUN" morph="kendi:kendi=NOUN n:n=POSS_2S e:e=CASE_DAT" start_char="405" end_char="411">kendine</TOKEN>
+<TOKEN id="token-3-13" pos="ADJ" morph="özgü:özgü=ADJ" start_char="413" end_char="416">özgü</TOKEN>
+<TOKEN id="token-3-14" pos="NUM" morph="bir:bir=NUM" start_char="418" end_char="420">bir</TOKEN>
+<TOKEN id="token-3-15" pos="NOUN" morph="bakış:bakış=NOUN" start_char="422" end_char="426">bakış</TOKEN>
+<TOKEN id="token-3-16" pos="NOUN" morph="açı:açı=NOUN sı:sı=POSS_3S na:na=CASE_DAT" start_char="428" end_char="434">açısına</TOKEN>
+<TOKEN id="token-3-17" pos="NOUN" morph="sahip:sahip=NOUN" start_char="436" end_char="440">sahip</TOKEN>
+<TOKEN id="token-3-18" pos="." morph="none" start_char="441" end_char="441">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="443" end_char="505">
+<ORIGINAL_TEXT>Ali, ”Okuldaki tek Müslüman değil, aynı zamanda tek azınlıktım.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="NOUN" morph="Ali:ali=NOUN" start_char="443" end_char="445">Ali</TOKEN>
+<TOKEN id="token-4-1" pos="." morph="none" start_char="446" end_char="446">,</TOKEN>
+<TOKEN id="token-4-2" pos="." morph="none" start_char="448" end_char="448">”</TOKEN>
+<TOKEN id="token-4-3" pos="NOUN" morph="Okul:okul=NOUN da:da=CASE_LOC ki:ki=PARTICLE" start_char="449" end_char="456">Okuldaki</TOKEN>
+<TOKEN id="token-4-4" pos="ADJ" morph="tek:tek=ADJ" start_char="458" end_char="460">tek</TOKEN>
+<TOKEN id="token-4-5" pos="NOUN" morph="Müslüman:müslüman=NOUN" start_char="462" end_char="469">Müslüman</TOKEN>
+<TOKEN id="token-4-6" pos="VERB" morph="değil:değil=NCOPULA" start_char="471" end_char="475">değil</TOKEN>
+<TOKEN id="token-4-7" pos="." morph="none" start_char="476" end_char="476">,</TOKEN>
+<TOKEN id="token-4-8" pos="CONJ" morph="aynı:aynı=CONJ" start_char="478" end_char="481">aynı</TOKEN>
+<TOKEN id="token-4-9" pos="NOUN" morph="zaman:zaman=NOUN da:da=CASE_LOC" start_char="483" end_char="489">zamanda</TOKEN>
+<TOKEN id="token-4-10" pos="ADJ" morph="tek:tek=ADJ" start_char="491" end_char="493">tek</TOKEN>
+<TOKEN id="token-4-11" pos="NOUN" morph="azınlık:azınlık=NOUN tı:tı=DIPAST_COP m:m=1S" start_char="495" end_char="504">azınlıktım</TOKEN>
+<TOKEN id="token-4-12" pos="." morph="none" start_char="505" end_char="505">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="507" end_char="652">
+<ORIGINAL_TEXT>Arkadaşlarıma sadece Müslüman olmanın ne demek olduğunu açıklamakla kalmıyor aynı zamanda niçin siyah olmadığımı da anlatıyordum,” diye konuşuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="NOUN" morph="Arkadaş:arkadaş=NOUN lar:lar=PLURAL ım:ım=POSS_1S a:a=CASE_DAT" start_char="507" end_char="519">Arkadaşlarıma</TOKEN>
+<TOKEN id="token-5-1" pos="ADV" morph="sadece:sadece=ADV" start_char="521" end_char="526">sadece</TOKEN>
+<TOKEN id="token-5-2" pos="NOUN" morph="Müslüman:müslüman=NOUN" start_char="528" end_char="535">Müslüman</TOKEN>
+<TOKEN id="token-5-3" pos="NOUN" morph="olma:olma=NOUN nın:nın=CASE_GEN" start_char="537" end_char="543">olmanın</TOKEN>
+<TOKEN id="token-5-4" pos="ADJ" morph="ne:ne=ADJ" start_char="545" end_char="546">ne</TOKEN>
+<TOKEN id="token-5-5" pos="ADV" morph="demek:demek=ADV" start_char="548" end_char="552">demek</TOKEN>
+<TOKEN id="token-5-6" pos="ADJ" morph="ol:ol=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="554" end_char="561">olduğunu</TOKEN>
+<TOKEN id="token-5-7" pos="NOUN" morph="açıkla:açıkla=VERB mak:mak=INF la:la=CASE_INS" start_char="563" end_char="573">açıklamakla</TOKEN>
+<TOKEN id="token-5-8" pos="VERB" morph="kalm:kalma=VERB ıyor:ıyor=PROG" start_char="575" end_char="582">kalmıyor</TOKEN>
+<TOKEN id="token-5-9" pos="CONJ" morph="aynı:aynı=CONJ" start_char="584" end_char="587">aynı</TOKEN>
+<TOKEN id="token-5-10" pos="NOUN" morph="zaman:zaman=NOUN da:da=CASE_LOC" start_char="589" end_char="595">zamanda</TOKEN>
+<TOKEN id="token-5-11" pos="ADV" morph="niçin:niçin=ADV" start_char="597" end_char="601">niçin</TOKEN>
+<TOKEN id="token-5-12" pos="NOUN" morph="siyah:siyah=NOUN" start_char="603" end_char="607">siyah</TOKEN>
+<TOKEN id="token-5-13" pos="NOUN" morph="olmadığı:olmadığı=NOUN m:m=POSS_1S ı:ı=CASE_ACC" start_char="609" end_char="618">olmadığımı</TOKEN>
+<TOKEN id="token-5-14" pos="ADP" morph="da:da=POSTP" start_char="620" end_char="621">da</TOKEN>
+<TOKEN id="token-5-15" pos="VERB" morph="anlat:anlat=VERB ıyor:ıyor=PROG du:du=DIPAST m:m=1S" start_char="623" end_char="634">anlatıyordum</TOKEN>
+<TOKEN id="token-5-16" pos="." morph="none" start_char="635" end_char="636">,”</TOKEN>
+<TOKEN id="token-5-17" pos="ADP" morph="diye:diye=POSTP" start_char="638" end_char="641">diye</TOKEN>
+<TOKEN id="token-5-18" pos="VERB" morph="konuş:konuş=VERB uyor:uyor=PROG" start_char="643" end_char="651">konuşuyor</TOKEN>
+<TOKEN id="token-5-19" pos="." morph="none" start_char="652" end_char="652">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="654" end_char="786">
+<ORIGINAL_TEXT>Texas eyaletinin Sugarland kasabasındaki Pakistan toplumunun içinde büyüyen Bassam Tarık, iki ayrı dünya arasında kaldığını söylüyor.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="NOUN" morph="Texas:texas=NOUN" start_char="654" end_char="658">Texas</TOKEN>
+<TOKEN id="token-6-1" pos="NOUN" morph="eyalet:eyalet=NOUN i:i=POSS_3S nin:nin=CASE_GEN" start_char="660" end_char="669">eyaletinin</TOKEN>
+<TOKEN id="token-6-2" pos="NOUN" morph="Sugarland:sugarland=NOUN" start_char="671" end_char="679">Sugarland</TOKEN>
+<TOKEN id="token-6-3" pos="NOUN" morph="kasaba:kasaba=NOUN sı:sı=POSS_3S nda:nda=CASE_LOC ki:ki=PARTICLE" start_char="681" end_char="693">kasabasındaki</TOKEN>
+<TOKEN id="token-6-4" pos="NOUN" morph="Pakistan:pakistan=NOUN" start_char="695" end_char="702">Pakistan</TOKEN>
+<TOKEN id="token-6-5" pos="NOUN" morph="toplum:toplum=NOUN u:u=POSS_3S nun:nun=CASE_GEN" start_char="704" end_char="713">toplumunun</TOKEN>
+<TOKEN id="token-6-6" pos="ADV" morph="içinde:içinde=ADV" start_char="715" end_char="720">içinde</TOKEN>
+<TOKEN id="token-6-7" pos="ADJ" morph="büyüyen:büyüyen=ADJ" start_char="722" end_char="728">büyüyen</TOKEN>
+<TOKEN id="token-6-8" pos="NOUN" morph="Bassam:bassam=NOUN" start_char="730" end_char="735">Bassam</TOKEN>
+<TOKEN id="token-6-9" pos="NOUN" morph="Tarık:tarık=NOUN" start_char="737" end_char="741">Tarık</TOKEN>
+<TOKEN id="token-6-10" pos="." morph="none" start_char="742" end_char="742">,</TOKEN>
+<TOKEN id="token-6-11" pos="NUM" morph="iki:iki=NUM" start_char="744" end_char="746">iki</TOKEN>
+<TOKEN id="token-6-12" pos="ADV" morph="ayrı:ayrı=ADV" start_char="748" end_char="751">ayrı</TOKEN>
+<TOKEN id="token-6-13" pos="NOUN" morph="dünya:dünya=NOUN" start_char="753" end_char="757">dünya</TOKEN>
+<TOKEN id="token-6-14" pos="ADV" morph="arasında:arasında=ADV" start_char="759" end_char="766">arasında</TOKEN>
+<TOKEN id="token-6-15" pos="ADJ" morph="kal:kal=VERB dığ:dığ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="768" end_char="776">kaldığını</TOKEN>
+<TOKEN id="token-6-16" pos="VERB" morph="söyl:söyle=VERB üyor:üyor=PROG" start_char="778" end_char="785">söylüyor</TOKEN>
+<TOKEN id="token-6-17" pos="." morph="none" start_char="786" end_char="786">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="788" end_char="830">
+<ORIGINAL_TEXT>Tarık, ”Ne Pakistanlı ve de Amerikalısınız.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="NOUN" morph="Tarık:tarık=NOUN" start_char="788" end_char="792">Tarık</TOKEN>
+<TOKEN id="token-7-1" pos="." morph="none" start_char="793" end_char="793">,</TOKEN>
+<TOKEN id="token-7-2" pos="." morph="none" start_char="795" end_char="795">”</TOKEN>
+<TOKEN id="token-7-3" pos="ADV" morph="Ne:ne=ADV" start_char="796" end_char="797">Ne</TOKEN>
+<TOKEN id="token-7-4" pos="NOUN" morph="Pakistanlı:pakistanlı=NOUN" start_char="799" end_char="808">Pakistanlı</TOKEN>
+<TOKEN id="token-7-5" pos="CONJ" morph="ve:ve=CONJ" start_char="810" end_char="811">ve</TOKEN>
+<TOKEN id="token-7-6" pos="ADP" morph="de:de=POSTP" start_char="813" end_char="814">de</TOKEN>
+<TOKEN id="token-7-7" pos="NOUN" morph="Amerikalı:amerikalı=NOUN sınız:sınız=2P" start_char="816" end_char="829">Amerikalısınız</TOKEN>
+<TOKEN id="token-7-8" pos="." morph="none" start_char="830" end_char="830">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="832" end_char="1139">
+<ORIGINAL_TEXT>Kendinizi iki kültür arasında sıkışmış gibi hissediyorsunuz,” diyor.Bu iki Müslüman genç, Amerikaʼdaki en ateşli tartışmalardan birine konu olan kentte, 11 Eylül 2001 terör saldırılarının düzenlendiği noktaya çok kısa mesafede bir İslam Merkezi kurulması planlarının fırtınalar kopardığı New Yorkʼta buluştu.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="NOUN" morph="Kendi:kendi=NOUN niz:niz=POSS_2P i:i=CASE_ACC" start_char="832" end_char="840">Kendinizi</TOKEN>
+<TOKEN id="token-8-1" pos="NUM" morph="iki:iki=NUM" start_char="842" end_char="844">iki</TOKEN>
+<TOKEN id="token-8-2" pos="NOUN" morph="kültür:kültür=NOUN" start_char="846" end_char="851">kültür</TOKEN>
+<TOKEN id="token-8-3" pos="ADV" morph="arasında:arasında=ADV" start_char="853" end_char="860">arasında</TOKEN>
+<TOKEN id="token-8-4" pos="VERB" morph="sıkış:sıkış=VERB mış:mış=mIsPAST" start_char="862" end_char="869">sıkışmış</TOKEN>
+<TOKEN id="token-8-5" pos="ADP" morph="gibi:gibi=POSTP" start_char="871" end_char="874">gibi</TOKEN>
+<TOKEN id="token-8-6" pos="VERB" morph="hissed:hisset=VERB iyor:iyor=PROG sunuz:sunuz=2P" start_char="876" end_char="890">hissediyorsunuz</TOKEN>
+<TOKEN id="token-8-7" pos="." morph="none" start_char="891" end_char="892">,”</TOKEN>
+<TOKEN id="token-8-8" pos="VERB" morph="d:de=VERB iyor:iyor=PROG" start_char="894" end_char="898">diyor</TOKEN>
+<TOKEN id="token-8-9" pos="." morph="none" start_char="899" end_char="899">.</TOKEN>
+<TOKEN id="token-8-10" pos="PRON" morph="bu:bu=DEMPRON" start_char="900" end_char="901">Bu</TOKEN>
+<TOKEN id="token-8-11" pos="NUM" morph="iki:iki=NUM" start_char="903" end_char="905">iki</TOKEN>
+<TOKEN id="token-8-12" pos="NOUN" morph="Müslüman:müslüman=NOUN" start_char="907" end_char="914">Müslüman</TOKEN>
+<TOKEN id="token-8-13" pos="NOUN" morph="genç:genç=NOUN" start_char="916" end_char="919">genç</TOKEN>
+<TOKEN id="token-8-14" pos="." morph="none" start_char="920" end_char="920">,</TOKEN>
+<TOKEN id="token-8-15" pos="NOUN" morph="Amerikaʼ:amerikaʼ=NOUN da:da=CASE_LOC ki:ki=PARTICLE" start_char="922" end_char="933">Amerikaʼdaki</TOKEN>
+<TOKEN id="token-8-16" pos="ADJ" morph="en:en=ADJ" start_char="935" end_char="936">en</TOKEN>
+<TOKEN id="token-8-17" pos="ADJ" morph="ateşli:ateşli=ADJ" start_char="938" end_char="943">ateşli</TOKEN>
+<TOKEN id="token-8-18" pos="NOUN" morph="tartışma:tartışma=NOUN lar:lar=PLURAL dan:dan=CASE_ABL" start_char="945" end_char="958">tartışmalardan</TOKEN>
+<TOKEN id="token-8-19" pos="NUM" morph="bir:bir=NUM i:i=POSS_3S ne:ne=CASE_DAT" start_char="960" end_char="965">birine</TOKEN>
+<TOKEN id="token-8-20" pos="NOUN" morph="konu:konu=NOUN" start_char="967" end_char="970">konu</TOKEN>
+<TOKEN id="token-8-21" pos="ADJ" morph="ol:ol=VERB an:an=PARTICIPLE" start_char="972" end_char="975">olan</TOKEN>
+<TOKEN id="token-8-22" pos="NOUN" morph="kent:kent=NOUN te:te=CASE_LOC" start_char="977" end_char="982">kentte</TOKEN>
+<TOKEN id="token-8-23" pos="." morph="none" start_char="983" end_char="983">,</TOKEN>
+<TOKEN id="token-8-24" pos="NUM" morph="none" start_char="985" end_char="986">11</TOKEN>
+<TOKEN id="token-8-25" pos="NOUN" morph="Eylül:eylül=NOUN" start_char="988" end_char="992">Eylül</TOKEN>
+<TOKEN id="token-8-26" pos="NUM" morph="none" start_char="994" end_char="997">2001</TOKEN>
+<TOKEN id="token-8-27" pos="NOUN" morph="terör:terör=NOUN" start_char="999" end_char="1003">terör</TOKEN>
+<TOKEN id="token-8-28" pos="NOUN" morph="saldırı:saldırı=NOUN lar:lar=PLURAL ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="1005" end_char="1018">saldırılarının</TOKEN>
+<TOKEN id="token-8-29" pos="ADJ" morph="düzenlen:düzenlen=VERB diğ:diğ=PARTICIPLE i:i=CASE_ACC" start_char="1020" end_char="1031">düzenlendiği</TOKEN>
+<TOKEN id="token-8-30" pos="NOUN" morph="nokta:nokta=NOUN ya:ya=CASE_DAT" start_char="1033" end_char="1039">noktaya</TOKEN>
+<TOKEN id="token-8-31" pos="ADJ" morph="çok:çok=ADJ" start_char="1041" end_char="1043">çok</TOKEN>
+<TOKEN id="token-8-32" pos="ADJ" morph="kısa:kısa=ADJ" start_char="1045" end_char="1048">kısa</TOKEN>
+<TOKEN id="token-8-33" pos="NOUN" morph="mesafe:mesafe=NOUN de:de=CASE_LOC" start_char="1050" end_char="1057">mesafede</TOKEN>
+<TOKEN id="token-8-34" pos="NUM" morph="bir:bir=NUM" start_char="1059" end_char="1061">bir</TOKEN>
+<TOKEN id="token-8-35" pos="NOUN" morph="İslam:İslam=NOUN" start_char="1063" end_char="1067">İslam</TOKEN>
+<TOKEN id="token-8-36" pos="NOUN" morph="Merkez:merkez=NOUN i:i=CASE_ACC" start_char="1069" end_char="1075">Merkezi</TOKEN>
+<TOKEN id="token-8-37" pos="NOUN" morph="kurulma:kurulma=NOUN sı:sı=POSS_3S" start_char="1077" end_char="1085">kurulması</TOKEN>
+<TOKEN id="token-8-38" pos="NOUN" morph="plan:plan=NOUN lar:lar=PLURAL ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="1087" end_char="1097">planlarının</TOKEN>
+<TOKEN id="token-8-39" pos="NOUN" morph="fırtına:fırtına=NOUN lar:lar=PLURAL" start_char="1099" end_char="1108">fırtınalar</TOKEN>
+<TOKEN id="token-8-40" pos="ADJ" morph="kopar:kopar=VERB dığ:dığ=PARTICIPLE ı:ı=CASE_ACC" start_char="1110" end_char="1118">kopardığı</TOKEN>
+<TOKEN id="token-8-41" pos="NOUN" morph="New:new=NOUN" start_char="1120" end_char="1122">New</TOKEN>
+<TOKEN id="token-8-42" pos="NOUN" morph="Yorkʼ:yorkʼ=NOUN ta:ta=CASE_LOC" start_char="1124" end_char="1130">Yorkʼta</TOKEN>
+<TOKEN id="token-8-43" pos="VERB" morph="bul:bul=VERB uş:uş=REC tu:tu=DIPAST" start_char="1132" end_char="1138">buluştu</TOKEN>
+<TOKEN id="token-8-44" pos="." morph="none" start_char="1139" end_char="1139">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1141" end_char="1206">
+<ORIGINAL_TEXT>Tartışmalar Amerikaʼda dinsel hoşgörü konusunu ön plana çıkarıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="NOUN" morph="Tartışma:tartışma=NOUN lar:lar=PLURAL" start_char="1141" end_char="1151">Tartışmalar</TOKEN>
+<TOKEN id="token-9-1" pos="NOUN" morph="Amerikaʼ:amerikaʼ=NOUN da:da=CASE_LOC" start_char="1153" end_char="1162">Amerikaʼda</TOKEN>
+<TOKEN id="token-9-2" pos="ADJ" morph="dinsel:dinsel=ADJ" start_char="1164" end_char="1169">dinsel</TOKEN>
+<TOKEN id="token-9-3" pos="NOUN" morph="hoşgörü:hoşgörü=NOUN" start_char="1171" end_char="1177">hoşgörü</TOKEN>
+<TOKEN id="token-9-4" pos="NOUN" morph="konu:konu=NOUN su:su=POSS_3S nu:nu=CASE_ACC" start_char="1179" end_char="1186">konusunu</TOKEN>
+<TOKEN id="token-9-5" pos="ADJ" morph="ön:ön=ADJ" start_char="1188" end_char="1189">ön</TOKEN>
+<TOKEN id="token-9-6" pos="NOUN" morph="plan:plan=NOUN a:a=CASE_DAT" start_char="1191" end_char="1195">plana</TOKEN>
+<TOKEN id="token-9-7" pos="VERB" morph="çıkar:çıkar=VERB ıyor:ıyor=PROG" start_char="1197" end_char="1205">çıkarıyor</TOKEN>
+<TOKEN id="token-9-8" pos="." morph="none" start_char="1206" end_char="1206">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1208" end_char="1330">
+<ORIGINAL_TEXT>Ali ve Tarıkʼın New Yorkʼtaki Park 51 İslam Merkeziʼnde başlayan serüvenleri Chicago yakınlarındaki bir Şii camiine uzandı.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="NOUN" morph="Ali:ali=NOUN" start_char="1208" end_char="1210">Ali</TOKEN>
+<TOKEN id="token-10-1" pos="CONJ" morph="ve:ve=CONJ" start_char="1212" end_char="1213">ve</TOKEN>
+<TOKEN id="token-10-2" pos="NOUN" morph="Tarıkʼ:tarıkʼ=NOUN ın:ın=POSS_2S" start_char="1215" end_char="1222">Tarıkʼın</TOKEN>
+<TOKEN id="token-10-3" pos="NOUN" morph="New:new=NOUN" start_char="1224" end_char="1226">New</TOKEN>
+<TOKEN id="token-10-4" pos="NOUN" morph="Yorkʼ:yorkʼ=NOUN ta:ta=CASE_LOC ki:ki=PARTICLE" start_char="1228" end_char="1236">Yorkʼtaki</TOKEN>
+<TOKEN id="token-10-5" pos="NOUN" morph="Park:park=NOUN" start_char="1238" end_char="1241">Park</TOKEN>
+<TOKEN id="token-10-6" pos="NUM" morph="none" start_char="1243" end_char="1244">51</TOKEN>
+<TOKEN id="token-10-7" pos="NOUN" morph="İslam:İslam=NOUN" start_char="1246" end_char="1250">İslam</TOKEN>
+<TOKEN id="token-10-8" pos="NOUN" morph="Merkeziʼ:merkeziʼ=NOUN n:n=POSS_2S de:de=CASE_LOC" start_char="1252" end_char="1262">Merkeziʼnde</TOKEN>
+<TOKEN id="token-10-9" pos="ADJ" morph="başla:başla=VERB yan:yan=PARTICIPLE" start_char="1264" end_char="1271">başlayan</TOKEN>
+<TOKEN id="token-10-10" pos="NOUN" morph="serüven:serüven=NOUN ler:ler=PLURAL i:i=POSS_3S" start_char="1273" end_char="1283">serüvenleri</TOKEN>
+<TOKEN id="token-10-11" pos="NOUN" morph="Chicago:chicago=NOUN" start_char="1285" end_char="1291">Chicago</TOKEN>
+<TOKEN id="token-10-12" pos="NOUN" morph="yakın:yakın=NOUN lar:lar=PLURAL ı:ı=POSS_3S nda:nda=CASE_LOC ki:ki=PARTICLE" start_char="1293" end_char="1306">yakınlarındaki</TOKEN>
+<TOKEN id="token-10-13" pos="NUM" morph="bir:bir=NUM" start_char="1308" end_char="1310">bir</TOKEN>
+<TOKEN id="token-10-14" pos="NOUN" morph="Şii:Şii=NOUN" start_char="1312" end_char="1314">Şii</TOKEN>
+<TOKEN id="token-10-15" pos="NOUN" morph="camii:camii=NOUN n:n=POSS_2S e:e=CASE_DAT" start_char="1316" end_char="1322">camiine</TOKEN>
+<TOKEN id="token-10-16" pos="VERB" morph="uzan:uzan=VERB dı:dı=DIPAST" start_char="1324" end_char="1329">uzandı</TOKEN>
+<TOKEN id="token-10-17" pos="." morph="none" start_char="1330" end_char="1330">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1332" end_char="1490">
+<ORIGINAL_TEXT>İki genç arada 18 bin kilometre katetti.Ali ve Tarıkʼın başlattığı ‘Ramazan Serüveni’ adlı blog, ikilinin 30 günde 30 camiyi ziyaret etme girişimini anlatıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="NUM" morph="İki:İki=NUM" start_char="1332" end_char="1334">İki</TOKEN>
+<TOKEN id="token-11-1" pos="NOUN" morph="genç:genç=NOUN" start_char="1336" end_char="1339">genç</TOKEN>
+<TOKEN id="token-11-2" pos="ADV" morph="arada:arada=ADV" start_char="1341" end_char="1345">arada</TOKEN>
+<TOKEN id="token-11-3" pos="NUM" morph="none" start_char="1347" end_char="1348">18</TOKEN>
+<TOKEN id="token-11-4" pos="NUM" morph="bin:bin=NUM" start_char="1350" end_char="1352">bin</TOKEN>
+<TOKEN id="token-11-5" pos="NOUN" morph="kilometre:kilometre=NOUN" start_char="1354" end_char="1362">kilometre</TOKEN>
+<TOKEN id="token-11-6" pos="VERB" morph="katet:katet=VERB ti:ti=DIPAST" start_char="1364" end_char="1370">katetti</TOKEN>
+<TOKEN id="token-11-7" pos="." morph="none" start_char="1371" end_char="1371">.</TOKEN>
+<TOKEN id="token-11-8" pos="NOUN" morph="Ali:ali=NOUN" start_char="1372" end_char="1374">Ali</TOKEN>
+<TOKEN id="token-11-9" pos="CONJ" morph="ve:ve=CONJ" start_char="1376" end_char="1377">ve</TOKEN>
+<TOKEN id="token-11-10" pos="NOUN" morph="Tarıkʼ:tarıkʼ=NOUN ın:ın=POSS_2S" start_char="1379" end_char="1386">Tarıkʼın</TOKEN>
+<TOKEN id="token-11-11" pos="ADJ" morph="başlat:başlat=VERB tığ:tığ=PARTICIPLE ı:ı=CASE_ACC" start_char="1388" end_char="1397">başlattığı</TOKEN>
+<TOKEN id="token-11-12" pos="." morph="none" start_char="1399" end_char="1399">‘</TOKEN>
+<TOKEN id="token-11-13" pos="NOUN" morph="Ramazan:ramazan=NOUN" start_char="1400" end_char="1406">Ramazan</TOKEN>
+<TOKEN id="token-11-14" pos="NOUN" morph="Serüven:serüven=NOUN i:i=POSS_3S" start_char="1408" end_char="1415">Serüveni</TOKEN>
+<TOKEN id="token-11-15" pos="." morph="none" start_char="1416" end_char="1416">’</TOKEN>
+<TOKEN id="token-11-16" pos="ADJ" morph="adlı:adlı=ADJ" start_char="1418" end_char="1421">adlı</TOKEN>
+<TOKEN id="token-11-17" pos="NOUN" morph="blog:blog=NOUN" start_char="1423" end_char="1426">blog</TOKEN>
+<TOKEN id="token-11-18" pos="." morph="none" start_char="1427" end_char="1427">,</TOKEN>
+<TOKEN id="token-11-19" pos="NOUN" morph="ikili:ikili=NOUN nin:nin=CASE_GEN" start_char="1429" end_char="1436">ikilinin</TOKEN>
+<TOKEN id="token-11-20" pos="NUM" morph="none" start_char="1438" end_char="1439">30</TOKEN>
+<TOKEN id="token-11-21" pos="NOUN" morph="gün:gün=NOUN de:de=CASE_LOC" start_char="1441" end_char="1445">günde</TOKEN>
+<TOKEN id="token-11-22" pos="NUM" morph="none" start_char="1447" end_char="1448">30</TOKEN>
+<TOKEN id="token-11-23" pos="NOUN" morph="cami:cami=NOUN yi:yi=CASE_ACC" start_char="1450" end_char="1455">camiyi</TOKEN>
+<TOKEN id="token-11-24" pos="NOUN" morph="ziyaret:ziyaret=NOUN" start_char="1457" end_char="1463">ziyaret</TOKEN>
+<TOKEN id="token-11-25" pos="VERB" morph="et:et=VERB me:me=NEG" start_char="1465" end_char="1468">etme</TOKEN>
+<TOKEN id="token-11-26" pos="NOUN" morph="girişim:girişim=NOUN i:i=POSS_3S ni:ni=CASE_ACC" start_char="1470" end_char="1479">girişimini</TOKEN>
+<TOKEN id="token-11-27" pos="VERB" morph="anlat:anlat=VERB ıyor:ıyor=PROG" start_char="1481" end_char="1489">anlatıyor</TOKEN>
+<TOKEN id="token-11-28" pos="." morph="none" start_char="1490" end_char="1490">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1492" end_char="1615">
+<ORIGINAL_TEXT>30mosques.com adlı blogda anlatılan bu girişim, gençlerin, Amerikaʼda Müslümanlıkla ilgili yeni projelerinin temelini atmış.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="NOUN" morph="30mosques:30mosques=NOUN" start_char="1492" end_char="1500">30mosques</TOKEN>
+<TOKEN id="token-12-1" pos="." morph="none" start_char="1501" end_char="1501">.</TOKEN>
+<TOKEN id="token-12-2" pos="NOUN" morph="com:com=NOUN" start_char="1502" end_char="1504">com</TOKEN>
+<TOKEN id="token-12-3" pos="ADJ" morph="adlı:adlı=ADJ" start_char="1506" end_char="1509">adlı</TOKEN>
+<TOKEN id="token-12-4" pos="NOUN" morph="blog:blog=NOUN da:da=CASE_LOC" start_char="1511" end_char="1516">blogda</TOKEN>
+<TOKEN id="token-12-5" pos="ADJ" morph="anlatıl:anlatıl=VERB an:an=PARTICIPLE" start_char="1518" end_char="1526">anlatılan</TOKEN>
+<TOKEN id="token-12-6" pos="PRON" morph="bu:bu=DEMPRON" start_char="1528" end_char="1529">bu</TOKEN>
+<TOKEN id="token-12-7" pos="NOUN" morph="girişim:girişim=NOUN" start_char="1531" end_char="1537">girişim</TOKEN>
+<TOKEN id="token-12-8" pos="." morph="none" start_char="1538" end_char="1538">,</TOKEN>
+<TOKEN id="token-12-9" pos="NOUN" morph="genç:genç=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="1540" end_char="1548">gençlerin</TOKEN>
+<TOKEN id="token-12-10" pos="." morph="none" start_char="1549" end_char="1549">,</TOKEN>
+<TOKEN id="token-12-11" pos="NOUN" morph="Amerikaʼ:amerikaʼ=NOUN da:da=CASE_LOC" start_char="1551" end_char="1560">Amerikaʼda</TOKEN>
+<TOKEN id="token-12-12" pos="NOUN" morph="Müslümanlık:müslümanlık=NOUN la:la=CASE_INS" start_char="1562" end_char="1574">Müslümanlıkla</TOKEN>
+<TOKEN id="token-12-13" pos="ADP" morph="ilgili:ilgili=POSTP" start_char="1576" end_char="1581">ilgili</TOKEN>
+<TOKEN id="token-12-14" pos="ADJ" morph="yeni:yeni=ADJ" start_char="1583" end_char="1586">yeni</TOKEN>
+<TOKEN id="token-12-15" pos="NOUN" morph="proje:proje=NOUN ler:ler=PLURAL i:i=POSS_3S nin:nin=CASE_GEN" start_char="1588" end_char="1599">projelerinin</TOKEN>
+<TOKEN id="token-12-16" pos="NOUN" morph="temel:temel=NOUN i:i=POSS_3S ni:ni=CASE_ACC" start_char="1601" end_char="1608">temelini</TOKEN>
+<TOKEN id="token-12-17" pos="VERB" morph="at:at=VERB mış:mış=mIsPAST" start_char="1610" end_char="1614">atmış</TOKEN>
+<TOKEN id="token-12-18" pos="." morph="none" start_char="1615" end_char="1615">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1617" end_char="1877">
+<ORIGINAL_TEXT>Aman Ali şöyle konuşuyor: ”11 Eylül saldırılarından sonra Müslümanlarla ilgili olarak sadece ırkçılık, kin ve nefrete bağlı şiddet eylemleri, havaalanlarında sıkılaştırılan güvenlik önlemleri ve şimdi de cami inşaatı tartışmalarının gündeme gelmesi beni üzüyor.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="NOUN" morph="Aman:aman=NOUN" start_char="1617" end_char="1620">Aman</TOKEN>
+<TOKEN id="token-13-1" pos="NOUN" morph="Ali:ali=NOUN" start_char="1622" end_char="1624">Ali</TOKEN>
+<TOKEN id="token-13-2" pos="ADV" morph="şöyle:şöyle=ADV" start_char="1626" end_char="1630">şöyle</TOKEN>
+<TOKEN id="token-13-3" pos="VERB" morph="konuş:konuş=VERB uyor:uyor=PROG" start_char="1632" end_char="1640">konuşuyor</TOKEN>
+<TOKEN id="token-13-4" pos="." morph="none" start_char="1641" end_char="1641">:</TOKEN>
+<TOKEN id="token-13-5" pos="." morph="none" start_char="1643" end_char="1643">”</TOKEN>
+<TOKEN id="token-13-6" pos="NUM" morph="11:11=NUM" start_char="1644" end_char="1645">11</TOKEN>
+<TOKEN id="token-13-7" pos="NOUN" morph="Eylül:eylül=NOUN" start_char="1647" end_char="1651">Eylül</TOKEN>
+<TOKEN id="token-13-8" pos="NOUN" morph="saldırı:saldırı=NOUN lar:lar=PLURAL ı:ı=POSS_3S ndan:ndan=CASE_ABL" start_char="1653" end_char="1667">saldırılarından</TOKEN>
+<TOKEN id="token-13-9" pos="ADV" morph="sonra:sonra=ADV" start_char="1669" end_char="1673">sonra</TOKEN>
+<TOKEN id="token-13-10" pos="NOUN" morph="Müslüman:müslüman=NOUN lar:lar=PLURAL la:la=CASE_INS" start_char="1675" end_char="1687">Müslümanlarla</TOKEN>
+<TOKEN id="token-13-11" pos="ADP" morph="ilgili:ilgili=POSTP" start_char="1689" end_char="1694">ilgili</TOKEN>
+<TOKEN id="token-13-12" pos="ADV" morph="ol:ol=VERB arak:arak=GER" start_char="1696" end_char="1701">olarak</TOKEN>
+<TOKEN id="token-13-13" pos="ADV" morph="sadece:sadece=ADV" start_char="1703" end_char="1708">sadece</TOKEN>
+<TOKEN id="token-13-14" pos="NOUN" morph="ırkçılık:ırkçılık=NOUN" start_char="1710" end_char="1717">ırkçılık</TOKEN>
+<TOKEN id="token-13-15" pos="." morph="none" start_char="1718" end_char="1718">,</TOKEN>
+<TOKEN id="token-13-16" pos="NOUN" morph="kin:kin=NOUN" start_char="1720" end_char="1722">kin</TOKEN>
+<TOKEN id="token-13-17" pos="CONJ" morph="ve:ve=CONJ" start_char="1724" end_char="1725">ve</TOKEN>
+<TOKEN id="token-13-18" pos="NOUN" morph="nefret:nefret=NOUN e:e=CASE_DAT" start_char="1727" end_char="1733">nefrete</TOKEN>
+<TOKEN id="token-13-19" pos="ADP" morph="bağlı:bağlı=POSTP" start_char="1735" end_char="1739">bağlı</TOKEN>
+<TOKEN id="token-13-20" pos="NOUN" morph="şiddet:şiddet=NOUN" start_char="1741" end_char="1746">şiddet</TOKEN>
+<TOKEN id="token-13-21" pos="NOUN" morph="eylem:eylem=NOUN ler:ler=PLURAL i:i=POSS_3S" start_char="1748" end_char="1756">eylemleri</TOKEN>
+<TOKEN id="token-13-22" pos="." morph="none" start_char="1757" end_char="1757">,</TOKEN>
+<TOKEN id="token-13-23" pos="NOUN" morph="havaalanlarında:havaalanlarında=NOUN" start_char="1759" end_char="1773">havaalanlarında</TOKEN>
+<TOKEN id="token-13-24" pos="VERB" morph="sıkılaştırılan:sıkılaştırılan=VERB" start_char="1775" end_char="1788">sıkılaştırılan</TOKEN>
+<TOKEN id="token-13-25" pos="NOUN" morph="güvenlik:güvenlik=NOUN" start_char="1790" end_char="1797">güvenlik</TOKEN>
+<TOKEN id="token-13-26" pos="NOUN" morph="önlem:önlem=NOUN ler:ler=PLURAL i:i=CASE_ACC" start_char="1799" end_char="1807">önlemleri</TOKEN>
+<TOKEN id="token-13-27" pos="CONJ" morph="ve:ve=CONJ" start_char="1809" end_char="1810">ve</TOKEN>
+<TOKEN id="token-13-28" pos="ADV" morph="şimdi:şimdi=ADV" start_char="1812" end_char="1816">şimdi</TOKEN>
+<TOKEN id="token-13-29" pos="CONJ" morph="de:de=CONJ" start_char="1818" end_char="1819">de</TOKEN>
+<TOKEN id="token-13-30" pos="NOUN" morph="cami:cami=NOUN" start_char="1821" end_char="1824">cami</TOKEN>
+<TOKEN id="token-13-31" pos="NOUN" morph="inşaat:inşaat=NOUN ı:ı=POSS_3S" start_char="1826" end_char="1832">inşaatı</TOKEN>
+<TOKEN id="token-13-32" pos="NOUN" morph="tartışma:tartışma=NOUN lar:lar=PLURAL ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="1834" end_char="1848">tartışmalarının</TOKEN>
+<TOKEN id="token-13-33" pos="NOUN" morph="gündem:gündem=NOUN e:e=CASE_DAT" start_char="1850" end_char="1856">gündeme</TOKEN>
+<TOKEN id="token-13-34" pos="NOUN" morph="gelme:gelme=NOUN si:si=POSS_3S" start_char="1858" end_char="1864">gelmesi</TOKEN>
+<TOKEN id="token-13-35" pos="PRON" morph="ben:ben=PRON_1S i:i=CASE_ACC" start_char="1866" end_char="1869">beni</TOKEN>
+<TOKEN id="token-13-36" pos="VERB" morph="üz:üz=VERB üyor:üyor=PROG" start_char="1871" end_char="1876">üzüyor</TOKEN>
+<TOKEN id="token-13-37" pos="." morph="none" start_char="1877" end_char="1877">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1879" end_char="2030">
+<ORIGINAL_TEXT>Bunların hepsi önemli, ancak bizi tanımlayan konular bunlar değil.” Ali, Müslüman Amerikalıların diğer Amerikalıların kaygılarını paylaştığını söylüyor.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="PRON" morph="bunlar:bunlar=DEMPRON ın:ın=CASE_GEN" start_char="1879" end_char="1886">Bunların</TOKEN>
+<TOKEN id="token-14-1" pos="ADV" morph="hepsi:hepsi=ADV" start_char="1888" end_char="1892">hepsi</TOKEN>
+<TOKEN id="token-14-2" pos="ADJ" morph="önemli:önemli=ADJ" start_char="1894" end_char="1899">önemli</TOKEN>
+<TOKEN id="token-14-3" pos="." morph="none" start_char="1900" end_char="1900">,</TOKEN>
+<TOKEN id="token-14-4" pos="ADV" morph="ancak:ancak=ADV" start_char="1902" end_char="1906">ancak</TOKEN>
+<TOKEN id="token-14-5" pos="PRON" morph="biz:biz=PRON_1P i:i=CASE_ACC" start_char="1908" end_char="1911">bizi</TOKEN>
+<TOKEN id="token-14-6" pos="ADJ" morph="tanımla:tanımla=VERB yan:yan=PARTICIPLE" start_char="1913" end_char="1922">tanımlayan</TOKEN>
+<TOKEN id="token-14-7" pos="NOUN" morph="konu:konu=NOUN lar:lar=PLURAL" start_char="1924" end_char="1930">konular</TOKEN>
+<TOKEN id="token-14-8" pos="PRON" morph="bunlar:bunlar=DEMPRON" start_char="1932" end_char="1937">bunlar</TOKEN>
+<TOKEN id="token-14-9" pos="VERB" morph="değil:değil=NCOPULA" start_char="1939" end_char="1943">değil</TOKEN>
+<TOKEN id="token-14-10" pos="." morph="none" start_char="1944" end_char="1945">.”</TOKEN>
+<TOKEN id="token-14-11" pos="NOUN" morph="Ali:ali=NOUN" start_char="1947" end_char="1949">Ali</TOKEN>
+<TOKEN id="token-14-12" pos="." morph="none" start_char="1950" end_char="1950">,</TOKEN>
+<TOKEN id="token-14-13" pos="NOUN" morph="Müslüman:müslüman=NOUN" start_char="1952" end_char="1959">Müslüman</TOKEN>
+<TOKEN id="token-14-14" pos="NOUN" morph="Amerikalı:amerikalı=NOUN lar:lar=PLURAL ın:ın=CASE_GEN" start_char="1961" end_char="1974">Amerikalıların</TOKEN>
+<TOKEN id="token-14-15" pos="ADJ" morph="diğer:diğer=ADJ" start_char="1976" end_char="1980">diğer</TOKEN>
+<TOKEN id="token-14-16" pos="NOUN" morph="Amerikalı:amerikalı=NOUN lar:lar=PLURAL ın:ın=CASE_GEN" start_char="1982" end_char="1995">Amerikalıların</TOKEN>
+<TOKEN id="token-14-17" pos="NOUN" morph="kaygı:kaygı=NOUN lar:lar=PLURAL ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="1997" end_char="2007">kaygılarını</TOKEN>
+<TOKEN id="token-14-18" pos="ADJ" morph="paylaş:paylaş=VERB tığ:tığ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="2009" end_char="2020">paylaştığını</TOKEN>
+<TOKEN id="token-14-19" pos="VERB" morph="söyl:söyle=VERB üyor:üyor=PROG" start_char="2022" end_char="2029">söylüyor</TOKEN>
+<TOKEN id="token-14-20" pos="." morph="none" start_char="2030" end_char="2030">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2032" end_char="2303">
+<ORIGINAL_TEXT>İkili, Amerikaʼyı dolaşırken bir yandan da bloglarında Müslümanların hikayelerini aktarıyor.Ali ve Tarık, serüvenleri boyunca, Amerikan hayatında gizli ancak canlı bir Müslüman kimliği keşfettiklerini, Müslümanlara yönelik düşmanca tavırlarla karşılaşmadıklarını söylüyor.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="NOUN" morph="İkili:İkili=NOUN" start_char="2032" end_char="2036">İkili</TOKEN>
+<TOKEN id="token-15-1" pos="." morph="none" start_char="2037" end_char="2037">,</TOKEN>
+<TOKEN id="token-15-2" pos="NOUN" morph="Amerikaʼ:amerikaʼ=NOUN yı:yı=CASE_ACC" start_char="2039" end_char="2048">Amerikaʼyı</TOKEN>
+<TOKEN id="token-15-3" pos="VERB" morph="dolaşırken:dolaşırken=VERB" start_char="2050" end_char="2059">dolaşırken</TOKEN>
+<TOKEN id="token-15-4" pos="NUM" morph="bir:bir=NUM" start_char="2061" end_char="2063">bir</TOKEN>
+<TOKEN id="token-15-5" pos="ADV" morph="yandan:yandan=ADV" start_char="2065" end_char="2070">yandan</TOKEN>
+<TOKEN id="token-15-6" pos="ADP" morph="da:da=POSTP" start_char="2072" end_char="2073">da</TOKEN>
+<TOKEN id="token-15-7" pos="NOUN" morph="blog:blog=NOUN lar:lar=PLURAL ı:ı=POSS_3S nda:nda=CASE_LOC" start_char="2075" end_char="2085">bloglarında</TOKEN>
+<TOKEN id="token-15-8" pos="NOUN" morph="Müslüman:müslüman=NOUN lar:lar=PLURAL ın:ın=CASE_GEN" start_char="2087" end_char="2099">Müslümanların</TOKEN>
+<TOKEN id="token-15-9" pos="NOUN" morph="hikaye:hikaye=NOUN ler:ler=PLURAL i:i=POSS_3S ni:ni=CASE_ACC" start_char="2101" end_char="2112">hikayelerini</TOKEN>
+<TOKEN id="token-15-10" pos="VERB" morph="aktar:aktar=VERB ıyor:ıyor=PROG" start_char="2114" end_char="2122">aktarıyor</TOKEN>
+<TOKEN id="token-15-11" pos="." morph="none" start_char="2123" end_char="2123">.</TOKEN>
+<TOKEN id="token-15-12" pos="NOUN" morph="Ali:ali=NOUN" start_char="2124" end_char="2126">Ali</TOKEN>
+<TOKEN id="token-15-13" pos="CONJ" morph="ve:ve=CONJ" start_char="2128" end_char="2129">ve</TOKEN>
+<TOKEN id="token-15-14" pos="NOUN" morph="Tarık:tarık=NOUN" start_char="2131" end_char="2135">Tarık</TOKEN>
+<TOKEN id="token-15-15" pos="." morph="none" start_char="2136" end_char="2136">,</TOKEN>
+<TOKEN id="token-15-16" pos="NOUN" morph="serüven:serüven=NOUN ler:ler=PLURAL i:i=CASE_ACC" start_char="2138" end_char="2148">serüvenleri</TOKEN>
+<TOKEN id="token-15-17" pos="ADV" morph="boyunca:boyunca=ADV" start_char="2150" end_char="2156">boyunca</TOKEN>
+<TOKEN id="token-15-18" pos="." morph="none" start_char="2157" end_char="2157">,</TOKEN>
+<TOKEN id="token-15-19" pos="NOUN" morph="Amerikan:amerikan=NOUN" start_char="2159" end_char="2166">Amerikan</TOKEN>
+<TOKEN id="token-15-20" pos="NOUN" morph="hayat:hayat=NOUN ın:ın=POSS_2S da:da=CASE_LOC" start_char="2168" end_char="2176">hayatında</TOKEN>
+<TOKEN id="token-15-21" pos="NOUN" morph="gizli:gizli=NOUN" start_char="2178" end_char="2182">gizli</TOKEN>
+<TOKEN id="token-15-22" pos="CONJ" morph="ancak:ancak=CONJ" start_char="2184" end_char="2188">ancak</TOKEN>
+<TOKEN id="token-15-23" pos="NOUN" morph="canlı:canlı=NOUN" start_char="2190" end_char="2194">canlı</TOKEN>
+<TOKEN id="token-15-24" pos="NUM" morph="bir:bir=NUM" start_char="2196" end_char="2198">bir</TOKEN>
+<TOKEN id="token-15-25" pos="NOUN" morph="Müslüman:müslüman=NOUN" start_char="2200" end_char="2207">Müslüman</TOKEN>
+<TOKEN id="token-15-26" pos="NOUN" morph="kimliğ:kimlik=NOUN i:i=CASE_ACC" start_char="2209" end_char="2215">kimliği</TOKEN>
+<TOKEN id="token-15-27" pos="NOUN" morph="keşfettik:keşfettik=NOUN ler:ler=PLURAL i:i=POSS_3S ni:ni=CASE_ACC" start_char="2217" end_char="2231">keşfettiklerini</TOKEN>
+<TOKEN id="token-15-28" pos="." morph="none" start_char="2232" end_char="2232">,</TOKEN>
+<TOKEN id="token-15-29" pos="NOUN" morph="Müslüman:müslüman=NOUN lar:lar=PLURAL a:a=CASE_DAT" start_char="2234" end_char="2245">Müslümanlara</TOKEN>
+<TOKEN id="token-15-30" pos="ADJ" morph="yönelik:yönelik=ADJ" start_char="2247" end_char="2253">yönelik</TOKEN>
+<TOKEN id="token-15-31" pos="ADJ" morph="düşmanca:düşmanca=ADJ" start_char="2255" end_char="2262">düşmanca</TOKEN>
+<TOKEN id="token-15-32" pos="NOUN" morph="tavır:tavır=NOUN lar:lar=PLURAL la:la=CASE_INS" start_char="2264" end_char="2273">tavırlarla</TOKEN>
+<TOKEN id="token-15-33" pos="NOUN" morph="karşılaşmadık:karşılaşmadık=NOUN lar:lar=PLURAL ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="2275" end_char="2293">karşılaşmadıklarını</TOKEN>
+<TOKEN id="token-15-34" pos="VERB" morph="söyl:söyle=VERB üyor:üyor=PROG" start_char="2295" end_char="2302">söylüyor</TOKEN>
+<TOKEN id="token-15-35" pos="." morph="none" start_char="2303" end_char="2303">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2305" end_char="2395">
+<ORIGINAL_TEXT>Bassam Tarık, ”Gittiğimiz yerlerde Müslümanların komşularıyla sorun yaşadığına rastlamadık.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="NOUN" morph="Bassam:bassam=NOUN" start_char="2305" end_char="2310">Bassam</TOKEN>
+<TOKEN id="token-16-1" pos="NOUN" morph="Tarık:tarık=NOUN" start_char="2312" end_char="2316">Tarık</TOKEN>
+<TOKEN id="token-16-2" pos="." morph="none" start_char="2317" end_char="2317">,</TOKEN>
+<TOKEN id="token-16-3" pos="." morph="none" start_char="2319" end_char="2319">”</TOKEN>
+<TOKEN id="token-16-4" pos="ADJ" morph="Gittiğ:gittiğ=ADJ imiz:imiz=POSS_1P" start_char="2320" end_char="2329">Gittiğimiz</TOKEN>
+<TOKEN id="token-16-5" pos="NOUN" morph="yer:yer=NOUN ler:ler=PLURAL de:de=CASE_LOC" start_char="2331" end_char="2338">yerlerde</TOKEN>
+<TOKEN id="token-16-6" pos="NOUN" morph="Müslüman:müslüman=NOUN lar:lar=PLURAL ın:ın=CASE_GEN" start_char="2340" end_char="2352">Müslümanların</TOKEN>
+<TOKEN id="token-16-7" pos="NOUN" morph="komşu:komşu=NOUN lar:lar=PLURAL ı:ı=POSS_3S yla:yla=CASE_INS" start_char="2354" end_char="2365">komşularıyla</TOKEN>
+<TOKEN id="token-16-8" pos="NOUN" morph="sorun:sorun=NOUN" start_char="2367" end_char="2371">sorun</TOKEN>
+<TOKEN id="token-16-9" pos="ADJ" morph="yaşa:yaşa=VERB dığ:dığ=PARTICIPLE ı:ı=POSS_3S na:na=CASE_DAT" start_char="2373" end_char="2382">yaşadığına</TOKEN>
+<TOKEN id="token-16-10" pos="VERB" morph="rastla:rastla=VERB ma:ma=NEG dı:dı=DIPAST k:k=1P" start_char="2384" end_char="2394">rastlamadık</TOKEN>
+<TOKEN id="token-16-11" pos="." morph="none" start_char="2395" end_char="2395">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2397" end_char="2508">
+<ORIGINAL_TEXT>Tam tersine ilişkilerin iyi olduğunu gördük,” diyor.Bu serüven iki gence de kendilerini keşfetme imkanı tanımış.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="ADJ" morph="Tam:tam=ADJ" start_char="2397" end_char="2399">Tam</TOKEN>
+<TOKEN id="token-17-1" pos="ADJ" morph="ters:ters=ADJ i:i=POSS_3S ne:ne=CASE_DAT" start_char="2401" end_char="2407">tersine</TOKEN>
+<TOKEN id="token-17-2" pos="NOUN" morph="ilişki:ilişki=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="2409" end_char="2419">ilişkilerin</TOKEN>
+<TOKEN id="token-17-3" pos="ADJ" morph="iyi:iyi=ADJ" start_char="2421" end_char="2423">iyi</TOKEN>
+<TOKEN id="token-17-4" pos="ADJ" morph="ol:ol=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="2425" end_char="2432">olduğunu</TOKEN>
+<TOKEN id="token-17-5" pos="VERB" morph="gör:gör=VERB dü:dü=DIPAST k:k=1P" start_char="2434" end_char="2439">gördük</TOKEN>
+<TOKEN id="token-17-6" pos="." morph="none" start_char="2440" end_char="2441">,”</TOKEN>
+<TOKEN id="token-17-7" pos="VERB" morph="d:de=VERB iyor:iyor=PROG" start_char="2443" end_char="2447">diyor</TOKEN>
+<TOKEN id="token-17-8" pos="." morph="none" start_char="2448" end_char="2448">.</TOKEN>
+<TOKEN id="token-17-9" pos="PRON" morph="bu:bu=DEMPRON" start_char="2449" end_char="2450">Bu</TOKEN>
+<TOKEN id="token-17-10" pos="NOUN" morph="serüven:serüven=NOUN" start_char="2452" end_char="2458">serüven</TOKEN>
+<TOKEN id="token-17-11" pos="NUM" morph="iki:iki=NUM" start_char="2460" end_char="2462">iki</TOKEN>
+<TOKEN id="token-17-12" pos="NOUN" morph="genc:genç=NOUN e:e=CASE_DAT" start_char="2464" end_char="2468">gence</TOKEN>
+<TOKEN id="token-17-13" pos="ADP" morph="de:de=POSTP" start_char="2470" end_char="2471">de</TOKEN>
+<TOKEN id="token-17-14" pos="NOUN" morph="kendi:kendi=NOUN ler:ler=PLURAL i:i=POSS_3S ni:ni=CASE_ACC" start_char="2473" end_char="2483">kendilerini</TOKEN>
+<TOKEN id="token-17-15" pos="VERB" morph="keşfet:keşfet=VERB me:me=NEG" start_char="2485" end_char="2492">keşfetme</TOKEN>
+<TOKEN id="token-17-16" pos="NOUN" morph="imkan:imkan=NOUN ı:ı=CASE_ACC" start_char="2494" end_char="2499">imkanı</TOKEN>
+<TOKEN id="token-17-17" pos="VERB" morph="tanı:tanı=VERB mış:mış=mIsPAST" start_char="2501" end_char="2507">tanımış</TOKEN>
+<TOKEN id="token-17-18" pos="." morph="none" start_char="2508" end_char="2508">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2510" end_char="2656">
+<ORIGINAL_TEXT>Bassam Tarık, ”Amerikaʼdaki Müslümanların arasına girmek, gerek Müslüman olanları gerekse olmayanları bağrına basan bir Amerika görmek çok güzeldi.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="NOUN" morph="Bassam:bassam=NOUN" start_char="2510" end_char="2515">Bassam</TOKEN>
+<TOKEN id="token-18-1" pos="NOUN" morph="Tarık:tarık=NOUN" start_char="2517" end_char="2521">Tarık</TOKEN>
+<TOKEN id="token-18-2" pos="." morph="none" start_char="2522" end_char="2522">,</TOKEN>
+<TOKEN id="token-18-3" pos="." morph="none" start_char="2524" end_char="2524">”</TOKEN>
+<TOKEN id="token-18-4" pos="NOUN" morph="Amerikaʼ:amerikaʼ=NOUN da:da=CASE_LOC ki:ki=PARTICLE" start_char="2525" end_char="2536">Amerikaʼdaki</TOKEN>
+<TOKEN id="token-18-5" pos="NOUN" morph="Müslüman:müslüman=NOUN lar:lar=PLURAL ın:ın=CASE_GEN" start_char="2538" end_char="2550">Müslümanların</TOKEN>
+<TOKEN id="token-18-6" pos="ADV" morph="arasına:arasına=ADV" start_char="2552" end_char="2558">arasına</TOKEN>
+<TOKEN id="token-18-7" pos="NOUN" morph="gir:gir=VERB mek:mek=INF" start_char="2560" end_char="2565">girmek</TOKEN>
+<TOKEN id="token-18-8" pos="." morph="none" start_char="2566" end_char="2566">,</TOKEN>
+<TOKEN id="token-18-9" pos="VERB" morph="gerek:gerek=VERB" start_char="2568" end_char="2572">gerek</TOKEN>
+<TOKEN id="token-18-10" pos="NOUN" morph="Müslüman:müslüman=NOUN" start_char="2574" end_char="2581">Müslüman</TOKEN>
+<TOKEN id="token-18-11" pos="NOUN" morph="olan:olan=NOUN lar:lar=PLURAL ı:ı=CASE_ACC" start_char="2583" end_char="2590">olanları</TOKEN>
+<TOKEN id="token-18-12" pos="VERB" morph="gerek:gerek=VERB se:se=COND" start_char="2592" end_char="2598">gerekse</TOKEN>
+<TOKEN id="token-18-13" pos="NOUN" morph="olmayan:olmayan=NOUN lar:lar=PLURAL ı:ı=CASE_ACC" start_char="2600" end_char="2610">olmayanları</TOKEN>
+<TOKEN id="token-18-14" pos="NOUN" morph="bağrı:bağrı=NOUN n:n=POSS_2S a:a=CASE_DAT" start_char="2612" end_char="2618">bağrına</TOKEN>
+<TOKEN id="token-18-15" pos="ADJ" morph="bas:bas=VERB an:an=PARTICIPLE" start_char="2620" end_char="2624">basan</TOKEN>
+<TOKEN id="token-18-16" pos="NUM" morph="bir:bir=NUM" start_char="2626" end_char="2628">bir</TOKEN>
+<TOKEN id="token-18-17" pos="NOUN" morph="Amerika:amerika=NOUN" start_char="2630" end_char="2636">Amerika</TOKEN>
+<TOKEN id="token-18-18" pos="NOUN" morph="gör:gör=VERB mek:mek=INF" start_char="2638" end_char="2643">görmek</TOKEN>
+<TOKEN id="token-18-19" pos="ADJ" morph="çok:çok=ADJ" start_char="2645" end_char="2647">çok</TOKEN>
+<TOKEN id="token-18-20" pos="NOUN" morph="güzel:güzel=NOUN di:di=DIPAST_COP" start_char="2649" end_char="2655">güzeldi</TOKEN>
+<TOKEN id="token-18-21" pos="." morph="none" start_char="2656" end_char="2656">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2658" end_char="2770">
+<ORIGINAL_TEXT>Bu ülke benim vatanım, yurdum,” derken Ali de hislerini şöyle anlatıyor: ”Bizler iki boyutlu karakterler değiliz.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="PRON" morph="bu:bu=DEMPRON" start_char="2658" end_char="2659">Bu</TOKEN>
+<TOKEN id="token-19-1" pos="NOUN" morph="ülke:ülke=NOUN" start_char="2661" end_char="2664">ülke</TOKEN>
+<TOKEN id="token-19-2" pos="PRON" morph="ben:ben=PRON_1S im:im=CASE_GEN" start_char="2666" end_char="2670">benim</TOKEN>
+<TOKEN id="token-19-3" pos="NOUN" morph="vatan:vatan=NOUN ım:ım=1S" start_char="2672" end_char="2678">vatanım</TOKEN>
+<TOKEN id="token-19-4" pos="." morph="none" start_char="2679" end_char="2679">,</TOKEN>
+<TOKEN id="token-19-5" pos="NOUN" morph="yurd:yurt=NOUN um:um=1S" start_char="2681" end_char="2686">yurdum</TOKEN>
+<TOKEN id="token-19-6" pos="." morph="none" start_char="2687" end_char="2688">,”</TOKEN>
+<TOKEN id="token-19-7" pos="VERB" morph="derken:derken=VERB" start_char="2690" end_char="2695">derken</TOKEN>
+<TOKEN id="token-19-8" pos="NOUN" morph="Ali:ali=NOUN" start_char="2697" end_char="2699">Ali</TOKEN>
+<TOKEN id="token-19-9" pos="ADP" morph="de:de=POSTP" start_char="2701" end_char="2702">de</TOKEN>
+<TOKEN id="token-19-10" pos="NOUN" morph="his:his=NOUN ler:ler=PLURAL i:i=POSS_3S ni:ni=CASE_ACC" start_char="2704" end_char="2712">hislerini</TOKEN>
+<TOKEN id="token-19-11" pos="ADV" morph="şöyle:şöyle=ADV" start_char="2714" end_char="2718">şöyle</TOKEN>
+<TOKEN id="token-19-12" pos="VERB" morph="anlat:anlat=VERB ıyor:ıyor=PROG" start_char="2720" end_char="2728">anlatıyor</TOKEN>
+<TOKEN id="token-19-13" pos="." morph="none" start_char="2729" end_char="2729">:</TOKEN>
+<TOKEN id="token-19-14" pos="." morph="none" start_char="2731" end_char="2731">”</TOKEN>
+<TOKEN id="token-19-15" pos="NOUN" morph="Biz:biz=NOUN ler:ler=PLURAL" start_char="2732" end_char="2737">Bizler</TOKEN>
+<TOKEN id="token-19-16" pos="NUM" morph="iki:iki=NUM" start_char="2739" end_char="2741">iki</TOKEN>
+<TOKEN id="token-19-17" pos="ADJ" morph="boyutlu:boyutlu=ADJ" start_char="2743" end_char="2749">boyutlu</TOKEN>
+<TOKEN id="token-19-18" pos="NOUN" morph="karakter:karakter=NOUN ler:ler=PLURAL" start_char="2751" end_char="2761">karakterler</TOKEN>
+<TOKEN id="token-19-19" pos="VERB" morph="değil:değil=NCOPULA iz:iz=1P" start_char="2763" end_char="2769">değiliz</TOKEN>
+<TOKEN id="token-19-20" pos="." morph="none" start_char="2770" end_char="2770">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2772" end_char="2971">
+<ORIGINAL_TEXT>Biz de bu ülkede yaşıyoruz, ekonomiye katkıda bulunuyoruz, okula gidiyoruz, bizler de insanız.”30 cami turunu Amerikaʼnın Doğu kıyısında noktalayan Ali ve Tarık Ramazan Bayramıʼnı New Yorkʼta kutladı.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="PRON" morph="biz:biz=PRON_1P" start_char="2772" end_char="2774">Biz</TOKEN>
+<TOKEN id="token-20-1" pos="ADP" morph="de:de=POSTP" start_char="2776" end_char="2777">de</TOKEN>
+<TOKEN id="token-20-2" pos="PRON" morph="bu:bu=DEMPRON" start_char="2779" end_char="2780">bu</TOKEN>
+<TOKEN id="token-20-3" pos="NOUN" morph="ülke:ülke=NOUN de:de=CASE_LOC" start_char="2782" end_char="2787">ülkede</TOKEN>
+<TOKEN id="token-20-4" pos="VERB" morph="yaş:yaşa=VERB ıyor:ıyor=PROG uz:uz=1P" start_char="2789" end_char="2797">yaşıyoruz</TOKEN>
+<TOKEN id="token-20-5" pos="." morph="none" start_char="2798" end_char="2798">,</TOKEN>
+<TOKEN id="token-20-6" pos="NOUN" morph="ekonomi:ekonomi=NOUN ye:ye=CASE_DAT" start_char="2800" end_char="2808">ekonomiye</TOKEN>
+<TOKEN id="token-20-7" pos="NOUN" morph="katkı:katkı=NOUN da:da=CASE_LOC" start_char="2810" end_char="2816">katkıda</TOKEN>
+<TOKEN id="token-20-8" pos="VERB" morph="bul:bul=VERB un:un=REFL uyor:uyor=PROG uz:uz=1P" start_char="2818" end_char="2828">bulunuyoruz</TOKEN>
+<TOKEN id="token-20-9" pos="." morph="none" start_char="2829" end_char="2829">,</TOKEN>
+<TOKEN id="token-20-10" pos="NOUN" morph="okul:okul=NOUN a:a=CASE_DAT" start_char="2831" end_char="2835">okula</TOKEN>
+<TOKEN id="token-20-11" pos="VERB" morph="gid:git=VERB iyor:iyor=PROG uz:uz=1P" start_char="2837" end_char="2845">gidiyoruz</TOKEN>
+<TOKEN id="token-20-12" pos="." morph="none" start_char="2846" end_char="2846">,</TOKEN>
+<TOKEN id="token-20-13" pos="NOUN" morph="biz:biz=NOUN ler:ler=PLURAL" start_char="2848" end_char="2853">bizler</TOKEN>
+<TOKEN id="token-20-14" pos="ADP" morph="de:de=POSTP" start_char="2855" end_char="2856">de</TOKEN>
+<TOKEN id="token-20-15" pos="NOUN" morph="insan:insan=NOUN ız:ız=1P" start_char="2858" end_char="2864">insanız</TOKEN>
+<TOKEN id="token-20-16" pos="." morph="none" start_char="2865" end_char="2866">.”</TOKEN>
+<TOKEN id="token-20-17" pos="NUM" morph="30:30=NUM" start_char="2867" end_char="2868">30</TOKEN>
+<TOKEN id="token-20-18" pos="NOUN" morph="cami:cami=NOUN" start_char="2870" end_char="2873">cami</TOKEN>
+<TOKEN id="token-20-19" pos="NOUN" morph="tur:tur=NOUN u:u=POSS_3S nu:nu=CASE_ACC" start_char="2875" end_char="2880">turunu</TOKEN>
+<TOKEN id="token-20-20" pos="NOUN" morph="Amerikaʼ:amerikaʼ=NOUN nın:nın=CASE_GEN" start_char="2882" end_char="2892">Amerikaʼnın</TOKEN>
+<TOKEN id="token-20-21" pos="NOUN" morph="Doğu:doğu=NOUN" start_char="2894" end_char="2897">Doğu</TOKEN>
+<TOKEN id="token-20-22" pos="NOUN" morph="kıyı:kıyı=NOUN sı:sı=POSS_3S nda:nda=CASE_LOC" start_char="2899" end_char="2907">kıyısında</TOKEN>
+<TOKEN id="token-20-23" pos="ADJ" morph="noktala:noktala=VERB yan:yan=PARTICIPLE" start_char="2909" end_char="2918">noktalayan</TOKEN>
+<TOKEN id="token-20-24" pos="NOUN" morph="Ali:ali=NOUN" start_char="2920" end_char="2922">Ali</TOKEN>
+<TOKEN id="token-20-25" pos="CONJ" morph="ve:ve=CONJ" start_char="2924" end_char="2925">ve</TOKEN>
+<TOKEN id="token-20-26" pos="NOUN" morph="Tarık:tarık=NOUN" start_char="2927" end_char="2931">Tarık</TOKEN>
+<TOKEN id="token-20-27" pos="NOUN" morph="Ramazan:ramazan=NOUN" start_char="2933" end_char="2939">Ramazan</TOKEN>
+<TOKEN id="token-20-28" pos="ADJ" morph="Bayramıʼ:bayramıʼ=ADJ n:n=POSS_2S ı:ı=CASE_ACC" start_char="2941" end_char="2950">Bayramıʼnı</TOKEN>
+<TOKEN id="token-20-29" pos="NOUN" morph="New:new=NOUN" start_char="2952" end_char="2954">New</TOKEN>
+<TOKEN id="token-20-30" pos="NOUN" morph="Yorkʼ:yorkʼ=NOUN ta:ta=CASE_LOC" start_char="2956" end_char="2962">Yorkʼta</TOKEN>
+<TOKEN id="token-20-31" pos="VERB" morph="kutla:kutla=VERB dı:dı=DIPAST" start_char="2964" end_char="2970">kutladı</TOKEN>
+<TOKEN id="token-20-32" pos="." morph="none" start_char="2971" end_char="2971">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

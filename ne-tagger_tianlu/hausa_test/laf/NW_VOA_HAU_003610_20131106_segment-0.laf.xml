@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="HAU">
+  <DOC id="NW_VOA_HAU_003610_20131106_segment-0" lang="HAU">
+    <ANNOTATION id="NW_VOA_HAU_003610_20131106-ann-1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="13">WASHINGTON, DC</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003610_20131106-ann-2" task="NE" type="ORG">
+      <EXTENT start_char="24" end_char="55">majalisar dokokin jihar Nasarawa</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003610_20131106-ann-3" task="NE" type="ORG">
+      <EXTENT start_char="80" end_char="92">jamʼiyyar PDP</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003610_20131106-ann-4" task="NE" type="TTL">
+      <EXTENT start_char="137" end_char="144"> Alhaji </EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003610_20131106-ann-5" task="NE" type="TTL">
+      <EXTENT start_char="124" end_char="130">gwamnan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003610_20131106-ann-6" task="NE" type="PER">
+      <EXTENT start_char="145" end_char="164">Umaru Tanko Almakura</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003610_20131106-ann-7" task="NE" type="ORG">
+      <EXTENT start_char="184" end_char="196">jamʼiyyar CPC</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003610_20131106-ann-8" task="NE" type="ORG">
+      <EXTENT start_char="245" end_char="247">APC</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

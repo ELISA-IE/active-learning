@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DAN_HAU_007528_20120603_segment-1" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603_segment-1-NE1" task="NE" type="LOC">
+      <EXTENT start_char="111" end_char="121">kasar Masar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603_segment-1-NE2" task="NE" type="LOC">
+      <EXTENT start_char="175" end_char="189">birnin Alkahira</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603_segment-1-NE3" task="NE" type="TTL">
+      <EXTENT start_char="227" end_char="234">shugaban</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603_segment-1-NE4" task="NE" type="LOC">
+      <EXTENT start_char="236" end_char="246">kasar Hosni</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+  <DOC id="WL_MAU_HAU_007279_20090520_segment-1">
+    <TEXT><SEG id="segment-1" start_char="21" end_char="55">
+<ORIGINAL_TEXT>Daga Maje El-Hajeej sirrinsu@yahoo.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="21" end_char="24">Daga</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="26" end_char="29">Maje</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="31" end_char="32">El</TOKEN>
+<TOKEN id="token-1-3" pos="punct" morph="none" start_char="33" end_char="33">-</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="34" end_char="39">Hajeej</TOKEN>
+<TOKEN id="token-1-5" pos="email" morph="none" start_char="41" end_char="55">sirrinsu@yahoo.</TOKEN>
+</SEG>
+</TEXT>
+  </DOC>
+</LCTL_TEXT>

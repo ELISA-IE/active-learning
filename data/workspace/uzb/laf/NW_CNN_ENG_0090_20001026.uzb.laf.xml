@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_CNN_ENG_0090_20001026.uzb" lang="UZB">
+    <ANNOTATION id="NW_CNN_ENG_0090_20001026.uzb-NE1" task="NE">
+      <EXTENT start_char="550" end_char="556">Rossiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0090_20001026.uzb-NE2" task="NE">
+      <EXTENT start_char="700" end_char="721">Rossiya televideniyesi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

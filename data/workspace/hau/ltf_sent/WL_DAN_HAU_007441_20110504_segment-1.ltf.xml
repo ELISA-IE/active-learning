@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="WL_DAN_HAU_007441_20110504">
+<TEXT>
+<SEG end_char="75" id="segment-1" start_char="44">
+<ORIGINAL_TEXT>Osama Bin Laden shine mutumin da</ORIGINAL_TEXT>
+<TOKEN end_char="48" id="token-1-0" morph="Osama:osama=NOUN" pos="NOUN" start_char="44">Osama</TOKEN>
+<TOKEN end_char="52" id="token-1-1" morph="Bin:bin=NOUN" pos="NOUN" start_char="50">Bin</TOKEN>
+<TOKEN end_char="58" id="token-1-2" morph="Laden:laden=NOUN" pos="NOUN" start_char="54">Laden</TOKEN>
+<TOKEN end_char="64" id="token-1-3" morph="unanalyzable" pos="word" start_char="60">shine</TOKEN>
+<TOKEN end_char="72" id="token-1-4" morph="mutumin:mutumin=NOUN" pos="NOUN" start_char="66">mutumin</TOKEN>
+<TOKEN end_char="75" id="token-1-5" morph="da:da=RELPRON" pos="RELPRON" start_char="74">da</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

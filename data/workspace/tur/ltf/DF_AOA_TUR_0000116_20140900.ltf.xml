@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_AOA_TUR_0000116_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1868" raw_text_md5="a74c236c46075766951103ddb5ead01b">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="36">
+<ORIGINAL_TEXT>Merhabalar, Oğlum Eylül 2008 doğumlu.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="9">Merhabalar</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="10" end_char="10">,</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="12" end_char="16">Oğlum</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="18" end_char="22">Eylül</TOKEN>
+<TOKEN id="token-0-4" pos="number" morph="none" start_char="24" end_char="27">2008</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="29" end_char="35">doğumlu</TOKEN>
+<TOKEN id="token-0-6" pos="punct" morph="none" start_char="36" end_char="36">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="38" end_char="67">
+<ORIGINAL_TEXT>KKK aşısı 12 aylıkken yapıldı.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="38" end_char="40">KKK</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="42" end_char="46">aşısı</TOKEN>
+<TOKEN id="token-1-2" pos="number" morph="none" start_char="48" end_char="49">12</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="51" end_char="58">aylıkken</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="60" end_char="66">yapıldı</TOKEN>
+<TOKEN id="token-1-5" pos="punct" morph="none" start_char="67" end_char="67">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="69" end_char="150">
+<ORIGINAL_TEXT>Ancak son dönemdeki artan kızamık vakalarından dolayı okulundan kağıt yollamışlar.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="69" end_char="73">Ancak</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="75" end_char="77">son</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="79" end_char="87">dönemdeki</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="89" end_char="93">artan</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="95" end_char="101">kızamık</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="103" end_char="114">vakalarından</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="116" end_char="121">dolayı</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="123" end_char="131">okulundan</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="133" end_char="137">kağıt</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="139" end_char="149">yollamışlar</TOKEN>
+<TOKEN id="token-2-10" pos="punct" morph="none" start_char="150" end_char="150">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="152" end_char="184">
+<ORIGINAL_TEXT>4-5-6 yaş grubunu aşılıyorlarmış.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="152" end_char="156">4-5-6</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="158" end_char="160">yaş</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="162" end_char="168">grubunu</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="170" end_char="183">aşılıyorlarmış</TOKEN>
+<TOKEN id="token-3-4" pos="punct" morph="none" start_char="184" end_char="184">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="186" end_char="286">
+<ORIGINAL_TEXT>Yalnız bizdeki durum şu ki biz oğluma 7 ocakʼda yani bundan 17 gün önce hepatit a aşısı yaptırmıştık.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="186" end_char="191">Yalnız</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="193" end_char="199">bizdeki</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="201" end_char="205">durum</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="207" end_char="208">şu</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="210" end_char="211">ki</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="213" end_char="215">biz</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="217" end_char="222">oğluma</TOKEN>
+<TOKEN id="token-4-7" pos="number" morph="none" start_char="224" end_char="224">7</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="226" end_char="232">ocakʼda</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="234" end_char="237">yani</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="239" end_char="244">bundan</TOKEN>
+<TOKEN id="token-4-11" pos="number" morph="none" start_char="246" end_char="247">17</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="249" end_char="251">gün</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="253" end_char="256">önce</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="258" end_char="264">hepatit</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="266" end_char="266">a</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="268" end_char="272">aşısı</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="274" end_char="285">yaptırmıştık</TOKEN>
+<TOKEN id="token-4-18" pos="punct" morph="none" start_char="286" end_char="286">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="288" end_char="331">
+<ORIGINAL_TEXT>Şimdi bu 2 aşı arasındaki süre az mı oluyor?</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="288" end_char="292">Şimdi</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="294" end_char="295">bu</TOKEN>
+<TOKEN id="token-5-2" pos="number" morph="none" start_char="297" end_char="297">2</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="299" end_char="301">aşı</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="303" end_char="312">arasındaki</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="314" end_char="317">süre</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="319" end_char="320">az</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="322" end_char="323">mı</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="325" end_char="330">oluyor</TOKEN>
+<TOKEN id="token-5-9" pos="punct" morph="none" start_char="331" end_char="331">?</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="333" end_char="435">
+<ORIGINAL_TEXT>Ben bu durumu eve gelen dilekçede belirttiğim halde, bugün ititbariyle kızamık aşısı okulunda yapılmış.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="333" end_char="335">Ben</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="337" end_char="338">bu</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="340" end_char="345">durumu</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="347" end_char="349">eve</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="351" end_char="355">gelen</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="357" end_char="365">dilekçede</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="367" end_char="377">belirttiğim</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="379" end_char="383">halde</TOKEN>
+<TOKEN id="token-6-8" pos="punct" morph="none" start_char="384" end_char="384">,</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="386" end_char="390">bugün</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="392" end_char="402">ititbariyle</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="404" end_char="410">kızamık</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="412" end_char="416">aşısı</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="418" end_char="425">okulunda</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="427" end_char="434">yapılmış</TOKEN>
+<TOKEN id="token-6-15" pos="punct" morph="none" start_char="435" end_char="435">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="437" end_char="536">
+<ORIGINAL_TEXT>Size danışmak istediğim 2 aşının arasında bu kadar az süre geçmiş olmasının bir sakıncası var mıdır?</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="437" end_char="440">Size</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="442" end_char="449">danışmak</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="451" end_char="459">istediğim</TOKEN>
+<TOKEN id="token-7-3" pos="number" morph="none" start_char="461" end_char="461">2</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="463" end_char="468">aşının</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="470" end_char="477">arasında</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="479" end_char="480">bu</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="482" end_char="486">kadar</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="488" end_char="489">az</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="491" end_char="494">süre</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="496" end_char="501">geçmiş</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="503" end_char="511">olmasının</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="513" end_char="515">bir</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="517" end_char="525">sakıncası</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="527" end_char="529">var</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="531" end_char="535">mıdır</TOKEN>
+<TOKEN id="token-7-16" pos="punct" morph="none" start_char="536" end_char="536">?</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="538" end_char="603">
+<ORIGINAL_TEXT>Kızamık aşısı ile hepatit a aşısının birbirine bir zararı olur mu?</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="538" end_char="544">Kızamık</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="546" end_char="550">aşısı</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="552" end_char="554">ile</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="556" end_char="562">hepatit</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="564" end_char="564">a</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="566" end_char="573">aşısının</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="575" end_char="583">birbirine</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="585" end_char="587">bir</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="589" end_char="594">zararı</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="596" end_char="599">olur</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="601" end_char="602">mu</TOKEN>
+<TOKEN id="token-8-11" pos="punct" morph="none" start_char="603" end_char="603">?</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="605" end_char="654">
+<ORIGINAL_TEXT>Yani birbirini geçersiz kılma gibi bir durum vs?..</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="605" end_char="608">Yani</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="610" end_char="618">birbirini</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="620" end_char="627">geçersiz</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="629" end_char="633">kılma</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="635" end_char="638">gibi</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="640" end_char="642">bir</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="644" end_char="648">durum</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="650" end_char="651">vs</TOKEN>
+<TOKEN id="token-9-8" pos="punct" morph="none" start_char="652" end_char="654">?..</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="656" end_char="700">
+<ORIGINAL_TEXT>En önemlisi de çocuğa bir zararı olabilir mi?</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="656" end_char="657">En</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="659" end_char="666">önemlisi</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="668" end_char="669">de</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="671" end_char="676">çocuğa</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="678" end_char="680">bir</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="682" end_char="687">zararı</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="689" end_char="696">olabilir</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="698" end_char="699">mi</TOKEN>
+<TOKEN id="token-10-8" pos="punct" morph="none" start_char="700" end_char="700">?</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="702" end_char="776">
+<ORIGINAL_TEXT>Sağlık ocağını arayıp sorduğumda 2 aşı arası 1 ay olsa iyi olur demişlerdi.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="702" end_char="707">Sağlık</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="709" end_char="715">ocağını</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="717" end_char="722">arayıp</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="724" end_char="733">sorduğumda</TOKEN>
+<TOKEN id="token-11-4" pos="number" morph="none" start_char="735" end_char="735">2</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="737" end_char="739">aşı</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="741" end_char="745">arası</TOKEN>
+<TOKEN id="token-11-7" pos="number" morph="none" start_char="747" end_char="747">1</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="749" end_char="750">ay</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="752" end_char="755">olsa</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="757" end_char="759">iyi</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="761" end_char="764">olur</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="766" end_char="775">demişlerdi</TOKEN>
+<TOKEN id="token-11-13" pos="punct" morph="none" start_char="776" end_char="776">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="778" end_char="849">
+<ORIGINAL_TEXT>Ben de okulunu arayıp gerekli bilgiyi verdiğim halde çocuğu aşılamışlar.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="778" end_char="780">Ben</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="782" end_char="783">de</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="785" end_char="791">okulunu</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="793" end_char="798">arayıp</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="800" end_char="806">gerekli</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="808" end_char="814">bilgiyi</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="816" end_char="823">verdiğim</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="825" end_char="829">halde</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="831" end_char="836">çocuğu</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="838" end_char="848">aşılamışlar</TOKEN>
+<TOKEN id="token-12-10" pos="punct" morph="none" start_char="849" end_char="849">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="851" end_char="872">
+<ORIGINAL_TEXT>Şimdi kafamız karıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="851" end_char="855">Şimdi</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="857" end_char="863">kafamız</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="865" end_char="871">karıştı</TOKEN>
+<TOKEN id="token-13-3" pos="punct" morph="none" start_char="872" end_char="872">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="875" end_char="933">
+<ORIGINAL_TEXT>Haklisiniz, iki asi arasinin en az 30 gun olmasi SARTTIR...</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="875" end_char="884">Haklisiniz</TOKEN>
+<TOKEN id="token-14-1" pos="punct" morph="none" start_char="885" end_char="885">,</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="887" end_char="889">iki</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="891" end_char="893">asi</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="895" end_char="902">arasinin</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="904" end_char="905">en</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="907" end_char="908">az</TOKEN>
+<TOKEN id="token-14-7" pos="number" morph="none" start_char="910" end_char="911">30</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="913" end_char="915">gun</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="917" end_char="922">olmasi</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="924" end_char="930">SARTTIR</TOKEN>
+<TOKEN id="token-14-11" pos="punct" morph="none" start_char="931" end_char="933">...</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="935" end_char="1081">
+<ORIGINAL_TEXT>Saglik ocaklari bunu bilmezler, hele okula gelenler, hic bilmezler.. Asilar hakkindaki bilgileri, Saglik bakanligindan gelen tamimlerle sinirlidir.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="935" end_char="940">Saglik</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="942" end_char="949">ocaklari</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="951" end_char="954">bunu</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="956" end_char="964">bilmezler</TOKEN>
+<TOKEN id="token-15-4" pos="punct" morph="none" start_char="965" end_char="965">,</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="967" end_char="970">hele</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="972" end_char="976">okula</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="978" end_char="985">gelenler</TOKEN>
+<TOKEN id="token-15-8" pos="punct" morph="none" start_char="986" end_char="986">,</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="988" end_char="990">hic</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="992" end_char="1000">bilmezler</TOKEN>
+<TOKEN id="token-15-11" pos="punct" morph="none" start_char="1001" end_char="1002">..</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1004" end_char="1009">Asilar</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1011" end_char="1020">hakkindaki</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1022" end_char="1030">bilgileri</TOKEN>
+<TOKEN id="token-15-15" pos="punct" morph="none" start_char="1031" end_char="1031">,</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1033" end_char="1038">Saglik</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="1040" end_char="1052">bakanligindan</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="1054" end_char="1058">gelen</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="1060" end_char="1069">tamimlerle</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="1071" end_char="1080">sinirlidir</TOKEN>
+<TOKEN id="token-15-21" pos="punct" morph="none" start_char="1081" end_char="1081">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1083" end_char="1244">
+<ORIGINAL_TEXT>Okuma ozellikleride olmadigindan, is size dusuyor.. Yakin tarihlerle asi olmasinin cocuga bir zarari yok, sadece her iki asininda verdigi bagisiklik dusuk olacak.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1083" end_char="1087">Okuma</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1089" end_char="1101">ozellikleride</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1103" end_char="1114">olmadigindan</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="1115" end_char="1115">,</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1117" end_char="1118">is</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1120" end_char="1123">size</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1125" end_char="1131">dusuyor</TOKEN>
+<TOKEN id="token-16-7" pos="punct" morph="none" start_char="1132" end_char="1133">..</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1135" end_char="1139">Yakin</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1141" end_char="1150">tarihlerle</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1152" end_char="1154">asi</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="1156" end_char="1164">olmasinin</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1166" end_char="1171">cocuga</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="1173" end_char="1175">bir</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="1177" end_char="1182">zarari</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1184" end_char="1186">yok</TOKEN>
+<TOKEN id="token-16-16" pos="punct" morph="none" start_char="1187" end_char="1187">,</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="1189" end_char="1194">sadece</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="1196" end_char="1198">her</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="1200" end_char="1202">iki</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="1204" end_char="1211">asininda</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="1213" end_char="1219">verdigi</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="1221" end_char="1230">bagisiklik</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="1232" end_char="1236">dusuk</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="1238" end_char="1243">olacak</TOKEN>
+<TOKEN id="token-16-25" pos="punct" morph="none" start_char="1244" end_char="1244">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1247" end_char="1453">
+<ORIGINAL_TEXT>Tüh Hocam, yazmakla yetinmeyip, telefonla arayıp bilgilendirdiğim halde aşıyı yaptılar :( Şimdi biz Hepatit A aşısının 2. dozunu normal yaptırıyoruz, değil mi?Bağışıklığının düşük olacak olmasına da üzüldüm.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1247" end_char="1249">Tüh</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1251" end_char="1255">Hocam</TOKEN>
+<TOKEN id="token-17-2" pos="punct" morph="none" start_char="1256" end_char="1256">,</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1258" end_char="1265">yazmakla</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1267" end_char="1276">yetinmeyip</TOKEN>
+<TOKEN id="token-17-5" pos="punct" morph="none" start_char="1277" end_char="1277">,</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1279" end_char="1287">telefonla</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1289" end_char="1294">arayıp</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1296" end_char="1311">bilgilendirdiğim</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1313" end_char="1317">halde</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1319" end_char="1323">aşıyı</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1325" end_char="1332">yaptılar</TOKEN>
+<TOKEN id="token-17-12" pos="unknown" morph="none" start_char="1334" end_char="1335">:(</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="1337" end_char="1341">Şimdi</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="1343" end_char="1345">biz</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="1347" end_char="1353">Hepatit</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="1355" end_char="1355">A</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="1357" end_char="1364">aşısının</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="1366" end_char="1366">2</TOKEN>
+<TOKEN id="token-17-19" pos="punct" morph="none" start_char="1367" end_char="1367">.</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="1369" end_char="1374">dozunu</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="1376" end_char="1381">normal</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="1383" end_char="1394">yaptırıyoruz</TOKEN>
+<TOKEN id="token-17-23" pos="punct" morph="none" start_char="1395" end_char="1395">,</TOKEN>
+<TOKEN id="token-17-24" pos="word" morph="none" start_char="1397" end_char="1401">değil</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="1403" end_char="1404">mi</TOKEN>
+<TOKEN id="token-17-26" pos="punct" morph="none" start_char="1405" end_char="1405">?</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="1406" end_char="1419">Bağışıklığının</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="1421" end_char="1425">düşük</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="1427" end_char="1432">olacak</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="1434" end_char="1441">olmasına</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="1443" end_char="1444">da</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="1446" end_char="1452">üzüldüm</TOKEN>
+<TOKEN id="token-17-33" pos="punct" morph="none" start_char="1453" end_char="1453">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1455" end_char="1489">
+<ORIGINAL_TEXT>Hocam bir de 6.5 aylık bebeğim var.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1455" end_char="1459">Hocam</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1461" end_char="1463">bir</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1465" end_char="1466">de</TOKEN>
+<TOKEN id="token-18-3" pos="number" morph="none" start_char="1468" end_char="1470">6.5</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1472" end_char="1476">aylık</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1478" end_char="1484">bebeğim</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1486" end_char="1488">var</TOKEN>
+<TOKEN id="token-18-7" pos="punct" morph="none" start_char="1489" end_char="1489">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1491" end_char="1562">
+<ORIGINAL_TEXT>Bununla ilgili de 9 aylıkken KKK aşısının uygulanabileceğini söylediler.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1491" end_char="1497">Bununla</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1499" end_char="1504">ilgili</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1506" end_char="1507">de</TOKEN>
+<TOKEN id="token-19-3" pos="number" morph="none" start_char="1509" end_char="1509">9</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1511" end_char="1518">aylıkken</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1520" end_char="1522">KKK</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1524" end_char="1531">aşısının</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1533" end_char="1550">uygulanabileceğini</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1552" end_char="1561">söylediler</TOKEN>
+<TOKEN id="token-19-9" pos="punct" morph="none" start_char="1562" end_char="1562">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1564" end_char="1606">
+<ORIGINAL_TEXT>Sizce 9 aylıkken bu aşıyı yaptırmalı mıyım?</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1564" end_char="1568">Sizce</TOKEN>
+<TOKEN id="token-20-1" pos="number" morph="none" start_char="1570" end_char="1570">9</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1572" end_char="1579">aylıkken</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1581" end_char="1582">bu</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1584" end_char="1588">aşıyı</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1590" end_char="1599">yaptırmalı</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1601" end_char="1605">mıyım</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="1606" end_char="1606">?</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1608" end_char="1671">
+<ORIGINAL_TEXT>Daha önceki cevaplarınızda "yaptırılmamasını" salık vermişsiniz.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1608" end_char="1611">Daha</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1613" end_char="1618">önceki</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1620" end_char="1633">cevaplarınızda</TOKEN>
+<TOKEN id="token-21-3" pos="punct" morph="none" start_char="1635" end_char="1635">"</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="1636" end_char="1651">yaptırılmamasını</TOKEN>
+<TOKEN id="token-21-5" pos="punct" morph="none" start_char="1652" end_char="1652">"</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1654" end_char="1658">salık</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1660" end_char="1670">vermişsiniz</TOKEN>
+<TOKEN id="token-21-8" pos="punct" morph="none" start_char="1671" end_char="1671">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1673" end_char="1727">
+<ORIGINAL_TEXT>Ama şimdiki salgın durumunu dikkate alarak ne dersiniz?</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1673" end_char="1675">Ama</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1677" end_char="1683">şimdiki</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1685" end_char="1690">salgın</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1692" end_char="1699">durumunu</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1701" end_char="1707">dikkate</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1709" end_char="1714">alarak</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1716" end_char="1717">ne</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1719" end_char="1726">dersiniz</TOKEN>
+<TOKEN id="token-22-8" pos="punct" morph="none" start_char="1727" end_char="1727">?</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1730" end_char="1762">
+<ORIGINAL_TEXT>1- Evet, 2. dozu normal yaptirin.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1730" end_char="1730">1</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="1731" end_char="1731">-</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1733" end_char="1736">Evet</TOKEN>
+<TOKEN id="token-23-3" pos="punct" morph="none" start_char="1737" end_char="1737">,</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1739" end_char="1739">2</TOKEN>
+<TOKEN id="token-23-5" pos="punct" morph="none" start_char="1740" end_char="1740">.</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="1742" end_char="1745">dozu</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="1747" end_char="1752">normal</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="1754" end_char="1761">yaptirin</TOKEN>
+<TOKEN id="token-23-9" pos="punct" morph="none" start_char="1762" end_char="1762">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1764" end_char="1865">
+<ORIGINAL_TEXT>2- Bosuna cocugun canini yakmayin, sizden gecmis olan antikorlar, yapacaklari asidan daha fazla korur.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="1764" end_char="1764">2</TOKEN>
+<TOKEN id="token-24-1" pos="punct" morph="none" start_char="1765" end_char="1765">-</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="1767" end_char="1772">Bosuna</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="1774" end_char="1780">cocugun</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="1782" end_char="1787">canini</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="1789" end_char="1796">yakmayin</TOKEN>
+<TOKEN id="token-24-6" pos="punct" morph="none" start_char="1797" end_char="1797">,</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="1799" end_char="1804">sizden</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="1806" end_char="1811">gecmis</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="1813" end_char="1816">olan</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="1818" end_char="1827">antikorlar</TOKEN>
+<TOKEN id="token-24-11" pos="punct" morph="none" start_char="1828" end_char="1828">,</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="1830" end_char="1840">yapacaklari</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="1842" end_char="1847">asidan</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="1849" end_char="1852">daha</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="1854" end_char="1858">fazla</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="1860" end_char="1864">korur</TOKEN>
+<TOKEN id="token-24-17" pos="punct" morph="none" start_char="1865" end_char="1865">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

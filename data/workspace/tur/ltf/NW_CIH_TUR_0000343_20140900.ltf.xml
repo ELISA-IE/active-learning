@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_CIH_TUR_0000343_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="4283" raw_text_md5="e74f5c5607c8d7fd4f7e508af0b0c313">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>Kuş gribi, domuzlarda da görülebiliyor</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="2">Kuş</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="4" end_char="8">gribi</TOKEN>
+<TOKEN id="token-0-2" pos="punct" morph="none" start_char="9" end_char="9">,</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="11" end_char="20">domuzlarda</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="22" end_char="23">da</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="25" end_char="37">görülebiliyor</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="40" end_char="67">
+<ORIGINAL_TEXT>ANKARA - 05.01.2006 16:59:00</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="40" end_char="45">ANKARA</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="47" end_char="47">-</TOKEN>
+<TOKEN id="token-1-2" pos="unknown" morph="none" start_char="49" end_char="58">05.01.2006</TOKEN>
+<TOKEN id="token-1-3" pos="numstring" morph="none" start_char="60" end_char="67">16:59:00</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="70" end_char="325">
+<ORIGINAL_TEXT>Sağlık Bakanlığı, kuş gribinin evcil kanatlı hayvanları daha çok etkilemekle beraber, bütün kanatlı hayvanlarda ve domuzlarda da görülebileceğini; bunun yanı sıra insanlara, atlara, balina ve fok balığı gibi deniz memelilerine de bulaşabileceğini bildirdi.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="70" end_char="75">Sağlık</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="77" end_char="85">Bakanlığı</TOKEN>
+<TOKEN id="token-2-2" pos="punct" morph="none" start_char="86" end_char="86">,</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="88" end_char="90">kuş</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="92" end_char="99">gribinin</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="101" end_char="105">evcil</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="107" end_char="113">kanatlı</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="115" end_char="124">hayvanları</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="126" end_char="129">daha</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="131" end_char="133">çok</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="135" end_char="145">etkilemekle</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="147" end_char="153">beraber</TOKEN>
+<TOKEN id="token-2-12" pos="punct" morph="none" start_char="154" end_char="154">,</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="156" end_char="160">bütün</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="162" end_char="168">kanatlı</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="170" end_char="180">hayvanlarda</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="182" end_char="183">ve</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="185" end_char="194">domuzlarda</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="196" end_char="197">da</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="199" end_char="214">görülebileceğini</TOKEN>
+<TOKEN id="token-2-20" pos="punct" morph="none" start_char="215" end_char="215">;</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="217" end_char="221">bunun</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="223" end_char="226">yanı</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="228" end_char="231">sıra</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="233" end_char="241">insanlara</TOKEN>
+<TOKEN id="token-2-25" pos="punct" morph="none" start_char="242" end_char="242">,</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="244" end_char="249">atlara</TOKEN>
+<TOKEN id="token-2-27" pos="punct" morph="none" start_char="250" end_char="250">,</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="252" end_char="257">balina</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="259" end_char="260">ve</TOKEN>
+<TOKEN id="token-2-30" pos="word" morph="none" start_char="262" end_char="264">fok</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="266" end_char="271">balığı</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="273" end_char="276">gibi</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="278" end_char="282">deniz</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="284" end_char="295">memelilerine</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="297" end_char="298">de</TOKEN>
+<TOKEN id="token-2-36" pos="word" morph="none" start_char="300" end_char="315">bulaşabileceğini</TOKEN>
+<TOKEN id="token-2-37" pos="word" morph="none" start_char="317" end_char="324">bildirdi</TOKEN>
+<TOKEN id="token-2-38" pos="punct" morph="none" start_char="325" end_char="325">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="327" end_char="518">
+<ORIGINAL_TEXT>Sağlık Bakanlığı Temel Sağlık Hizmetleri Genel Müdürlüğü'nden alınan bilgiye göre; kuş gribi, evcil kanatlı hayvanları daha çok etkilemekle beraber, bütün kanatlı hayvanlarda da görülebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="327" end_char="332">Sağlık</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="334" end_char="342">Bakanlığı</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="344" end_char="348">Temel</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="350" end_char="355">Sağlık</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="357" end_char="366">Hizmetleri</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="368" end_char="372">Genel</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="374" end_char="382">Müdürlüğü</TOKEN>
+<TOKEN id="token-3-7" pos="punct" morph="none" start_char="383" end_char="383">'</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="384" end_char="387">nden</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="389" end_char="394">alınan</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="396" end_char="402">bilgiye</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="404" end_char="407">göre</TOKEN>
+<TOKEN id="token-3-12" pos="punct" morph="none" start_char="408" end_char="408">;</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="410" end_char="412">kuş</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="414" end_char="418">gribi</TOKEN>
+<TOKEN id="token-3-15" pos="punct" morph="none" start_char="419" end_char="419">,</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="421" end_char="425">evcil</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="427" end_char="433">kanatlı</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="435" end_char="444">hayvanları</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="446" end_char="449">daha</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="451" end_char="453">çok</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="455" end_char="465">etkilemekle</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="467" end_char="473">beraber</TOKEN>
+<TOKEN id="token-3-23" pos="punct" morph="none" start_char="474" end_char="474">,</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="476" end_char="480">bütün</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="482" end_char="488">kanatlı</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="490" end_char="500">hayvanlarda</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="502" end_char="503">da</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="505" end_char="517">görülebiliyor</TOKEN>
+<TOKEN id="token-3-29" pos="punct" morph="none" start_char="518" end_char="518">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="520" end_char="629">
+<ORIGINAL_TEXT>Bunların yanı sıra hastalık; insanlara, atlara, balina ve fok balığı gibi deniz memelilerine de bulaşabiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="520" end_char="527">Bunların</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="529" end_char="532">yanı</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="534" end_char="537">sıra</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="539" end_char="546">hastalık</TOKEN>
+<TOKEN id="token-4-4" pos="punct" morph="none" start_char="547" end_char="547">;</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="549" end_char="557">insanlara</TOKEN>
+<TOKEN id="token-4-6" pos="punct" morph="none" start_char="558" end_char="558">,</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="560" end_char="565">atlara</TOKEN>
+<TOKEN id="token-4-8" pos="punct" morph="none" start_char="566" end_char="566">,</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="568" end_char="573">balina</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="575" end_char="576">ve</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="578" end_char="580">fok</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="582" end_char="587">balığı</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="589" end_char="592">gibi</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="594" end_char="598">deniz</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="600" end_char="611">memelilerine</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="613" end_char="614">de</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="616" end_char="628">bulaşabiliyor</TOKEN>
+<TOKEN id="token-4-18" pos="punct" morph="none" start_char="629" end_char="629">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="631" end_char="710">
+<ORIGINAL_TEXT>Hastalığın hayvanlarla yoğun temas durumunda insana bulaşma riski bulunabiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="631" end_char="640">Hastalığın</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="642" end_char="652">hayvanlarla</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="654" end_char="658">yoğun</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="660" end_char="664">temas</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="666" end_char="674">durumunda</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="676" end_char="681">insana</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="683" end_char="689">bulaşma</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="691" end_char="695">riski</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="697" end_char="709">bulunabiliyor</TOKEN>
+<TOKEN id="token-5-9" pos="punct" morph="none" start_char="710" end_char="710">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="712" end_char="995">
+<ORIGINAL_TEXT>Hastalık insanlara; hasta ve hastalıktan ölmüş hayvanlara temasla; enfekte hayvanlara ait gözyaşı, burun akıntısı, boğaz akıntısı veya dışkı gibi materyallerle temasla; enfekte materyallerle kirlenmiş yüzeylere temasla; hastalık etkeninin karıştığı havanın solunmasıyla bulaşabiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="712" end_char="719">Hastalık</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="721" end_char="729">insanlara</TOKEN>
+<TOKEN id="token-6-2" pos="punct" morph="none" start_char="730" end_char="730">;</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="732" end_char="736">hasta</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="738" end_char="739">ve</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="741" end_char="751">hastalıktan</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="753" end_char="757">ölmüş</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="759" end_char="768">hayvanlara</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="770" end_char="776">temasla</TOKEN>
+<TOKEN id="token-6-9" pos="punct" morph="none" start_char="777" end_char="777">;</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="779" end_char="785">enfekte</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="787" end_char="796">hayvanlara</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="798" end_char="800">ait</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="802" end_char="808">gözyaşı</TOKEN>
+<TOKEN id="token-6-14" pos="punct" morph="none" start_char="809" end_char="809">,</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="811" end_char="815">burun</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="817" end_char="824">akıntısı</TOKEN>
+<TOKEN id="token-6-17" pos="punct" morph="none" start_char="825" end_char="825">,</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="827" end_char="831">boğaz</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="833" end_char="840">akıntısı</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="842" end_char="845">veya</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="847" end_char="851">dışkı</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="853" end_char="856">gibi</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="858" end_char="870">materyallerle</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="872" end_char="878">temasla</TOKEN>
+<TOKEN id="token-6-25" pos="punct" morph="none" start_char="879" end_char="879">;</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="881" end_char="887">enfekte</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="889" end_char="901">materyallerle</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="903" end_char="911">kirlenmiş</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="913" end_char="921">yüzeylere</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="923" end_char="929">temasla</TOKEN>
+<TOKEN id="token-6-31" pos="punct" morph="none" start_char="930" end_char="930">;</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="932" end_char="939">hastalık</TOKEN>
+<TOKEN id="token-6-33" pos="word" morph="none" start_char="941" end_char="949">etkeninin</TOKEN>
+<TOKEN id="token-6-34" pos="word" morph="none" start_char="951" end_char="959">karıştığı</TOKEN>
+<TOKEN id="token-6-35" pos="word" morph="none" start_char="961" end_char="967">havanın</TOKEN>
+<TOKEN id="token-6-36" pos="word" morph="none" start_char="969" end_char="980">solunmasıyla</TOKEN>
+<TOKEN id="token-6-37" pos="word" morph="none" start_char="982" end_char="994">bulaşabiliyor</TOKEN>
+<TOKEN id="token-6-38" pos="punct" morph="none" start_char="995" end_char="995">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="997" end_char="1084">
+<ORIGINAL_TEXT>Kanatlı hayvan eti ve yumurtalarının iyi pişirilmeden tüketilmesi de risk yaratabiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="997" end_char="1003">Kanatlı</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1005" end_char="1010">hayvan</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1012" end_char="1014">eti</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1016" end_char="1017">ve</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1019" end_char="1032">yumurtalarının</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1034" end_char="1036">iyi</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1038" end_char="1049">pişirilmeden</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1051" end_char="1061">tüketilmesi</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1063" end_char="1064">de</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1066" end_char="1069">risk</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1071" end_char="1083">yaratabiliyor</TOKEN>
+<TOKEN id="token-7-11" pos="punct" morph="none" start_char="1084" end_char="1084">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1086" end_char="1154">
+<ORIGINAL_TEXT>Bugün için hastalığın insandan insana bulaşması ise söz konusu değil.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1086" end_char="1090">Bugün</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1092" end_char="1095">için</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1097" end_char="1106">hastalığın</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1108" end_char="1115">insandan</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1117" end_char="1122">insana</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1124" end_char="1132">bulaşması</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1134" end_char="1136">ise</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1138" end_char="1140">söz</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1142" end_char="1147">konusu</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1149" end_char="1153">değil</TOKEN>
+<TOKEN id="token-8-10" pos="punct" morph="none" start_char="1154" end_char="1154">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1157" end_char="1211">
+<ORIGINAL_TEXT>VİRÜSÜN İNSANLARDAKİ KULUÇKA SÜRESİ 2 İLA 4 GÜN SÜRÜYOR</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1157" end_char="1163">VİRÜSÜN</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1165" end_char="1176">İNSANLARDAKİ</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1178" end_char="1184">KULUÇKA</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1186" end_char="1191">SÜRESİ</TOKEN>
+<TOKEN id="token-9-4" pos="number" morph="none" start_char="1193" end_char="1193">2</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1195" end_char="1197">İLA</TOKEN>
+<TOKEN id="token-9-6" pos="number" morph="none" start_char="1199" end_char="1199">4</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1201" end_char="1203">GÜN</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1205" end_char="1211">SÜRÜYOR</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1214" end_char="1400">
+<ORIGINAL_TEXT>İnsanlarda; ateş, boğaz ağrısı, kas ve eklem ağrıları, kuru öksürük, solunum güçlüğü gibi grip belirtilerinin yanı sıra; kuş gribinde farklı olarak karın ağrısı ve ishal de görülebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1214" end_char="1223">İnsanlarda</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="1224" end_char="1224">;</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1226" end_char="1229">ateş</TOKEN>
+<TOKEN id="token-10-3" pos="punct" morph="none" start_char="1230" end_char="1230">,</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1232" end_char="1236">boğaz</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1238" end_char="1243">ağrısı</TOKEN>
+<TOKEN id="token-10-6" pos="punct" morph="none" start_char="1244" end_char="1244">,</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1246" end_char="1248">kas</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1250" end_char="1251">ve</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1253" end_char="1257">eklem</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1259" end_char="1266">ağrıları</TOKEN>
+<TOKEN id="token-10-11" pos="punct" morph="none" start_char="1267" end_char="1267">,</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1269" end_char="1272">kuru</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1274" end_char="1280">öksürük</TOKEN>
+<TOKEN id="token-10-14" pos="punct" morph="none" start_char="1281" end_char="1281">,</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1283" end_char="1289">solunum</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1291" end_char="1297">güçlüğü</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1299" end_char="1302">gibi</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1304" end_char="1307">grip</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1309" end_char="1322">belirtilerinin</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1324" end_char="1327">yanı</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1329" end_char="1332">sıra</TOKEN>
+<TOKEN id="token-10-22" pos="punct" morph="none" start_char="1333" end_char="1333">;</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1335" end_char="1337">kuş</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1339" end_char="1346">gribinde</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="1348" end_char="1353">farklı</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1355" end_char="1360">olarak</TOKEN>
+<TOKEN id="token-10-27" pos="word" morph="none" start_char="1362" end_char="1366">karın</TOKEN>
+<TOKEN id="token-10-28" pos="word" morph="none" start_char="1368" end_char="1373">ağrısı</TOKEN>
+<TOKEN id="token-10-29" pos="word" morph="none" start_char="1375" end_char="1376">ve</TOKEN>
+<TOKEN id="token-10-30" pos="word" morph="none" start_char="1378" end_char="1382">ishal</TOKEN>
+<TOKEN id="token-10-31" pos="word" morph="none" start_char="1384" end_char="1385">de</TOKEN>
+<TOKEN id="token-10-32" pos="word" morph="none" start_char="1387" end_char="1399">görülebiliyor</TOKEN>
+<TOKEN id="token-10-33" pos="punct" morph="none" start_char="1400" end_char="1400">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1402" end_char="1461">
+<ORIGINAL_TEXT>Virüsün insanlardaki kuluçka süresi ise 2 ila 4 gün sürüyor.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1402" end_char="1408">Virüsün</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1410" end_char="1421">insanlardaki</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1423" end_char="1429">kuluçka</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1431" end_char="1436">süresi</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1438" end_char="1440">ise</TOKEN>
+<TOKEN id="token-11-5" pos="number" morph="none" start_char="1442" end_char="1442">2</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1444" end_char="1446">ila</TOKEN>
+<TOKEN id="token-11-7" pos="number" morph="none" start_char="1448" end_char="1448">4</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1450" end_char="1452">gün</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1454" end_char="1460">sürüyor</TOKEN>
+<TOKEN id="token-11-10" pos="punct" morph="none" start_char="1461" end_char="1461">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1463" end_char="1658">
+<ORIGINAL_TEXT>Kanatlı hayvan arasında salgınlara sebep olan mevcut kuş gribi tipinin, koruyucu önlemler almadan kanatlı hayvan yetiştiren ve bu hayvanlarla sıkı teması olan insanlara bulaşma ihtimali bulunuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1463" end_char="1469">Kanatlı</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1471" end_char="1476">hayvan</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1478" end_char="1485">arasında</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1487" end_char="1496">salgınlara</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1498" end_char="1502">sebep</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1504" end_char="1507">olan</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1509" end_char="1514">mevcut</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1516" end_char="1518">kuş</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1520" end_char="1524">gribi</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1526" end_char="1532">tipinin</TOKEN>
+<TOKEN id="token-12-10" pos="punct" morph="none" start_char="1533" end_char="1533">,</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1535" end_char="1542">koruyucu</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1544" end_char="1551">önlemler</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1553" end_char="1559">almadan</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1561" end_char="1567">kanatlı</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1569" end_char="1574">hayvan</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1576" end_char="1585">yetiştiren</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1587" end_char="1588">ve</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1590" end_char="1591">bu</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1593" end_char="1603">hayvanlarla</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="1605" end_char="1608">sıkı</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="1610" end_char="1615">teması</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="1617" end_char="1620">olan</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="1622" end_char="1630">insanlara</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="1632" end_char="1638">bulaşma</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="1640" end_char="1647">ihtimali</TOKEN>
+<TOKEN id="token-12-26" pos="word" morph="none" start_char="1649" end_char="1657">bulunuyor</TOKEN>
+<TOKEN id="token-12-27" pos="punct" morph="none" start_char="1658" end_char="1658">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1660" end_char="1728">
+<ORIGINAL_TEXT>Bu alanlarla ilgisi olmayann diğer insanlar için ise risk bulunmuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1660" end_char="1661">Bu</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1663" end_char="1671">alanlarla</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1673" end_char="1678">ilgisi</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1680" end_char="1687">olmayann</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1689" end_char="1693">diğer</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1695" end_char="1702">insanlar</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1704" end_char="1707">için</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1709" end_char="1711">ise</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1713" end_char="1716">risk</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1718" end_char="1727">bulunmuyor</TOKEN>
+<TOKEN id="token-13-10" pos="punct" morph="none" start_char="1728" end_char="1728">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1730" end_char="1911">
+<ORIGINAL_TEXT>Kanatlı hayvan etlerinin, iç ısıları 70 derece olacak veya ette pembe/kırmızı görüntü kalmayacak şekilde pişirilerek tüketilmesi halinde, insanlarda hastalık oluşma riski bulunmuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1730" end_char="1736">Kanatlı</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1738" end_char="1743">hayvan</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1745" end_char="1753">etlerinin</TOKEN>
+<TOKEN id="token-14-3" pos="punct" morph="none" start_char="1754" end_char="1754">,</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1756" end_char="1757">iç</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1759" end_char="1765">ısıları</TOKEN>
+<TOKEN id="token-14-6" pos="number" morph="none" start_char="1767" end_char="1768">70</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1770" end_char="1775">derece</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1777" end_char="1782">olacak</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1784" end_char="1787">veya</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1789" end_char="1792">ette</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1794" end_char="1798">pembe</TOKEN>
+<TOKEN id="token-14-12" pos="punct" morph="none" start_char="1799" end_char="1799">/</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1800" end_char="1806">kırmızı</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1808" end_char="1814">görüntü</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1816" end_char="1825">kalmayacak</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1827" end_char="1833">şekilde</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1835" end_char="1845">pişirilerek</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1847" end_char="1857">tüketilmesi</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="1859" end_char="1865">halinde</TOKEN>
+<TOKEN id="token-14-20" pos="punct" morph="none" start_char="1866" end_char="1866">,</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1868" end_char="1877">insanlarda</TOKEN>
+<TOKEN id="token-14-22" pos="word" morph="none" start_char="1879" end_char="1886">hastalık</TOKEN>
+<TOKEN id="token-14-23" pos="word" morph="none" start_char="1888" end_char="1893">oluşma</TOKEN>
+<TOKEN id="token-14-24" pos="word" morph="none" start_char="1895" end_char="1899">riski</TOKEN>
+<TOKEN id="token-14-25" pos="word" morph="none" start_char="1901" end_char="1910">bulunmuyor</TOKEN>
+<TOKEN id="token-14-26" pos="punct" morph="none" start_char="1911" end_char="1911">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1913" end_char="2017">
+<ORIGINAL_TEXT>Yumurtaların sabunlu suyla yıkanması ve 70 derecede en az 5 dakika pişirildikten sonra yenmesi gerekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1913" end_char="1924">Yumurtaların</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1926" end_char="1932">sabunlu</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1934" end_char="1938">suyla</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1940" end_char="1948">yıkanması</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1950" end_char="1951">ve</TOKEN>
+<TOKEN id="token-15-5" pos="number" morph="none" start_char="1953" end_char="1954">70</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1956" end_char="1963">derecede</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1965" end_char="1966">en</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1968" end_char="1969">az</TOKEN>
+<TOKEN id="token-15-9" pos="number" morph="none" start_char="1971" end_char="1971">5</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1973" end_char="1978">dakika</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1980" end_char="1992">pişirildikten</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1994" end_char="1998">sonra</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2000" end_char="2006">yenmesi</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="2008" end_char="2016">gerekiyor</TOKEN>
+<TOKEN id="token-15-15" pos="punct" morph="none" start_char="2017" end_char="2017">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2019" end_char="2107">
+<ORIGINAL_TEXT>Veteriner hekim kontrolünden geçmiş piyasadaki ürünler için herhangi bir risk bulunmuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2019" end_char="2027">Veteriner</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2029" end_char="2033">hekim</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2035" end_char="2046">kontrolünden</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2048" end_char="2053">geçmiş</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2055" end_char="2064">piyasadaki</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2066" end_char="2072">ürünler</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2074" end_char="2077">için</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2079" end_char="2086">herhangi</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2088" end_char="2090">bir</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2092" end_char="2095">risk</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2097" end_char="2106">bulunmuyor</TOKEN>
+<TOKEN id="token-16-11" pos="punct" morph="none" start_char="2107" end_char="2107">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2110" end_char="2146">
+<ORIGINAL_TEXT>VİRÜS 60 DERECEDE 30 DAKİKA DA ÖLÜYOR</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2110" end_char="2114">VİRÜS</TOKEN>
+<TOKEN id="token-17-1" pos="number" morph="none" start_char="2116" end_char="2117">60</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2119" end_char="2126">DERECEDE</TOKEN>
+<TOKEN id="token-17-3" pos="number" morph="none" start_char="2128" end_char="2129">30</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2131" end_char="2136">DAKİKA</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2138" end_char="2139">DA</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2141" end_char="2146">ÖLÜYOR</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2149" end_char="2207">
+<ORIGINAL_TEXT>Kuş gribi etkeni virüs dış ortamlarda dayanıklı bulunmuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2149" end_char="2151">Kuş</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2153" end_char="2157">gribi</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2159" end_char="2164">etkeni</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2166" end_char="2170">virüs</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2172" end_char="2174">dış</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2176" end_char="2185">ortamlarda</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2187" end_char="2195">dayanıklı</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2197" end_char="2206">bulunmuyor</TOKEN>
+<TOKEN id="token-18-8" pos="punct" morph="none" start_char="2207" end_char="2207">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2209" end_char="2491">
+<ORIGINAL_TEXT>Virüs; 56 derecede 3 saatte veya 60 derecede 30 dakikada öldüğü, formalin ve iyot bileşiklerine de duyarlı olduğu; bunlara ek olarak virüsün kontamine gübrede düşük ısılarda en az 3 ay canlı kaldığı, suda 22 derecede 4 gün, 0 derecede ise 30 gün canlılığını sürdürebildiği biliniyor.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2209" end_char="2213">Virüs</TOKEN>
+<TOKEN id="token-19-1" pos="punct" morph="none" start_char="2214" end_char="2214">;</TOKEN>
+<TOKEN id="token-19-2" pos="number" morph="none" start_char="2216" end_char="2217">56</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2219" end_char="2226">derecede</TOKEN>
+<TOKEN id="token-19-4" pos="number" morph="none" start_char="2228" end_char="2228">3</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="2230" end_char="2235">saatte</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="2237" end_char="2240">veya</TOKEN>
+<TOKEN id="token-19-7" pos="number" morph="none" start_char="2242" end_char="2243">60</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2245" end_char="2252">derecede</TOKEN>
+<TOKEN id="token-19-9" pos="number" morph="none" start_char="2254" end_char="2255">30</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="2257" end_char="2264">dakikada</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2266" end_char="2271">öldüğü</TOKEN>
+<TOKEN id="token-19-12" pos="punct" morph="none" start_char="2272" end_char="2272">,</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2274" end_char="2281">formalin</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2283" end_char="2284">ve</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2286" end_char="2289">iyot</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2291" end_char="2303">bileşiklerine</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2305" end_char="2306">de</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2308" end_char="2314">duyarlı</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="2316" end_char="2321">olduğu</TOKEN>
+<TOKEN id="token-19-20" pos="punct" morph="none" start_char="2322" end_char="2322">;</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2324" end_char="2330">bunlara</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="2332" end_char="2333">ek</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="2335" end_char="2340">olarak</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="2342" end_char="2348">virüsün</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="2350" end_char="2358">kontamine</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="2360" end_char="2366">gübrede</TOKEN>
+<TOKEN id="token-19-27" pos="word" morph="none" start_char="2368" end_char="2372">düşük</TOKEN>
+<TOKEN id="token-19-28" pos="word" morph="none" start_char="2374" end_char="2381">ısılarda</TOKEN>
+<TOKEN id="token-19-29" pos="word" morph="none" start_char="2383" end_char="2384">en</TOKEN>
+<TOKEN id="token-19-30" pos="word" morph="none" start_char="2386" end_char="2387">az</TOKEN>
+<TOKEN id="token-19-31" pos="number" morph="none" start_char="2389" end_char="2389">3</TOKEN>
+<TOKEN id="token-19-32" pos="word" morph="none" start_char="2391" end_char="2392">ay</TOKEN>
+<TOKEN id="token-19-33" pos="word" morph="none" start_char="2394" end_char="2398">canlı</TOKEN>
+<TOKEN id="token-19-34" pos="word" morph="none" start_char="2400" end_char="2406">kaldığı</TOKEN>
+<TOKEN id="token-19-35" pos="punct" morph="none" start_char="2407" end_char="2407">,</TOKEN>
+<TOKEN id="token-19-36" pos="word" morph="none" start_char="2409" end_char="2412">suda</TOKEN>
+<TOKEN id="token-19-37" pos="number" morph="none" start_char="2414" end_char="2415">22</TOKEN>
+<TOKEN id="token-19-38" pos="word" morph="none" start_char="2417" end_char="2424">derecede</TOKEN>
+<TOKEN id="token-19-39" pos="number" morph="none" start_char="2426" end_char="2426">4</TOKEN>
+<TOKEN id="token-19-40" pos="word" morph="none" start_char="2428" end_char="2430">gün</TOKEN>
+<TOKEN id="token-19-41" pos="punct" morph="none" start_char="2431" end_char="2431">,</TOKEN>
+<TOKEN id="token-19-42" pos="number" morph="none" start_char="2433" end_char="2433">0</TOKEN>
+<TOKEN id="token-19-43" pos="word" morph="none" start_char="2435" end_char="2442">derecede</TOKEN>
+<TOKEN id="token-19-44" pos="word" morph="none" start_char="2444" end_char="2446">ise</TOKEN>
+<TOKEN id="token-19-45" pos="number" morph="none" start_char="2448" end_char="2449">30</TOKEN>
+<TOKEN id="token-19-46" pos="word" morph="none" start_char="2451" end_char="2453">gün</TOKEN>
+<TOKEN id="token-19-47" pos="word" morph="none" start_char="2455" end_char="2465">canlılığını</TOKEN>
+<TOKEN id="token-19-48" pos="word" morph="none" start_char="2467" end_char="2480">sürdürebildiği</TOKEN>
+<TOKEN id="token-19-49" pos="word" morph="none" start_char="2482" end_char="2490">biliniyor</TOKEN>
+<TOKEN id="token-19-50" pos="punct" morph="none" start_char="2491" end_char="2491">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2493" end_char="2640">
+<ORIGINAL_TEXT>H5N1 isimli kuş gribi virüsüne karşı şu an için etkin bir aşı bulunmamakla birlikte, değişik merkezlerde de aşı geliştirme çalışmaları devam ediyor.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2493" end_char="2496">H5N1</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2498" end_char="2503">isimli</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2505" end_char="2507">kuş</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2509" end_char="2513">gribi</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2515" end_char="2522">virüsüne</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2524" end_char="2528">karşı</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="2530" end_char="2531">şu</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2533" end_char="2534">an</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2536" end_char="2539">için</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2541" end_char="2545">etkin</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2547" end_char="2549">bir</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2551" end_char="2553">aşı</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2555" end_char="2566">bulunmamakla</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2568" end_char="2575">birlikte</TOKEN>
+<TOKEN id="token-20-14" pos="punct" morph="none" start_char="2576" end_char="2576">,</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2578" end_char="2584">değişik</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="2586" end_char="2596">merkezlerde</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="2598" end_char="2599">de</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="2601" end_char="2603">aşı</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="2605" end_char="2614">geliştirme</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="2616" end_char="2626">çalışmaları</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="2628" end_char="2632">devam</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="2634" end_char="2639">ediyor</TOKEN>
+<TOKEN id="token-20-23" pos="punct" morph="none" start_char="2640" end_char="2640">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2642" end_char="2808">
+<ORIGINAL_TEXT>Virüsün mutasyon geçirme yeteneğinin olması, aşı hazırlanmasında önemli bir engeli oluşturuyor.Hastalıktan korunma veya tedavi amacıyla antiviral ilaçlar kullanılıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2642" end_char="2648">Virüsün</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2650" end_char="2657">mutasyon</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2659" end_char="2665">geçirme</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2667" end_char="2677">yeteneğinin</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2679" end_char="2684">olması</TOKEN>
+<TOKEN id="token-21-5" pos="punct" morph="none" start_char="2685" end_char="2685">,</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="2687" end_char="2689">aşı</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2691" end_char="2705">hazırlanmasında</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2707" end_char="2712">önemli</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="2714" end_char="2716">bir</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2718" end_char="2723">engeli</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="2725" end_char="2735">oluşturuyor</TOKEN>
+<TOKEN id="token-21-12" pos="punct" morph="none" start_char="2736" end_char="2736">.</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="2737" end_char="2747">Hastalıktan</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2749" end_char="2755">korunma</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="2757" end_char="2760">veya</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="2762" end_char="2767">tedavi</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="2769" end_char="2776">amacıyla</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="2778" end_char="2786">antiviral</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="2788" end_char="2794">ilaçlar</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="2796" end_char="2807">kullanılıyor</TOKEN>
+<TOKEN id="token-21-21" pos="punct" morph="none" start_char="2808" end_char="2808">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2810" end_char="3000">
+<ORIGINAL_TEXT>Bu amaçla kullanılan antiviral ilaç; kuş gribi hastalığına yakalanmış veya bu hastalıktan ölen hayvanlara teması olan kişilerden belirti gösterenlere günde 2 defa 5 gün süreyle verilebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2810" end_char="2811">Bu</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2813" end_char="2818">amaçla</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2820" end_char="2829">kullanılan</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2831" end_char="2839">antiviral</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2841" end_char="2844">ilaç</TOKEN>
+<TOKEN id="token-22-5" pos="punct" morph="none" start_char="2845" end_char="2845">;</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="2847" end_char="2849">kuş</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="2851" end_char="2855">gribi</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="2857" end_char="2867">hastalığına</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="2869" end_char="2878">yakalanmış</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="2880" end_char="2883">veya</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="2885" end_char="2886">bu</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="2888" end_char="2898">hastalıktan</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="2900" end_char="2903">ölen</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="2905" end_char="2914">hayvanlara</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="2916" end_char="2921">teması</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="2923" end_char="2926">olan</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="2928" end_char="2937">kişilerden</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="2939" end_char="2945">belirti</TOKEN>
+<TOKEN id="token-22-19" pos="word" morph="none" start_char="2947" end_char="2958">gösterenlere</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="2960" end_char="2964">günde</TOKEN>
+<TOKEN id="token-22-21" pos="number" morph="none" start_char="2966" end_char="2966">2</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="2968" end_char="2971">defa</TOKEN>
+<TOKEN id="token-22-23" pos="number" morph="none" start_char="2973" end_char="2973">5</TOKEN>
+<TOKEN id="token-22-24" pos="word" morph="none" start_char="2975" end_char="2977">gün</TOKEN>
+<TOKEN id="token-22-25" pos="word" morph="none" start_char="2979" end_char="2985">süreyle</TOKEN>
+<TOKEN id="token-22-26" pos="word" morph="none" start_char="2987" end_char="2999">verilebiliyor</TOKEN>
+<TOKEN id="token-22-27" pos="punct" morph="none" start_char="3000" end_char="3000">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3003" end_char="3050">
+<ORIGINAL_TEXT>KUŞ GRİBİNDEN KORUNMAK İÇİN YAPILMASI GEREKENLER</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3003" end_char="3005">KUŞ</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3007" end_char="3015">GRİBİNDEN</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3017" end_char="3024">KORUNMAK</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3026" end_char="3029">İÇİN</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3031" end_char="3039">YAPILMASI</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3041" end_char="3050">GEREKENLER</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3053" end_char="3171">
+<ORIGINAL_TEXT>-Kanatlı hayvan yetiştirilen kümeslerde çalışanlar eldiven, maske, gözlük takarak ve koruyucu elbise giyerek çalışmalı.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="punct" morph="none" start_char="3053" end_char="3053">-</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3054" end_char="3060">Kanatlı</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3062" end_char="3067">hayvan</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3069" end_char="3080">yetiştirilen</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3082" end_char="3091">kümeslerde</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3093" end_char="3102">çalışanlar</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3104" end_char="3110">eldiven</TOKEN>
+<TOKEN id="token-24-7" pos="punct" morph="none" start_char="3111" end_char="3111">,</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3113" end_char="3117">maske</TOKEN>
+<TOKEN id="token-24-9" pos="punct" morph="none" start_char="3118" end_char="3118">,</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="3120" end_char="3125">gözlük</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3127" end_char="3133">takarak</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3135" end_char="3136">ve</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="3138" end_char="3145">koruyucu</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="3147" end_char="3152">elbise</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="3154" end_char="3160">giyerek</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="3162" end_char="3170">çalışmalı</TOKEN>
+<TOKEN id="token-24-17" pos="punct" morph="none" start_char="3171" end_char="3171">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3174" end_char="3319">
+<ORIGINAL_TEXT>-Başta kanatlı yetiştiriciliğinde çalışanlar olmak üzere, herkes ferdi hijyen kurallarına uymalı, eller sık sık bol su ve sabunla iyice yıkanmalı.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="punct" morph="none" start_char="3174" end_char="3174">-</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3175" end_char="3179">Başta</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3181" end_char="3187">kanatlı</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3189" end_char="3206">yetiştiriciliğinde</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="3208" end_char="3217">çalışanlar</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="3219" end_char="3223">olmak</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="3225" end_char="3229">üzere</TOKEN>
+<TOKEN id="token-25-7" pos="punct" morph="none" start_char="3230" end_char="3230">,</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="3232" end_char="3237">herkes</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="3239" end_char="3243">ferdi</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="3245" end_char="3250">hijyen</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="3252" end_char="3262">kurallarına</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="3264" end_char="3269">uymalı</TOKEN>
+<TOKEN id="token-25-13" pos="punct" morph="none" start_char="3270" end_char="3270">,</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="3272" end_char="3276">eller</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="3278" end_char="3280">sık</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="3282" end_char="3284">sık</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="3286" end_char="3288">bol</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="3290" end_char="3291">su</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="3293" end_char="3294">ve</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="3296" end_char="3302">sabunla</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="3304" end_char="3308">iyice</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="3310" end_char="3318">yıkanmalı</TOKEN>
+<TOKEN id="token-25-23" pos="punct" morph="none" start_char="3319" end_char="3319">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="3322" end_char="3398">
+<ORIGINAL_TEXT>-Kanatlı hayvan etleri ve yumurtaları, iyice pişirildikten sonra tüketilmeli.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="punct" morph="none" start_char="3322" end_char="3322">-</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="3323" end_char="3329">Kanatlı</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="3331" end_char="3336">hayvan</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="3338" end_char="3343">etleri</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="3345" end_char="3346">ve</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="3348" end_char="3358">yumurtaları</TOKEN>
+<TOKEN id="token-26-6" pos="punct" morph="none" start_char="3359" end_char="3359">,</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="3361" end_char="3365">iyice</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="3367" end_char="3379">pişirildikten</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="3381" end_char="3385">sonra</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="3387" end_char="3397">tüketilmeli</TOKEN>
+<TOKEN id="token-26-11" pos="punct" morph="none" start_char="3398" end_char="3398">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="3401" end_char="3607">
+<ORIGINAL_TEXT>-Kuş gribinden ölen veya kuş gribi şüphesiyle itlaf edilen hayvanların gerek itlafı sırasında gerekse bunların bertaraf edilmesi esnasında gerekli koruyucu önlemler (maske, eldiven, elbise, gözlük) alınmalı.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="punct" morph="none" start_char="3401" end_char="3401">-</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="3402" end_char="3404">Kuş</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="3406" end_char="3414">gribinden</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="3416" end_char="3419">ölen</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="3421" end_char="3424">veya</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="3426" end_char="3428">kuş</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="3430" end_char="3434">gribi</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="3436" end_char="3445">şüphesiyle</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="3447" end_char="3451">itlaf</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="3453" end_char="3458">edilen</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="3460" end_char="3470">hayvanların</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="3472" end_char="3476">gerek</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="3478" end_char="3483">itlafı</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="3485" end_char="3493">sırasında</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="3495" end_char="3501">gerekse</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="3503" end_char="3510">bunların</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="3512" end_char="3519">bertaraf</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="3521" end_char="3528">edilmesi</TOKEN>
+<TOKEN id="token-27-18" pos="word" morph="none" start_char="3530" end_char="3538">esnasında</TOKEN>
+<TOKEN id="token-27-19" pos="word" morph="none" start_char="3540" end_char="3546">gerekli</TOKEN>
+<TOKEN id="token-27-20" pos="word" morph="none" start_char="3548" end_char="3555">koruyucu</TOKEN>
+<TOKEN id="token-27-21" pos="word" morph="none" start_char="3557" end_char="3564">önlemler</TOKEN>
+<TOKEN id="token-27-22" pos="punct" morph="none" start_char="3566" end_char="3566">(</TOKEN>
+<TOKEN id="token-27-23" pos="word" morph="none" start_char="3567" end_char="3571">maske</TOKEN>
+<TOKEN id="token-27-24" pos="punct" morph="none" start_char="3572" end_char="3572">,</TOKEN>
+<TOKEN id="token-27-25" pos="word" morph="none" start_char="3574" end_char="3580">eldiven</TOKEN>
+<TOKEN id="token-27-26" pos="punct" morph="none" start_char="3581" end_char="3581">,</TOKEN>
+<TOKEN id="token-27-27" pos="word" morph="none" start_char="3583" end_char="3588">elbise</TOKEN>
+<TOKEN id="token-27-28" pos="punct" morph="none" start_char="3589" end_char="3589">,</TOKEN>
+<TOKEN id="token-27-29" pos="word" morph="none" start_char="3591" end_char="3596">gözlük</TOKEN>
+<TOKEN id="token-27-30" pos="punct" morph="none" start_char="3597" end_char="3597">)</TOKEN>
+<TOKEN id="token-27-31" pos="word" morph="none" start_char="3599" end_char="3606">alınmalı</TOKEN>
+<TOKEN id="token-27-32" pos="punct" morph="none" start_char="3607" end_char="3607">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="3610" end_char="3660">
+<ORIGINAL_TEXT>-Hasta veya ölmüş hayvanlarla temastan kaçınılmalı.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="punct" morph="none" start_char="3610" end_char="3610">-</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="3611" end_char="3615">Hasta</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="3617" end_char="3620">veya</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="3622" end_char="3626">ölmüş</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="3628" end_char="3638">hayvanlarla</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="3640" end_char="3647">temastan</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="3649" end_char="3659">kaçınılmalı</TOKEN>
+<TOKEN id="token-28-7" pos="punct" morph="none" start_char="3660" end_char="3660">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="3663" end_char="3808">
+<ORIGINAL_TEXT>-Kanatlı hayvanların salya, burun akıntısı, boğaz akıntısı, dışkısı gibi materyallerine veya bu materyallerle kirlenen yüzeylere temas edilmemeli.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="punct" morph="none" start_char="3663" end_char="3663">-</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="3664" end_char="3670">Kanatlı</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="3672" end_char="3682">hayvanların</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="3684" end_char="3688">salya</TOKEN>
+<TOKEN id="token-29-4" pos="punct" morph="none" start_char="3689" end_char="3689">,</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="3691" end_char="3695">burun</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="3697" end_char="3704">akıntısı</TOKEN>
+<TOKEN id="token-29-7" pos="punct" morph="none" start_char="3705" end_char="3705">,</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="3707" end_char="3711">boğaz</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="3713" end_char="3720">akıntısı</TOKEN>
+<TOKEN id="token-29-10" pos="punct" morph="none" start_char="3721" end_char="3721">,</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="3723" end_char="3729">dışkısı</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="3731" end_char="3734">gibi</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="3736" end_char="3749">materyallerine</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="3751" end_char="3754">veya</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="3756" end_char="3757">bu</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="3759" end_char="3771">materyallerle</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="3773" end_char="3780">kirlenen</TOKEN>
+<TOKEN id="token-29-18" pos="word" morph="none" start_char="3782" end_char="3790">yüzeylere</TOKEN>
+<TOKEN id="token-29-19" pos="word" morph="none" start_char="3792" end_char="3796">temas</TOKEN>
+<TOKEN id="token-29-20" pos="word" morph="none" start_char="3798" end_char="3807">edilmemeli</TOKEN>
+<TOKEN id="token-29-21" pos="punct" morph="none" start_char="3808" end_char="3808">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="3811" end_char="3945">
+<ORIGINAL_TEXT>-Ölen kanatlı hayvanlar yakılarak veya derince açılan çukurlara gömülüp üzerlerine sönmemiş kireç dökülmek suretiyle bertaraf edilmeli.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="punct" morph="none" start_char="3811" end_char="3811">-</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="3812" end_char="3815">Ölen</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="3817" end_char="3823">kanatlı</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="3825" end_char="3833">hayvanlar</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="3835" end_char="3843">yakılarak</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="3845" end_char="3848">veya</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="3850" end_char="3856">derince</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="3858" end_char="3863">açılan</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="3865" end_char="3873">çukurlara</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="3875" end_char="3881">gömülüp</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="3883" end_char="3892">üzerlerine</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="3894" end_char="3901">sönmemiş</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="3903" end_char="3907">kireç</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="3909" end_char="3916">dökülmek</TOKEN>
+<TOKEN id="token-30-14" pos="word" morph="none" start_char="3918" end_char="3926">suretiyle</TOKEN>
+<TOKEN id="token-30-15" pos="word" morph="none" start_char="3928" end_char="3935">bertaraf</TOKEN>
+<TOKEN id="token-30-16" pos="word" morph="none" start_char="3937" end_char="3944">edilmeli</TOKEN>
+<TOKEN id="token-30-17" pos="punct" morph="none" start_char="3945" end_char="3945">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="3948" end_char="4065">
+<ORIGINAL_TEXT>-Hastalığın görüldüğü yerlere seyahat edilmesi halinde, kanatlı hayvan çiftliklerinde ve pazarlarından uzak durulmalı.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="punct" morph="none" start_char="3948" end_char="3948">-</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="3949" end_char="3958">Hastalığın</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="3960" end_char="3968">görüldüğü</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="3970" end_char="3976">yerlere</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="3978" end_char="3984">seyahat</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="3986" end_char="3993">edilmesi</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="3995" end_char="4001">halinde</TOKEN>
+<TOKEN id="token-31-7" pos="punct" morph="none" start_char="4002" end_char="4002">,</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="4004" end_char="4010">kanatlı</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="4012" end_char="4017">hayvan</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="4019" end_char="4032">çiftliklerinde</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="4034" end_char="4035">ve</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="4037" end_char="4049">pazarlarından</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="4051" end_char="4054">uzak</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="4056" end_char="4064">durulmalı</TOKEN>
+<TOKEN id="token-31-15" pos="punct" morph="none" start_char="4065" end_char="4065">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="4068" end_char="4280">
+<ORIGINAL_TEXT>-Kuş gribi olduğu veya kuş gribinden öldüğü doğrulanmış hayvanlarla, koruyucu önlem almadan temas eden kişiler, hekim önerisiyle, oseltamivir adlı ilacı günde 1 defa 75 miligram miktarında 7 gün süreyle alınmalı.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="punct" morph="none" start_char="4068" end_char="4068">-</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="4069" end_char="4071">Kuş</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="4073" end_char="4077">gribi</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="4079" end_char="4084">olduğu</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="4086" end_char="4089">veya</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="4091" end_char="4093">kuş</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="4095" end_char="4103">gribinden</TOKEN>
+<TOKEN id="token-32-7" pos="unknown" morph="none" start_char="4105" end_char="4111">öldüğü</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="4113" end_char="4123">doğrulanmış</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="4125" end_char="4135">hayvanlarla</TOKEN>
+<TOKEN id="token-32-10" pos="punct" morph="none" start_char="4136" end_char="4136">,</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="4138" end_char="4145">koruyucu</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="4147" end_char="4151">önlem</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="4153" end_char="4159">almadan</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="4161" end_char="4165">temas</TOKEN>
+<TOKEN id="token-32-15" pos="word" morph="none" start_char="4167" end_char="4170">eden</TOKEN>
+<TOKEN id="token-32-16" pos="word" morph="none" start_char="4172" end_char="4178">kişiler</TOKEN>
+<TOKEN id="token-32-17" pos="punct" morph="none" start_char="4179" end_char="4179">,</TOKEN>
+<TOKEN id="token-32-18" pos="word" morph="none" start_char="4181" end_char="4185">hekim</TOKEN>
+<TOKEN id="token-32-19" pos="word" morph="none" start_char="4187" end_char="4196">önerisiyle</TOKEN>
+<TOKEN id="token-32-20" pos="punct" morph="none" start_char="4197" end_char="4197">,</TOKEN>
+<TOKEN id="token-32-21" pos="word" morph="none" start_char="4199" end_char="4209">oseltamivir</TOKEN>
+<TOKEN id="token-32-22" pos="word" morph="none" start_char="4211" end_char="4214">adlı</TOKEN>
+<TOKEN id="token-32-23" pos="word" morph="none" start_char="4216" end_char="4220">ilacı</TOKEN>
+<TOKEN id="token-32-24" pos="word" morph="none" start_char="4222" end_char="4226">günde</TOKEN>
+<TOKEN id="token-32-25" pos="number" morph="none" start_char="4228" end_char="4228">1</TOKEN>
+<TOKEN id="token-32-26" pos="word" morph="none" start_char="4230" end_char="4233">defa</TOKEN>
+<TOKEN id="token-32-27" pos="number" morph="none" start_char="4235" end_char="4236">75</TOKEN>
+<TOKEN id="token-32-28" pos="word" morph="none" start_char="4238" end_char="4245">miligram</TOKEN>
+<TOKEN id="token-32-29" pos="word" morph="none" start_char="4247" end_char="4256">miktarında</TOKEN>
+<TOKEN id="token-32-30" pos="number" morph="none" start_char="4258" end_char="4258">7</TOKEN>
+<TOKEN id="token-32-31" pos="word" morph="none" start_char="4260" end_char="4262">gün</TOKEN>
+<TOKEN id="token-32-32" pos="word" morph="none" start_char="4264" end_char="4270">süreyle</TOKEN>
+<TOKEN id="token-32-33" pos="word" morph="none" start_char="4272" end_char="4279">alınmalı</TOKEN>
+<TOKEN id="token-32-34" pos="punct" morph="none" start_char="4280" end_char="4280">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

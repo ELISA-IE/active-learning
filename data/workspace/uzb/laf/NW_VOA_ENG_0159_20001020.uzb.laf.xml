@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_VOA_ENG_0159_20001020.uzb" lang="UZB">
+    <ANNOTATION id="NW_VOA_ENG_0159_20001020.uzb-NE1" task="NE">
+      <EXTENT start_char="0" end_char="12">Amerika Ovozi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0159_20001020.uzb-NE2" task="NE">
+      <EXTENT start_char="77" end_char="92">Devid Chadvikman</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0159_20001020.uzb-NE3" task="NE">
+      <EXTENT start_char="101" end_char="109">VOA Nʼyus</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0159_20001020.uzb-NE4" task="NE">
+      <EXTENT start_char="125" end_char="133">Kolumbiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0159_20001020.uzb-NE5" task="NE">
+      <EXTENT start_char="267" end_char="272">Bagado</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0159_20001020.uzb-NE6" task="NE">
+      <EXTENT start_char="277" end_char="281">Dabey</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0159_20001020.uzb-NE7" task="NE">
+      <EXTENT start_char="524" end_char="532">Kolumbiya</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_ENG_0159_20001020.uzb-NE8" task="NE">
+      <EXTENT start_char="607" end_char="612">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

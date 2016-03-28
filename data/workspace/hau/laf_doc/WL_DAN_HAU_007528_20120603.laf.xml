@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="HAU">
+  <DOC id="WL_DAN_HAU_007528_20120603" lang="HAU">
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-1" task="NE" type="PER">
+      <EXTENT start_char="78" end_char="90">Hosni Mubarak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="9" end_char="13">Masar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="111" end_char="121">kasar Masar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-4" task="NE" type="LOC">
+      <EXTENT start_char="175" end_char="189">birnin Alkahira</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-5" task="NE" type="LOC">
+      <EXTENT start_char="154" end_char="168">dandalin Tahrir</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-6" task="NE" type="TTL">
+      <EXTENT start_char="227" end_char="234">shugaban</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-7" task="NE" type="PER">
+      <EXTENT start_char="242" end_char="254">Hosni Mubarak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-8" task="NE" type="PER">
+      <EXTENT start_char="295" end_char="301">Mubarak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-9" task="NE" type="PER">
+      <EXTENT start_char="345" end_char="358">Habib al- Adly</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-10" task="NE" type="TTL">
+      <EXTENT start_char="313" end_char="320">Ministan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-11" task="NE" type="PER">
+      <EXTENT start_char="594" end_char="600">Mubarak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-12" task="NE" type="LOC">
+      <EXTENT start_char="904" end_char="917">kasar ta Masar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-13" task="NE" type="PER">
+      <EXTENT start_char="998" end_char="1010">Hosni Mubarak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-14" task="NE" type="LOC">
+      <EXTENT start_char="1203" end_char="1217">kasata Nijeriya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-15" task="NE" type="LOC">
+      <EXTENT start_char="1289" end_char="1302">kasar ta Masar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-16" task="NE" type="LOC">
+      <EXTENT start_char="1361" end_char="1365">Egypt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-ann-17" task="NE" type="ORG">
+      <EXTENT start_char="322" end_char="343">harkokin cikin gidansa</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

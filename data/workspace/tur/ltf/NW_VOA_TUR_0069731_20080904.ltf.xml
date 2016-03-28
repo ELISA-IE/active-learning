@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_VOA_TUR_0069731_20080904" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="3379" raw_text_md5="a0d3c4207bbd4469b40bbcc2380ec7c0">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="93">
+<ORIGINAL_TEXT>Başbakan Recep Tayyip Erdoğan, Şamʼda Fransa, Suriye ve Katarʼın liderleriyle bir araya geldi.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="Başbakan:başbakan=NOUN" start_char="0" end_char="7">Başbakan</TOKEN>
+<TOKEN id="token-0-1" pos="NOUN" morph="Recep:recep=NOUN" start_char="9" end_char="13">Recep</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="Tayyip:tayyip=NOUN" start_char="15" end_char="20">Tayyip</TOKEN>
+<TOKEN id="token-0-3" pos="NOUN" morph="Erdoğan:erdoğan=NOUN" start_char="22" end_char="28">Erdoğan</TOKEN>
+<TOKEN id="token-0-4" pos="." morph="none" start_char="29" end_char="29">,</TOKEN>
+<TOKEN id="token-0-5" pos="NOUN" morph="Şamʼ:Şamʼ=NOUN da:da=CASE_LOC" start_char="31" end_char="36">Şamʼda</TOKEN>
+<TOKEN id="token-0-6" pos="NOUN" morph="Fransa:fransa=NOUN" start_char="38" end_char="43">Fransa</TOKEN>
+<TOKEN id="token-0-7" pos="." morph="none" start_char="44" end_char="44">,</TOKEN>
+<TOKEN id="token-0-8" pos="NOUN" morph="Suriye:suriye=NOUN" start_char="46" end_char="51">Suriye</TOKEN>
+<TOKEN id="token-0-9" pos="CONJ" morph="ve:ve=CONJ" start_char="53" end_char="54">ve</TOKEN>
+<TOKEN id="token-0-10" pos="NOUN" morph="Katarʼ:katarʼ=NOUN ın:ın=CASE_GEN" start_char="56" end_char="63">Katarʼın</TOKEN>
+<TOKEN id="token-0-11" pos="NOUN" morph="lider:lider=NOUN ler:ler=PLURAL i:i=POSS_3S yle:yle=CASE_INS" start_char="65" end_char="76">liderleriyle</TOKEN>
+<TOKEN id="token-0-12" pos="NUM" morph="bir:bir=NUM" start_char="78" end_char="80">bir</TOKEN>
+<TOKEN id="token-0-13" pos="ADV" morph="araya:araya=ADV" start_char="82" end_char="86">araya</TOKEN>
+<TOKEN id="token-0-14" pos="VERB" morph="gel:gel=VERB di:di=DIPAST" start_char="88" end_char="92">geldi</TOKEN>
+<TOKEN id="token-0-15" pos="." morph="none" start_char="93" end_char="93">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="95" end_char="443">
+<ORIGINAL_TEXT>Erdoğan, Fransa Cumhurbaşkanı Nicolas Sarkozy, Katar Emiri Şeyh Hamad bin Halife el Thani ve Suriye Devlet Başkanı Beşar Esad bölgesel konuları görüştüler.Dörtlü zirvenin açılış konuşmasında, Esad, Türkiyeʼnin arabuluculuğuyla İsrail ile Suriye arasında yapılan dolaylı görüşmelerin İsrailli temsilcinin istifası nedeniyle ertelendiğini açıklamıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="Erdoğan:erdoğan=NOUN" start_char="95" end_char="101">Erdoğan</TOKEN>
+<TOKEN id="token-1-1" pos="." morph="none" start_char="102" end_char="102">,</TOKEN>
+<TOKEN id="token-1-2" pos="NOUN" morph="Fransa:fransa=NOUN" start_char="104" end_char="109">Fransa</TOKEN>
+<TOKEN id="token-1-3" pos="NOUN" morph="Cumhurbaşkanı:cumhurbaşkanı=NOUN" start_char="111" end_char="123">Cumhurbaşkanı</TOKEN>
+<TOKEN id="token-1-4" pos="NOUN" morph="Nicolas:nicolas=NOUN" start_char="125" end_char="131">Nicolas</TOKEN>
+<TOKEN id="token-1-5" pos="NOUN" morph="Sarkozy:sarkozy=NOUN" start_char="133" end_char="139">Sarkozy</TOKEN>
+<TOKEN id="token-1-6" pos="." morph="none" start_char="140" end_char="140">,</TOKEN>
+<TOKEN id="token-1-7" pos="NOUN" morph="Katar:katar=NOUN" start_char="142" end_char="146">Katar</TOKEN>
+<TOKEN id="token-1-8" pos="NOUN" morph="Emir:emir=NOUN i:i=CASE_ACC" start_char="148" end_char="152">Emiri</TOKEN>
+<TOKEN id="token-1-9" pos="NOUN" morph="Şeyh:Şeyh=NOUN" start_char="154" end_char="157">Şeyh</TOKEN>
+<TOKEN id="token-1-10" pos="NOUN" morph="Hamad:hamad=NOUN" start_char="159" end_char="163">Hamad</TOKEN>
+<TOKEN id="token-1-11" pos="X" morph="unanalyzable" start_char="165" end_char="167">bin</TOKEN>
+<TOKEN id="token-1-12" pos="NOUN" morph="Halife:halife=NOUN" start_char="169" end_char="174">Halife</TOKEN>
+<TOKEN id="token-1-13" pos="X" morph="unanalyzable" start_char="176" end_char="177">el</TOKEN>
+<TOKEN id="token-1-14" pos="NOUN" morph="Thani:thani=NOUN" start_char="179" end_char="183">Thani</TOKEN>
+<TOKEN id="token-1-15" pos="CONJ" morph="ve:ve=CONJ" start_char="185" end_char="186">ve</TOKEN>
+<TOKEN id="token-1-16" pos="NOUN" morph="Suriye:suriye=NOUN" start_char="188" end_char="193">Suriye</TOKEN>
+<TOKEN id="token-1-17" pos="NOUN" morph="Devlet:devlet=NOUN" start_char="195" end_char="200">Devlet</TOKEN>
+<TOKEN id="token-1-18" pos="NOUN" morph="Başkan:başkan=NOUN ı:ı=CASE_ACC" start_char="202" end_char="208">Başkanı</TOKEN>
+<TOKEN id="token-1-19" pos="NOUN" morph="Beşar:beşar=NOUN" start_char="210" end_char="214">Beşar</TOKEN>
+<TOKEN id="token-1-20" pos="NOUN" morph="Esad:esad=NOUN" start_char="216" end_char="219">Esad</TOKEN>
+<TOKEN id="token-1-21" pos="ADJ" morph="bölgesel:bölgesel=ADJ" start_char="221" end_char="228">bölgesel</TOKEN>
+<TOKEN id="token-1-22" pos="NOUN" morph="konu:konu=NOUN lar:lar=PLURAL ı:ı=POSS_3S" start_char="230" end_char="237">konuları</TOKEN>
+<TOKEN id="token-1-23" pos="VERB" morph="görüş:görüş=VERB tü:tü=DIPAST ler:ler=3P" start_char="239" end_char="248">görüştüler</TOKEN>
+<TOKEN id="token-1-24" pos="." morph="none" start_char="249" end_char="249">.</TOKEN>
+<TOKEN id="token-1-25" pos="ADJ" morph="Dörtlü:dörtlü=ADJ" start_char="250" end_char="255">Dörtlü</TOKEN>
+<TOKEN id="token-1-26" pos="NOUN" morph="zirve:zirve=NOUN nin:nin=CASE_GEN" start_char="257" end_char="264">zirvenin</TOKEN>
+<TOKEN id="token-1-27" pos="NOUN" morph="açılış:açılış=NOUN" start_char="266" end_char="271">açılış</TOKEN>
+<TOKEN id="token-1-28" pos="NOUN" morph="konuşma:konuşma=NOUN sı:sı=POSS_3S nda:nda=CASE_LOC" start_char="273" end_char="284">konuşmasında</TOKEN>
+<TOKEN id="token-1-29" pos="." morph="none" start_char="285" end_char="285">,</TOKEN>
+<TOKEN id="token-1-30" pos="NOUN" morph="Esad:esad=NOUN" start_char="287" end_char="290">Esad</TOKEN>
+<TOKEN id="token-1-31" pos="." morph="none" start_char="291" end_char="291">,</TOKEN>
+<TOKEN id="token-1-32" pos="NOUN" morph="Türkiyeʼ:türkiyeʼ=NOUN nin:nin=CASE_GEN" start_char="293" end_char="303">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-1-33" pos="ADV" morph="arabuluculuğuyla:arabuluculuğuyla=ADV" start_char="305" end_char="320">arabuluculuğuyla</TOKEN>
+<TOKEN id="token-1-34" pos="NOUN" morph="İsrail:İsrail=NOUN" start_char="322" end_char="327">İsrail</TOKEN>
+<TOKEN id="token-1-35" pos="CONJ" morph="ile:ile=CONJ" start_char="329" end_char="331">ile</TOKEN>
+<TOKEN id="token-1-36" pos="NOUN" morph="Suriye:suriye=NOUN" start_char="333" end_char="338">Suriye</TOKEN>
+<TOKEN id="token-1-37" pos="ADV" morph="arasında:arasında=ADV" start_char="340" end_char="347">arasında</TOKEN>
+<TOKEN id="token-1-38" pos="ADJ" morph="yapıl:yapıl=VERB an:an=PARTICIPLE" start_char="349" end_char="355">yapılan</TOKEN>
+<TOKEN id="token-1-39" pos="ADJ" morph="dolaylı:dolaylı=ADJ" start_char="357" end_char="363">dolaylı</TOKEN>
+<TOKEN id="token-1-40" pos="NOUN" morph="görüşme:görüşme=NOUN ler:ler=PLURAL in:in=POSS_2S" start_char="365" end_char="376">görüşmelerin</TOKEN>
+<TOKEN id="token-1-41" pos="ADJ" morph="İsrailli:İsrailli=ADJ" start_char="378" end_char="385">İsrailli</TOKEN>
+<TOKEN id="token-1-42" pos="NOUN" morph="temsilci:temsilci=NOUN nin:nin=CASE_GEN" start_char="387" end_char="397">temsilcinin</TOKEN>
+<TOKEN id="token-1-43" pos="NOUN" morph="istifa:istifa=NOUN sı:sı=POSS_3S" start_char="399" end_char="406">istifası</TOKEN>
+<TOKEN id="token-1-44" pos="ADV" morph="nedeniyle:nedeniyle=ADV" start_char="408" end_char="416">nedeniyle</TOKEN>
+<TOKEN id="token-1-45" pos="ADJ" morph="ertelen:ertelen=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="418" end_char="430">ertelendiğini</TOKEN>
+<TOKEN id="token-1-46" pos="VERB" morph="açıkla:açıkla=VERB mış:mış=mIsPAST tı:tı=DIPAST" start_char="432" end_char="442">açıklamıştı</TOKEN>
+<TOKEN id="token-1-47" pos="." morph="none" start_char="443" end_char="443">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="445" end_char="986">
+<ORIGINAL_TEXT>Konuyla ilgili olarak bir açıklama yapan Başbakan Erdoğan, İsrail – Suriye görüşmelerinin beşinci turunun 18-19 Eylül tarihlerinde başlayacağını söyledi.Esat, doğuran görüşmeler başlatmayı amaçlayan barış önerilerinin Türkiye aracılığıyla İsrailʼe iletildiğini de bildirdi.Fransa Cumhurbaşkanı Nicolas Sarkozy ise İranʼın nükleer programı konusunda batılı ülkelerle işbirliği yapması için Suriyeʼnin Tahran yönetimini ikna etmesini istedi.Dörtlü zirve, geçen Martʼtaki Arap zirvesinden sonra bu yıl Şamʼdaki ikinci büyük diplomatik olay oldu.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="NOUN" morph="Konu:konu=NOUN yla:yla=CASE_INS" start_char="445" end_char="451">Konuyla</TOKEN>
+<TOKEN id="token-2-1" pos="ADP" morph="ilgili:ilgili=POSTP" start_char="453" end_char="458">ilgili</TOKEN>
+<TOKEN id="token-2-2" pos="ADV" morph="olarak:olarak=ADV" start_char="460" end_char="465">olarak</TOKEN>
+<TOKEN id="token-2-3" pos="NUM" morph="bir:bir=NUM" start_char="467" end_char="469">bir</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="açıklama:açıklama=NOUN" start_char="471" end_char="478">açıklama</TOKEN>
+<TOKEN id="token-2-5" pos="ADJ" morph="yap:yap=VERB an:an=PARTICIPLE" start_char="480" end_char="484">yapan</TOKEN>
+<TOKEN id="token-2-6" pos="NOUN" morph="Başbakan:başbakan=NOUN" start_char="486" end_char="493">Başbakan</TOKEN>
+<TOKEN id="token-2-7" pos="NOUN" morph="Erdoğan:erdoğan=NOUN" start_char="495" end_char="501">Erdoğan</TOKEN>
+<TOKEN id="token-2-8" pos="." morph="none" start_char="502" end_char="502">,</TOKEN>
+<TOKEN id="token-2-9" pos="NOUN" morph="İsrail:İsrail=NOUN" start_char="504" end_char="509">İsrail</TOKEN>
+<TOKEN id="token-2-10" pos="X" morph="none" start_char="511" end_char="511">–</TOKEN>
+<TOKEN id="token-2-11" pos="NOUN" morph="Suriye:suriye=NOUN" start_char="513" end_char="518">Suriye</TOKEN>
+<TOKEN id="token-2-12" pos="NOUN" morph="görüşme:görüşme=NOUN ler:ler=PLURAL i:i=POSS_3S nin:nin=CASE_GEN" start_char="520" end_char="533">görüşmelerinin</TOKEN>
+<TOKEN id="token-2-13" pos="NUM" morph="beş:beş=NUM inci:inci=ORD" start_char="535" end_char="541">beşinci</TOKEN>
+<TOKEN id="token-2-14" pos="NOUN" morph="tur:tur=NOUN u:u=POSS_3S nun:nun=CASE_GEN" start_char="543" end_char="549">turunun</TOKEN>
+<TOKEN id="token-2-15" pos="NUM" morph="none" start_char="551" end_char="552">18</TOKEN>
+<TOKEN id="token-2-16" pos="." morph="none" start_char="553" end_char="553">-</TOKEN>
+<TOKEN id="token-2-17" pos="NUM" morph="19:19=NUM" start_char="554" end_char="555">19</TOKEN>
+<TOKEN id="token-2-18" pos="NOUN" morph="Eylül:eylül=NOUN" start_char="557" end_char="561">Eylül</TOKEN>
+<TOKEN id="token-2-19" pos="NOUN" morph="tarih:tarih=NOUN ler:ler=PLURAL i:i=POSS_3S nde:nde=CASE_LOC" start_char="563" end_char="574">tarihlerinde</TOKEN>
+<TOKEN id="token-2-20" pos="ADJ" morph="başla:başla=VERB yacağ:yacağ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="576" end_char="588">başlayacağını</TOKEN>
+<TOKEN id="token-2-21" pos="VERB" morph="söyle:söyle=VERB di:di=DIPAST" start_char="590" end_char="596">söyledi</TOKEN>
+<TOKEN id="token-2-22" pos="." morph="none" start_char="597" end_char="597">.</TOKEN>
+<TOKEN id="token-2-23" pos="NOUN" morph="Esat:esat=NOUN" start_char="598" end_char="601">Esat</TOKEN>
+<TOKEN id="token-2-24" pos="." morph="none" start_char="602" end_char="602">,</TOKEN>
+<TOKEN id="token-2-25" pos="ADJ" morph="doğur:doğur=VERB an:an=PARTICIPLE" start_char="604" end_char="610">doğuran</TOKEN>
+<TOKEN id="token-2-26" pos="NOUN" morph="görüşme:görüşme=NOUN ler:ler=PLURAL" start_char="612" end_char="621">görüşmeler</TOKEN>
+<TOKEN id="token-2-27" pos="NOUN" morph="başlatma:başlatma=NOUN yı:yı=CASE_ACC" start_char="623" end_char="632">başlatmayı</TOKEN>
+<TOKEN id="token-2-28" pos="ADJ" morph="amaçla:amaçla=VERB yan:yan=PARTICIPLE" start_char="634" end_char="642">amaçlayan</TOKEN>
+<TOKEN id="token-2-29" pos="NOUN" morph="barış:barış=NOUN" start_char="644" end_char="648">barış</TOKEN>
+<TOKEN id="token-2-30" pos="NOUN" morph="öneri:öneri=NOUN ler:ler=PLURAL i:i=POSS_3S nin:nin=CASE_GEN" start_char="650" end_char="661">önerilerinin</TOKEN>
+<TOKEN id="token-2-31" pos="NOUN" morph="Türkiye:türkiye=NOUN" start_char="663" end_char="669">Türkiye</TOKEN>
+<TOKEN id="token-2-32" pos="NOUN" morph="aracılığ:aracılık=NOUN ı:ı=POSS_3S yla:yla=CASE_INS" start_char="671" end_char="682">aracılığıyla</TOKEN>
+<TOKEN id="token-2-33" pos="NOUN" morph="İsrailʼ:İsrailʼ=NOUN e:e=CASE_DAT" start_char="684" end_char="691">İsrailʼe</TOKEN>
+<TOKEN id="token-2-34" pos="ADJ" morph="iletil:iletil=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="693" end_char="704">iletildiğini</TOKEN>
+<TOKEN id="token-2-35" pos="ADP" morph="de:de=POSTP" start_char="706" end_char="707">de</TOKEN>
+<TOKEN id="token-2-36" pos="VERB" morph="bildir:bildir=VERB di:di=DIPAST" start_char="709" end_char="716">bildirdi</TOKEN>
+<TOKEN id="token-2-37" pos="." morph="none" start_char="717" end_char="717">.</TOKEN>
+<TOKEN id="token-2-38" pos="NOUN" morph="Fransa:fransa=NOUN" start_char="718" end_char="723">Fransa</TOKEN>
+<TOKEN id="token-2-39" pos="NOUN" morph="Cumhurbaşkanı:cumhurbaşkanı=NOUN" start_char="725" end_char="737">Cumhurbaşkanı</TOKEN>
+<TOKEN id="token-2-40" pos="NOUN" morph="Nicolas:nicolas=NOUN" start_char="739" end_char="745">Nicolas</TOKEN>
+<TOKEN id="token-2-41" pos="NOUN" morph="Sarkozy:sarkozy=NOUN" start_char="747" end_char="753">Sarkozy</TOKEN>
+<TOKEN id="token-2-42" pos="CONJ" morph="ise:ise=CONJ" start_char="755" end_char="757">ise</TOKEN>
+<TOKEN id="token-2-43" pos="NOUN" morph="İranʼ:İranʼ=NOUN ın:ın=CASE_GEN" start_char="759" end_char="765">İranʼın</TOKEN>
+<TOKEN id="token-2-44" pos="NOUN" morph="nükleer:nükleer=NOUN" start_char="767" end_char="773">nükleer</TOKEN>
+<TOKEN id="token-2-45" pos="NOUN" morph="program:program=NOUN ı:ı=CASE_ACC" start_char="775" end_char="782">programı</TOKEN>
+<TOKEN id="token-2-46" pos="NOUN" morph="konu:konu=NOUN su:su=POSS_3S nda:nda=CASE_LOC" start_char="784" end_char="792">konusunda</TOKEN>
+<TOKEN id="token-2-47" pos="ADJ" morph="batılı:batılı=ADJ" start_char="794" end_char="799">batılı</TOKEN>
+<TOKEN id="token-2-48" pos="NOUN" morph="ülke:ülke=NOUN ler:ler=PLURAL le:le=CASE_INS" start_char="801" end_char="809">ülkelerle</TOKEN>
+<TOKEN id="token-2-49" pos="NOUN" morph="işbirliği:işbirliği=NOUN" start_char="811" end_char="819">işbirliği</TOKEN>
+<TOKEN id="token-2-50" pos="VERB" morph="yapması:yapması=VERB" start_char="821" end_char="827">yapması</TOKEN>
+<TOKEN id="token-2-51" pos="ADP" morph="için:için=POSTP" start_char="829" end_char="832">için</TOKEN>
+<TOKEN id="token-2-52" pos="NOUN" morph="Suriyeʼ:suriyeʼ=NOUN nin:nin=CASE_GEN" start_char="834" end_char="843">Suriyeʼnin</TOKEN>
+<TOKEN id="token-2-53" pos="NOUN" morph="Tahran:tahran=NOUN" start_char="845" end_char="850">Tahran</TOKEN>
+<TOKEN id="token-2-54" pos="NOUN" morph="yönetim:yönetim=NOUN i:i=POSS_3S ni:ni=CASE_ACC" start_char="852" end_char="861">yönetimini</TOKEN>
+<TOKEN id="token-2-55" pos="NOUN" morph="ikna:ikna=NOUN" start_char="863" end_char="866">ikna</TOKEN>
+<TOKEN id="token-2-56" pos="VERB" morph="etmesini:etmesini=VERB" start_char="868" end_char="875">etmesini</TOKEN>
+<TOKEN id="token-2-57" pos="VERB" morph="iste:iste=VERB di:di=DIPAST" start_char="877" end_char="882">istedi</TOKEN>
+<TOKEN id="token-2-58" pos="." morph="none" start_char="883" end_char="883">.</TOKEN>
+<TOKEN id="token-2-59" pos="ADJ" morph="Dörtlü:dörtlü=ADJ" start_char="884" end_char="889">Dörtlü</TOKEN>
+<TOKEN id="token-2-60" pos="NOUN" morph="zirve:zirve=NOUN" start_char="891" end_char="895">zirve</TOKEN>
+<TOKEN id="token-2-61" pos="." morph="none" start_char="896" end_char="896">,</TOKEN>
+<TOKEN id="token-2-62" pos="ADJ" morph="geçen:geçen=ADJ" start_char="898" end_char="902">geçen</TOKEN>
+<TOKEN id="token-2-63" pos="NOUN" morph="Martʼ:martʼ=NOUN ta:ta=CASE_LOC ki:ki=PARTICLE" start_char="904" end_char="912">Martʼtaki</TOKEN>
+<TOKEN id="token-2-64" pos="NOUN" morph="Arap:arap=NOUN" start_char="914" end_char="917">Arap</TOKEN>
+<TOKEN id="token-2-65" pos="NOUN" morph="zirve:zirve=NOUN si:si=POSS_3S nden:nden=CASE_ABL" start_char="919" end_char="929">zirvesinden</TOKEN>
+<TOKEN id="token-2-66" pos="ADV" morph="sonra:sonra=ADV" start_char="931" end_char="935">sonra</TOKEN>
+<TOKEN id="token-2-67" pos="PRON" morph="bu:bu=DEMPRON" start_char="937" end_char="938">bu</TOKEN>
+<TOKEN id="token-2-68" pos="NOUN" morph="yıl:yıl=NOUN" start_char="940" end_char="942">yıl</TOKEN>
+<TOKEN id="token-2-69" pos="NOUN" morph="Şamʼ:Şamʼ=NOUN da:da=CASE_LOC ki:ki=PARTICLE" start_char="944" end_char="951">Şamʼdaki</TOKEN>
+<TOKEN id="token-2-70" pos="NUM" morph="iki:iki=NUM nci:nci=ORD" start_char="953" end_char="958">ikinci</TOKEN>
+<TOKEN id="token-2-71" pos="ADJ" morph="büyük:büyük=ADJ" start_char="960" end_char="964">büyük</TOKEN>
+<TOKEN id="token-2-72" pos="ADJ" morph="diplomatik:diplomatik=ADJ" start_char="966" end_char="975">diplomatik</TOKEN>
+<TOKEN id="token-2-73" pos="NOUN" morph="olay:olay=NOUN" start_char="977" end_char="980">olay</TOKEN>
+<TOKEN id="token-2-74" pos="VERB" morph="ol:ol=VERB du:du=DIPAST" start_char="982" end_char="985">oldu</TOKEN>
+<TOKEN id="token-2-75" pos="." morph="none" start_char="986" end_char="986">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="988" end_char="1530">
+<ORIGINAL_TEXT>Kendinden emin bir devlet adamı görüntüsü sergileyen Beşar Esad, Fransa,Türkiye ve Katar liderlerine, Suriyeʼnin yıllardır süren tecrit durumuna son vererek yeniden uluslararası sahneye çıktığını gösterdi.Türkiyeʼnin İsrailʼle barış görüşmeleri için bir öneri sunduğunu belirten Esat, taraflar arasında doğrudan görüşmelerin başlaması için İsrailʼden yanıt beklediğini söyledi.İsrailʼe barış anlaşmasının ana maddelerinin iletildiğini belirten Esat, bunlar arasında Suriyeʼnin önerdiği Golan tepelerinden çekilme hattı bulunduğunu da açıkladı.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Kendi:kendi=NOUN n:n=POSS_2S den:den=CASE_ABL" start_char="988" end_char="996">Kendinden</TOKEN>
+<TOKEN id="token-3-1" pos="ADJ" morph="emin:emin=ADJ" start_char="998" end_char="1001">emin</TOKEN>
+<TOKEN id="token-3-2" pos="NUM" morph="bir:bir=NUM" start_char="1003" end_char="1005">bir</TOKEN>
+<TOKEN id="token-3-3" pos="NOUN" morph="devlet:devlet=NOUN" start_char="1007" end_char="1012">devlet</TOKEN>
+<TOKEN id="token-3-4" pos="NOUN" morph="adam:adam=NOUN ı:ı=CASE_ACC" start_char="1014" end_char="1018">adamı</TOKEN>
+<TOKEN id="token-3-5" pos="NOUN" morph="görüntü:görüntü=NOUN sü:sü=POSS_3S" start_char="1020" end_char="1028">görüntüsü</TOKEN>
+<TOKEN id="token-3-6" pos="ADJ" morph="sergileyen:sergileyen=ADJ" start_char="1030" end_char="1039">sergileyen</TOKEN>
+<TOKEN id="token-3-7" pos="NOUN" morph="Beşar:beşar=NOUN" start_char="1041" end_char="1045">Beşar</TOKEN>
+<TOKEN id="token-3-8" pos="NOUN" morph="Esad:esad=NOUN" start_char="1047" end_char="1050">Esad</TOKEN>
+<TOKEN id="token-3-9" pos="." morph="none" start_char="1051" end_char="1051">,</TOKEN>
+<TOKEN id="token-3-10" pos="NOUN" morph="Fransa:fransa=NOUN" start_char="1053" end_char="1058">Fransa</TOKEN>
+<TOKEN id="token-3-11" pos="." morph="none" start_char="1059" end_char="1059">,</TOKEN>
+<TOKEN id="token-3-12" pos="NOUN" morph="Türkiye:türkiye=NOUN" start_char="1060" end_char="1066">Türkiye</TOKEN>
+<TOKEN id="token-3-13" pos="CONJ" morph="ve:ve=CONJ" start_char="1068" end_char="1069">ve</TOKEN>
+<TOKEN id="token-3-14" pos="NOUN" morph="Katar:katar=NOUN" start_char="1071" end_char="1075">Katar</TOKEN>
+<TOKEN id="token-3-15" pos="NOUN" morph="lider:lider=NOUN ler:ler=PLURAL i:i=POSS_3S ne:ne=CASE_DAT" start_char="1077" end_char="1087">liderlerine</TOKEN>
+<TOKEN id="token-3-16" pos="." morph="none" start_char="1088" end_char="1088">,</TOKEN>
+<TOKEN id="token-3-17" pos="NOUN" morph="Suriyeʼ:suriyeʼ=NOUN nin:nin=CASE_GEN" start_char="1090" end_char="1099">Suriyeʼnin</TOKEN>
+<TOKEN id="token-3-18" pos="ADV" morph="yıllardır:yıllardır=ADV" start_char="1101" end_char="1109">yıllardır</TOKEN>
+<TOKEN id="token-3-19" pos="ADJ" morph="sür:sür=VERB en:en=PARTICIPLE" start_char="1111" end_char="1115">süren</TOKEN>
+<TOKEN id="token-3-20" pos="NOUN" morph="tecrit:tecrit=NOUN" start_char="1117" end_char="1122">tecrit</TOKEN>
+<TOKEN id="token-3-21" pos="NOUN" morph="durum:durum=NOUN u:u=POSS_3S na:na=CASE_DAT" start_char="1124" end_char="1131">durumuna</TOKEN>
+<TOKEN id="token-3-22" pos="ADJ" morph="son:son=ADJ" start_char="1133" end_char="1135">son</TOKEN>
+<TOKEN id="token-3-23" pos="ADV" morph="ver:ver=VERB erek:erek=GER" start_char="1137" end_char="1143">vererek</TOKEN>
+<TOKEN id="token-3-24" pos="ADV" morph="yeniden:yeniden=ADV" start_char="1145" end_char="1151">yeniden</TOKEN>
+<TOKEN id="token-3-25" pos="NOUN" morph="uluslararası:uluslararası=NOUN" start_char="1153" end_char="1164">uluslararası</TOKEN>
+<TOKEN id="token-3-26" pos="NOUN" morph="sahne:sahne=NOUN ye:ye=CASE_DAT" start_char="1166" end_char="1172">sahneye</TOKEN>
+<TOKEN id="token-3-27" pos="ADJ" morph="çık:çık=VERB tığ:tığ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="1174" end_char="1182">çıktığını</TOKEN>
+<TOKEN id="token-3-28" pos="VERB" morph="göster:göster=VERB di:di=DIPAST" start_char="1184" end_char="1191">gösterdi</TOKEN>
+<TOKEN id="token-3-29" pos="." morph="none" start_char="1192" end_char="1192">.</TOKEN>
+<TOKEN id="token-3-30" pos="NOUN" morph="Türkiyeʼ:türkiyeʼ=NOUN nin:nin=CASE_GEN" start_char="1193" end_char="1203">Türkiyeʼnin</TOKEN>
+<TOKEN id="token-3-31" pos="NOUN" morph="İsrailʼ:İsrailʼ=NOUN le:le=CASE_INS" start_char="1205" end_char="1213">İsrailʼle</TOKEN>
+<TOKEN id="token-3-32" pos="NOUN" morph="barış:barış=NOUN" start_char="1215" end_char="1219">barış</TOKEN>
+<TOKEN id="token-3-33" pos="NOUN" morph="görüşme:görüşme=NOUN ler:ler=PLURAL i:i=CASE_ACC" start_char="1221" end_char="1231">görüşmeleri</TOKEN>
+<TOKEN id="token-3-34" pos="ADP" morph="için:için=POSTP" start_char="1233" end_char="1236">için</TOKEN>
+<TOKEN id="token-3-35" pos="NUM" morph="bir:bir=NUM" start_char="1238" end_char="1240">bir</TOKEN>
+<TOKEN id="token-3-36" pos="NOUN" morph="öneri:öneri=NOUN" start_char="1242" end_char="1246">öneri</TOKEN>
+<TOKEN id="token-3-37" pos="ADJ" morph="sun:sun=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="1248" end_char="1256">sunduğunu</TOKEN>
+<TOKEN id="token-3-38" pos="ADJ" morph="belirt:belirt=VERB en:en=PARTICIPLE" start_char="1258" end_char="1265">belirten</TOKEN>
+<TOKEN id="token-3-39" pos="NOUN" morph="Esat:esat=NOUN" start_char="1267" end_char="1270">Esat</TOKEN>
+<TOKEN id="token-3-40" pos="." morph="none" start_char="1271" end_char="1271">,</TOKEN>
+<TOKEN id="token-3-41" pos="NOUN" morph="taraf:taraf=NOUN lar:lar=PLURAL" start_char="1273" end_char="1280">taraflar</TOKEN>
+<TOKEN id="token-3-42" pos="ADV" morph="arasında:arasında=ADV" start_char="1282" end_char="1289">arasında</TOKEN>
+<TOKEN id="token-3-43" pos="ADV" morph="doğrudan:doğrudan=ADV" start_char="1291" end_char="1298">doğrudan</TOKEN>
+<TOKEN id="token-3-44" pos="NOUN" morph="görüşme:görüşme=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="1300" end_char="1311">görüşmelerin</TOKEN>
+<TOKEN id="token-3-45" pos="ADV" morph="başlaması:başlaması=ADV" start_char="1313" end_char="1321">başlaması</TOKEN>
+<TOKEN id="token-3-46" pos="ADP" morph="için:için=POSTP" start_char="1323" end_char="1326">için</TOKEN>
+<TOKEN id="token-3-47" pos="NOUN" morph="İsrailʼ:İsrailʼ=NOUN den:den=CASE_ABL" start_char="1328" end_char="1337">İsrailʼden</TOKEN>
+<TOKEN id="token-3-48" pos="NOUN" morph="yanıt:yanıt=NOUN" start_char="1339" end_char="1343">yanıt</TOKEN>
+<TOKEN id="token-3-49" pos="ADJ" morph="bekle:bekle=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="1345" end_char="1355">beklediğini</TOKEN>
+<TOKEN id="token-3-50" pos="VERB" morph="söyle:söyle=VERB di:di=DIPAST" start_char="1357" end_char="1363">söyledi</TOKEN>
+<TOKEN id="token-3-51" pos="." morph="none" start_char="1364" end_char="1364">.</TOKEN>
+<TOKEN id="token-3-52" pos="NOUN" morph="İsrailʼ:İsrailʼ=NOUN e:e=CASE_DAT" start_char="1365" end_char="1372">İsrailʼe</TOKEN>
+<TOKEN id="token-3-53" pos="NOUN" morph="barış:barış=NOUN" start_char="1374" end_char="1378">barış</TOKEN>
+<TOKEN id="token-3-54" pos="NOUN" morph="anlaşma:anlaşma=NOUN sı:sı=POSS_3S nın:nın=CASE_GEN" start_char="1380" end_char="1391">anlaşmasının</TOKEN>
+<TOKEN id="token-3-55" pos="ADJ" morph="ana:ana=ADJ" start_char="1393" end_char="1395">ana</TOKEN>
+<TOKEN id="token-3-56" pos="NOUN" morph="madde:madde=NOUN ler:ler=PLURAL i:i=POSS_3S nin:nin=CASE_GEN" start_char="1397" end_char="1408">maddelerinin</TOKEN>
+<TOKEN id="token-3-57" pos="ADJ" morph="iletil:iletil=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="1410" end_char="1421">iletildiğini</TOKEN>
+<TOKEN id="token-3-58" pos="ADJ" morph="belirt:belirt=VERB en:en=PARTICIPLE" start_char="1423" end_char="1430">belirten</TOKEN>
+<TOKEN id="token-3-59" pos="NOUN" morph="Esat:esat=NOUN" start_char="1432" end_char="1435">Esat</TOKEN>
+<TOKEN id="token-3-60" pos="." morph="none" start_char="1436" end_char="1436">,</TOKEN>
+<TOKEN id="token-3-61" pos="PRON" morph="bunlar:bunlar=DEMPRON" start_char="1438" end_char="1443">bunlar</TOKEN>
+<TOKEN id="token-3-62" pos="ADV" morph="arasında:arasında=ADV" start_char="1445" end_char="1452">arasında</TOKEN>
+<TOKEN id="token-3-63" pos="NOUN" morph="Suriyeʼ:suriyeʼ=NOUN nin:nin=CASE_GEN" start_char="1454" end_char="1463">Suriyeʼnin</TOKEN>
+<TOKEN id="token-3-64" pos="ADJ" morph="öner:öner=VERB diğ:diğ=PARTICIPLE i:i=CASE_ACC" start_char="1465" end_char="1472">önerdiği</TOKEN>
+<TOKEN id="token-3-65" pos="NOUN" morph="Golan:golan=NOUN" start_char="1474" end_char="1478">Golan</TOKEN>
+<TOKEN id="token-3-66" pos="NOUN" morph="tepe:tepe=NOUN ler:ler=PLURAL in:in=POSS_2S den:den=CASE_ABL" start_char="1480" end_char="1491">tepelerinden</TOKEN>
+<TOKEN id="token-3-67" pos="ADV" morph="çekilme:çekilme=ADV" start_char="1493" end_char="1499">çekilme</TOKEN>
+<TOKEN id="token-3-68" pos="ADV" morph="hattı:hattı=ADV" start_char="1501" end_char="1505">hattı</TOKEN>
+<TOKEN id="token-3-69" pos="ADJ" morph="bulun:bulun=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="1507" end_char="1517">bulunduğunu</TOKEN>
+<TOKEN id="token-3-70" pos="ADP" morph="da:da=POSTP" start_char="1519" end_char="1520">da</TOKEN>
+<TOKEN id="token-3-71" pos="VERB" morph="açıkla:açıkla=VERB dı:dı=DIPAST" start_char="1522" end_char="1529">açıkladı</TOKEN>
+<TOKEN id="token-3-72" pos="." morph="none" start_char="1530" end_char="1530">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="1532" end_char="1814">
+<ORIGINAL_TEXT>Altı maddelik planın Türk arabuluculara verildiğini belirten Esad, yeni İsrail Başbakanının Ehut Olmert gibi barış için istekli olacağını umduğunu söyledi.Beşar Esat, Amerikaʼyı ön plana çıkmaya, Fransa ve Türkiye gibi İsrailʼle Suriye arasındaki görüşmelerde rol üstlenmeye çağırdı.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="NUM" morph="Altı:altı=NUM" start_char="1532" end_char="1535">Altı</TOKEN>
+<TOKEN id="token-4-1" pos="ADJ" morph="maddelik:maddelik=ADJ" start_char="1537" end_char="1544">maddelik</TOKEN>
+<TOKEN id="token-4-2" pos="NOUN" morph="plan:plan=NOUN ın:ın=POSS_2S" start_char="1546" end_char="1551">planın</TOKEN>
+<TOKEN id="token-4-3" pos="NOUN" morph="Türk:türk=NOUN" start_char="1553" end_char="1556">Türk</TOKEN>
+<TOKEN id="token-4-4" pos="NOUN" morph="arabulucu:arabulucu=NOUN lar:lar=PLURAL a:a=CASE_DAT" start_char="1558" end_char="1570">arabuluculara</TOKEN>
+<TOKEN id="token-4-5" pos="ADJ" morph="veril:veril=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="1572" end_char="1582">verildiğini</TOKEN>
+<TOKEN id="token-4-6" pos="ADJ" morph="belirt:belirt=VERB en:en=PARTICIPLE" start_char="1584" end_char="1591">belirten</TOKEN>
+<TOKEN id="token-4-7" pos="NOUN" morph="Esad:esad=NOUN" start_char="1593" end_char="1596">Esad</TOKEN>
+<TOKEN id="token-4-8" pos="." morph="none" start_char="1597" end_char="1597">,</TOKEN>
+<TOKEN id="token-4-9" pos="ADJ" morph="yeni:yeni=ADJ" start_char="1599" end_char="1602">yeni</TOKEN>
+<TOKEN id="token-4-10" pos="NOUN" morph="İsrail:İsrail=NOUN" start_char="1604" end_char="1609">İsrail</TOKEN>
+<TOKEN id="token-4-11" pos="NOUN" morph="Başbakan:başbakan=NOUN ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="1611" end_char="1622">Başbakanının</TOKEN>
+<TOKEN id="token-4-12" pos="NOUN" morph="Ehut:ehut=NOUN" start_char="1624" end_char="1627">Ehut</TOKEN>
+<TOKEN id="token-4-13" pos="NOUN" morph="Olmert:olmert=NOUN" start_char="1629" end_char="1634">Olmert</TOKEN>
+<TOKEN id="token-4-14" pos="ADV" morph="gibi:gibi=ADV" start_char="1636" end_char="1639">gibi</TOKEN>
+<TOKEN id="token-4-15" pos="NOUN" morph="barış:barış=NOUN" start_char="1641" end_char="1645">barış</TOKEN>
+<TOKEN id="token-4-16" pos="ADP" morph="için:için=POSTP" start_char="1647" end_char="1650">için</TOKEN>
+<TOKEN id="token-4-17" pos="ADJ" morph="istekli:istekli=ADJ" start_char="1652" end_char="1658">istekli</TOKEN>
+<TOKEN id="token-4-18" pos="ADJ" morph="ol:ol=VERB acağ:acağ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="1660" end_char="1668">olacağını</TOKEN>
+<TOKEN id="token-4-19" pos="ADJ" morph="um:um=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="1670" end_char="1677">umduğunu</TOKEN>
+<TOKEN id="token-4-20" pos="VERB" morph="söyle:söyle=VERB di:di=DIPAST" start_char="1679" end_char="1685">söyledi</TOKEN>
+<TOKEN id="token-4-21" pos="." morph="none" start_char="1686" end_char="1686">.</TOKEN>
+<TOKEN id="token-4-22" pos="NOUN" morph="Beşar:beşar=NOUN" start_char="1687" end_char="1691">Beşar</TOKEN>
+<TOKEN id="token-4-23" pos="NOUN" morph="Esat:esat=NOUN" start_char="1693" end_char="1696">Esat</TOKEN>
+<TOKEN id="token-4-24" pos="." morph="none" start_char="1697" end_char="1697">,</TOKEN>
+<TOKEN id="token-4-25" pos="NOUN" morph="Amerikaʼ:amerikaʼ=NOUN yı:yı=CASE_ACC" start_char="1699" end_char="1708">Amerikaʼyı</TOKEN>
+<TOKEN id="token-4-26" pos="ADJ" morph="ön:ön=ADJ" start_char="1710" end_char="1711">ön</TOKEN>
+<TOKEN id="token-4-27" pos="NOUN" morph="plan:plan=NOUN a:a=CASE_DAT" start_char="1713" end_char="1717">plana</TOKEN>
+<TOKEN id="token-4-28" pos="VERB" morph="çıkmaya:çıkmaya=VERB" start_char="1719" end_char="1725">çıkmaya</TOKEN>
+<TOKEN id="token-4-29" pos="." morph="none" start_char="1726" end_char="1726">,</TOKEN>
+<TOKEN id="token-4-30" pos="NOUN" morph="Fransa:fransa=NOUN" start_char="1728" end_char="1733">Fransa</TOKEN>
+<TOKEN id="token-4-31" pos="CONJ" morph="ve:ve=CONJ" start_char="1735" end_char="1736">ve</TOKEN>
+<TOKEN id="token-4-32" pos="NOUN" morph="Türkiye:türkiye=NOUN" start_char="1738" end_char="1744">Türkiye</TOKEN>
+<TOKEN id="token-4-33" pos="ADP" morph="gibi:gibi=POSTP" start_char="1746" end_char="1749">gibi</TOKEN>
+<TOKEN id="token-4-34" pos="NOUN" morph="İsrailʼ:İsrailʼ=NOUN le:le=CASE_INS" start_char="1751" end_char="1759">İsrailʼle</TOKEN>
+<TOKEN id="token-4-35" pos="NOUN" morph="Suriye:suriye=NOUN" start_char="1761" end_char="1766">Suriye</TOKEN>
+<TOKEN id="token-4-36" pos="ADJ" morph="arası:arası=ADJ n:n=POSS_2S da:da=CASE_LOC ki:ki=PARTICLE" start_char="1768" end_char="1777">arasındaki</TOKEN>
+<TOKEN id="token-4-37" pos="NOUN" morph="görüşme:görüşme=NOUN ler:ler=PLURAL de:de=CASE_LOC" start_char="1779" end_char="1790">görüşmelerde</TOKEN>
+<TOKEN id="token-4-38" pos="NOUN" morph="rol:rol=NOUN" start_char="1792" end_char="1794">rol</TOKEN>
+<TOKEN id="token-4-39" pos="ADV" morph="üstlenmeye:üstlenmeye=ADV" start_char="1796" end_char="1805">üstlenmeye</TOKEN>
+<TOKEN id="token-4-40" pos="VERB" morph="çağır:çağır=VERB dı:dı=DIPAST" start_char="1807" end_char="1813">çağırdı</TOKEN>
+<TOKEN id="token-4-41" pos="." morph="none" start_char="1814" end_char="1814">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="1816" end_char="2099">
+<ORIGINAL_TEXT>Ankara, bugüne kadar İsrailʼle Suriye arasında gerçekleşen dört tur dolaylı görüşmede arabuluculuk yaptı.Ziyaretiyle Suriyeʼye yeni diplomatik güç kazandıran Fransa Cumhurbaşkanı Nicolas Sarkozy, daha çok İran üzerinde durdu ve Tahranʼı nükleer silah edinmeye çalışmaması için uyardı.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="NOUN" morph="Ankara:ankara=NOUN" start_char="1816" end_char="1821">Ankara</TOKEN>
+<TOKEN id="token-5-1" pos="." morph="none" start_char="1822" end_char="1822">,</TOKEN>
+<TOKEN id="token-5-2" pos="ADV" morph="bugüne:bugüne=ADV" start_char="1824" end_char="1829">bugüne</TOKEN>
+<TOKEN id="token-5-3" pos="ADV" morph="kadar:kadar=ADV" start_char="1831" end_char="1835">kadar</TOKEN>
+<TOKEN id="token-5-4" pos="NOUN" morph="İsrailʼ:İsrailʼ=NOUN le:le=CASE_INS" start_char="1837" end_char="1845">İsrailʼle</TOKEN>
+<TOKEN id="token-5-5" pos="NOUN" morph="Suriye:suriye=NOUN" start_char="1847" end_char="1852">Suriye</TOKEN>
+<TOKEN id="token-5-6" pos="ADV" morph="arasında:arasında=ADV" start_char="1854" end_char="1861">arasında</TOKEN>
+<TOKEN id="token-5-7" pos="ADJ" morph="gerçekleş:gerçekleş=VERB en:en=PARTICIPLE" start_char="1863" end_char="1873">gerçekleşen</TOKEN>
+<TOKEN id="token-5-8" pos="NUM" morph="dört:dört=NUM" start_char="1875" end_char="1878">dört</TOKEN>
+<TOKEN id="token-5-9" pos="NOUN" morph="tur:tur=NOUN" start_char="1880" end_char="1882">tur</TOKEN>
+<TOKEN id="token-5-10" pos="ADJ" morph="dolaylı:dolaylı=ADJ" start_char="1884" end_char="1890">dolaylı</TOKEN>
+<TOKEN id="token-5-11" pos="NOUN" morph="görüşme:görüşme=NOUN de:de=CASE_LOC" start_char="1892" end_char="1900">görüşmede</TOKEN>
+<TOKEN id="token-5-12" pos="ADV" morph="arabuluculuk:arabuluculuk=ADV" start_char="1902" end_char="1913">arabuluculuk</TOKEN>
+<TOKEN id="token-5-13" pos="VERB" morph="yap:yap=VERB tı:tı=DIPAST" start_char="1915" end_char="1919">yaptı</TOKEN>
+<TOKEN id="token-5-14" pos="." morph="none" start_char="1920" end_char="1920">.</TOKEN>
+<TOKEN id="token-5-15" pos="NOUN" morph="Ziyaret:ziyaret=NOUN i:i=POSS_3S yle:yle=CASE_INS" start_char="1921" end_char="1931">Ziyaretiyle</TOKEN>
+<TOKEN id="token-5-16" pos="NOUN" morph="Suriyeʼ:suriyeʼ=NOUN ye:ye=CASE_DAT" start_char="1933" end_char="1941">Suriyeʼye</TOKEN>
+<TOKEN id="token-5-17" pos="ADJ" morph="yeni:yeni=ADJ" start_char="1943" end_char="1946">yeni</TOKEN>
+<TOKEN id="token-5-18" pos="NOUN" morph="diplomatik:diplomatik=NOUN" start_char="1948" end_char="1957">diplomatik</TOKEN>
+<TOKEN id="token-5-19" pos="ADJ" morph="güç:güç=ADJ" start_char="1959" end_char="1961">güç</TOKEN>
+<TOKEN id="token-5-20" pos="ADJ" morph="kazandır:kazandır=VERB an:an=PARTICIPLE" start_char="1963" end_char="1972">kazandıran</TOKEN>
+<TOKEN id="token-5-21" pos="NOUN" morph="Fransa:fransa=NOUN" start_char="1974" end_char="1979">Fransa</TOKEN>
+<TOKEN id="token-5-22" pos="NOUN" morph="Cumhurbaşkanı:cumhurbaşkanı=NOUN" start_char="1981" end_char="1993">Cumhurbaşkanı</TOKEN>
+<TOKEN id="token-5-23" pos="NOUN" morph="Nicolas:nicolas=NOUN" start_char="1995" end_char="2001">Nicolas</TOKEN>
+<TOKEN id="token-5-24" pos="NOUN" morph="Sarkozy:sarkozy=NOUN" start_char="2003" end_char="2009">Sarkozy</TOKEN>
+<TOKEN id="token-5-25" pos="." morph="none" start_char="2010" end_char="2010">,</TOKEN>
+<TOKEN id="token-5-26" pos="ADV" morph="daha:daha=ADV" start_char="2012" end_char="2015">daha</TOKEN>
+<TOKEN id="token-5-27" pos="ADJ" morph="çok:çok=ADJ" start_char="2017" end_char="2019">çok</TOKEN>
+<TOKEN id="token-5-28" pos="NOUN" morph="İran:İran=NOUN" start_char="2021" end_char="2024">İran</TOKEN>
+<TOKEN id="token-5-29" pos="ADP" morph="üzerinde:üzerinde=POSTP" start_char="2026" end_char="2033">üzerinde</TOKEN>
+<TOKEN id="token-5-30" pos="VERB" morph="dur:dur=VERB du:du=DIPAST" start_char="2035" end_char="2039">durdu</TOKEN>
+<TOKEN id="token-5-31" pos="CONJ" morph="ve:ve=CONJ" start_char="2041" end_char="2042">ve</TOKEN>
+<TOKEN id="token-5-32" pos="NOUN" morph="Tahranʼ:tahranʼ=NOUN ı:ı=CASE_ACC" start_char="2044" end_char="2051">Tahranʼı</TOKEN>
+<TOKEN id="token-5-33" pos="NOUN" morph="nükleer:nükleer=NOUN" start_char="2053" end_char="2059">nükleer</TOKEN>
+<TOKEN id="token-5-34" pos="NOUN" morph="silah:silah=NOUN" start_char="2061" end_char="2065">silah</TOKEN>
+<TOKEN id="token-5-35" pos="NOUN" morph="edinme:edinme=NOUN ye:ye=CASE_DAT" start_char="2067" end_char="2074">edinmeye</TOKEN>
+<TOKEN id="token-5-36" pos="ADV" morph="çalışmaması:çalışmaması=ADV" start_char="2076" end_char="2086">çalışmaması</TOKEN>
+<TOKEN id="token-5-37" pos="ADP" morph="için:için=POSTP" start_char="2088" end_char="2091">için</TOKEN>
+<TOKEN id="token-5-38" pos="VERB" morph="uyar:uyar=VERB dı:dı=DIPAST" start_char="2093" end_char="2098">uyardı</TOKEN>
+<TOKEN id="token-5-39" pos="." morph="none" start_char="2099" end_char="2099">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="2101" end_char="2420">
+<ORIGINAL_TEXT>Sarkozy, İranʼın nükleer silah peşinde koşmakla büyük riske girdiğini çünkü İsrailʼin bu yüzden İranʼa saldırabileceğini ve bunun da herkes için “felaket” olacağını söyledi.Suriye Devlet Başkanı ise Sarkozyʼnin kaygılarını abartılı bulduğunu belirterek İranʼın nükleer programının sadece sivil amaçlı olduğunu öne sürdü.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="NOUN" morph="Sarkozy:sarkozy=NOUN" start_char="2101" end_char="2107">Sarkozy</TOKEN>
+<TOKEN id="token-6-1" pos="." morph="none" start_char="2108" end_char="2108">,</TOKEN>
+<TOKEN id="token-6-2" pos="NOUN" morph="İranʼ:İranʼ=NOUN ın:ın=CASE_GEN" start_char="2110" end_char="2116">İranʼın</TOKEN>
+<TOKEN id="token-6-3" pos="NOUN" morph="nükleer:nükleer=NOUN" start_char="2118" end_char="2124">nükleer</TOKEN>
+<TOKEN id="token-6-4" pos="NOUN" morph="silah:silah=NOUN" start_char="2126" end_char="2130">silah</TOKEN>
+<TOKEN id="token-6-5" pos="ADP" morph="peşinde:peşinde=POSTP" start_char="2132" end_char="2138">peşinde</TOKEN>
+<TOKEN id="token-6-6" pos="NOUN" morph="koş:koş=VERB mak:mak=INF la:la=CASE_INS" start_char="2140" end_char="2147">koşmakla</TOKEN>
+<TOKEN id="token-6-7" pos="ADJ" morph="büyük:büyük=ADJ" start_char="2149" end_char="2153">büyük</TOKEN>
+<TOKEN id="token-6-8" pos="NOUN" morph="risk:risk=NOUN e:e=CASE_DAT" start_char="2155" end_char="2159">riske</TOKEN>
+<TOKEN id="token-6-9" pos="ADJ" morph="gir:gir=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="2161" end_char="2169">girdiğini</TOKEN>
+<TOKEN id="token-6-10" pos="ADV" morph="çünkü:çünkü=ADV" start_char="2171" end_char="2175">çünkü</TOKEN>
+<TOKEN id="token-6-11" pos="NOUN" morph="İsrailʼ:İsrailʼ=NOUN in:in=CASE_GEN" start_char="2177" end_char="2185">İsrailʼin</TOKEN>
+<TOKEN id="token-6-12" pos="PRON" morph="bu:bu=DEMPRON" start_char="2187" end_char="2188">bu</TOKEN>
+<TOKEN id="token-6-13" pos="ADJ" morph="yüzden:yüzden=ADJ" start_char="2190" end_char="2195">yüzden</TOKEN>
+<TOKEN id="token-6-14" pos="NOUN" morph="İranʼ:İranʼ=NOUN a:a=CASE_DAT" start_char="2197" end_char="2202">İranʼa</TOKEN>
+<TOKEN id="token-6-15" pos="ADJ" morph="saldırabil:saldırabil=VERB eceğ:eceğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="2204" end_char="2220">saldırabileceğini</TOKEN>
+<TOKEN id="token-6-16" pos="CONJ" morph="ve:ve=CONJ" start_char="2222" end_char="2223">ve</TOKEN>
+<TOKEN id="token-6-17" pos="PRON" morph="bu:bu=DEMPRON nun:nun=CASE_GEN" start_char="2225" end_char="2229">bunun</TOKEN>
+<TOKEN id="token-6-18" pos="ADP" morph="da:da=POSTP" start_char="2231" end_char="2232">da</TOKEN>
+<TOKEN id="token-6-19" pos="NOUN" morph="herkes:herkes=NOUN" start_char="2234" end_char="2239">herkes</TOKEN>
+<TOKEN id="token-6-20" pos="ADP" morph="için:için=POSTP" start_char="2241" end_char="2244">için</TOKEN>
+<TOKEN id="token-6-21" pos="." morph="none" start_char="2246" end_char="2246">“</TOKEN>
+<TOKEN id="token-6-22" pos="NOUN" morph="felaket:felaket=NOUN" start_char="2247" end_char="2253">felaket</TOKEN>
+<TOKEN id="token-6-23" pos="." morph="none" start_char="2254" end_char="2254">”</TOKEN>
+<TOKEN id="token-6-24" pos="ADJ" morph="ol:ol=VERB acağ:acağ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="2256" end_char="2264">olacağını</TOKEN>
+<TOKEN id="token-6-25" pos="VERB" morph="söyle:söyle=VERB di:di=DIPAST" start_char="2266" end_char="2272">söyledi</TOKEN>
+<TOKEN id="token-6-26" pos="." morph="none" start_char="2273" end_char="2273">.</TOKEN>
+<TOKEN id="token-6-27" pos="NOUN" morph="Suriye:suriye=NOUN" start_char="2274" end_char="2279">Suriye</TOKEN>
+<TOKEN id="token-6-28" pos="NOUN" morph="Devlet:devlet=NOUN" start_char="2281" end_char="2286">Devlet</TOKEN>
+<TOKEN id="token-6-29" pos="NOUN" morph="Başkan:başkan=NOUN ı:ı=CASE_ACC" start_char="2288" end_char="2294">Başkanı</TOKEN>
+<TOKEN id="token-6-30" pos="ADP" morph="ise:ise=POSTP" start_char="2296" end_char="2298">ise</TOKEN>
+<TOKEN id="token-6-31" pos="NOUN" morph="Sarkozyʼ:sarkozyʼ=NOUN nin:nin=CASE_GEN" start_char="2300" end_char="2310">Sarkozyʼnin</TOKEN>
+<TOKEN id="token-6-32" pos="NOUN" morph="kaygı:kaygı=NOUN lar:lar=PLURAL ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="2312" end_char="2322">kaygılarını</TOKEN>
+<TOKEN id="token-6-33" pos="ADJ" morph="abartılı:abartılı=ADJ" start_char="2324" end_char="2331">abartılı</TOKEN>
+<TOKEN id="token-6-34" pos="ADJ" morph="bul:bul=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="2333" end_char="2341">bulduğunu</TOKEN>
+<TOKEN id="token-6-35" pos="ADV" morph="belirt:belirt=VERB erek:erek=GER" start_char="2343" end_char="2352">belirterek</TOKEN>
+<TOKEN id="token-6-36" pos="NOUN" morph="İranʼ:İranʼ=NOUN ın:ın=POSS_2S" start_char="2354" end_char="2360">İranʼın</TOKEN>
+<TOKEN id="token-6-37" pos="NOUN" morph="nükleer:nükleer=NOUN" start_char="2362" end_char="2368">nükleer</TOKEN>
+<TOKEN id="token-6-38" pos="NOUN" morph="program:program=NOUN ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="2370" end_char="2380">programının</TOKEN>
+<TOKEN id="token-6-39" pos="ADV" morph="sadece:sadece=ADV" start_char="2382" end_char="2387">sadece</TOKEN>
+<TOKEN id="token-6-40" pos="ADJ" morph="sivil:sivil=ADJ" start_char="2389" end_char="2393">sivil</TOKEN>
+<TOKEN id="token-6-41" pos="ADJ" morph="amaçlı:amaçlı=ADJ" start_char="2395" end_char="2400">amaçlı</TOKEN>
+<TOKEN id="token-6-42" pos="ADJ" morph="ol:ol=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="2402" end_char="2409">olduğunu</TOKEN>
+<TOKEN id="token-6-43" pos="ADJ" morph="ön:ön=ADJ e:e=CASE_DAT" start_char="2411" end_char="2413">öne</TOKEN>
+<TOKEN id="token-6-44" pos="VERB" morph="sür:sür=VERB dü:dü=DIPAST" start_char="2415" end_char="2419">sürdü</TOKEN>
+<TOKEN id="token-6-45" pos="." morph="none" start_char="2420" end_char="2420">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="2422" end_char="3376">
+<ORIGINAL_TEXT>Altı ülkeden oluşan Körfez İşbirliği Konseyiʼnin başkanlığını yürüten Katar Emiri de, İran konusunda uzlaşıcı bir tutum takındı.Katar Emiri, Tahranʼla Körfezʼdeki üç adayla ilgili toprak talepleri dahil her türlü uyuşamazlığın görüşmeler yoluyla çözülmesini umduklarını belirtti.Konseyʼin uyuşmazlıkları Uluslararası Adalet Divanıʼna götürmekten yana olduğunu vurgulayan Katar Emiri, ancak İranʼla, başka ülkelerin zoruyla yeni bir sorun çıkarmak istemediklerini söyledi.Zirvede geçen Mayısʼtaki kanlı mezhep çatışmalarından sonra yeni Cumhurbaşkanını seçerek istikrara kavuşan Lübnanʼdaki son durum da ele alındı.Suriyeʼnin yıl sonunda Beyrutʼta büyükelçilik açacağını belirten Beşar Esat, Lübnan Cumhurbaşkanı Mişel Süleymanʼdan çatışmalara sahne olan Trablusşamʼda düzeni sağlamak için bir tugay daha göndermesini istediğini açıkladı.Arap gözlemciler, dörtlü zirveyi hem Lübnan hem de bütün bölge ülkeleri için olumlu bir gelişme saydıklarını söylüyor.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="NUM" morph="Altı:altı=NUM" start_char="2422" end_char="2425">Altı</TOKEN>
+<TOKEN id="token-7-1" pos="NOUN" morph="ülke:ülke=NOUN den:den=CASE_ABL" start_char="2427" end_char="2433">ülkeden</TOKEN>
+<TOKEN id="token-7-2" pos="ADJ" morph="oluş:oluş=VERB an:an=PARTICIPLE" start_char="2435" end_char="2440">oluşan</TOKEN>
+<TOKEN id="token-7-3" pos="NOUN" morph="Körfez:körfez=NOUN" start_char="2442" end_char="2447">Körfez</TOKEN>
+<TOKEN id="token-7-4" pos="NOUN" morph="İşbirliği:İşbirliği=NOUN" start_char="2449" end_char="2457">İşbirliği</TOKEN>
+<TOKEN id="token-7-5" pos="NOUN" morph="Konseyiʼ:konseyiʼ=NOUN nin:nin=CASE_GEN" start_char="2459" end_char="2469">Konseyiʼnin</TOKEN>
+<TOKEN id="token-7-6" pos="NOUN" morph="başkanlığ:başkanlık=NOUN ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="2471" end_char="2482">başkanlığını</TOKEN>
+<TOKEN id="token-7-7" pos="ADJ" morph="yürüt:yürüt=VERB en:en=PARTICIPLE" start_char="2484" end_char="2490">yürüten</TOKEN>
+<TOKEN id="token-7-8" pos="NOUN" morph="Katar:katar=NOUN" start_char="2492" end_char="2496">Katar</TOKEN>
+<TOKEN id="token-7-9" pos="NOUN" morph="Emir:emir=NOUN i:i=CASE_ACC" start_char="2498" end_char="2502">Emiri</TOKEN>
+<TOKEN id="token-7-10" pos="ADP" morph="de:de=POSTP" start_char="2504" end_char="2505">de</TOKEN>
+<TOKEN id="token-7-11" pos="." morph="none" start_char="2506" end_char="2506">,</TOKEN>
+<TOKEN id="token-7-12" pos="NOUN" morph="İran:İran=NOUN" start_char="2508" end_char="2511">İran</TOKEN>
+<TOKEN id="token-7-13" pos="NOUN" morph="konu:konu=NOUN su:su=POSS_3S nda:nda=CASE_LOC" start_char="2513" end_char="2521">konusunda</TOKEN>
+<TOKEN id="token-7-14" pos="ADJ" morph="uzlaşıcı:uzlaşıcı=ADJ" start_char="2523" end_char="2530">uzlaşıcı</TOKEN>
+<TOKEN id="token-7-15" pos="NUM" morph="bir:bir=NUM" start_char="2532" end_char="2534">bir</TOKEN>
+<TOKEN id="token-7-16" pos="NOUN" morph="tutum:tutum=NOUN" start_char="2536" end_char="2540">tutum</TOKEN>
+<TOKEN id="token-7-17" pos="VERB" morph="takın:takın=VERB dı:dı=DIPAST" start_char="2542" end_char="2548">takındı</TOKEN>
+<TOKEN id="token-7-18" pos="." morph="none" start_char="2549" end_char="2549">.</TOKEN>
+<TOKEN id="token-7-19" pos="NOUN" morph="Katar:katar=NOUN" start_char="2550" end_char="2554">Katar</TOKEN>
+<TOKEN id="token-7-20" pos="NOUN" morph="Emir:emir=NOUN i:i=CASE_ACC" start_char="2556" end_char="2560">Emiri</TOKEN>
+<TOKEN id="token-7-21" pos="." morph="none" start_char="2561" end_char="2561">,</TOKEN>
+<TOKEN id="token-7-22" pos="NOUN" morph="Tahranʼ:tahranʼ=NOUN la:la=CASE_INS" start_char="2563" end_char="2571">Tahranʼla</TOKEN>
+<TOKEN id="token-7-23" pos="NOUN" morph="Körfezʼ:körfezʼ=NOUN de:de=CASE_LOC ki:ki=PARTICLE" start_char="2573" end_char="2583">Körfezʼdeki</TOKEN>
+<TOKEN id="token-7-24" pos="NUM" morph="üç:üç=NUM" start_char="2585" end_char="2586">üç</TOKEN>
+<TOKEN id="token-7-25" pos="NOUN" morph="aday:aday=NOUN la:la=CASE_INS" start_char="2588" end_char="2593">adayla</TOKEN>
+<TOKEN id="token-7-26" pos="ADP" morph="ilgili:ilgili=POSTP" start_char="2595" end_char="2600">ilgili</TOKEN>
+<TOKEN id="token-7-27" pos="NOUN" morph="toprak:toprak=NOUN" start_char="2602" end_char="2607">toprak</TOKEN>
+<TOKEN id="token-7-28" pos="NOUN" morph="talep:talep=NOUN ler:ler=PLURAL i:i=CASE_ACC" start_char="2609" end_char="2617">talepleri</TOKEN>
+<TOKEN id="token-7-29" pos="ADV" morph="dahil:dahil=ADV" start_char="2619" end_char="2623">dahil</TOKEN>
+<TOKEN id="token-7-30" pos="ADJ" morph="her:her=ADJ" start_char="2625" end_char="2627">her</TOKEN>
+<TOKEN id="token-7-31" pos="NOUN" morph="türlü:türlü=NOUN" start_char="2629" end_char="2633">türlü</TOKEN>
+<TOKEN id="token-7-32" pos="NOUN" morph="uyuşamazlığ:uyuşamazlığ=NOUN ın:ın=CASE_GEN" start_char="2635" end_char="2647">uyuşamazlığın</TOKEN>
+<TOKEN id="token-7-33" pos="NOUN" morph="görüşme:görüşme=NOUN ler:ler=PLURAL" start_char="2649" end_char="2658">görüşmeler</TOKEN>
+<TOKEN id="token-7-34" pos="NOUN" morph="yol:yol=NOUN u:u=POSS_3S yla:yla=CASE_INS" start_char="2660" end_char="2666">yoluyla</TOKEN>
+<TOKEN id="token-7-35" pos="NOUN" morph="çözülme:çözülme=NOUN si:si=POSS_3S ni:ni=CASE_ACC" start_char="2668" end_char="2678">çözülmesini</TOKEN>
+<TOKEN id="token-7-36" pos="VERB" morph="umduklarını:umduklarını=VERB" start_char="2680" end_char="2690">umduklarını</TOKEN>
+<TOKEN id="token-7-37" pos="VERB" morph="belirt:belirt=VERB ti:ti=DIPAST" start_char="2692" end_char="2699">belirtti</TOKEN>
+<TOKEN id="token-7-38" pos="." morph="none" start_char="2700" end_char="2700">.</TOKEN>
+<TOKEN id="token-7-39" pos="NOUN" morph="Konseyʼ:konseyʼ=NOUN in:in=CASE_GEN" start_char="2701" end_char="2709">Konseyʼin</TOKEN>
+<TOKEN id="token-7-40" pos="NOUN" morph="uyuşmazlık:uyuşmazlık=NOUN lar:lar=PLURAL ı:ı=CASE_ACC" start_char="2711" end_char="2724">uyuşmazlıkları</TOKEN>
+<TOKEN id="token-7-41" pos="NOUN" morph="Uluslararası:uluslararası=NOUN" start_char="2726" end_char="2737">Uluslararası</TOKEN>
+<TOKEN id="token-7-42" pos="NOUN" morph="Adalet:adalet=NOUN" start_char="2739" end_char="2744">Adalet</TOKEN>
+<TOKEN id="token-7-43" pos="NOUN" morph="Divanıʼna:divanıʼna=NOUN" start_char="2746" end_char="2754">Divanıʼna</TOKEN>
+<TOKEN id="token-7-44" pos="VERB" morph="götürmekten:götürmekten=VERB" start_char="2756" end_char="2766">götürmekten</TOKEN>
+<TOKEN id="token-7-45" pos="ADJ" morph="yan:yan=ADJ a:a=CASE_DAT" start_char="2768" end_char="2771">yana</TOKEN>
+<TOKEN id="token-7-46" pos="ADJ" morph="ol:ol=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="2773" end_char="2780">olduğunu</TOKEN>
+<TOKEN id="token-7-47" pos="ADJ" morph="vurgula:vurgula=VERB yan:yan=PARTICIPLE" start_char="2782" end_char="2791">vurgulayan</TOKEN>
+<TOKEN id="token-7-48" pos="NOUN" morph="Katar:katar=NOUN" start_char="2793" end_char="2797">Katar</TOKEN>
+<TOKEN id="token-7-49" pos="NOUN" morph="Emir:emir=NOUN i:i=CASE_ACC" start_char="2799" end_char="2803">Emiri</TOKEN>
+<TOKEN id="token-7-50" pos="." morph="none" start_char="2804" end_char="2804">,</TOKEN>
+<TOKEN id="token-7-51" pos="ADV" morph="ancak:ancak=ADV" start_char="2806" end_char="2810">ancak</TOKEN>
+<TOKEN id="token-7-52" pos="NOUN" morph="İranʼ:İranʼ=NOUN la:la=CASE_INS" start_char="2812" end_char="2818">İranʼla</TOKEN>
+<TOKEN id="token-7-53" pos="." morph="none" start_char="2819" end_char="2819">,</TOKEN>
+<TOKEN id="token-7-54" pos="ADV" morph="başka:başka=ADV" start_char="2821" end_char="2825">başka</TOKEN>
+<TOKEN id="token-7-55" pos="NOUN" morph="ülke:ülke=NOUN ler:ler=PLURAL in:in=CASE_GEN" start_char="2827" end_char="2835">ülkelerin</TOKEN>
+<TOKEN id="token-7-56" pos="NOUN" morph="zor:zor=NOUN u:u=POSS_3S yla:yla=CASE_INS" start_char="2837" end_char="2843">zoruyla</TOKEN>
+<TOKEN id="token-7-57" pos="ADJ" morph="yeni:yeni=ADJ" start_char="2845" end_char="2848">yeni</TOKEN>
+<TOKEN id="token-7-58" pos="NUM" morph="bir:bir=NUM" start_char="2850" end_char="2852">bir</TOKEN>
+<TOKEN id="token-7-59" pos="NOUN" morph="sorun:sorun=NOUN" start_char="2854" end_char="2858">sorun</TOKEN>
+<TOKEN id="token-7-60" pos="NOUN" morph="çıkar:çıkar=VERB mak:mak=INF" start_char="2860" end_char="2867">çıkarmak</TOKEN>
+<TOKEN id="token-7-61" pos="VERB" morph="istemediklerini:istemediklerini=VERB" start_char="2869" end_char="2883">istemediklerini</TOKEN>
+<TOKEN id="token-7-62" pos="VERB" morph="söyle:söyle=VERB di:di=DIPAST" start_char="2885" end_char="2891">söyledi</TOKEN>
+<TOKEN id="token-7-63" pos="." morph="none" start_char="2892" end_char="2892">.</TOKEN>
+<TOKEN id="token-7-64" pos="NOUN" morph="Zirve:zirve=NOUN de:de=CASE_LOC" start_char="2893" end_char="2899">Zirvede</TOKEN>
+<TOKEN id="token-7-65" pos="ADJ" morph="geçen:geçen=ADJ" start_char="2901" end_char="2905">geçen</TOKEN>
+<TOKEN id="token-7-66" pos="NOUN" morph="Mayısʼ:mayısʼ=NOUN ta:ta=CASE_LOC ki:ki=PARTICLE" start_char="2907" end_char="2916">Mayısʼtaki</TOKEN>
+<TOKEN id="token-7-67" pos="ADJ" morph="kanlı:kanlı=ADJ" start_char="2918" end_char="2922">kanlı</TOKEN>
+<TOKEN id="token-7-68" pos="NOUN" morph="mezhep:mezhep=NOUN" start_char="2924" end_char="2929">mezhep</TOKEN>
+<TOKEN id="token-7-69" pos="NOUN" morph="çatışma:çatışma=NOUN lar:lar=PLURAL ı:ı=POSS_3S ndan:ndan=CASE_ABL" start_char="2931" end_char="2945">çatışmalarından</TOKEN>
+<TOKEN id="token-7-70" pos="ADP" morph="sonra:sonra=POSTP" start_char="2947" end_char="2951">sonra</TOKEN>
+<TOKEN id="token-7-71" pos="ADJ" morph="yeni:yeni=ADJ" start_char="2953" end_char="2956">yeni</TOKEN>
+<TOKEN id="token-7-72" pos="NOUN" morph="Cumhurbaşkanı:cumhurbaşkanı=NOUN n:n=POSS_2S ı:ı=CASE_ACC" start_char="2958" end_char="2972">Cumhurbaşkanını</TOKEN>
+<TOKEN id="token-7-73" pos="ADV" morph="seç:seç=VERB erek:erek=GER" start_char="2974" end_char="2980">seçerek</TOKEN>
+<TOKEN id="token-7-74" pos="NOUN" morph="istikrar:istikrar=NOUN a:a=CASE_DAT" start_char="2982" end_char="2990">istikrara</TOKEN>
+<TOKEN id="token-7-75" pos="ADJ" morph="kavuş:kavuş=VERB an:an=PARTICIPLE" start_char="2992" end_char="2998">kavuşan</TOKEN>
+<TOKEN id="token-7-76" pos="NOUN" morph="Lübnanʼ:lübnanʼ=NOUN da:da=CASE_LOC ki:ki=PARTICLE" start_char="3000" end_char="3010">Lübnanʼdaki</TOKEN>
+<TOKEN id="token-7-77" pos="ADJ" morph="son:son=ADJ" start_char="3012" end_char="3014">son</TOKEN>
+<TOKEN id="token-7-78" pos="NOUN" morph="durum:durum=NOUN" start_char="3016" end_char="3020">durum</TOKEN>
+<TOKEN id="token-7-79" pos="ADP" morph="da:da=POSTP" start_char="3022" end_char="3023">da</TOKEN>
+<TOKEN id="token-7-80" pos="NOUN" morph="el:el=NOUN e:e=CASE_DAT" start_char="3025" end_char="3027">ele</TOKEN>
+<TOKEN id="token-7-81" pos="VERB" morph="al:al=VERB ın:ın=REFL dı:dı=DIPAST" start_char="3029" end_char="3034">alındı</TOKEN>
+<TOKEN id="token-7-82" pos="." morph="none" start_char="3035" end_char="3035">.</TOKEN>
+<TOKEN id="token-7-83" pos="NOUN" morph="Suriyeʼ:suriyeʼ=NOUN nin:nin=CASE_GEN" start_char="3036" end_char="3045">Suriyeʼnin</TOKEN>
+<TOKEN id="token-7-84" pos="NOUN" morph="yıl:yıl=NOUN" start_char="3047" end_char="3049">yıl</TOKEN>
+<TOKEN id="token-7-85" pos="ADV" morph="sonunda:sonunda=ADV" start_char="3051" end_char="3057">sonunda</TOKEN>
+<TOKEN id="token-7-86" pos="NOUN" morph="Beyrutʼ:beyrutʼ=NOUN ta:ta=CASE_LOC" start_char="3059" end_char="3067">Beyrutʼta</TOKEN>
+<TOKEN id="token-7-87" pos="NOUN" morph="büyükelçilik:büyükelçilik=NOUN" start_char="3069" end_char="3080">büyükelçilik</TOKEN>
+<TOKEN id="token-7-88" pos="ADJ" morph="aç:aç=VERB acağ:acağ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="3082" end_char="3090">açacağını</TOKEN>
+<TOKEN id="token-7-89" pos="ADJ" morph="belirt:belirt=VERB en:en=PARTICIPLE" start_char="3092" end_char="3099">belirten</TOKEN>
+<TOKEN id="token-7-90" pos="NOUN" morph="Beşar:beşar=NOUN" start_char="3101" end_char="3105">Beşar</TOKEN>
+<TOKEN id="token-7-91" pos="NOUN" morph="Esat:esat=NOUN" start_char="3107" end_char="3110">Esat</TOKEN>
+<TOKEN id="token-7-92" pos="." morph="none" start_char="3111" end_char="3111">,</TOKEN>
+<TOKEN id="token-7-93" pos="NOUN" morph="Lübnan:lübnan=NOUN" start_char="3113" end_char="3118">Lübnan</TOKEN>
+<TOKEN id="token-7-94" pos="NOUN" morph="Cumhurbaşkanı:cumhurbaşkanı=NOUN" start_char="3120" end_char="3132">Cumhurbaşkanı</TOKEN>
+<TOKEN id="token-7-95" pos="NOUN" morph="Mişel:mişel=NOUN" start_char="3134" end_char="3138">Mişel</TOKEN>
+<TOKEN id="token-7-96" pos="NOUN" morph="Süleymanʼ:süleymanʼ=NOUN dan:dan=CASE_ABL" start_char="3140" end_char="3151">Süleymanʼdan</TOKEN>
+<TOKEN id="token-7-97" pos="NOUN" morph="çatışma:çatışma=NOUN lar:lar=PLURAL a:a=CASE_DAT" start_char="3153" end_char="3163">çatışmalara</TOKEN>
+<TOKEN id="token-7-98" pos="NOUN" morph="sahne:sahne=NOUN" start_char="3165" end_char="3169">sahne</TOKEN>
+<TOKEN id="token-7-99" pos="ADJ" morph="ol:ol=VERB an:an=PARTICIPLE" start_char="3171" end_char="3174">olan</TOKEN>
+<TOKEN id="token-7-100" pos="NOUN" morph="Trablusşamʼ:trablusşamʼ=NOUN da:da=CASE_LOC" start_char="3176" end_char="3188">Trablusşamʼda</TOKEN>
+<TOKEN id="token-7-101" pos="NOUN" morph="düzen:düzen=NOUN i:i=CASE_ACC" start_char="3190" end_char="3195">düzeni</TOKEN>
+<TOKEN id="token-7-102" pos="NOUN" morph="sağla:sağla=VERB mak:mak=INF" start_char="3197" end_char="3204">sağlamak</TOKEN>
+<TOKEN id="token-7-103" pos="ADP" morph="için:için=POSTP" start_char="3206" end_char="3209">için</TOKEN>
+<TOKEN id="token-7-104" pos="NUM" morph="bir:bir=NUM" start_char="3211" end_char="3213">bir</TOKEN>
+<TOKEN id="token-7-105" pos="NOUN" morph="tugay:tugay=NOUN" start_char="3215" end_char="3219">tugay</TOKEN>
+<TOKEN id="token-7-106" pos="ADV" morph="daha:daha=ADV" start_char="3221" end_char="3224">daha</TOKEN>
+<TOKEN id="token-7-107" pos="VERB" morph="göndermesini:göndermesini=VERB" start_char="3226" end_char="3237">göndermesini</TOKEN>
+<TOKEN id="token-7-108" pos="ADJ" morph="iste:iste=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="3239" end_char="3248">istediğini</TOKEN>
+<TOKEN id="token-7-109" pos="VERB" morph="açıkla:açıkla=VERB dı:dı=DIPAST" start_char="3250" end_char="3257">açıkladı</TOKEN>
+<TOKEN id="token-7-110" pos="." morph="none" start_char="3258" end_char="3258">.</TOKEN>
+<TOKEN id="token-7-111" pos="NOUN" morph="Arap:arap=NOUN" start_char="3259" end_char="3262">Arap</TOKEN>
+<TOKEN id="token-7-112" pos="NOUN" morph="gözlemci:gözlemci=NOUN ler:ler=PLURAL" start_char="3264" end_char="3274">gözlemciler</TOKEN>
+<TOKEN id="token-7-113" pos="." morph="none" start_char="3275" end_char="3275">,</TOKEN>
+<TOKEN id="token-7-114" pos="ADJ" morph="dörtlü:dörtlü=ADJ" start_char="3277" end_char="3282">dörtlü</TOKEN>
+<TOKEN id="token-7-115" pos="NOUN" morph="zirve:zirve=NOUN yi:yi=CASE_ACC" start_char="3284" end_char="3290">zirveyi</TOKEN>
+<TOKEN id="token-7-116" pos="ADV" morph="hem:hem=ADV" start_char="3292" end_char="3294">hem</TOKEN>
+<TOKEN id="token-7-117" pos="NOUN" morph="Lübnan:lübnan=NOUN" start_char="3296" end_char="3301">Lübnan</TOKEN>
+<TOKEN id="token-7-118" pos="ADV" morph="hem:hem=ADV" start_char="3303" end_char="3305">hem</TOKEN>
+<TOKEN id="token-7-119" pos="ADP" morph="de:de=POSTP" start_char="3307" end_char="3308">de</TOKEN>
+<TOKEN id="token-7-120" pos="ADJ" morph="bütün:bütün=ADJ" start_char="3310" end_char="3314">bütün</TOKEN>
+<TOKEN id="token-7-121" pos="NOUN" morph="bölge:bölge=NOUN" start_char="3316" end_char="3320">bölge</TOKEN>
+<TOKEN id="token-7-122" pos="NOUN" morph="ülke:ülke=NOUN ler:ler=PLURAL i:i=CASE_ACC" start_char="3322" end_char="3329">ülkeleri</TOKEN>
+<TOKEN id="token-7-123" pos="ADP" morph="için:için=POSTP" start_char="3331" end_char="3334">için</TOKEN>
+<TOKEN id="token-7-124" pos="ADJ" morph="olumlu:olumlu=ADJ" start_char="3336" end_char="3341">olumlu</TOKEN>
+<TOKEN id="token-7-125" pos="NUM" morph="bir:bir=NUM" start_char="3343" end_char="3345">bir</TOKEN>
+<TOKEN id="token-7-126" pos="NOUN" morph="gelişme:gelişme=NOUN" start_char="3347" end_char="3353">gelişme</TOKEN>
+<TOKEN id="token-7-127" pos="VERB" morph="saydıklarını:saydıklarını=VERB" start_char="3355" end_char="3366">saydıklarını</TOKEN>
+<TOKEN id="token-7-128" pos="VERB" morph="söyl:söyle=VERB üyor:üyor=PROG" start_char="3368" end_char="3375">söylüyor</TOKEN>
+<TOKEN id="token-7-129" pos="." morph="none" start_char="3376" end_char="3376">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

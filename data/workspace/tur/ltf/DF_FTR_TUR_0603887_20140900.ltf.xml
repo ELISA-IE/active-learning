@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_FTR_TUR_0603887_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="3363" raw_text_md5="c081e97764dc517d9f15445bc7eaf46e">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="20">
+<ORIGINAL_TEXT>NBA Günlüğü - 16 Mart</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="2">NBA</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="4" end_char="10">Günlüğü</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="12" end_char="12">-</TOKEN>
+<TOKEN id="token-0-3" pos="number" morph="none" start_char="14" end_char="15">16</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="17" end_char="20">Mart</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="23" end_char="71">
+<ORIGINAL_TEXT>Öyle bir maç düşünün ki, ilk yarısı 74-72 bitsin.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="23" end_char="26">Öyle</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="28" end_char="30">bir</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="32" end_char="34">maç</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="36" end_char="42">düşünün</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="44" end_char="45">ki</TOKEN>
+<TOKEN id="token-1-5" pos="punct" morph="none" start_char="46" end_char="46">,</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="48" end_char="50">ilk</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="52" end_char="57">yarısı</TOKEN>
+<TOKEN id="token-1-8" pos="number" morph="none" start_char="59" end_char="60">74</TOKEN>
+<TOKEN id="token-1-9" pos="punct" morph="none" start_char="61" end_char="61">-</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="62" end_char="63">72</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="65" end_char="70">bitsin</TOKEN>
+<TOKEN id="token-1-12" pos="punct" morph="none" start_char="71" end_char="71">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="73" end_char="170">
+<ORIGINAL_TEXT>Bir yarıda 72 sayı atmasına rağmen geride olmak yalnızca Golden Stateʼe mahsus bir şey olsa gerek.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="73" end_char="75">Bir</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="77" end_char="82">yarıda</TOKEN>
+<TOKEN id="token-2-2" pos="number" morph="none" start_char="84" end_char="85">72</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="87" end_char="90">sayı</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="92" end_char="99">atmasına</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="101" end_char="106">rağmen</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="108" end_char="113">geride</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="115" end_char="119">olmak</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="121" end_char="128">yalnızca</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="130" end_char="135">Golden</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="137" end_char="143">Stateʼe</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="145" end_char="150">mahsus</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="152" end_char="154">bir</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="156" end_char="158">şey</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="160" end_char="163">olsa</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="165" end_char="169">gerek</TOKEN>
+<TOKEN id="token-2-16" pos="punct" morph="none" start_char="170" end_char="170">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="173" end_char="241">
+<ORIGINAL_TEXT>GÜNÜN KARESİ: Bi' zahmet müsaade eder misin canım, smaç yapmam lazım.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="173" end_char="177">GÜNÜN</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="179" end_char="184">KARESİ</TOKEN>
+<TOKEN id="token-3-2" pos="punct" morph="none" start_char="185" end_char="185">:</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="187" end_char="188">Bi</TOKEN>
+<TOKEN id="token-3-4" pos="punct" morph="none" start_char="189" end_char="189">'</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="191" end_char="196">zahmet</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="198" end_char="204">müsaade</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="206" end_char="209">eder</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="211" end_char="215">misin</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="217" end_char="221">canım</TOKEN>
+<TOKEN id="token-3-10" pos="punct" morph="none" start_char="222" end_char="222">,</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="224" end_char="227">smaç</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="229" end_char="234">yapmam</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="236" end_char="240">lazım</TOKEN>
+<TOKEN id="token-3-14" pos="punct" morph="none" start_char="241" end_char="241">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="243" end_char="288">
+<ORIGINAL_TEXT>[Linkleri sadece kayıtlı üyelerimiz görebilir.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="punct" morph="none" start_char="243" end_char="243">[</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="244" end_char="251">Linkleri</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="253" end_char="258">sadece</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="260" end_char="266">kayıtlı</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="268" end_char="277">üyelerimiz</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="279" end_char="287">görebilir</TOKEN>
+<TOKEN id="token-4-6" pos="punct" morph="none" start_char="288" end_char="288">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="291" end_char="326">
+<ORIGINAL_TEXT>ForumTR üyesi olmak için tıklayınız]</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="291" end_char="297">ForumTR</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="299" end_char="303">üyesi</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="305" end_char="309">olmak</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="311" end_char="314">için</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="316" end_char="325">tıklayınız</TOKEN>
+<TOKEN id="token-5-5" pos="punct" morph="none" start_char="326" end_char="326">]</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="331" end_char="360">
+<ORIGINAL_TEXT>Güncelleme: 15:10 TSİ 16 Mart.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="331" end_char="340">Güncelleme</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="341" end_char="341">:</TOKEN>
+<TOKEN id="token-6-2" pos="numstring" morph="none" start_char="343" end_char="347">15:10</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="349" end_char="351">TSİ</TOKEN>
+<TOKEN id="token-6-4" pos="number" morph="none" start_char="353" end_char="354">16</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="356" end_char="359">Mart</TOKEN>
+<TOKEN id="token-6-6" pos="punct" morph="none" start_char="360" end_char="360">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="362" end_char="375">
+<ORIGINAL_TEXT>2009 Pazartesi</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="number" morph="none" start_char="362" end_char="365">2009</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="367" end_char="375">Pazartesi</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="378" end_char="533">
+<ORIGINAL_TEXT>GÜNÜN HABERİ Detroit Pistons, 2003 Draftıʼnda ikinci tur seçimini aldığında herkes kısa forvet pozisyonunu Carmelo Anthony ile dolduracaklarını düşünüyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="378" end_char="382">GÜNÜN</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="384" end_char="389">HABERİ</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="391" end_char="397">Detroit</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="399" end_char="405">Pistons</TOKEN>
+<TOKEN id="token-8-4" pos="punct" morph="none" start_char="406" end_char="406">,</TOKEN>
+<TOKEN id="token-8-5" pos="number" morph="none" start_char="408" end_char="411">2003</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="413" end_char="422">Draftıʼnda</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="424" end_char="429">ikinci</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="431" end_char="433">tur</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="435" end_char="442">seçimini</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="444" end_char="452">aldığında</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="454" end_char="459">herkes</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="461" end_char="464">kısa</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="466" end_char="471">forvet</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="473" end_char="483">pozisyonunu</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="485" end_char="491">Carmelo</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="493" end_char="499">Anthony</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="501" end_char="503">ile</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="505" end_char="520">dolduracaklarını</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="522" end_char="532">düşünüyordu</TOKEN>
+<TOKEN id="token-8-20" pos="punct" morph="none" start_char="533" end_char="533">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="535" end_char="754">
+<ORIGINAL_TEXT>Ancak Genel Menajer Joe Dumars, deneme idmanında üst üste yedi üçlük atan Sırp pivot Darko Miliçiçʼten çok etkilendiği için Pistons, ikinci sıradan Carmelo Anthony, Chris Bosh ya da Dwyane Wade yerine Miliçiçʼi seçmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="535" end_char="539">Ancak</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="541" end_char="545">Genel</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="547" end_char="553">Menajer</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="555" end_char="557">Joe</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="559" end_char="564">Dumars</TOKEN>
+<TOKEN id="token-9-5" pos="punct" morph="none" start_char="565" end_char="565">,</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="567" end_char="572">deneme</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="574" end_char="582">idmanında</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="584" end_char="586">üst</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="588" end_char="591">üste</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="593" end_char="596">yedi</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="598" end_char="602">üçlük</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="604" end_char="607">atan</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="609" end_char="612">Sırp</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="614" end_char="618">pivot</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="620" end_char="624">Darko</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="626" end_char="636">Miliçiçʼten</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="638" end_char="640">çok</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="642" end_char="652">etkilendiği</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="654" end_char="657">için</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="659" end_char="665">Pistons</TOKEN>
+<TOKEN id="token-9-21" pos="punct" morph="none" start_char="666" end_char="666">,</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="668" end_char="673">ikinci</TOKEN>
+<TOKEN id="token-9-23" pos="word" morph="none" start_char="675" end_char="681">sıradan</TOKEN>
+<TOKEN id="token-9-24" pos="word" morph="none" start_char="683" end_char="689">Carmelo</TOKEN>
+<TOKEN id="token-9-25" pos="word" morph="none" start_char="691" end_char="697">Anthony</TOKEN>
+<TOKEN id="token-9-26" pos="punct" morph="none" start_char="698" end_char="698">,</TOKEN>
+<TOKEN id="token-9-27" pos="word" morph="none" start_char="700" end_char="704">Chris</TOKEN>
+<TOKEN id="token-9-28" pos="word" morph="none" start_char="706" end_char="709">Bosh</TOKEN>
+<TOKEN id="token-9-29" pos="word" morph="none" start_char="711" end_char="712">ya</TOKEN>
+<TOKEN id="token-9-30" pos="word" morph="none" start_char="714" end_char="715">da</TOKEN>
+<TOKEN id="token-9-31" pos="word" morph="none" start_char="717" end_char="722">Dwyane</TOKEN>
+<TOKEN id="token-9-32" pos="word" morph="none" start_char="724" end_char="727">Wade</TOKEN>
+<TOKEN id="token-9-33" pos="word" morph="none" start_char="729" end_char="734">yerine</TOKEN>
+<TOKEN id="token-9-34" pos="word" morph="none" start_char="736" end_char="744">Miliçiçʼi</TOKEN>
+<TOKEN id="token-9-35" pos="word" morph="none" start_char="746" end_char="753">seçmişti</TOKEN>
+<TOKEN id="token-9-36" pos="punct" morph="none" start_char="754" end_char="754">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="756" end_char="831">
+<ORIGINAL_TEXT>2004 yılındaki şampiyonluk Dumarsʼın bu hatasını telafi etmesini sağlamıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="number" morph="none" start_char="756" end_char="759">2004</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="761" end_char="769">yılındaki</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="771" end_char="781">şampiyonluk</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="783" end_char="791">Dumarsʼın</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="793" end_char="794">bu</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="796" end_char="803">hatasını</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="805" end_char="810">telafi</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="812" end_char="819">etmesini</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="821" end_char="830">sağlamıştı</TOKEN>
+<TOKEN id="token-10-9" pos="punct" morph="none" start_char="831" end_char="831">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="833" end_char="915">
+<ORIGINAL_TEXT>Büyük beklentilerle Detroitʼe gelen Miliçiç, sessiz sedasız takımdan gönderilmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="833" end_char="837">Büyük</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="839" end_char="851">beklentilerle</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="853" end_char="861">Detroitʼe</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="863" end_char="867">gelen</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="869" end_char="875">Miliçiç</TOKEN>
+<TOKEN id="token-11-5" pos="punct" morph="none" start_char="876" end_char="876">,</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="878" end_char="883">sessiz</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="885" end_char="891">sedasız</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="893" end_char="900">takımdan</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="902" end_char="914">gönderilmişti</TOKEN>
+<TOKEN id="token-11-10" pos="punct" morph="none" start_char="915" end_char="915">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="917" end_char="978">
+<ORIGINAL_TEXT>Miliçiç, dün gece Memphis formasıyla Detroit deplasmanındaydı.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="917" end_char="923">Miliçiç</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="924" end_char="924">,</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="926" end_char="928">dün</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="930" end_char="933">gece</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="935" end_char="941">Memphis</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="943" end_char="952">formasıyla</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="954" end_char="960">Detroit</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="962" end_char="977">deplasmanındaydı</TOKEN>
+<TOKEN id="token-12-8" pos="punct" morph="none" start_char="978" end_char="978">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="980" end_char="1156">
+<ORIGINAL_TEXT>Pistons formasını giydiği dönemde The Palace of Auburn Hillsʼdeki 56 maçında hiçbir istatistik kategorisinde çift haneli sayılara ulaşamayan Miliçiç, dün gece bu geleneği bozdu.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="980" end_char="986">Pistons</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="988" end_char="996">formasını</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="998" end_char="1004">giydiği</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1006" end_char="1012">dönemde</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1014" end_char="1016">The</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1018" end_char="1023">Palace</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1025" end_char="1026">of</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1028" end_char="1033">Auburn</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1035" end_char="1044">Hillsʼdeki</TOKEN>
+<TOKEN id="token-13-9" pos="number" morph="none" start_char="1046" end_char="1047">56</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1049" end_char="1055">maçında</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1057" end_char="1062">hiçbir</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1064" end_char="1073">istatistik</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1075" end_char="1087">kategorisinde</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1089" end_char="1092">çift</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1094" end_char="1099">haneli</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1101" end_char="1108">sayılara</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1110" end_char="1119">ulaşamayan</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1121" end_char="1127">Miliçiç</TOKEN>
+<TOKEN id="token-13-19" pos="punct" morph="none" start_char="1128" end_char="1128">,</TOKEN>
+<TOKEN id="token-13-20" pos="word" morph="none" start_char="1130" end_char="1132">dün</TOKEN>
+<TOKEN id="token-13-21" pos="word" morph="none" start_char="1134" end_char="1137">gece</TOKEN>
+<TOKEN id="token-13-22" pos="word" morph="none" start_char="1139" end_char="1140">bu</TOKEN>
+<TOKEN id="token-13-23" pos="word" morph="none" start_char="1142" end_char="1149">geleneği</TOKEN>
+<TOKEN id="token-13-24" pos="word" morph="none" start_char="1151" end_char="1155">bozdu</TOKEN>
+<TOKEN id="token-13-25" pos="punct" morph="none" start_char="1156" end_char="1156">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1158" end_char="1295">
+<ORIGINAL_TEXT>Memphis Grizzliesʼin Detroitʼi 89-84 yendiği maçta 12 sayı ve 11 ribaund ile mücadele eden 23 yaşındaki pivot takımına galibiyeti getirdi.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1158" end_char="1164">Memphis</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1166" end_char="1177">Grizzliesʼin</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1179" end_char="1187">Detroitʼi</TOKEN>
+<TOKEN id="token-14-3" pos="number" morph="none" start_char="1189" end_char="1190">89</TOKEN>
+<TOKEN id="token-14-4" pos="punct" morph="none" start_char="1191" end_char="1191">-</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1192" end_char="1193">84</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1195" end_char="1201">yendiği</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1203" end_char="1207">maçta</TOKEN>
+<TOKEN id="token-14-8" pos="number" morph="none" start_char="1209" end_char="1210">12</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1212" end_char="1215">sayı</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1217" end_char="1218">ve</TOKEN>
+<TOKEN id="token-14-11" pos="number" morph="none" start_char="1220" end_char="1221">11</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1223" end_char="1229">ribaund</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1231" end_char="1233">ile</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1235" end_char="1242">mücadele</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1244" end_char="1247">eden</TOKEN>
+<TOKEN id="token-14-16" pos="number" morph="none" start_char="1249" end_char="1250">23</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1252" end_char="1260">yaşındaki</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1262" end_char="1266">pivot</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="1268" end_char="1275">takımına</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="1277" end_char="1286">galibiyeti</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1288" end_char="1294">getirdi</TOKEN>
+<TOKEN id="token-14-22" pos="punct" morph="none" start_char="1295" end_char="1295">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1297" end_char="1370">
+<ORIGINAL_TEXT>Değişen bir şey yok, Miliçiç zaten Michigan civarlarında çok sevilmiyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1297" end_char="1303">Değişen</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1305" end_char="1307">bir</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1309" end_char="1311">şey</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1313" end_char="1315">yok</TOKEN>
+<TOKEN id="token-15-4" pos="punct" morph="none" start_char="1316" end_char="1316">,</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1318" end_char="1324">Miliçiç</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1326" end_char="1330">zaten</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1332" end_char="1339">Michigan</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1341" end_char="1352">civarlarında</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1354" end_char="1356">çok</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1358" end_char="1369">sevilmiyordu</TOKEN>
+<TOKEN id="token-15-11" pos="punct" morph="none" start_char="1370" end_char="1370">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1372" end_char="1478">
+<ORIGINAL_TEXT>GÜNÜN MAÇI Phoenix Suns: 154 – Golden State Warriors: 130 Öyle bir maç düşünün ki, ilk yarısı 74-72 bitsin.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1372" end_char="1376">GÜNÜN</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1378" end_char="1381">MAÇI</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1383" end_char="1389">Phoenix</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1391" end_char="1394">Suns</TOKEN>
+<TOKEN id="token-16-4" pos="punct" morph="none" start_char="1395" end_char="1395">:</TOKEN>
+<TOKEN id="token-16-5" pos="number" morph="none" start_char="1397" end_char="1399">154</TOKEN>
+<TOKEN id="token-16-6" pos="unknown" morph="none" start_char="1401" end_char="1401">–</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1403" end_char="1408">Golden</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1410" end_char="1414">State</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1416" end_char="1423">Warriors</TOKEN>
+<TOKEN id="token-16-10" pos="punct" morph="none" start_char="1424" end_char="1424">:</TOKEN>
+<TOKEN id="token-16-11" pos="number" morph="none" start_char="1426" end_char="1428">130</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1430" end_char="1433">Öyle</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="1435" end_char="1437">bir</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="1439" end_char="1441">maç</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1443" end_char="1449">düşünün</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="1451" end_char="1452">ki</TOKEN>
+<TOKEN id="token-16-17" pos="punct" morph="none" start_char="1453" end_char="1453">,</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="1455" end_char="1457">ilk</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="1459" end_char="1464">yarısı</TOKEN>
+<TOKEN id="token-16-20" pos="number" morph="none" start_char="1466" end_char="1467">74</TOKEN>
+<TOKEN id="token-16-21" pos="punct" morph="none" start_char="1468" end_char="1468">-</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="1469" end_char="1470">72</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="1472" end_char="1477">bitsin</TOKEN>
+<TOKEN id="token-16-24" pos="punct" morph="none" start_char="1478" end_char="1478">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1480" end_char="1577">
+<ORIGINAL_TEXT>Bir yarıda 72 sayı atmasına rağmen geride olmak yalnızca Golden Stateʼe mahsus bir şey olsa gerek.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1480" end_char="1482">Bir</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1484" end_char="1489">yarıda</TOKEN>
+<TOKEN id="token-17-2" pos="number" morph="none" start_char="1491" end_char="1492">72</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1494" end_char="1497">sayı</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1499" end_char="1506">atmasına</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1508" end_char="1513">rağmen</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1515" end_char="1520">geride</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1522" end_char="1526">olmak</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1528" end_char="1535">yalnızca</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1537" end_char="1542">Golden</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1544" end_char="1550">Stateʼe</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1552" end_char="1557">mahsus</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1559" end_char="1561">bir</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="1563" end_char="1565">şey</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="1567" end_char="1570">olsa</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="1572" end_char="1576">gerek</TOKEN>
+<TOKEN id="token-17-16" pos="punct" morph="none" start_char="1577" end_char="1577">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1579" end_char="1730">
+<ORIGINAL_TEXT>1300ʼden fazla galibiyet alarak NBA tarihinde en çok maç kazanan ikinci antrenör olan çılgın profesör Don Nelson, bu sezon işleri iyice çorbaya çevirdi.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1579" end_char="1586">1300ʼden</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1588" end_char="1592">fazla</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1594" end_char="1602">galibiyet</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1604" end_char="1609">alarak</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1611" end_char="1613">NBA</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1615" end_char="1623">tarihinde</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1625" end_char="1626">en</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1628" end_char="1630">çok</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1632" end_char="1634">maç</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="1636" end_char="1642">kazanan</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="1644" end_char="1649">ikinci</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="1651" end_char="1658">antrenör</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="1660" end_char="1663">olan</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="1665" end_char="1670">çılgın</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="1672" end_char="1679">profesör</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="1681" end_char="1683">Don</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="1685" end_char="1690">Nelson</TOKEN>
+<TOKEN id="token-18-17" pos="punct" morph="none" start_char="1691" end_char="1691">,</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="1693" end_char="1694">bu</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="1696" end_char="1700">sezon</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="1702" end_char="1707">işleri</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="1709" end_char="1713">iyice</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="1715" end_char="1721">çorbaya</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="1723" end_char="1729">çevirdi</TOKEN>
+<TOKEN id="token-18-24" pos="punct" morph="none" start_char="1730" end_char="1730">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1732" end_char="1811">
+<ORIGINAL_TEXT>Warriors, şu ana kadar oynadığı 66 maçta 40 farklı beşle sahaya çıkmayı başardı.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1732" end_char="1739">Warriors</TOKEN>
+<TOKEN id="token-19-1" pos="punct" morph="none" start_char="1740" end_char="1740">,</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1742" end_char="1743">şu</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1745" end_char="1747">ana</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1749" end_char="1753">kadar</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1755" end_char="1762">oynadığı</TOKEN>
+<TOKEN id="token-19-6" pos="number" morph="none" start_char="1764" end_char="1765">66</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1767" end_char="1771">maçta</TOKEN>
+<TOKEN id="token-19-8" pos="number" morph="none" start_char="1773" end_char="1774">40</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1776" end_char="1781">farklı</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1783" end_char="1787">beşle</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1789" end_char="1794">sahaya</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1796" end_char="1802">çıkmayı</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1804" end_char="1810">başardı</TOKEN>
+<TOKEN id="token-19-14" pos="punct" morph="none" start_char="1811" end_char="1811">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1813" end_char="1942">
+<ORIGINAL_TEXT>Phoenix ise sezonun bitimine 15 maç kala Dallas Mavericks ile arasındaki farkı dörde indirdi ve play-off için umutlarını arttırdı.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1813" end_char="1819">Phoenix</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1821" end_char="1823">ise</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1825" end_char="1831">sezonun</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1833" end_char="1840">bitimine</TOKEN>
+<TOKEN id="token-20-4" pos="number" morph="none" start_char="1842" end_char="1843">15</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1845" end_char="1847">maç</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1849" end_char="1852">kala</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="1854" end_char="1859">Dallas</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1861" end_char="1869">Mavericks</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1871" end_char="1873">ile</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="1875" end_char="1884">arasındaki</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="1886" end_char="1890">farkı</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="1892" end_char="1896">dörde</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="1898" end_char="1904">indirdi</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="1906" end_char="1907">ve</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="1909" end_char="1912">play</TOKEN>
+<TOKEN id="token-20-16" pos="punct" morph="none" start_char="1913" end_char="1913">-</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="1914" end_char="1916">off</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="1918" end_char="1921">için</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="1923" end_char="1932">umutlarını</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="1934" end_char="1941">arttırdı</TOKEN>
+<TOKEN id="token-20-21" pos="punct" morph="none" start_char="1942" end_char="1942">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1944" end_char="2230">
+<ORIGINAL_TEXT>GÜNÜN PERFORMANSI Vince Carter (New Jersey Nets) 41 sayı – 7 ribaund – 6 asist – 2 top çalma – 0 blok (13/26 şut, 5/9 üç sayı, 10/10 serbest atış) RAKAMLARLA Merakla beklediğimiz Orlando Magic–Utah Jazz karşılaşmasında Memo mu yoksa Hido mu derken, Dwight Howard sahneye çıkan isim oldu.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1944" end_char="1948">GÜNÜN</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1950" end_char="1960">PERFORMANSI</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1962" end_char="1966">Vince</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1968" end_char="1973">Carter</TOKEN>
+<TOKEN id="token-21-4" pos="punct" morph="none" start_char="1975" end_char="1975">(</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1976" end_char="1978">New</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1980" end_char="1985">Jersey</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1987" end_char="1990">Nets</TOKEN>
+<TOKEN id="token-21-8" pos="punct" morph="none" start_char="1991" end_char="1991">)</TOKEN>
+<TOKEN id="token-21-9" pos="number" morph="none" start_char="1993" end_char="1994">41</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="1996" end_char="1999">sayı</TOKEN>
+<TOKEN id="token-21-11" pos="unknown" morph="none" start_char="2001" end_char="2001">–</TOKEN>
+<TOKEN id="token-21-12" pos="number" morph="none" start_char="2003" end_char="2003">7</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="2005" end_char="2011">ribaund</TOKEN>
+<TOKEN id="token-21-14" pos="unknown" morph="none" start_char="2013" end_char="2013">–</TOKEN>
+<TOKEN id="token-21-15" pos="number" morph="none" start_char="2015" end_char="2015">6</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="2017" end_char="2021">asist</TOKEN>
+<TOKEN id="token-21-17" pos="unknown" morph="none" start_char="2023" end_char="2023">–</TOKEN>
+<TOKEN id="token-21-18" pos="number" morph="none" start_char="2025" end_char="2025">2</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="2027" end_char="2029">top</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="2031" end_char="2035">çalma</TOKEN>
+<TOKEN id="token-21-21" pos="unknown" morph="none" start_char="2037" end_char="2037">–</TOKEN>
+<TOKEN id="token-21-22" pos="number" morph="none" start_char="2039" end_char="2039">0</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="2041" end_char="2044">blok</TOKEN>
+<TOKEN id="token-21-24" pos="punct" morph="none" start_char="2046" end_char="2046">(</TOKEN>
+<TOKEN id="token-21-25" pos="word" morph="none" start_char="2047" end_char="2048">13</TOKEN>
+<TOKEN id="token-21-26" pos="punct" morph="none" start_char="2049" end_char="2049">/</TOKEN>
+<TOKEN id="token-21-27" pos="word" morph="none" start_char="2050" end_char="2051">26</TOKEN>
+<TOKEN id="token-21-28" pos="word" morph="none" start_char="2053" end_char="2055">şut</TOKEN>
+<TOKEN id="token-21-29" pos="punct" morph="none" start_char="2056" end_char="2056">,</TOKEN>
+<TOKEN id="token-21-30" pos="word" morph="none" start_char="2058" end_char="2058">5</TOKEN>
+<TOKEN id="token-21-31" pos="punct" morph="none" start_char="2059" end_char="2059">/</TOKEN>
+<TOKEN id="token-21-32" pos="word" morph="none" start_char="2060" end_char="2060">9</TOKEN>
+<TOKEN id="token-21-33" pos="word" morph="none" start_char="2062" end_char="2063">üç</TOKEN>
+<TOKEN id="token-21-34" pos="word" morph="none" start_char="2065" end_char="2068">sayı</TOKEN>
+<TOKEN id="token-21-35" pos="punct" morph="none" start_char="2069" end_char="2069">,</TOKEN>
+<TOKEN id="token-21-36" pos="word" morph="none" start_char="2071" end_char="2072">10</TOKEN>
+<TOKEN id="token-21-37" pos="punct" morph="none" start_char="2073" end_char="2073">/</TOKEN>
+<TOKEN id="token-21-38" pos="word" morph="none" start_char="2074" end_char="2075">10</TOKEN>
+<TOKEN id="token-21-39" pos="word" morph="none" start_char="2077" end_char="2083">serbest</TOKEN>
+<TOKEN id="token-21-40" pos="word" morph="none" start_char="2085" end_char="2088">atış</TOKEN>
+<TOKEN id="token-21-41" pos="punct" morph="none" start_char="2089" end_char="2089">)</TOKEN>
+<TOKEN id="token-21-42" pos="word" morph="none" start_char="2091" end_char="2100">RAKAMLARLA</TOKEN>
+<TOKEN id="token-21-43" pos="word" morph="none" start_char="2102" end_char="2108">Merakla</TOKEN>
+<TOKEN id="token-21-44" pos="word" morph="none" start_char="2110" end_char="2121">beklediğimiz</TOKEN>
+<TOKEN id="token-21-45" pos="word" morph="none" start_char="2123" end_char="2129">Orlando</TOKEN>
+<TOKEN id="token-21-46" pos="word" morph="none" start_char="2131" end_char="2135">Magic</TOKEN>
+<TOKEN id="token-21-47" pos="punct" morph="none" start_char="2136" end_char="2136">–</TOKEN>
+<TOKEN id="token-21-48" pos="word" morph="none" start_char="2137" end_char="2140">Utah</TOKEN>
+<TOKEN id="token-21-49" pos="word" morph="none" start_char="2142" end_char="2145">Jazz</TOKEN>
+<TOKEN id="token-21-50" pos="word" morph="none" start_char="2147" end_char="2161">karşılaşmasında</TOKEN>
+<TOKEN id="token-21-51" pos="word" morph="none" start_char="2163" end_char="2166">Memo</TOKEN>
+<TOKEN id="token-21-52" pos="word" morph="none" start_char="2168" end_char="2169">mu</TOKEN>
+<TOKEN id="token-21-53" pos="word" morph="none" start_char="2171" end_char="2175">yoksa</TOKEN>
+<TOKEN id="token-21-54" pos="word" morph="none" start_char="2177" end_char="2180">Hido</TOKEN>
+<TOKEN id="token-21-55" pos="word" morph="none" start_char="2182" end_char="2183">mu</TOKEN>
+<TOKEN id="token-21-56" pos="word" morph="none" start_char="2185" end_char="2190">derken</TOKEN>
+<TOKEN id="token-21-57" pos="punct" morph="none" start_char="2191" end_char="2191">,</TOKEN>
+<TOKEN id="token-21-58" pos="word" morph="none" start_char="2193" end_char="2198">Dwight</TOKEN>
+<TOKEN id="token-21-59" pos="word" morph="none" start_char="2200" end_char="2205">Howard</TOKEN>
+<TOKEN id="token-21-60" pos="word" morph="none" start_char="2207" end_char="2213">sahneye</TOKEN>
+<TOKEN id="token-21-61" pos="word" morph="none" start_char="2215" end_char="2219">çıkan</TOKEN>
+<TOKEN id="token-21-62" pos="word" morph="none" start_char="2221" end_char="2224">isim</TOKEN>
+<TOKEN id="token-21-63" pos="word" morph="none" start_char="2226" end_char="2229">oldu</TOKEN>
+<TOKEN id="token-21-64" pos="punct" morph="none" start_char="2230" end_char="2230">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2232" end_char="2416">
+<ORIGINAL_TEXT>Orlando, üç uzatmalı Miami maçından çıkmış Utahʼı 105-87 yenerken, 28 sayı-20 ribaund ile oynayan Howard bu sezon Amare Stoudemireʼdan sonra Utahʼa karşı 20/20 yapan ikinci oyuncu oldu.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2232" end_char="2238">Orlando</TOKEN>
+<TOKEN id="token-22-1" pos="punct" morph="none" start_char="2239" end_char="2239">,</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2241" end_char="2242">üç</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2244" end_char="2251">uzatmalı</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2253" end_char="2257">Miami</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="2259" end_char="2266">maçından</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="2268" end_char="2273">çıkmış</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="2275" end_char="2280">Utahʼı</TOKEN>
+<TOKEN id="token-22-8" pos="number" morph="none" start_char="2282" end_char="2284">105</TOKEN>
+<TOKEN id="token-22-9" pos="punct" morph="none" start_char="2285" end_char="2285">-</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="2286" end_char="2287">87</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="2289" end_char="2296">yenerken</TOKEN>
+<TOKEN id="token-22-12" pos="punct" morph="none" start_char="2297" end_char="2297">,</TOKEN>
+<TOKEN id="token-22-13" pos="number" morph="none" start_char="2299" end_char="2300">28</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="2302" end_char="2305">sayı</TOKEN>
+<TOKEN id="token-22-15" pos="punct" morph="none" start_char="2306" end_char="2306">-</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="2307" end_char="2308">20</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="2310" end_char="2316">ribaund</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="2318" end_char="2320">ile</TOKEN>
+<TOKEN id="token-22-19" pos="word" morph="none" start_char="2322" end_char="2328">oynayan</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="2330" end_char="2335">Howard</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="2337" end_char="2338">bu</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="2340" end_char="2344">sezon</TOKEN>
+<TOKEN id="token-22-23" pos="word" morph="none" start_char="2346" end_char="2350">Amare</TOKEN>
+<TOKEN id="token-22-24" pos="word" morph="none" start_char="2352" end_char="2365">Stoudemireʼdan</TOKEN>
+<TOKEN id="token-22-25" pos="word" morph="none" start_char="2367" end_char="2371">sonra</TOKEN>
+<TOKEN id="token-22-26" pos="word" morph="none" start_char="2373" end_char="2378">Utahʼa</TOKEN>
+<TOKEN id="token-22-27" pos="word" morph="none" start_char="2380" end_char="2384">karşı</TOKEN>
+<TOKEN id="token-22-28" pos="word" morph="none" start_char="2386" end_char="2387">20</TOKEN>
+<TOKEN id="token-22-29" pos="punct" morph="none" start_char="2388" end_char="2388">/</TOKEN>
+<TOKEN id="token-22-30" pos="word" morph="none" start_char="2389" end_char="2390">20</TOKEN>
+<TOKEN id="token-22-31" pos="word" morph="none" start_char="2392" end_char="2396">yapan</TOKEN>
+<TOKEN id="token-22-32" pos="word" morph="none" start_char="2398" end_char="2403">ikinci</TOKEN>
+<TOKEN id="token-22-33" pos="word" morph="none" start_char="2405" end_char="2410">oyuncu</TOKEN>
+<TOKEN id="token-22-34" pos="word" morph="none" start_char="2412" end_char="2415">oldu</TOKEN>
+<TOKEN id="token-22-35" pos="punct" morph="none" start_char="2416" end_char="2416">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2418" end_char="2467">
+<ORIGINAL_TEXT>Phoenix-Golden State maçında toplam 284 sayı oldu.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2418" end_char="2424">Phoenix</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="2425" end_char="2425">-</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2426" end_char="2431">Golden</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2433" end_char="2437">State</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2439" end_char="2445">maçında</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2447" end_char="2452">toplam</TOKEN>
+<TOKEN id="token-23-6" pos="number" morph="none" start_char="2454" end_char="2456">284</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2458" end_char="2461">sayı</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2463" end_char="2466">oldu</TOKEN>
+<TOKEN id="token-23-9" pos="punct" morph="none" start_char="2467" end_char="2467">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2469" end_char="2556">
+<ORIGINAL_TEXT>En son 10 Ocak 1991ʼde Houston, Denverʼı normal süre sonunda 156-133 yenmeyi başarmıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2469" end_char="2470">En</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="2472" end_char="2474">son</TOKEN>
+<TOKEN id="token-24-2" pos="number" morph="none" start_char="2476" end_char="2477">10</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="2479" end_char="2482">Ocak</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="2484" end_char="2490">1991ʼde</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="2492" end_char="2498">Houston</TOKEN>
+<TOKEN id="token-24-6" pos="punct" morph="none" start_char="2499" end_char="2499">,</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="2501" end_char="2508">Denverʼı</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="2510" end_char="2515">normal</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="2517" end_char="2520">süre</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="2522" end_char="2528">sonunda</TOKEN>
+<TOKEN id="token-24-11" pos="number" morph="none" start_char="2530" end_char="2532">156</TOKEN>
+<TOKEN id="token-24-12" pos="punct" morph="none" start_char="2533" end_char="2533">-</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="2534" end_char="2536">133</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="2538" end_char="2544">yenmeyi</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="2546" end_char="2555">başarmıştı</TOKEN>
+<TOKEN id="token-24-16" pos="punct" morph="none" start_char="2556" end_char="2556">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2559" end_char="2671">
+<ORIGINAL_TEXT>LAF-Ü GÜZAF “Şampiyon olana kadar saç örgümü kestirmeyeceğim.” – Delonte West (Cleveland Cavaliers) TVʼDE NE VAR?</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2559" end_char="2561">LAF</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="2562" end_char="2562">-</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2563" end_char="2563">Ü</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="2565" end_char="2569">GÜZAF</TOKEN>
+<TOKEN id="token-25-4" pos="punct" morph="none" start_char="2571" end_char="2571">“</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="2572" end_char="2579">Şampiyon</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="2581" end_char="2585">olana</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2587" end_char="2591">kadar</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="2593" end_char="2595">saç</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="2597" end_char="2602">örgümü</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="2604" end_char="2618">kestirmeyeceğim</TOKEN>
+<TOKEN id="token-25-11" pos="punct" morph="none" start_char="2619" end_char="2620">.”</TOKEN>
+<TOKEN id="token-25-12" pos="unknown" morph="none" start_char="2622" end_char="2622">–</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="2624" end_char="2630">Delonte</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="2632" end_char="2635">West</TOKEN>
+<TOKEN id="token-25-15" pos="punct" morph="none" start_char="2637" end_char="2637">(</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="2638" end_char="2646">Cleveland</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="2648" end_char="2656">Cavaliers</TOKEN>
+<TOKEN id="token-25-18" pos="punct" morph="none" start_char="2657" end_char="2657">)</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="2659" end_char="2663">TVʼDE</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="2665" end_char="2666">NE</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="2668" end_char="2670">VAR</TOKEN>
+<TOKEN id="token-25-22" pos="punct" morph="none" start_char="2671" end_char="2671">?</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2673" end_char="2735">
+<ORIGINAL_TEXT>New Orleans Hornets – Houston Rockets (02:00, NBA TV) HİDOMETRE</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2673" end_char="2675">New</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="2677" end_char="2683">Orleans</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2685" end_char="2691">Hornets</TOKEN>
+<TOKEN id="token-26-3" pos="unknown" morph="none" start_char="2693" end_char="2693">–</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="2695" end_char="2701">Houston</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2703" end_char="2709">Rockets</TOKEN>
+<TOKEN id="token-26-6" pos="punct" morph="none" start_char="2711" end_char="2711">(</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="2712" end_char="2713">02</TOKEN>
+<TOKEN id="token-26-8" pos="punct" morph="none" start_char="2714" end_char="2714">:</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="2715" end_char="2716">00</TOKEN>
+<TOKEN id="token-26-10" pos="punct" morph="none" start_char="2717" end_char="2717">,</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="2719" end_char="2721">NBA</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="2723" end_char="2724">TV</TOKEN>
+<TOKEN id="token-26-13" pos="punct" morph="none" start_char="2725" end_char="2725">)</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="2727" end_char="2735">HİDOMETRE</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2738" end_char="2858">
+<ORIGINAL_TEXT>Orlando Magic, sahasında Utah Jazzʼı 105-87 mağlup ederken Hidayet Türkoğlu 10 sayı, 4 ribaund, 8 asist ve 1 blok üretti.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2738" end_char="2744">Orlando</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2746" end_char="2750">Magic</TOKEN>
+<TOKEN id="token-27-2" pos="punct" morph="none" start_char="2751" end_char="2751">,</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="2753" end_char="2761">sahasında</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2763" end_char="2766">Utah</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="2768" end_char="2773">Jazzʼı</TOKEN>
+<TOKEN id="token-27-6" pos="number" morph="none" start_char="2775" end_char="2777">105</TOKEN>
+<TOKEN id="token-27-7" pos="punct" morph="none" start_char="2778" end_char="2778">-</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="2779" end_char="2780">87</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="2782" end_char="2787">mağlup</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="2789" end_char="2795">ederken</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="2797" end_char="2803">Hidayet</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="2805" end_char="2812">Türkoğlu</TOKEN>
+<TOKEN id="token-27-13" pos="number" morph="none" start_char="2814" end_char="2815">10</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="2817" end_char="2820">sayı</TOKEN>
+<TOKEN id="token-27-15" pos="punct" morph="none" start_char="2821" end_char="2821">,</TOKEN>
+<TOKEN id="token-27-16" pos="number" morph="none" start_char="2823" end_char="2823">4</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="2825" end_char="2831">ribaund</TOKEN>
+<TOKEN id="token-27-18" pos="punct" morph="none" start_char="2832" end_char="2832">,</TOKEN>
+<TOKEN id="token-27-19" pos="number" morph="none" start_char="2834" end_char="2834">8</TOKEN>
+<TOKEN id="token-27-20" pos="word" morph="none" start_char="2836" end_char="2840">asist</TOKEN>
+<TOKEN id="token-27-21" pos="word" morph="none" start_char="2842" end_char="2843">ve</TOKEN>
+<TOKEN id="token-27-22" pos="number" morph="none" start_char="2845" end_char="2845">1</TOKEN>
+<TOKEN id="token-27-23" pos="word" morph="none" start_char="2847" end_char="2850">blok</TOKEN>
+<TOKEN id="token-27-24" pos="word" morph="none" start_char="2852" end_char="2857">üretti</TOKEN>
+<TOKEN id="token-27-25" pos="punct" morph="none" start_char="2858" end_char="2858">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2860" end_char="2951">
+<ORIGINAL_TEXT>Orlando Salı gecesi Cleveland deplasmanında Doğu Konferansıʼnda çok önemli bir maça çıkacak.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2860" end_char="2866">Orlando</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="2868" end_char="2871">Salı</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="2873" end_char="2878">gecesi</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="2880" end_char="2888">Cleveland</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="2890" end_char="2902">deplasmanında</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="2904" end_char="2907">Doğu</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="2909" end_char="2922">Konferansıʼnda</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="2924" end_char="2926">çok</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="2928" end_char="2933">önemli</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="2935" end_char="2937">bir</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="2939" end_char="2942">maça</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="2944" end_char="2950">çıkacak</TOKEN>
+<TOKEN id="token-28-12" pos="punct" morph="none" start_char="2951" end_char="2951">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2953" end_char="3042">
+<ORIGINAL_TEXT>Hido, bu sezon Clevelandʼa karşı 19 sayı, 11 ribaund, 2 asist ve 1 top çalmayla oynamıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="2953" end_char="2956">Hido</TOKEN>
+<TOKEN id="token-29-1" pos="punct" morph="none" start_char="2957" end_char="2957">,</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="2959" end_char="2960">bu</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="2962" end_char="2966">sezon</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="2968" end_char="2978">Clevelandʼa</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="2980" end_char="2984">karşı</TOKEN>
+<TOKEN id="token-29-6" pos="number" morph="none" start_char="2986" end_char="2987">19</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="2989" end_char="2992">sayı</TOKEN>
+<TOKEN id="token-29-8" pos="punct" morph="none" start_char="2993" end_char="2993">,</TOKEN>
+<TOKEN id="token-29-9" pos="number" morph="none" start_char="2995" end_char="2996">11</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="2998" end_char="3004">ribaund</TOKEN>
+<TOKEN id="token-29-11" pos="punct" morph="none" start_char="3005" end_char="3005">,</TOKEN>
+<TOKEN id="token-29-12" pos="number" morph="none" start_char="3007" end_char="3007">2</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="3009" end_char="3013">asist</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="3015" end_char="3016">ve</TOKEN>
+<TOKEN id="token-29-15" pos="number" morph="none" start_char="3018" end_char="3018">1</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="3020" end_char="3022">top</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="3024" end_char="3031">çalmayla</TOKEN>
+<TOKEN id="token-29-18" pos="word" morph="none" start_char="3033" end_char="3041">oynamıştı</TOKEN>
+<TOKEN id="token-29-19" pos="punct" morph="none" start_char="3042" end_char="3042">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="3044" end_char="3148">
+<ORIGINAL_TEXT>MEMOMETRE Utah Jazz, üç uzatmalık Miami Heat maçının ardından deplasmanda Orlando Magicʼe de mağlup oldu.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="3044" end_char="3052">MEMOMETRE</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="3054" end_char="3057">Utah</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="3059" end_char="3062">Jazz</TOKEN>
+<TOKEN id="token-30-3" pos="punct" morph="none" start_char="3063" end_char="3063">,</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="3065" end_char="3066">üç</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="3068" end_char="3076">uzatmalık</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="3078" end_char="3082">Miami</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="3084" end_char="3087">Heat</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="3089" end_char="3095">maçının</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="3097" end_char="3104">ardından</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="3106" end_char="3116">deplasmanda</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="3118" end_char="3124">Orlando</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="3126" end_char="3132">Magicʼe</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="3134" end_char="3135">de</TOKEN>
+<TOKEN id="token-30-14" pos="word" morph="none" start_char="3137" end_char="3142">mağlup</TOKEN>
+<TOKEN id="token-30-15" pos="word" morph="none" start_char="3144" end_char="3147">oldu</TOKEN>
+<TOKEN id="token-30-16" pos="punct" morph="none" start_char="3148" end_char="3148">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="3150" end_char="3201">
+<ORIGINAL_TEXT>Memo bu maçta 3 sayı, 2 ribaund ve 1 asistle oynadı.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="3150" end_char="3153">Memo</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="3155" end_char="3156">bu</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="3158" end_char="3162">maçta</TOKEN>
+<TOKEN id="token-31-3" pos="number" morph="none" start_char="3164" end_char="3164">3</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="3166" end_char="3169">sayı</TOKEN>
+<TOKEN id="token-31-5" pos="punct" morph="none" start_char="3170" end_char="3170">,</TOKEN>
+<TOKEN id="token-31-6" pos="number" morph="none" start_char="3172" end_char="3172">2</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="3174" end_char="3180">ribaund</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="3182" end_char="3183">ve</TOKEN>
+<TOKEN id="token-31-9" pos="number" morph="none" start_char="3185" end_char="3185">1</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="3187" end_char="3193">asistle</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="3195" end_char="3200">oynadı</TOKEN>
+<TOKEN id="token-31-12" pos="punct" morph="none" start_char="3201" end_char="3201">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="3203" end_char="3262">
+<ORIGINAL_TEXT>CAN ALICI SORU Sizce Phoenix Suns play-offʼa kalabilecek mi?</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="3203" end_char="3205">CAN</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="3207" end_char="3211">ALICI</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="3213" end_char="3216">SORU</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="3218" end_char="3222">Sizce</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="3224" end_char="3230">Phoenix</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="3232" end_char="3235">Suns</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="3237" end_char="3240">play</TOKEN>
+<TOKEN id="token-32-7" pos="punct" morph="none" start_char="3241" end_char="3241">-</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="3242" end_char="3246">offʼa</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="3248" end_char="3258">kalabilecek</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="3260" end_char="3261">mi</TOKEN>
+<TOKEN id="token-32-11" pos="punct" morph="none" start_char="3262" end_char="3262">?</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="3264" end_char="3290">
+<ORIGINAL_TEXT>Yorumlarınızı bekliyoruz...</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="3264" end_char="3276">Yorumlarınızı</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="3278" end_char="3287">bekliyoruz</TOKEN>
+<TOKEN id="token-33-2" pos="punct" morph="none" start_char="3288" end_char="3290">...</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="3293" end_char="3303">
+<ORIGINAL_TEXT>Teşekkürler</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="3293" end_char="3303">Teşekkürler</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="3306" end_char="3317">
+<ORIGINAL_TEXT>Teşekkürler.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="3306" end_char="3316">Teşekkürler</TOKEN>
+<TOKEN id="token-35-1" pos="punct" morph="none" start_char="3317" end_char="3317">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="3320" end_char="3360">
+<ORIGINAL_TEXT>Can alıcı sorunun cevabı kesinlikle hayır</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="3320" end_char="3322">Can</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="3324" end_char="3328">alıcı</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="3330" end_char="3336">sorunun</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="3338" end_char="3343">cevabı</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="3345" end_char="3354">kesinlikle</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="3356" end_char="3360">hayır</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

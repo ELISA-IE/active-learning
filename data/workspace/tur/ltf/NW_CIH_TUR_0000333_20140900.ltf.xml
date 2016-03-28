@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_CIH_TUR_0000333_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1751" raw_text_md5="771a0d15988b6ad115c5984a2606e746">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="54">
+<ORIGINAL_TEXT>Ebolaʼya yakalanan ABDʼli doktorun durumu iyiye gidiyor</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="7">Ebolaʼya</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="9" end_char="17">yakalanan</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="19" end_char="24">ABDʼli</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="26" end_char="33">doktorun</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="35" end_char="40">durumu</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="42" end_char="46">iyiye</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="48" end_char="54">gidiyor</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="57" end_char="85">
+<ORIGINAL_TEXT>ATLANTA - 04.08.2014 15:08:42</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="57" end_char="63">ATLANTA</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="65" end_char="65">-</TOKEN>
+<TOKEN id="token-1-2" pos="unknown" morph="none" start_char="67" end_char="76">04.08.2014</TOKEN>
+<TOKEN id="token-1-3" pos="numstring" morph="none" start_char="78" end_char="85">15:08:42</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="88" end_char="221">
+<ORIGINAL_TEXT>Liberyaʼda bulunduğu sırada ölümcül Ebola virüsüne yakalanarak ABDʼde tedavi altına alınan doktorun durumunun iyiye gittiği öğrenildi.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="88" end_char="97">Liberyaʼda</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="99" end_char="107">bulunduğu</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="109" end_char="114">sırada</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="116" end_char="122">ölümcül</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="124" end_char="128">Ebola</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="130" end_char="137">virüsüne</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="139" end_char="149">yakalanarak</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="151" end_char="156">ABDʼde</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="158" end_char="163">tedavi</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="165" end_char="170">altına</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="172" end_char="177">alınan</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="179" end_char="186">doktorun</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="188" end_char="196">durumunun</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="198" end_char="202">iyiye</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="204" end_char="210">gittiği</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="212" end_char="220">öğrenildi</TOKEN>
+<TOKEN id="token-2-16" pos="punct" morph="none" start_char="221" end_char="221">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="224" end_char="368">
+<ORIGINAL_TEXT>Atlantaʼda karantinaya alınan Kent Brantly (33) isimli doktor hakkında bilgi veren ABD Hastalık Kontrol ve Korunma Merkezleri (CDC) Direktörü Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="224" end_char="233">Atlantaʼda</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="235" end_char="245">karantinaya</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="247" end_char="252">alınan</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="254" end_char="257">Kent</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="259" end_char="265">Brantly</TOKEN>
+<TOKEN id="token-3-5" pos="punct" morph="none" start_char="267" end_char="267">(</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="268" end_char="269">33</TOKEN>
+<TOKEN id="token-3-7" pos="punct" morph="none" start_char="270" end_char="270">)</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="272" end_char="277">isimli</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="279" end_char="284">doktor</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="286" end_char="293">hakkında</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="295" end_char="299">bilgi</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="301" end_char="305">veren</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="307" end_char="309">ABD</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="311" end_char="318">Hastalık</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="320" end_char="326">Kontrol</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="328" end_char="329">ve</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="331" end_char="337">Korunma</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="339" end_char="348">Merkezleri</TOKEN>
+<TOKEN id="token-3-19" pos="punct" morph="none" start_char="350" end_char="350">(</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="351" end_char="353">CDC</TOKEN>
+<TOKEN id="token-3-21" pos="punct" morph="none" start_char="354" end_char="354">)</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="356" end_char="364">Direktörü</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="366" end_char="367">Dr</TOKEN>
+<TOKEN id="token-3-24" pos="punct" morph="none" start_char="368" end_char="368">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="370" end_char="507">
+<ORIGINAL_TEXT>Tom Frieden, Brantlyʼnin hayatta kalıp kalmayacağını söylemek için çok erken olduğunu belirtti; “Umarız durumu daha da iyiye gider.” dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="370" end_char="372">Tom</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="374" end_char="380">Frieden</TOKEN>
+<TOKEN id="token-4-2" pos="punct" morph="none" start_char="381" end_char="381">,</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="383" end_char="393">Brantlyʼnin</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="395" end_char="401">hayatta</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="403" end_char="407">kalıp</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="409" end_char="421">kalmayacağını</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="423" end_char="430">söylemek</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="432" end_char="435">için</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="437" end_char="439">çok</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="441" end_char="445">erken</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="447" end_char="454">olduğunu</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="456" end_char="463">belirtti</TOKEN>
+<TOKEN id="token-4-13" pos="punct" morph="none" start_char="464" end_char="464">;</TOKEN>
+<TOKEN id="token-4-14" pos="punct" morph="none" start_char="466" end_char="466">“</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="467" end_char="472">Umarız</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="474" end_char="479">durumu</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="481" end_char="484">daha</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="486" end_char="487">da</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="489" end_char="493">iyiye</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="495" end_char="499">gider</TOKEN>
+<TOKEN id="token-4-21" pos="punct" morph="none" start_char="500" end_char="501">.”</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="503" end_char="506">dedi</TOKEN>
+<TOKEN id="token-4-23" pos="punct" morph="none" start_char="507" end_char="507">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="510" end_char="642">
+<ORIGINAL_TEXT>Bu arada ABD yönetimi, en az 50 halk sağlığı uzmanını Ebola salgını ile mücadele için Batı Afrikaʼya göndermeyi planladığını duyurdu.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="510" end_char="511">Bu</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="513" end_char="517">arada</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="519" end_char="521">ABD</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="523" end_char="530">yönetimi</TOKEN>
+<TOKEN id="token-5-4" pos="punct" morph="none" start_char="531" end_char="531">,</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="533" end_char="534">en</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="536" end_char="537">az</TOKEN>
+<TOKEN id="token-5-7" pos="number" morph="none" start_char="539" end_char="540">50</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="542" end_char="545">halk</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="547" end_char="553">sağlığı</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="555" end_char="562">uzmanını</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="564" end_char="568">Ebola</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="570" end_char="576">salgını</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="578" end_char="580">ile</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="582" end_char="589">mücadele</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="591" end_char="594">için</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="596" end_char="599">Batı</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="601" end_char="609">Afrikaʼya</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="611" end_char="620">göndermeyi</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="622" end_char="633">planladığını</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="635" end_char="641">duyurdu</TOKEN>
+<TOKEN id="token-5-21" pos="punct" morph="none" start_char="642" end_char="642">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="644" end_char="698">
+<ORIGINAL_TEXT>Amerikaʼnın ABC televizyonunda bir programa katılan Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="644" end_char="654">Amerikaʼnın</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="656" end_char="658">ABC</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="660" end_char="673">televizyonunda</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="675" end_char="677">bir</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="679" end_char="686">programa</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="688" end_char="694">katılan</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="696" end_char="697">Dr</TOKEN>
+<TOKEN id="token-6-7" pos="punct" morph="none" start_char="698" end_char="698">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="700" end_char="828">
+<ORIGINAL_TEXT>Tom Frieden, Ebolaʼyı nasıl durduracaklarını bilmediklerini; ancak uzmanların bir ay içerisinde Batı Afrikaʼda olacağını söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="700" end_char="702">Tom</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="704" end_char="710">Frieden</TOKEN>
+<TOKEN id="token-7-2" pos="punct" morph="none" start_char="711" end_char="711">,</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="713" end_char="720">Ebolaʼyı</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="722" end_char="726">nasıl</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="728" end_char="743">durduracaklarını</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="745" end_char="758">bilmediklerini</TOKEN>
+<TOKEN id="token-7-7" pos="punct" morph="none" start_char="759" end_char="759">;</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="761" end_char="765">ancak</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="767" end_char="776">uzmanların</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="778" end_char="780">bir</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="782" end_char="783">ay</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="785" end_char="794">içerisinde</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="796" end_char="799">Batı</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="801" end_char="809">Afrikaʼda</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="811" end_char="819">olacağını</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="821" end_char="827">söyledi</TOKEN>
+<TOKEN id="token-7-17" pos="punct" morph="none" start_char="828" end_char="828">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="831" end_char="967">
+<ORIGINAL_TEXT>Ebolaʼya yakalanan Nancy Writebol (59) isimli diğer Amerikalı yardım görevlisinin ise bir sonraki uçakla ABDʼye gönderileceği belirtildi.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="831" end_char="838">Ebolaʼya</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="840" end_char="848">yakalanan</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="850" end_char="854">Nancy</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="856" end_char="863">Writebol</TOKEN>
+<TOKEN id="token-8-4" pos="punct" morph="none" start_char="865" end_char="865">(</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="866" end_char="867">59</TOKEN>
+<TOKEN id="token-8-6" pos="punct" morph="none" start_char="868" end_char="868">)</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="870" end_char="875">isimli</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="877" end_char="881">diğer</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="883" end_char="891">Amerikalı</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="893" end_char="898">yardım</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="900" end_char="911">görevlisinin</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="913" end_char="915">ise</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="917" end_char="919">bir</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="921" end_char="927">sonraki</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="929" end_char="934">uçakla</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="936" end_char="941">ABDʼye</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="943" end_char="955">gönderileceği</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="957" end_char="966">belirtildi</TOKEN>
+<TOKEN id="token-8-19" pos="punct" morph="none" start_char="967" end_char="967">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="969" end_char="1090">
+<ORIGINAL_TEXT>Hastaları taşıyan tıbbi uçağın, bir seferde sadece bir kişiyi taşıyabilecek kapasite ve teçhizata sahip olduğu kaydedildi.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="969" end_char="977">Hastaları</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="979" end_char="985">taşıyan</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="987" end_char="991">tıbbi</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="993" end_char="998">uçağın</TOKEN>
+<TOKEN id="token-9-4" pos="punct" morph="none" start_char="999" end_char="999">,</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1001" end_char="1003">bir</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1005" end_char="1011">seferde</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1013" end_char="1018">sadece</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1020" end_char="1022">bir</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1024" end_char="1029">kişiyi</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1031" end_char="1043">taşıyabilecek</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1045" end_char="1052">kapasite</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1054" end_char="1055">ve</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="1057" end_char="1065">teçhizata</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1067" end_char="1071">sahip</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1073" end_char="1078">olduğu</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1080" end_char="1089">kaydedildi</TOKEN>
+<TOKEN id="token-9-17" pos="punct" morph="none" start_char="1090" end_char="1090">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1093" end_char="1235">
+<ORIGINAL_TEXT>Dünyanın en ölümcül virüsü olarak nitelendirilen Ebola, Şubat ayından beri Gine, Liberya, Sierra Leoneʼde toplam 728 kişinin hayatına mal oldu.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1093" end_char="1100">Dünyanın</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1102" end_char="1103">en</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1105" end_char="1111">ölümcül</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1113" end_char="1118">virüsü</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1120" end_char="1125">olarak</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1127" end_char="1140">nitelendirilen</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1142" end_char="1146">Ebola</TOKEN>
+<TOKEN id="token-10-7" pos="punct" morph="none" start_char="1147" end_char="1147">,</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1149" end_char="1153">Şubat</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1155" end_char="1161">ayından</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1163" end_char="1166">beri</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1168" end_char="1171">Gine</TOKEN>
+<TOKEN id="token-10-12" pos="punct" morph="none" start_char="1172" end_char="1172">,</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1174" end_char="1180">Liberya</TOKEN>
+<TOKEN id="token-10-14" pos="punct" morph="none" start_char="1181" end_char="1181">,</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1183" end_char="1188">Sierra</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1190" end_char="1197">Leoneʼde</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1199" end_char="1204">toplam</TOKEN>
+<TOKEN id="token-10-18" pos="number" morph="none" start_char="1206" end_char="1208">728</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1210" end_char="1216">kişinin</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1218" end_char="1225">hayatına</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1227" end_char="1229">mal</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1231" end_char="1234">oldu</TOKEN>
+<TOKEN id="token-10-23" pos="punct" morph="none" start_char="1235" end_char="1235">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1237" end_char="1295">
+<ORIGINAL_TEXT>Salgının ölüm oranının yaklaşık yüzde 60 olduğu belirtildi.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1237" end_char="1244">Salgının</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1246" end_char="1249">ölüm</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1251" end_char="1258">oranının</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1260" end_char="1267">yaklaşık</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1269" end_char="1273">yüzde</TOKEN>
+<TOKEN id="token-11-5" pos="number" morph="none" start_char="1275" end_char="1276">60</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1278" end_char="1283">olduğu</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1285" end_char="1294">belirtildi</TOKEN>
+<TOKEN id="token-11-8" pos="punct" morph="none" start_char="1295" end_char="1295">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1298" end_char="1331">
+<ORIGINAL_TEXT>ABD-AFRİKA ZİRVESİNDE EBOLA ALARMI</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1298" end_char="1300">ABD</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="1301" end_char="1301">-</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1302" end_char="1307">AFRİKA</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1309" end_char="1318">ZİRVESİNDE</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1320" end_char="1324">EBOLA</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1326" end_char="1331">ALARMI</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1334" end_char="1350">
+<ORIGINAL_TEXT>CDC Direktörü Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1334" end_char="1336">CDC</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1338" end_char="1346">Direktörü</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1348" end_char="1349">Dr</TOKEN>
+<TOKEN id="token-13-3" pos="punct" morph="none" start_char="1350" end_char="1350">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1352" end_char="1467">
+<ORIGINAL_TEXT>Frieden, Washingtonʼda gerçekleşecek olan ABD-Afrika zirvesinin iptal edilmesi için hiçbir neden olmadığını söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1352" end_char="1358">Frieden</TOKEN>
+<TOKEN id="token-14-1" pos="punct" morph="none" start_char="1359" end_char="1359">,</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1361" end_char="1373">Washingtonʼda</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1375" end_char="1387">gerçekleşecek</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1389" end_char="1392">olan</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1394" end_char="1396">ABD</TOKEN>
+<TOKEN id="token-14-6" pos="punct" morph="none" start_char="1397" end_char="1397">-</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1398" end_char="1403">Afrika</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1405" end_char="1414">zirvesinin</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1416" end_char="1420">iptal</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1422" end_char="1429">edilmesi</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1431" end_char="1434">için</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1436" end_char="1441">hiçbir</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1443" end_char="1447">neden</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1449" end_char="1458">olmadığını</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1460" end_char="1466">söyledi</TOKEN>
+<TOKEN id="token-14-16" pos="punct" morph="none" start_char="1467" end_char="1467">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1469" end_char="1560">
+<ORIGINAL_TEXT>Fox Newsʼe konuşan Frieden, “Her yıl dünyanın her yerinden ABDʼye gelen 50 milyon yolcu var.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1469" end_char="1471">Fox</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1473" end_char="1478">Newsʼe</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1480" end_char="1486">konuşan</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1488" end_char="1494">Frieden</TOKEN>
+<TOKEN id="token-15-4" pos="punct" morph="none" start_char="1495" end_char="1495">,</TOKEN>
+<TOKEN id="token-15-5" pos="punct" morph="none" start_char="1497" end_char="1497">“</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1498" end_char="1500">Her</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1502" end_char="1504">yıl</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1506" end_char="1513">dünyanın</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1515" end_char="1517">her</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1519" end_char="1526">yerinden</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1528" end_char="1533">ABDʼye</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1535" end_char="1539">gelen</TOKEN>
+<TOKEN id="token-15-13" pos="number" morph="none" start_char="1541" end_char="1542">50</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1544" end_char="1549">milyon</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1551" end_char="1555">yolcu</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="1557" end_char="1559">var</TOKEN>
+<TOKEN id="token-15-17" pos="punct" morph="none" start_char="1560" end_char="1560">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1562" end_char="1618">
+<ORIGINAL_TEXT>Bu ülkeyi hava sızdırmaz şekilde mühürlemeyeceğiz.” dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1562" end_char="1563">Bu</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="1565" end_char="1570">ülkeyi</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1572" end_char="1575">hava</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1577" end_char="1585">sızdırmaz</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1587" end_char="1593">şekilde</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1595" end_char="1610">mühürlemeyeceğiz</TOKEN>
+<TOKEN id="token-16-6" pos="punct" morph="none" start_char="1611" end_char="1612">.”</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1614" end_char="1617">dedi</TOKEN>
+<TOKEN id="token-16-8" pos="punct" morph="none" start_char="1618" end_char="1618">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1620" end_char="1748">
+<ORIGINAL_TEXT>Başkan Barak Obama zirveye Batı Afrikaʼdan katılacak temsilcilerin virüs tehlikesine karşı kontrolden geçirileceğini açıklamıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1620" end_char="1625">Başkan</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1627" end_char="1631">Barak</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1633" end_char="1637">Obama</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1639" end_char="1645">zirveye</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1647" end_char="1650">Batı</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1652" end_char="1661">Afrikaʼdan</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1663" end_char="1671">katılacak</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1673" end_char="1685">temsilcilerin</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1687" end_char="1691">virüs</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1693" end_char="1703">tehlikesine</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1705" end_char="1709">karşı</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1711" end_char="1720">kontrolden</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1722" end_char="1735">geçirileceğini</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="1737" end_char="1747">açıklamıştı</TOKEN>
+<TOKEN id="token-17-14" pos="punct" morph="none" start_char="1748" end_char="1748">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

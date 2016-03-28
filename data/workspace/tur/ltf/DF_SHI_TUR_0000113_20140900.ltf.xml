@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_SHI_TUR_0000113_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="2739" raw_text_md5="aa8c672b17dc3e08dbf1d708cb7efc81">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="111">
+<ORIGINAL_TEXT>"Domuz gribi salgını, 30 milyon kişi bağışıklık kazandığı zaman biter" Sağlık Bakanlığı Bilim Kurulu Üyesi Prof.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="punct" morph="none" start_char="0" end_char="0">"</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="1" end_char="5">Domuz</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="7" end_char="11">gribi</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="13" end_char="19">salgını</TOKEN>
+<TOKEN id="token-0-4" pos="punct" morph="none" start_char="20" end_char="20">,</TOKEN>
+<TOKEN id="token-0-5" pos="number" morph="none" start_char="22" end_char="23">30</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="25" end_char="30">milyon</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="32" end_char="35">kişi</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="37" end_char="46">bağışıklık</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="48" end_char="56">kazandığı</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="58" end_char="62">zaman</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="64" end_char="68">biter</TOKEN>
+<TOKEN id="token-0-12" pos="punct" morph="none" start_char="69" end_char="69">"</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="71" end_char="76">Sağlık</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="78" end_char="86">Bakanlığı</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="88" end_char="92">Bilim</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="94" end_char="99">Kurulu</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="101" end_char="105">Üyesi</TOKEN>
+<TOKEN id="token-0-18" pos="word" morph="none" start_char="107" end_char="110">Prof</TOKEN>
+<TOKEN id="token-0-19" pos="punct" morph="none" start_char="111" end_char="111">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="113" end_char="115">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="113" end_char="114">Dr</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="115" end_char="115">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="117" end_char="311">
+<ORIGINAL_TEXT>Mehmet Ceyhan, hiçbir ülkede belli aralıklarla grip nedeniyle hayatını kaybedenlerin sayısının açıklanmadığına dikkat çekerek, "Ölü sayısını açıklamak, yürütülen programa hiçbir fayda sağlamıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="117" end_char="122">Mehmet</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="124" end_char="129">Ceyhan</TOKEN>
+<TOKEN id="token-2-2" pos="punct" morph="none" start_char="130" end_char="130">,</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="132" end_char="137">hiçbir</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="139" end_char="144">ülkede</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="146" end_char="150">belli</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="152" end_char="162">aralıklarla</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="164" end_char="167">grip</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="169" end_char="177">nedeniyle</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="179" end_char="186">hayatını</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="188" end_char="200">kaybedenlerin</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="202" end_char="210">sayısının</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="212" end_char="226">açıklanmadığına</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="228" end_char="233">dikkat</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="235" end_char="241">çekerek</TOKEN>
+<TOKEN id="token-2-15" pos="punct" morph="none" start_char="242" end_char="242">,</TOKEN>
+<TOKEN id="token-2-16" pos="punct" morph="none" start_char="244" end_char="244">"</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="245" end_char="247">Ölü</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="249" end_char="256">sayısını</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="258" end_char="266">açıklamak</TOKEN>
+<TOKEN id="token-2-20" pos="punct" morph="none" start_char="267" end_char="267">,</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="269" end_char="277">yürütülen</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="279" end_char="286">programa</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="288" end_char="293">hiçbir</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="295" end_char="299">fayda</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="301" end_char="310">sağlamıyor</TOKEN>
+<TOKEN id="token-2-26" pos="punct" morph="none" start_char="311" end_char="311">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="313" end_char="319">
+<ORIGINAL_TEXT>" dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="313" end_char="313">"</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="315" end_char="318">dedi</TOKEN>
+<TOKEN id="token-3-2" pos="punct" morph="none" start_char="319" end_char="319">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="322" end_char="509">
+<ORIGINAL_TEXT>Türkiyeʼde salgının bitmesi için en az 30 milyon insanın bağışık hale gelmesi gerektiğinin altını çizen Ceyhan, "Ancak şu an itibariyle 6 milyon insanın bağışıklık kazandığını düşünüyoruz.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="322" end_char="331">Türkiyeʼde</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="333" end_char="340">salgının</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="342" end_char="348">bitmesi</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="350" end_char="353">için</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="355" end_char="356">en</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="358" end_char="359">az</TOKEN>
+<TOKEN id="token-4-6" pos="number" morph="none" start_char="361" end_char="362">30</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="364" end_char="369">milyon</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="371" end_char="377">insanın</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="379" end_char="385">bağışık</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="387" end_char="390">hale</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="392" end_char="398">gelmesi</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="400" end_char="411">gerektiğinin</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="413" end_char="418">altını</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="420" end_char="424">çizen</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="426" end_char="431">Ceyhan</TOKEN>
+<TOKEN id="token-4-16" pos="punct" morph="none" start_char="432" end_char="432">,</TOKEN>
+<TOKEN id="token-4-17" pos="punct" morph="none" start_char="434" end_char="434">"</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="435" end_char="439">Ancak</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="441" end_char="442">şu</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="444" end_char="445">an</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="447" end_char="456">itibariyle</TOKEN>
+<TOKEN id="token-4-22" pos="number" morph="none" start_char="458" end_char="458">6</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="460" end_char="465">milyon</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="467" end_char="473">insanın</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="475" end_char="484">bağışıklık</TOKEN>
+<TOKEN id="token-4-26" pos="word" morph="none" start_char="486" end_char="496">kazandığını</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="498" end_char="508">düşünüyoruz</TOKEN>
+<TOKEN id="token-4-28" pos="punct" morph="none" start_char="509" end_char="509">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="511" end_char="525">
+<ORIGINAL_TEXT>" diye konuştu.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="511" end_char="511">"</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="513" end_char="516">diye</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="518" end_char="524">konuştu</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="525" end_char="525">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="527" end_char="567">
+<ORIGINAL_TEXT>Sağlık Bakanlığı Bilim Kurulu Üyesi Prof.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="527" end_char="532">Sağlık</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="534" end_char="542">Bakanlığı</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="544" end_char="548">Bilim</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="550" end_char="555">Kurulu</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="557" end_char="561">Üyesi</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="563" end_char="566">Prof</TOKEN>
+<TOKEN id="token-6-6" pos="punct" morph="none" start_char="567" end_char="567">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="569" end_char="571">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="569" end_char="570">Dr</TOKEN>
+<TOKEN id="token-7-1" pos="punct" morph="none" start_char="571" end_char="571">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="573" end_char="730">
+<ORIGINAL_TEXT>Mehmet Ceyhan, CİHANʼa yaptığı açıklamada domuz gribi nedeniyle hayatını kaybedenlerin sayısının açıklanmamasının bilimsel bir karar olmadığının altını çizdi.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="573" end_char="578">Mehmet</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="580" end_char="585">Ceyhan</TOKEN>
+<TOKEN id="token-8-2" pos="punct" morph="none" start_char="586" end_char="586">,</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="588" end_char="594">CİHANʼa</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="596" end_char="602">yaptığı</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="604" end_char="613">açıklamada</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="615" end_char="619">domuz</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="621" end_char="625">gribi</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="627" end_char="635">nedeniyle</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="637" end_char="644">hayatını</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="646" end_char="658">kaybedenlerin</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="660" end_char="668">sayısının</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="670" end_char="685">açıklanmamasının</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="687" end_char="694">bilimsel</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="696" end_char="698">bir</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="700" end_char="704">karar</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="706" end_char="716">olmadığının</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="718" end_char="723">altını</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="725" end_char="729">çizdi</TOKEN>
+<TOKEN id="token-8-19" pos="punct" morph="none" start_char="730" end_char="730">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="732" end_char="900">
+<ORIGINAL_TEXT>Toplumun psikolojisi ve moral durumunu olumsuz etkilememek için böyle bir karar alındığını kaydeden Ceyhan, "11 Eylül saldırılarında ABDʼnin cesetleri göstermemesi gibi.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="732" end_char="739">Toplumun</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="741" end_char="751">psikolojisi</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="753" end_char="754">ve</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="756" end_char="760">moral</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="762" end_char="769">durumunu</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="771" end_char="777">olumsuz</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="779" end_char="789">etkilememek</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="791" end_char="794">için</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="796" end_char="800">böyle</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="802" end_char="804">bir</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="806" end_char="810">karar</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="812" end_char="821">alındığını</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="823" end_char="830">kaydeden</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="832" end_char="837">Ceyhan</TOKEN>
+<TOKEN id="token-9-14" pos="punct" morph="none" start_char="838" end_char="838">,</TOKEN>
+<TOKEN id="token-9-15" pos="punct" morph="none" start_char="840" end_char="840">"</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="841" end_char="842">11</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="844" end_char="848">Eylül</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="850" end_char="863">saldırılarında</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="865" end_char="871">ABDʼnin</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="873" end_char="881">cesetleri</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="883" end_char="894">göstermemesi</TOKEN>
+<TOKEN id="token-9-22" pos="word" morph="none" start_char="896" end_char="899">gibi</TOKEN>
+<TOKEN id="token-9-23" pos="punct" morph="none" start_char="900" end_char="900">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="902" end_char="962">
+<ORIGINAL_TEXT>Ölü sayılarının açıklanması programın başarısını etkilemiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="902" end_char="904">Ölü</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="906" end_char="916">sayılarının</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="918" end_char="928">açıklanması</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="930" end_char="938">programın</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="940" end_char="949">başarısını</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="951" end_char="961">etkilemiyor</TOKEN>
+<TOKEN id="token-10-6" pos="punct" morph="none" start_char="962" end_char="962">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="964" end_char="1050">
+<ORIGINAL_TEXT>Bildiğim kadarıyla da dünyada hiçbir ülke ölü sayılarını rutin aralıklarla açıklamıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="964" end_char="971">Bildiğim</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="973" end_char="981">kadarıyla</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="983" end_char="984">da</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="986" end_char="992">dünyada</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="994" end_char="999">hiçbir</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1001" end_char="1004">ülke</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1006" end_char="1008">ölü</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1010" end_char="1019">sayılarını</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1021" end_char="1025">rutin</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1027" end_char="1037">aralıklarla</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1039" end_char="1049">açıklamıyor</TOKEN>
+<TOKEN id="token-11-11" pos="punct" morph="none" start_char="1050" end_char="1050">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1052" end_char="1058">
+<ORIGINAL_TEXT>" dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="1052" end_char="1052">"</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1054" end_char="1057">dedi</TOKEN>
+<TOKEN id="token-12-2" pos="punct" morph="none" start_char="1058" end_char="1058">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1060" end_char="1179">
+<ORIGINAL_TEXT>İspanyol gribini hatırlatan Ceyhan, "Bu hastalık her ülkeyi etkilemiş ve dünyada 100 milyon insanın ölümüne yol açmıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1060" end_char="1067">İspanyol</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1069" end_char="1075">gribini</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1077" end_char="1086">hatırlatan</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1088" end_char="1093">Ceyhan</TOKEN>
+<TOKEN id="token-13-4" pos="punct" morph="none" start_char="1094" end_char="1094">,</TOKEN>
+<TOKEN id="token-13-5" pos="punct" morph="none" start_char="1096" end_char="1096">"</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1097" end_char="1098">Bu</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1100" end_char="1107">hastalık</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1109" end_char="1111">her</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1113" end_char="1118">ülkeyi</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1120" end_char="1128">etkilemiş</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1130" end_char="1131">ve</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1133" end_char="1139">dünyada</TOKEN>
+<TOKEN id="token-13-13" pos="number" morph="none" start_char="1141" end_char="1143">100</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1145" end_char="1150">milyon</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1152" end_char="1158">insanın</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1160" end_char="1166">ölümüne</TOKEN>
+<TOKEN id="token-13-17" pos="word" morph="none" start_char="1168" end_char="1170">yol</TOKEN>
+<TOKEN id="token-13-18" pos="word" morph="none" start_char="1172" end_char="1178">açmıştı</TOKEN>
+<TOKEN id="token-13-19" pos="punct" morph="none" start_char="1179" end_char="1179">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1181" end_char="1268">
+<ORIGINAL_TEXT>O zaman sadece İspanya ölü sayılarını açıklıyor ve hastalık İspanyol gribi diye kalıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1181" end_char="1181">O</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1183" end_char="1187">zaman</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1189" end_char="1194">sadece</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1196" end_char="1202">İspanya</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1204" end_char="1206">ölü</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1208" end_char="1217">sayılarını</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1219" end_char="1227">açıklıyor</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1229" end_char="1230">ve</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1232" end_char="1239">hastalık</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1241" end_char="1248">İspanyol</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1250" end_char="1254">gribi</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1256" end_char="1259">diye</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1261" end_char="1267">kalıyor</TOKEN>
+<TOKEN id="token-14-13" pos="punct" morph="none" start_char="1268" end_char="1268">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1270" end_char="1350">
+<ORIGINAL_TEXT>Oysa, İspanya ne hastalığın başladığı ne de ölüm oranlarının en çok olduğu yerdi.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1270" end_char="1273">Oysa</TOKEN>
+<TOKEN id="token-15-1" pos="punct" morph="none" start_char="1274" end_char="1274">,</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1276" end_char="1282">İspanya</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1284" end_char="1285">ne</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1287" end_char="1296">hastalığın</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1298" end_char="1306">başladığı</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1308" end_char="1309">ne</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="1311" end_char="1312">de</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1314" end_char="1317">ölüm</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1319" end_char="1329">oranlarının</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1331" end_char="1332">en</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1334" end_char="1336">çok</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1338" end_char="1343">olduğu</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1345" end_char="1349">yerdi</TOKEN>
+<TOKEN id="token-15-14" pos="punct" morph="none" start_char="1350" end_char="1350">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1352" end_char="1404">
+<ORIGINAL_TEXT>Tabii, o zamanın şartları ile bugünkü şartlar farklı.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1352" end_char="1356">Tabii</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="1357" end_char="1357">,</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1359" end_char="1359">o</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1361" end_char="1367">zamanın</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1369" end_char="1376">şartları</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1378" end_char="1380">ile</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1382" end_char="1388">bugünkü</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1390" end_char="1396">şartlar</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1398" end_char="1403">farklı</TOKEN>
+<TOKEN id="token-16-9" pos="punct" morph="none" start_char="1404" end_char="1404">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1406" end_char="1424">
+<ORIGINAL_TEXT>" şeklinde konuştu.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="1406" end_char="1406">"</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1408" end_char="1415">şeklinde</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1417" end_char="1423">konuştu</TOKEN>
+<TOKEN id="token-17-3" pos="punct" morph="none" start_char="1424" end_char="1424">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1426" end_char="1637">
+<ORIGINAL_TEXT>Önemli olanın salgının nasıl önleneceği konusu olduğunu söyleyen Ceyhan, burada anahtarın ölü sayıları olmadığına dikkat çekti, ölü sayıları açıklansa da açıklanmasa da hastalığın artarak devam ettiğini kaydetti.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1426" end_char="1431">Önemli</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1433" end_char="1438">olanın</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1440" end_char="1447">salgının</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1449" end_char="1453">nasıl</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1455" end_char="1464">önleneceği</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1466" end_char="1471">konusu</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1473" end_char="1480">olduğunu</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1482" end_char="1489">söyleyen</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1491" end_char="1496">Ceyhan</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="1497" end_char="1497">,</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="1499" end_char="1504">burada</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="1506" end_char="1514">anahtarın</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="1516" end_char="1518">ölü</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="1520" end_char="1527">sayıları</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="1529" end_char="1538">olmadığına</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="1540" end_char="1545">dikkat</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="1547" end_char="1551">çekti</TOKEN>
+<TOKEN id="token-18-17" pos="punct" morph="none" start_char="1552" end_char="1552">,</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="1554" end_char="1556">ölü</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="1558" end_char="1565">sayıları</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="1567" end_char="1575">açıklansa</TOKEN>
+<TOKEN id="token-18-21" pos="word" morph="none" start_char="1577" end_char="1578">da</TOKEN>
+<TOKEN id="token-18-22" pos="word" morph="none" start_char="1580" end_char="1590">açıklanmasa</TOKEN>
+<TOKEN id="token-18-23" pos="word" morph="none" start_char="1592" end_char="1593">da</TOKEN>
+<TOKEN id="token-18-24" pos="word" morph="none" start_char="1595" end_char="1604">hastalığın</TOKEN>
+<TOKEN id="token-18-25" pos="word" morph="none" start_char="1606" end_char="1612">artarak</TOKEN>
+<TOKEN id="token-18-26" pos="word" morph="none" start_char="1614" end_char="1618">devam</TOKEN>
+<TOKEN id="token-18-27" pos="word" morph="none" start_char="1620" end_char="1627">ettiğini</TOKEN>
+<TOKEN id="token-18-28" pos="word" morph="none" start_char="1629" end_char="1636">kaydetti</TOKEN>
+<TOKEN id="token-18-29" pos="punct" morph="none" start_char="1637" end_char="1637">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1639" end_char="1881">
+<ORIGINAL_TEXT>Grip salgınının ABD ve Kuzey Avrupaʼda bazı ülkelerde hız kestiği yönünde çıkan haberleri hatırlatan Ceyhan, "Unutulmamalı ki, bu ülkelerde hastalık bizden çok daha önce görülmeye başlamıştı ve aşılama oranları bizden en az iki kat daha fazla.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1639" end_char="1642">Grip</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1644" end_char="1653">salgınının</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1655" end_char="1657">ABD</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1659" end_char="1660">ve</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1662" end_char="1666">Kuzey</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1668" end_char="1676">Avrupaʼda</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1678" end_char="1681">bazı</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1683" end_char="1691">ülkelerde</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1693" end_char="1695">hız</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1697" end_char="1703">kestiği</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1705" end_char="1711">yönünde</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1713" end_char="1717">çıkan</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1719" end_char="1727">haberleri</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1729" end_char="1738">hatırlatan</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="1740" end_char="1745">Ceyhan</TOKEN>
+<TOKEN id="token-19-15" pos="punct" morph="none" start_char="1746" end_char="1746">,</TOKEN>
+<TOKEN id="token-19-16" pos="punct" morph="none" start_char="1748" end_char="1748">"</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="1749" end_char="1760">Unutulmamalı</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="1762" end_char="1763">ki</TOKEN>
+<TOKEN id="token-19-19" pos="punct" morph="none" start_char="1764" end_char="1764">,</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="1766" end_char="1767">bu</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="1769" end_char="1777">ülkelerde</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="1779" end_char="1786">hastalık</TOKEN>
+<TOKEN id="token-19-23" pos="word" morph="none" start_char="1788" end_char="1793">bizden</TOKEN>
+<TOKEN id="token-19-24" pos="word" morph="none" start_char="1795" end_char="1797">çok</TOKEN>
+<TOKEN id="token-19-25" pos="word" morph="none" start_char="1799" end_char="1802">daha</TOKEN>
+<TOKEN id="token-19-26" pos="word" morph="none" start_char="1804" end_char="1807">önce</TOKEN>
+<TOKEN id="token-19-27" pos="word" morph="none" start_char="1809" end_char="1817">görülmeye</TOKEN>
+<TOKEN id="token-19-28" pos="word" morph="none" start_char="1819" end_char="1828">başlamıştı</TOKEN>
+<TOKEN id="token-19-29" pos="word" morph="none" start_char="1830" end_char="1831">ve</TOKEN>
+<TOKEN id="token-19-30" pos="word" morph="none" start_char="1833" end_char="1839">aşılama</TOKEN>
+<TOKEN id="token-19-31" pos="word" morph="none" start_char="1841" end_char="1848">oranları</TOKEN>
+<TOKEN id="token-19-32" pos="word" morph="none" start_char="1850" end_char="1855">bizden</TOKEN>
+<TOKEN id="token-19-33" pos="word" morph="none" start_char="1857" end_char="1858">en</TOKEN>
+<TOKEN id="token-19-34" pos="word" morph="none" start_char="1860" end_char="1861">az</TOKEN>
+<TOKEN id="token-19-35" pos="word" morph="none" start_char="1863" end_char="1865">iki</TOKEN>
+<TOKEN id="token-19-36" pos="word" morph="none" start_char="1867" end_char="1869">kat</TOKEN>
+<TOKEN id="token-19-37" pos="word" morph="none" start_char="1871" end_char="1874">daha</TOKEN>
+<TOKEN id="token-19-38" pos="word" morph="none" start_char="1876" end_char="1880">fazla</TOKEN>
+<TOKEN id="token-19-39" pos="punct" morph="none" start_char="1881" end_char="1881">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1883" end_char="1903">
+<ORIGINAL_TEXT>" ifadesini kullandı.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="1883" end_char="1883">"</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1885" end_char="1893">ifadesini</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1895" end_char="1902">kullandı</TOKEN>
+<TOKEN id="token-20-3" pos="punct" morph="none" start_char="1903" end_char="1903">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1905" end_char="2068">
+<ORIGINAL_TEXT>Aşılamanın hastalıktan korunmak için tek etkili yol olduğunu belirten Ceyhan şöyle devam etti: "Dünyada 100 milyon doz, Türkiyeʼde ise 2 milyon doz aşılama yapıldı.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1905" end_char="1914">Aşılamanın</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1916" end_char="1926">hastalıktan</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1928" end_char="1935">korunmak</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1937" end_char="1940">için</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="1942" end_char="1944">tek</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1946" end_char="1951">etkili</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1953" end_char="1955">yol</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1957" end_char="1964">olduğunu</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="1966" end_char="1973">belirten</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="1975" end_char="1980">Ceyhan</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="1982" end_char="1986">şöyle</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="1988" end_char="1992">devam</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="1994" end_char="1997">etti</TOKEN>
+<TOKEN id="token-21-13" pos="punct" morph="none" start_char="1998" end_char="1998">:</TOKEN>
+<TOKEN id="token-21-14" pos="punct" morph="none" start_char="2000" end_char="2000">"</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="2001" end_char="2007">Dünyada</TOKEN>
+<TOKEN id="token-21-16" pos="number" morph="none" start_char="2009" end_char="2011">100</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="2013" end_char="2018">milyon</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="2020" end_char="2022">doz</TOKEN>
+<TOKEN id="token-21-19" pos="punct" morph="none" start_char="2023" end_char="2023">,</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="2025" end_char="2034">Türkiyeʼde</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="2036" end_char="2038">ise</TOKEN>
+<TOKEN id="token-21-22" pos="number" morph="none" start_char="2040" end_char="2040">2</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="2042" end_char="2047">milyon</TOKEN>
+<TOKEN id="token-21-24" pos="word" morph="none" start_char="2049" end_char="2051">doz</TOKEN>
+<TOKEN id="token-21-25" pos="word" morph="none" start_char="2053" end_char="2059">aşılama</TOKEN>
+<TOKEN id="token-21-26" pos="word" morph="none" start_char="2061" end_char="2067">yapıldı</TOKEN>
+<TOKEN id="token-21-27" pos="punct" morph="none" start_char="2068" end_char="2068">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2070" end_char="2099">
+<ORIGINAL_TEXT>Önemli bir yan etki görülmedi.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2070" end_char="2075">Önemli</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2077" end_char="2079">bir</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2081" end_char="2083">yan</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2085" end_char="2088">etki</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="2090" end_char="2098">görülmedi</TOKEN>
+<TOKEN id="token-22-5" pos="punct" morph="none" start_char="2099" end_char="2099">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2101" end_char="2199">
+<ORIGINAL_TEXT>Bu salgının bir an önce sona ermesi için kişisel hijyene önem verilmesi ve aşı yapılması gerekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2101" end_char="2102">Bu</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2104" end_char="2111">salgının</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2113" end_char="2115">bir</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2117" end_char="2118">an</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2120" end_char="2123">önce</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2125" end_char="2128">sona</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2130" end_char="2135">ermesi</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2137" end_char="2140">için</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2142" end_char="2148">kişisel</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2150" end_char="2156">hijyene</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2158" end_char="2161">önem</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2163" end_char="2171">verilmesi</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="2173" end_char="2174">ve</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="2176" end_char="2178">aşı</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2180" end_char="2188">yapılması</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="2190" end_char="2198">gerekiyor</TOKEN>
+<TOKEN id="token-23-16" pos="punct" morph="none" start_char="2199" end_char="2199">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2201" end_char="2272">
+<ORIGINAL_TEXT>Türkiyeʼde yaklaşık 6 milyon insanın bağışık hale geldiğini düşünüyoruz.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2201" end_char="2210">Türkiyeʼde</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="2212" end_char="2219">yaklaşık</TOKEN>
+<TOKEN id="token-24-2" pos="number" morph="none" start_char="2221" end_char="2221">6</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="2223" end_char="2228">milyon</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="2230" end_char="2236">insanın</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="2238" end_char="2244">bağışık</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="2246" end_char="2249">hale</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="2251" end_char="2259">geldiğini</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="2261" end_char="2271">düşünüyoruz</TOKEN>
+<TOKEN id="token-24-9" pos="punct" morph="none" start_char="2272" end_char="2272">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2274" end_char="2336">
+<ORIGINAL_TEXT>Salgının bitmesi için bu sayının 30 milyona ulaşması gerekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2274" end_char="2281">Salgının</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="2283" end_char="2289">bitmesi</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2291" end_char="2294">için</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="2296" end_char="2297">bu</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="2299" end_char="2305">sayının</TOKEN>
+<TOKEN id="token-25-5" pos="number" morph="none" start_char="2307" end_char="2308">30</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="2310" end_char="2316">milyona</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2318" end_char="2325">ulaşması</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="2327" end_char="2335">gerekiyor</TOKEN>
+<TOKEN id="token-25-9" pos="punct" morph="none" start_char="2336" end_char="2336">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2338" end_char="2399">
+<ORIGINAL_TEXT>Bu oran, 10-15 milyona ulaştığında ise salgının hızı azalıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2338" end_char="2339">Bu</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="2341" end_char="2344">oran</TOKEN>
+<TOKEN id="token-26-2" pos="punct" morph="none" start_char="2345" end_char="2345">,</TOKEN>
+<TOKEN id="token-26-3" pos="number" morph="none" start_char="2347" end_char="2348">10</TOKEN>
+<TOKEN id="token-26-4" pos="punct" morph="none" start_char="2349" end_char="2349">-</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2350" end_char="2351">15</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="2353" end_char="2359">milyona</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="2361" end_char="2371">ulaştığında</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="2373" end_char="2375">ise</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="2377" end_char="2384">salgının</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="2386" end_char="2389">hızı</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="2391" end_char="2398">azalıyor</TOKEN>
+<TOKEN id="token-26-12" pos="punct" morph="none" start_char="2399" end_char="2399">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2401" end_char="2496">
+<ORIGINAL_TEXT>" Hacettepe Üniversitesi Tıp Fakültesi İnfeksiyon Hastalıkları Anabilim Dalı Öğretim Üyesi Prof.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="2401" end_char="2401">"</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="2403" end_char="2411">Hacettepe</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2413" end_char="2424">Üniversitesi</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="2426" end_char="2428">Tıp</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2430" end_char="2438">Fakültesi</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="2440" end_char="2449">İnfeksiyon</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="2451" end_char="2462">Hastalıkları</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="2464" end_char="2471">Anabilim</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="2473" end_char="2476">Dalı</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="2478" end_char="2484">Öğretim</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="2486" end_char="2490">Üyesi</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="2492" end_char="2495">Prof</TOKEN>
+<TOKEN id="token-27-12" pos="punct" morph="none" start_char="2496" end_char="2496">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2498" end_char="2500">
+<ORIGINAL_TEXT>Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2498" end_char="2499">Dr</TOKEN>
+<TOKEN id="token-28-1" pos="punct" morph="none" start_char="2500" end_char="2500">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2502" end_char="2605">
+<ORIGINAL_TEXT>Murat Akova ise H1N1ʼden ölüm sayılarının açıklanmaması ile ilgili, "Ölü sayıları her geçen gün artıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="2502" end_char="2506">Murat</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="2508" end_char="2512">Akova</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="2514" end_char="2516">ise</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="2518" end_char="2525">H1N1ʼden</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="2527" end_char="2530">ölüm</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="2532" end_char="2542">sayılarının</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="2544" end_char="2556">açıklanmaması</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="2558" end_char="2560">ile</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="2562" end_char="2567">ilgili</TOKEN>
+<TOKEN id="token-29-9" pos="punct" morph="none" start_char="2568" end_char="2568">,</TOKEN>
+<TOKEN id="token-29-10" pos="punct" morph="none" start_char="2570" end_char="2570">"</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="2571" end_char="2573">Ölü</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="2575" end_char="2582">sayıları</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="2584" end_char="2586">her</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="2588" end_char="2592">geçen</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="2594" end_char="2596">gün</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="2598" end_char="2604">artıyor</TOKEN>
+<TOKEN id="token-29-17" pos="punct" morph="none" start_char="2605" end_char="2605">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="2607" end_char="2685">
+<ORIGINAL_TEXT>İnsanlarda panik havası yaratmamak için böyle bir karar alındığını düşünüyorum.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="2607" end_char="2616">İnsanlarda</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="2618" end_char="2622">panik</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="2624" end_char="2629">havası</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="2631" end_char="2640">yaratmamak</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="2642" end_char="2645">için</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="2647" end_char="2651">böyle</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="2653" end_char="2655">bir</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="2657" end_char="2661">karar</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="2663" end_char="2672">alındığını</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="2674" end_char="2684">düşünüyorum</TOKEN>
+<TOKEN id="token-30-10" pos="punct" morph="none" start_char="2685" end_char="2685">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="2687" end_char="2736">
+<ORIGINAL_TEXT>Bu politik bir karar " değerlendirmesinde bulundu.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="2687" end_char="2688">Bu</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="2690" end_char="2696">politik</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="2698" end_char="2700">bir</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="2702" end_char="2706">karar</TOKEN>
+<TOKEN id="token-31-4" pos="unknown" morph="none" start_char="2708" end_char="2708">"</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="2710" end_char="2727">değerlendirmesinde</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="2729" end_char="2735">bulundu</TOKEN>
+<TOKEN id="token-31-7" pos="punct" morph="none" start_char="2736" end_char="2736">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

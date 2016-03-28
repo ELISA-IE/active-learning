@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_NTV_TUR_0000380_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="905" raw_text_md5="412a04d2500b3d65657ceff0bd01a53d">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="22">
+<ORIGINAL_TEXT>ABD'de menenjit salgını</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="2">ABD</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="3" end_char="3">'</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="4" end_char="5">de</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="7" end_char="14">menenjit</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="16" end_char="22">salgını</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="25" end_char="116">
+<ORIGINAL_TEXT>Amerika Birleşik Devletleri'nin 6 eyaletindeki menenjit salgınında 5 kişi hayatını kaybetti.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="25" end_char="31">Amerika</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="33" end_char="40">Birleşik</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="42" end_char="51">Devletleri</TOKEN>
+<TOKEN id="token-1-3" pos="punct" morph="none" start_char="52" end_char="52">'</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="53" end_char="55">nin</TOKEN>
+<TOKEN id="token-1-5" pos="number" morph="none" start_char="57" end_char="57">6</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="59" end_char="70">eyaletindeki</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="72" end_char="79">menenjit</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="81" end_char="90">salgınında</TOKEN>
+<TOKEN id="token-1-9" pos="number" morph="none" start_char="92" end_char="92">5</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="94" end_char="97">kişi</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="99" end_char="106">hayatını</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="108" end_char="115">kaybetti</TOKEN>
+<TOKEN id="token-1-13" pos="punct" morph="none" start_char="116" end_char="116">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="118" end_char="243">
+<ORIGINAL_TEXT>Ölen hastaların sırt ağrısı için vurulan steroid iğnesindeki küf kaynaklı mantar nedeniyle menenjite yakalandıkları sanılıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="118" end_char="121">Ölen</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="123" end_char="132">hastaların</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="134" end_char="137">sırt</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="139" end_char="144">ağrısı</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="146" end_char="149">için</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="151" end_char="157">vurulan</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="159" end_char="165">steroid</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="167" end_char="177">iğnesindeki</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="179" end_char="181">küf</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="183" end_char="190">kaynaklı</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="192" end_char="197">mantar</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="199" end_char="207">nedeniyle</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="209" end_char="217">menenjite</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="219" end_char="232">yakalandıkları</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="234" end_char="242">sanılıyor</TOKEN>
+<TOKEN id="token-2-15" pos="punct" morph="none" start_char="243" end_char="243">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="246" end_char="303">
+<ORIGINAL_TEXT>İğneleri üreten ecza şirketinin çalışmaları askıya alındı.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="246" end_char="253">İğneleri</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="255" end_char="260">üreten</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="262" end_char="265">ecza</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="267" end_char="276">şirketinin</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="278" end_char="288">çalışmaları</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="290" end_char="295">askıya</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="297" end_char="302">alındı</TOKEN>
+<TOKEN id="token-3-7" pos="punct" morph="none" start_char="303" end_char="303">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="305" end_char="405">
+<ORIGINAL_TEXT>Ülke çapında yaklaşık 18 bin iğne toplatılırken, 23 eyaletteki yüzlerce hastayla da irtibata geçildi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="305" end_char="308">Ülke</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="310" end_char="316">çapında</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="318" end_char="325">yaklaşık</TOKEN>
+<TOKEN id="token-4-3" pos="number" morph="none" start_char="327" end_char="328">18</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="330" end_char="332">bin</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="334" end_char="337">iğne</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="339" end_char="351">toplatılırken</TOKEN>
+<TOKEN id="token-4-7" pos="punct" morph="none" start_char="352" end_char="352">,</TOKEN>
+<TOKEN id="token-4-8" pos="number" morph="none" start_char="354" end_char="355">23</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="357" end_char="366">eyaletteki</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="368" end_char="375">yüzlerce</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="377" end_char="384">hastayla</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="386" end_char="387">da</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="389" end_char="396">irtibata</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="398" end_char="404">geçildi</TOKEN>
+<TOKEN id="token-4-15" pos="punct" morph="none" start_char="405" end_char="405">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="408" end_char="515">
+<ORIGINAL_TEXT>Küfün sebep olduğu mantar kaynaklı menenjitin, hastalığın diğer türleri gibi bulaşıcı olmadığı ifade edildi.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="408" end_char="412">Küfün</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="414" end_char="418">sebep</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="420" end_char="425">olduğu</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="427" end_char="432">mantar</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="434" end_char="441">kaynaklı</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="443" end_char="452">menenjitin</TOKEN>
+<TOKEN id="token-5-6" pos="punct" morph="none" start_char="453" end_char="453">,</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="455" end_char="464">hastalığın</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="466" end_char="470">diğer</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="472" end_char="478">türleri</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="480" end_char="483">gibi</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="485" end_char="492">bulaşıcı</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="494" end_char="501">olmadığı</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="503" end_char="507">ifade</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="509" end_char="514">edildi</TOKEN>
+<TOKEN id="token-5-15" pos="punct" morph="none" start_char="515" end_char="515">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="518" end_char="627">
+<ORIGINAL_TEXT>İlaçlar imalatçılardan alındıktan sonra ya daha küçük dozlara ayrılıyor ya da farklı içerikler karıştırılıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="518" end_char="524">İlaçlar</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="526" end_char="539">imalatçılardan</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="541" end_char="550">alındıktan</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="552" end_char="556">sonra</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="558" end_char="559">ya</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="561" end_char="564">daha</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="566" end_char="570">küçük</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="572" end_char="578">dozlara</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="580" end_char="588">ayrılıyor</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="590" end_char="591">ya</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="593" end_char="594">da</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="596" end_char="601">farklı</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="603" end_char="611">içerikler</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="613" end_char="626">karıştırılıyor</TOKEN>
+<TOKEN id="token-6-14" pos="punct" morph="none" start_char="627" end_char="627">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="629" end_char="721">
+<ORIGINAL_TEXT>Bu aşamaların herhangi birinde steril ortam sağlanmazsa ilaç havadan bile mantar kapabiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="629" end_char="630">Bu</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="632" end_char="641">aşamaların</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="643" end_char="650">herhangi</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="652" end_char="658">birinde</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="660" end_char="665">steril</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="667" end_char="671">ortam</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="673" end_char="683">sağlanmazsa</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="685" end_char="688">ilaç</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="690" end_char="696">havadan</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="698" end_char="701">bile</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="703" end_char="708">mantar</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="710" end_char="720">kapabiliyor</TOKEN>
+<TOKEN id="token-7-12" pos="punct" morph="none" start_char="721" end_char="721">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="724" end_char="854">
+<ORIGINAL_TEXT>Beyin zarı iltihaplanması olan menenjit hastalığının semptomları şiddetli başağrısı, kusma, baş dönmesi ve ateş şeklinde görülüyor.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="724" end_char="728">Beyin</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="730" end_char="733">zarı</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="735" end_char="748">iltihaplanması</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="750" end_char="753">olan</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="755" end_char="762">menenjit</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="764" end_char="775">hastalığının</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="777" end_char="787">semptomları</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="789" end_char="796">şiddetli</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="798" end_char="806">başağrısı</TOKEN>
+<TOKEN id="token-8-9" pos="punct" morph="none" start_char="807" end_char="807">,</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="809" end_char="813">kusma</TOKEN>
+<TOKEN id="token-8-11" pos="punct" morph="none" start_char="814" end_char="814">,</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="816" end_char="818">baş</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="820" end_char="826">dönmesi</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="828" end_char="829">ve</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="831" end_char="834">ateş</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="836" end_char="843">şeklinde</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="845" end_char="853">görülüyor</TOKEN>
+<TOKEN id="token-8-18" pos="punct" morph="none" start_char="854" end_char="854">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="856" end_char="902">
+<ORIGINAL_TEXT>Semptomlar 1 ila 4 hafta içinde ortaya çıkıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="856" end_char="865">Semptomlar</TOKEN>
+<TOKEN id="token-9-1" pos="number" morph="none" start_char="867" end_char="867">1</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="869" end_char="871">ila</TOKEN>
+<TOKEN id="token-9-3" pos="number" morph="none" start_char="873" end_char="873">4</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="875" end_char="879">hafta</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="881" end_char="886">içinde</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="888" end_char="893">ortaya</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="895" end_char="901">çıkıyor</TOKEN>
+<TOKEN id="token-9-8" pos="punct" morph="none" start_char="902" end_char="902">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

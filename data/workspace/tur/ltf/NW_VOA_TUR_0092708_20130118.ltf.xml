@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_VOA_TUR_0092708_20130118" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1309" raw_text_md5="308ff37e8edaf700a48185aae43b32a0">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="123">
+<ORIGINAL_TEXT>Suriye devlet televizyonu, Halepʼte bir binaya roket isabet etmesi sonucu çok sayıda kişinin ölmüş olabileceğini bildiriyor.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="5">Suriye</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="7" end_char="12">devlet</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="14" end_char="24">televizyonu</TOKEN>
+<TOKEN id="token-0-3" pos="punct" morph="none" start_char="25" end_char="25">,</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="27" end_char="34">Halepʼte</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="36" end_char="38">bir</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="40" end_char="45">binaya</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="47" end_char="51">roket</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="53" end_char="58">isabet</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="60" end_char="65">etmesi</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="67" end_char="72">sonucu</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="74" end_char="76">çok</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="78" end_char="83">sayıda</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="85" end_char="91">kişinin</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="93" end_char="97">ölmüş</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="99" end_char="111">olabileceğini</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="113" end_char="122">bildiriyor</TOKEN>
+<TOKEN id="token-0-17" pos="punct" morph="none" start_char="123" end_char="123">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="125" end_char="258">
+<ORIGINAL_TEXT>Televizyon görüntüleri binanın büyük bir kısmının yıkıldığını, kurtarma görevlilerinin enkaz altından cesetler çıkardığını gösteriyor.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="125" end_char="134">Televizyon</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="136" end_char="146">görüntüleri</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="148" end_char="154">binanın</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="156" end_char="160">büyük</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="162" end_char="164">bir</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="166" end_char="173">kısmının</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="175" end_char="185">yıkıldığını</TOKEN>
+<TOKEN id="token-1-7" pos="punct" morph="none" start_char="186" end_char="186">,</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="188" end_char="195">kurtarma</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="197" end_char="210">görevlilerinin</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="212" end_char="216">enkaz</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="218" end_char="225">altından</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="227" end_char="234">cesetler</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="236" end_char="246">çıkardığını</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="248" end_char="257">gösteriyor</TOKEN>
+<TOKEN id="token-1-15" pos="punct" morph="none" start_char="258" end_char="258">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="260" end_char="350">
+<ORIGINAL_TEXT>Bununla birlikte enkaz altından çıkan ölü ve yaralı sayısı konusunda kesin bilgi alınamadı.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="260" end_char="266">Bununla</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="268" end_char="275">birlikte</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="277" end_char="281">enkaz</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="283" end_char="290">altından</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="292" end_char="296">çıkan</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="298" end_char="300">ölü</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="302" end_char="303">ve</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="305" end_char="310">yaralı</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="312" end_char="317">sayısı</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="319" end_char="327">konusunda</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="329" end_char="333">kesin</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="335" end_char="339">bilgi</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="341" end_char="349">alınamadı</TOKEN>
+<TOKEN id="token-2-13" pos="punct" morph="none" start_char="350" end_char="350">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="352" end_char="435">
+<ORIGINAL_TEXT>Devlet televizyonu saldırıdan terörist diye tanımladığı isyancıları sorumlu tutuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="352" end_char="357">Devlet</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="359" end_char="369">televizyonu</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="371" end_char="380">saldırıdan</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="382" end_char="389">terörist</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="391" end_char="394">diye</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="396" end_char="406">tanımladığı</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="408" end_char="418">isyancıları</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="420" end_char="426">sorumlu</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="428" end_char="434">tutuyor</TOKEN>
+<TOKEN id="token-3-9" pos="punct" morph="none" start_char="435" end_char="435">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="437" end_char="530">
+<ORIGINAL_TEXT>Ancak muhalefet eylemcileri, ordunun bölgede önceden bir saldırı başlattığına dikkati çekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="437" end_char="441">Ancak</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="443" end_char="451">muhalefet</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="453" end_char="463">eylemcileri</TOKEN>
+<TOKEN id="token-4-3" pos="punct" morph="none" start_char="464" end_char="464">,</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="466" end_char="472">ordunun</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="474" end_char="480">bölgede</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="482" end_char="488">önceden</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="490" end_char="492">bir</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="494" end_char="500">saldırı</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="502" end_char="513">başlattığına</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="515" end_char="521">dikkati</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="523" end_char="529">çekiyor</TOKEN>
+<TOKEN id="token-4-12" pos="punct" morph="none" start_char="530" end_char="530">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="532" end_char="619">
+<ORIGINAL_TEXT>Esad rejimi, uluslararası basının ülkenin çoğu bölgelerindeki faaliyetine izin vermiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="532" end_char="535">Esad</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="537" end_char="542">rejimi</TOKEN>
+<TOKEN id="token-5-2" pos="punct" morph="none" start_char="543" end_char="543">,</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="545" end_char="556">uluslararası</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="558" end_char="564">basının</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="566" end_char="572">ülkenin</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="574" end_char="577">çoğu</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="579" end_char="592">bölgelerindeki</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="594" end_char="604">faaliyetine</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="606" end_char="609">izin</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="611" end_char="618">vermiyor</TOKEN>
+<TOKEN id="token-5-11" pos="punct" morph="none" start_char="619" end_char="619">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="621" end_char="666">
+<ORIGINAL_TEXT>Bu da iddiaların doğrulanmasını güçleştiriyor.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="621" end_char="622">Bu</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="624" end_char="625">da</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="627" end_char="636">iddiaların</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="638" end_char="651">doğrulanmasını</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="653" end_char="665">güçleştiriyor</TOKEN>
+<TOKEN id="token-6-5" pos="punct" morph="none" start_char="666" end_char="666">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="668" end_char="818">
+<ORIGINAL_TEXT>İç savaştan göreceli olarak uzak kalan Halep, geçen Temmuz ayında isyancıların kente saldırmasıyla birlikte tam anlamıyla savaş alanına dönmüş durumda.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="668" end_char="669">İç</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="671" end_char="678">savaştan</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="680" end_char="687">göreceli</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="689" end_char="694">olarak</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="696" end_char="699">uzak</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="701" end_char="705">kalan</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="707" end_char="711">Halep</TOKEN>
+<TOKEN id="token-7-7" pos="punct" morph="none" start_char="712" end_char="712">,</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="714" end_char="718">geçen</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="720" end_char="725">Temmuz</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="727" end_char="732">ayında</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="734" end_char="745">isyancıların</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="747" end_char="751">kente</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="753" end_char="765">saldırmasıyla</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="767" end_char="774">birlikte</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="776" end_char="778">tam</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="780" end_char="788">anlamıyla</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="790" end_char="794">savaş</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="796" end_char="802">alanına</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="804" end_char="809">dönmüş</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="811" end_char="817">durumda</TOKEN>
+<TOKEN id="token-7-21" pos="punct" morph="none" start_char="818" end_char="818">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="820" end_char="932">
+<ORIGINAL_TEXT>Hafta başında Halep Üniversitesiʼnde meydana gelen çifte patlamada 87 kişi ölmüş, 150ʼyi aşkın kişi yaralanmıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="820" end_char="824">Hafta</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="826" end_char="832">başında</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="834" end_char="838">Halep</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="840" end_char="855">Üniversitesiʼnde</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="857" end_char="863">meydana</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="865" end_char="869">gelen</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="871" end_char="875">çifte</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="877" end_char="885">patlamada</TOKEN>
+<TOKEN id="token-8-8" pos="number" morph="none" start_char="887" end_char="888">87</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="890" end_char="893">kişi</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="895" end_char="899">ölmüş</TOKEN>
+<TOKEN id="token-8-11" pos="punct" morph="none" start_char="900" end_char="900">,</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="902" end_char="907">150ʼyi</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="909" end_char="913">aşkın</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="915" end_char="918">kişi</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="920" end_char="931">yaralanmıştı</TOKEN>
+<TOKEN id="token-8-16" pos="punct" morph="none" start_char="932" end_char="932">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="934" end_char="1001">
+<ORIGINAL_TEXT>Ölenlerin çoğunu öğrenciler ve kampüse sığınan siviller oluşturuyor.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="934" end_char="942">Ölenlerin</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="944" end_char="949">çoğunu</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="951" end_char="960">öğrenciler</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="962" end_char="963">ve</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="965" end_char="971">kampüse</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="973" end_char="979">sığınan</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="981" end_char="988">siviller</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="990" end_char="1000">oluşturuyor</TOKEN>
+<TOKEN id="token-9-8" pos="punct" morph="none" start_char="1001" end_char="1001">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1003" end_char="1070">
+<ORIGINAL_TEXT>Ancak hem rejim, hem de isyancılar saldırıdan birbirlerini suçluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1003" end_char="1007">Ancak</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1009" end_char="1011">hem</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1013" end_char="1017">rejim</TOKEN>
+<TOKEN id="token-10-3" pos="punct" morph="none" start_char="1018" end_char="1018">,</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1020" end_char="1022">hem</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1024" end_char="1025">de</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1027" end_char="1036">isyancılar</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1038" end_char="1047">saldırıdan</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1049" end_char="1060">birbirlerini</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1062" end_char="1069">suçluyor</TOKEN>
+<TOKEN id="token-10-10" pos="punct" morph="none" start_char="1070" end_char="1070">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1072" end_char="1211">
+<ORIGINAL_TEXT>Suriyeʼde Mart 2011ʼde başlayan demokrasi yanlısı ayaklanmalar, Esad rejiminin sivillere karşı güç kullanmasının ardından iç savaşa dönüştü.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1072" end_char="1080">Suriyeʼde</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1082" end_char="1085">Mart</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1087" end_char="1093">2011ʼde</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1095" end_char="1102">başlayan</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1104" end_char="1112">demokrasi</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1114" end_char="1120">yanlısı</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1122" end_char="1133">ayaklanmalar</TOKEN>
+<TOKEN id="token-11-7" pos="punct" morph="none" start_char="1134" end_char="1134">,</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1136" end_char="1139">Esad</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1141" end_char="1149">rejiminin</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1151" end_char="1159">sivillere</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1161" end_char="1165">karşı</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1167" end_char="1169">güç</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1171" end_char="1183">kullanmasının</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1185" end_char="1192">ardından</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1194" end_char="1195">iç</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1197" end_char="1202">savaşa</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1204" end_char="1210">dönüştü</TOKEN>
+<TOKEN id="token-11-18" pos="punct" morph="none" start_char="1211" end_char="1211">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1213" end_char="1306">
+<ORIGINAL_TEXT>İki yıla yakın bir süredir devam eden iç savaşta 60 bini aşkın kişinin öldüğü tahmin ediliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1213" end_char="1215">İki</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1217" end_char="1220">yıla</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1222" end_char="1226">yakın</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1228" end_char="1230">bir</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1232" end_char="1238">süredir</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1240" end_char="1244">devam</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1246" end_char="1249">eden</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1251" end_char="1252">iç</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1254" end_char="1260">savaşta</TOKEN>
+<TOKEN id="token-12-9" pos="number" morph="none" start_char="1262" end_char="1263">60</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1265" end_char="1268">bini</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1270" end_char="1274">aşkın</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1276" end_char="1282">kişinin</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1284" end_char="1289">öldüğü</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1291" end_char="1296">tahmin</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1298" end_char="1305">ediliyor</TOKEN>
+<TOKEN id="token-12-16" pos="punct" morph="none" start_char="1306" end_char="1306">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

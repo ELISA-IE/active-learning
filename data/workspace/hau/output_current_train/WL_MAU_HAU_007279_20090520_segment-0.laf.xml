@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_MAU_HAU_007279_20090520" lang="">
+    <ANNOTATION id="WL_MAU_HAU_007279_20090520-NE1" task="NE" type="PER">
+      <EXTENT start_char="0" end_char="3">HIRA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007279_20090520-NE2" task="NE" type="PER">
+      <EXTENT start_char="5" end_char="6">DA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007279_20090520-NE3" task="NE" type="PER">
+      <EXTENT start_char="8" end_char="12">YARON</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007279_20090520-NE4" task="NE" type="PER">
+      <EXTENT start_char="14" end_char="18">MALAM</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

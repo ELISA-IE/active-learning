@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="WL_FAS_HAU_007796_20130213" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="2413" raw_text_md5="7b47dfe03463cb8e6b9b8aed1c09bbc3">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="25">
+<ORIGINAL_TEXT>Wasu Daga Cikin Sakonninku</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="3">Wasu</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="8">Daga</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="10" end_char="14">Cikin</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="16" end_char="25">Sakonninku</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="28" end_char="113">
+<ORIGINAL_TEXT>Assalaamu alaikum Baban Sadik, da fatan kana lafiya, Allah kara maka basira da hikima.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="28" end_char="36">Assalaamu</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="38" end_char="44">alaikum</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="46" end_char="50">Baban</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="52" end_char="56">Sadik</TOKEN>
+<TOKEN id="token-1-4" pos="punct" morph="none" start_char="57" end_char="57">,</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="59" end_char="60">da</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="62" end_char="66">fatan</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="68" end_char="71">kana</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="73" end_char="78">lafiya</TOKEN>
+<TOKEN id="token-1-9" pos="punct" morph="none" start_char="79" end_char="79">,</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="81" end_char="85">Allah</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="87" end_char="90">kara</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="92" end_char="95">maka</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="97" end_char="102">basira</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="104" end_char="105">da</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="107" end_char="112">hikima</TOKEN>
+<TOKEN id="token-1-16" pos="punct" morph="none" start_char="113" end_char="113">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="115" end_char="229">
+<ORIGINAL_TEXT>Shin, me yasa idan aka boye lamba daga wayar salula, kuma aka turo sakon tes da ita, sai lambar ta bayyana a sakon?</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="115" end_char="118">Shin</TOKEN>
+<TOKEN id="token-2-1" pos="punct" morph="none" start_char="119" end_char="119">,</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="121" end_char="122">me</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="124" end_char="127">yasa</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="129" end_char="132">idan</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="134" end_char="136">aka</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="138" end_char="141">boye</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="143" end_char="147">lamba</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="149" end_char="152">daga</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="154" end_char="158">wayar</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="160" end_char="165">salula</TOKEN>
+<TOKEN id="token-2-11" pos="punct" morph="none" start_char="166" end_char="166">,</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="168" end_char="171">kuma</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="173" end_char="175">aka</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="177" end_char="180">turo</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="182" end_char="186">sakon</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="188" end_char="190">tes</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="192" end_char="193">da</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="195" end_char="197">ita</TOKEN>
+<TOKEN id="token-2-19" pos="punct" morph="none" start_char="198" end_char="198">,</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="200" end_char="202">sai</TOKEN>
+<TOKEN id="token-2-21" pos="word" morph="none" start_char="204" end_char="209">lambar</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="211" end_char="212">ta</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="214" end_char="220">bayyana</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="222" end_char="222">a</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="224" end_char="228">sakon</TOKEN>
+<TOKEN id="token-2-26" pos="punct" morph="none" start_char="229" end_char="229">?</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="231" end_char="259">
+<ORIGINAL_TEXT>- Prince Sadiq Babanni, Yola.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="231" end_char="231">-</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="233" end_char="238">Prince</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="240" end_char="244">Sadiq</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="246" end_char="252">Babanni</TOKEN>
+<TOKEN id="token-3-4" pos="punct" morph="none" start_char="253" end_char="253">,</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="255" end_char="258">Yola</TOKEN>
+<TOKEN id="token-3-6" pos="punct" morph="none" start_char="259" end_char="259">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="262" end_char="310">
+<ORIGINAL_TEXT>Wa alaikumus salam, Malam Sadik barka da warhaka.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="262" end_char="263">Wa</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="265" end_char="273">alaikumus</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="275" end_char="279">salam</TOKEN>
+<TOKEN id="token-4-3" pos="punct" morph="none" start_char="280" end_char="280">,</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="282" end_char="286">Malam</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="288" end_char="292">Sadik</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="294" end_char="298">barka</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="300" end_char="301">da</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="303" end_char="309">warhaka</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="310" end_char="310">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="312" end_char="430">
+<ORIGINAL_TEXT>A kaʼidar aiwatar da kira da wayar salula, idan ka kira wani, za a nuna wa wanda ka kira lambarka a wayarsa, yana gani.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="312" end_char="312">A</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="314" end_char="320">kaʼidar</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="322" end_char="328">aiwatar</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="330" end_char="331">da</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="333" end_char="336">kira</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="338" end_char="339">da</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="341" end_char="345">wayar</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="347" end_char="352">salula</TOKEN>
+<TOKEN id="token-5-8" pos="punct" morph="none" start_char="353" end_char="353">,</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="355" end_char="358">idan</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="360" end_char="361">ka</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="363" end_char="366">kira</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="368" end_char="371">wani</TOKEN>
+<TOKEN id="token-5-13" pos="punct" morph="none" start_char="372" end_char="372">,</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="374" end_char="375">za</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="377" end_char="377">a</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="379" end_char="382">nuna</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="384" end_char="385">wa</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="387" end_char="391">wanda</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="393" end_char="394">ka</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="396" end_char="399">kira</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="401" end_char="408">lambarka</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="410" end_char="410">a</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="412" end_char="418">wayarsa</TOKEN>
+<TOKEN id="token-5-24" pos="punct" morph="none" start_char="419" end_char="419">,</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="421" end_char="424">yana</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="426" end_char="429">gani</TOKEN>
+<TOKEN id="token-5-27" pos="punct" morph="none" start_char="430" end_char="430">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="432" end_char="586">
+<ORIGINAL_TEXT>Amma idan kaje sashen Tsare-tsaren wayarka, watau "Settings", ka canza wannan tsari cewa kada ta rika nuna wa wanda ka kira lambarka, to za ta boye lambar.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="432" end_char="435">Amma</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="437" end_char="440">idan</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="442" end_char="445">kaje</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="447" end_char="452">sashen</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="454" end_char="458">Tsare</TOKEN>
+<TOKEN id="token-6-5" pos="punct" morph="none" start_char="459" end_char="459">-</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="460" end_char="465">tsaren</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="467" end_char="473">wayarka</TOKEN>
+<TOKEN id="token-6-8" pos="punct" morph="none" start_char="474" end_char="474">,</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="476" end_char="480">watau</TOKEN>
+<TOKEN id="token-6-10" pos="punct" morph="none" start_char="482" end_char="482">"</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="483" end_char="490">Settings</TOKEN>
+<TOKEN id="token-6-12" pos="punct" morph="none" start_char="491" end_char="492">",</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="494" end_char="495">ka</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="497" end_char="501">canza</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="503" end_char="508">wannan</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="510" end_char="514">tsari</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="516" end_char="519">cewa</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="521" end_char="524">kada</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="526" end_char="527">ta</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="529" end_char="532">rika</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="534" end_char="537">nuna</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="539" end_char="540">wa</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="542" end_char="546">wanda</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="548" end_char="549">ka</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="551" end_char="554">kira</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="556" end_char="563">lambarka</TOKEN>
+<TOKEN id="token-6-27" pos="punct" morph="none" start_char="564" end_char="564">,</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="566" end_char="567">to</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="569" end_char="570">za</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="572" end_char="573">ta</TOKEN>
+<TOKEN id="token-6-31" pos="word" morph="none" start_char="575" end_char="578">boye</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="580" end_char="585">lambar</TOKEN>
+<TOKEN id="token-6-33" pos="punct" morph="none" start_char="586" end_char="586">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="588" end_char="619">
+<ORIGINAL_TEXT>Wannan a kira ne kadai ya tsaya.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="588" end_char="593">Wannan</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="595" end_char="595">a</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="597" end_char="600">kira</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="602" end_char="603">ne</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="605" end_char="609">kadai</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="611" end_char="612">ya</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="614" end_char="618">tsaya</TOKEN>
+<TOKEN id="token-7-7" pos="punct" morph="none" start_char="619" end_char="619">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="621" end_char="664">
+<ORIGINAL_TEXT>Amma idan ka aika sakon tes dole za ta nuna.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="621" end_char="624">Amma</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="626" end_char="629">idan</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="631" end_char="632">ka</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="634" end_char="637">aika</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="639" end_char="643">sakon</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="645" end_char="647">tes</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="649" end_char="652">dole</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="654" end_char="655">za</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="657" end_char="658">ta</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="660" end_char="663">nuna</TOKEN>
+<TOKEN id="token-8-10" pos="punct" morph="none" start_char="664" end_char="664">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="666" end_char="735">
+<ORIGINAL_TEXT>Domin babu wani tsari na boye lambar wanda ya aiko tes a wayar salula.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="666" end_char="670">Domin</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="672" end_char="675">babu</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="677" end_char="680">wani</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="682" end_char="686">tsari</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="688" end_char="689">na</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="691" end_char="694">boye</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="696" end_char="701">lambar</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="703" end_char="707">wanda</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="709" end_char="710">ya</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="712" end_char="715">aiko</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="717" end_char="719">tes</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="721" end_char="721">a</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="723" end_char="727">wayar</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="729" end_char="734">salula</TOKEN>
+<TOKEN id="token-9-14" pos="punct" morph="none" start_char="735" end_char="735">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="737" end_char="752">
+<ORIGINAL_TEXT>Dole za ta nuna.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="737" end_char="740">Dole</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="742" end_char="743">za</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="745" end_char="746">ta</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="748" end_char="751">nuna</TOKEN>
+<TOKEN id="token-10-4" pos="punct" morph="none" start_char="752" end_char="752">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="754" end_char="771">
+<ORIGINAL_TEXT>Da fatan ka gamsu.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="754" end_char="755">Da</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="757" end_char="761">fatan</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="763" end_char="764">ka</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="766" end_char="770">gamsu</TOKEN>
+<TOKEN id="token-11-4" pos="punct" morph="none" start_char="771" end_char="771">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="774" end_char="809">
+<ORIGINAL_TEXT>Assalaamu Alaikum, barka da warhaka.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="774" end_char="782">Assalaamu</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="784" end_char="790">Alaikum</TOKEN>
+<TOKEN id="token-12-2" pos="punct" morph="none" start_char="791" end_char="791">,</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="793" end_char="797">barka</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="799" end_char="800">da</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="802" end_char="808">warhaka</TOKEN>
+<TOKEN id="token-12-6" pos="punct" morph="none" start_char="809" end_char="809">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="811" end_char="900">
+<ORIGINAL_TEXT>Yanzu don Allah kai Abdullahi Salihu Abubakar kace yin azumi a watan Rajab ba daidai bane?</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="811" end_char="815">Yanzu</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="817" end_char="819">don</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="821" end_char="825">Allah</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="827" end_char="829">kai</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="831" end_char="839">Abdullahi</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="841" end_char="846">Salihu</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="848" end_char="855">Abubakar</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="857" end_char="860">kace</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="862" end_char="864">yin</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="866" end_char="870">azumi</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="872" end_char="872">a</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="874" end_char="878">watan</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="880" end_char="884">Rajab</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="886" end_char="887">ba</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="889" end_char="894">daidai</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="896" end_char="899">bane</TOKEN>
+<TOKEN id="token-13-16" pos="punct" morph="none" start_char="900" end_char="900">?</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="902" end_char="925">
+<ORIGINAL_TEXT>A matsayinka na Musulmi?</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="902" end_char="902">A</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="904" end_char="913">matsayinka</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="915" end_char="916">na</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="918" end_char="924">Musulmi</TOKEN>
+<TOKEN id="token-14-4" pos="punct" morph="none" start_char="925" end_char="925">?</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="927" end_char="939">
+<ORIGINAL_TEXT>- 08031323908</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="927" end_char="927">-</TOKEN>
+<TOKEN id="token-15-1" pos="number" morph="none" start_char="929" end_char="939">08031323908</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="942" end_char="1279">
+<ORIGINAL_TEXT>Wa alaikumus salaam, na san kana ishara ne zuwa ga bayanin da nayi a cikin kasida ta mai taken: "Bunkasar Fasahar Sadarwar Zamani a Najeriya – Kalubale da Hanyoyin Ci Gaba," inda nake bayani cewa jamaʼa su yi hankali da sakonnin da ake turo musu ta tes musamman lokacin azumi kan falalar ayyuka, da cewa akwai hadisan karya da ake aikowa.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="942" end_char="943">Wa</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="945" end_char="953">alaikumus</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="955" end_char="960">salaam</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="961" end_char="961">,</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="963" end_char="964">na</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="966" end_char="968">san</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="970" end_char="973">kana</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="975" end_char="980">ishara</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="982" end_char="983">ne</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="985" end_char="988">zuwa</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="990" end_char="991">ga</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="993" end_char="999">bayanin</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="1001" end_char="1002">da</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="1004" end_char="1007">nayi</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="1009" end_char="1009">a</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="1011" end_char="1015">cikin</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="1017" end_char="1022">kasida</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="1024" end_char="1025">ta</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="1027" end_char="1029">mai</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="1031" end_char="1035">taken</TOKEN>
+<TOKEN id="token-16-20" pos="punct" morph="none" start_char="1036" end_char="1036">:</TOKEN>
+<TOKEN id="token-16-21" pos="punct" morph="none" start_char="1038" end_char="1038">"</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="1039" end_char="1046">Bunkasar</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="1048" end_char="1054">Fasahar</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="1056" end_char="1063">Sadarwar</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="1065" end_char="1070">Zamani</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="1072" end_char="1072">a</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="1074" end_char="1081">Najeriya</TOKEN>
+<TOKEN id="token-16-28" pos="unknown" morph="none" start_char="1083" end_char="1083">–</TOKEN>
+<TOKEN id="token-16-29" pos="word" morph="none" start_char="1085" end_char="1092">Kalubale</TOKEN>
+<TOKEN id="token-16-30" pos="word" morph="none" start_char="1094" end_char="1095">da</TOKEN>
+<TOKEN id="token-16-31" pos="word" morph="none" start_char="1097" end_char="1104">Hanyoyin</TOKEN>
+<TOKEN id="token-16-32" pos="word" morph="none" start_char="1106" end_char="1107">Ci</TOKEN>
+<TOKEN id="token-16-33" pos="word" morph="none" start_char="1109" end_char="1112">Gaba</TOKEN>
+<TOKEN id="token-16-34" pos="punct" morph="none" start_char="1113" end_char="1114">,"</TOKEN>
+<TOKEN id="token-16-35" pos="word" morph="none" start_char="1116" end_char="1119">inda</TOKEN>
+<TOKEN id="token-16-36" pos="word" morph="none" start_char="1121" end_char="1124">nake</TOKEN>
+<TOKEN id="token-16-37" pos="word" morph="none" start_char="1126" end_char="1131">bayani</TOKEN>
+<TOKEN id="token-16-38" pos="word" morph="none" start_char="1133" end_char="1136">cewa</TOKEN>
+<TOKEN id="token-16-39" pos="word" morph="none" start_char="1138" end_char="1143">jamaʼa</TOKEN>
+<TOKEN id="token-16-40" pos="word" morph="none" start_char="1145" end_char="1146">su</TOKEN>
+<TOKEN id="token-16-41" pos="word" morph="none" start_char="1148" end_char="1149">yi</TOKEN>
+<TOKEN id="token-16-42" pos="word" morph="none" start_char="1151" end_char="1157">hankali</TOKEN>
+<TOKEN id="token-16-43" pos="word" morph="none" start_char="1159" end_char="1160">da</TOKEN>
+<TOKEN id="token-16-44" pos="word" morph="none" start_char="1162" end_char="1169">sakonnin</TOKEN>
+<TOKEN id="token-16-45" pos="word" morph="none" start_char="1171" end_char="1172">da</TOKEN>
+<TOKEN id="token-16-46" pos="word" morph="none" start_char="1174" end_char="1176">ake</TOKEN>
+<TOKEN id="token-16-47" pos="word" morph="none" start_char="1178" end_char="1181">turo</TOKEN>
+<TOKEN id="token-16-48" pos="word" morph="none" start_char="1183" end_char="1186">musu</TOKEN>
+<TOKEN id="token-16-49" pos="word" morph="none" start_char="1188" end_char="1189">ta</TOKEN>
+<TOKEN id="token-16-50" pos="word" morph="none" start_char="1191" end_char="1193">tes</TOKEN>
+<TOKEN id="token-16-51" pos="word" morph="none" start_char="1195" end_char="1202">musamman</TOKEN>
+<TOKEN id="token-16-52" pos="word" morph="none" start_char="1204" end_char="1210">lokacin</TOKEN>
+<TOKEN id="token-16-53" pos="word" morph="none" start_char="1212" end_char="1216">azumi</TOKEN>
+<TOKEN id="token-16-54" pos="word" morph="none" start_char="1218" end_char="1220">kan</TOKEN>
+<TOKEN id="token-16-55" pos="word" morph="none" start_char="1222" end_char="1228">falalar</TOKEN>
+<TOKEN id="token-16-56" pos="word" morph="none" start_char="1230" end_char="1235">ayyuka</TOKEN>
+<TOKEN id="token-16-57" pos="punct" morph="none" start_char="1236" end_char="1236">,</TOKEN>
+<TOKEN id="token-16-58" pos="word" morph="none" start_char="1238" end_char="1239">da</TOKEN>
+<TOKEN id="token-16-59" pos="word" morph="none" start_char="1241" end_char="1244">cewa</TOKEN>
+<TOKEN id="token-16-60" pos="word" morph="none" start_char="1246" end_char="1250">akwai</TOKEN>
+<TOKEN id="token-16-61" pos="word" morph="none" start_char="1252" end_char="1258">hadisan</TOKEN>
+<TOKEN id="token-16-62" pos="word" morph="none" start_char="1260" end_char="1264">karya</TOKEN>
+<TOKEN id="token-16-63" pos="word" morph="none" start_char="1266" end_char="1267">da</TOKEN>
+<TOKEN id="token-16-64" pos="word" morph="none" start_char="1269" end_char="1271">ake</TOKEN>
+<TOKEN id="token-16-65" pos="word" morph="none" start_char="1273" end_char="1278">aikowa</TOKEN>
+<TOKEN id="token-16-66" pos="punct" morph="none" start_char="1279" end_char="1279">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1281" end_char="1371">
+<ORIGINAL_TEXT>Idan ka fahimce ni, ban ce yin azumi a watan Rajab ba, nace kan "…falalar yin azumin Rajab.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1281" end_char="1284">Idan</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1286" end_char="1287">ka</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1289" end_char="1295">fahimce</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1297" end_char="1298">ni</TOKEN>
+<TOKEN id="token-17-4" pos="punct" morph="none" start_char="1299" end_char="1299">,</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1301" end_char="1303">ban</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1305" end_char="1306">ce</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1308" end_char="1310">yin</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1312" end_char="1316">azumi</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1318" end_char="1318">a</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1320" end_char="1324">watan</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1326" end_char="1330">Rajab</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1332" end_char="1333">ba</TOKEN>
+<TOKEN id="token-17-13" pos="punct" morph="none" start_char="1334" end_char="1334">,</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="1336" end_char="1339">nace</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="1341" end_char="1343">kan</TOKEN>
+<TOKEN id="token-17-16" pos="punct" morph="none" start_char="1345" end_char="1346">"…</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="1347" end_char="1353">falalar</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="1355" end_char="1357">yin</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="1359" end_char="1364">azumin</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="1366" end_char="1370">Rajab</TOKEN>
+<TOKEN id="token-17-21" pos="punct" morph="none" start_char="1371" end_char="1371">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1373" end_char="1448">
+<ORIGINAL_TEXT>" Akwai bambanci tsakanin "yin azumi a watan Rajab, da falalar azumin Rajab.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="1373" end_char="1373">"</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1375" end_char="1379">Akwai</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1381" end_char="1388">bambanci</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1390" end_char="1397">tsakanin</TOKEN>
+<TOKEN id="token-18-4" pos="punct" morph="none" start_char="1399" end_char="1399">"</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1400" end_char="1402">yin</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1404" end_char="1408">azumi</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1410" end_char="1410">a</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="1412" end_char="1416">watan</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="1418" end_char="1422">Rajab</TOKEN>
+<TOKEN id="token-18-10" pos="punct" morph="none" start_char="1423" end_char="1423">,</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="1425" end_char="1426">da</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="1428" end_char="1434">falalar</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="1436" end_char="1441">azumin</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="1443" end_char="1447">Rajab</TOKEN>
+<TOKEN id="token-18-15" pos="punct" morph="none" start_char="1448" end_char="1448">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1450" end_char="1561">
+<ORIGINAL_TEXT>" Akwai hadisan karya sama da talatin da aka kaga aka ce Manzon Allah ne ya fada, masu nuna falalar watan Rajab.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="1450" end_char="1450">"</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1452" end_char="1456">Akwai</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1458" end_char="1464">hadisan</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1466" end_char="1470">karya</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1472" end_char="1475">sama</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="1477" end_char="1478">da</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1480" end_char="1486">talatin</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1488" end_char="1489">da</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1491" end_char="1493">aka</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1495" end_char="1498">kaga</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1500" end_char="1502">aka</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1504" end_char="1505">ce</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1507" end_char="1512">Manzon</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1514" end_char="1518">Allah</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="1520" end_char="1521">ne</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="1523" end_char="1524">ya</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="1526" end_char="1529">fada</TOKEN>
+<TOKEN id="token-19-17" pos="punct" morph="none" start_char="1530" end_char="1530">,</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="1532" end_char="1535">masu</TOKEN>
+<TOKEN id="token-19-19" pos="word" morph="none" start_char="1537" end_char="1540">nuna</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="1542" end_char="1548">falalar</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="1550" end_char="1554">watan</TOKEN>
+<TOKEN id="token-19-22" pos="word" morph="none" start_char="1556" end_char="1560">Rajab</TOKEN>
+<TOKEN id="token-19-23" pos="punct" morph="none" start_char="1561" end_char="1561">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1563" end_char="1798">
+<ORIGINAL_TEXT>A wasu kasashe bayan azumi, ana yanka dabba da ake kira "Ateerah", ana kwana sallah a tsakiyar watan, watau "Salaatur Ragaaʼib," ana rarraba gurasa da masa bayan an karanta musu Suratul Mulk, duk wannan bai inganta ba daga Manzon Allah.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1563" end_char="1563">A</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1565" end_char="1568">wasu</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1570" end_char="1576">kasashe</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1578" end_char="1582">bayan</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1584" end_char="1588">azumi</TOKEN>
+<TOKEN id="token-20-5" pos="punct" morph="none" start_char="1589" end_char="1589">,</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1591" end_char="1593">ana</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="1595" end_char="1599">yanka</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1601" end_char="1605">dabba</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1607" end_char="1608">da</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="1610" end_char="1612">ake</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="1614" end_char="1617">kira</TOKEN>
+<TOKEN id="token-20-12" pos="punct" morph="none" start_char="1619" end_char="1619">"</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="1620" end_char="1626">Ateerah</TOKEN>
+<TOKEN id="token-20-14" pos="punct" morph="none" start_char="1627" end_char="1628">",</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="1630" end_char="1632">ana</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="1634" end_char="1638">kwana</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="1640" end_char="1645">sallah</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="1647" end_char="1647">a</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="1649" end_char="1656">tsakiyar</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="1658" end_char="1662">watan</TOKEN>
+<TOKEN id="token-20-21" pos="punct" morph="none" start_char="1663" end_char="1663">,</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="1665" end_char="1669">watau</TOKEN>
+<TOKEN id="token-20-23" pos="punct" morph="none" start_char="1671" end_char="1671">"</TOKEN>
+<TOKEN id="token-20-24" pos="word" morph="none" start_char="1672" end_char="1679">Salaatur</TOKEN>
+<TOKEN id="token-20-25" pos="word" morph="none" start_char="1681" end_char="1688">Ragaaʼib</TOKEN>
+<TOKEN id="token-20-26" pos="punct" morph="none" start_char="1689" end_char="1690">,"</TOKEN>
+<TOKEN id="token-20-27" pos="word" morph="none" start_char="1692" end_char="1694">ana</TOKEN>
+<TOKEN id="token-20-28" pos="word" morph="none" start_char="1696" end_char="1702">rarraba</TOKEN>
+<TOKEN id="token-20-29" pos="word" morph="none" start_char="1704" end_char="1709">gurasa</TOKEN>
+<TOKEN id="token-20-30" pos="word" morph="none" start_char="1711" end_char="1712">da</TOKEN>
+<TOKEN id="token-20-31" pos="word" morph="none" start_char="1714" end_char="1717">masa</TOKEN>
+<TOKEN id="token-20-32" pos="word" morph="none" start_char="1719" end_char="1723">bayan</TOKEN>
+<TOKEN id="token-20-33" pos="word" morph="none" start_char="1725" end_char="1726">an</TOKEN>
+<TOKEN id="token-20-34" pos="word" morph="none" start_char="1728" end_char="1734">karanta</TOKEN>
+<TOKEN id="token-20-35" pos="word" morph="none" start_char="1736" end_char="1739">musu</TOKEN>
+<TOKEN id="token-20-36" pos="word" morph="none" start_char="1741" end_char="1747">Suratul</TOKEN>
+<TOKEN id="token-20-37" pos="word" morph="none" start_char="1749" end_char="1752">Mulk</TOKEN>
+<TOKEN id="token-20-38" pos="punct" morph="none" start_char="1753" end_char="1753">,</TOKEN>
+<TOKEN id="token-20-39" pos="word" morph="none" start_char="1755" end_char="1757">duk</TOKEN>
+<TOKEN id="token-20-40" pos="word" morph="none" start_char="1759" end_char="1764">wannan</TOKEN>
+<TOKEN id="token-20-41" pos="word" morph="none" start_char="1766" end_char="1768">bai</TOKEN>
+<TOKEN id="token-20-42" pos="word" morph="none" start_char="1770" end_char="1776">inganta</TOKEN>
+<TOKEN id="token-20-43" pos="word" morph="none" start_char="1778" end_char="1779">ba</TOKEN>
+<TOKEN id="token-20-44" pos="word" morph="none" start_char="1781" end_char="1784">daga</TOKEN>
+<TOKEN id="token-20-45" pos="word" morph="none" start_char="1786" end_char="1791">Manzon</TOKEN>
+<TOKEN id="token-20-46" pos="word" morph="none" start_char="1793" end_char="1797">Allah</TOKEN>
+<TOKEN id="token-20-47" pos="punct" morph="none" start_char="1798" end_char="1798">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1800" end_char="1903">
+<ORIGINAL_TEXT>Mu a nan abin da muka fi yi shi ne azumi, wanda muke kira azumin tsofaffi, da kuma sallar tsakiyar wata.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1800" end_char="1801">Mu</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1803" end_char="1803">a</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1805" end_char="1807">nan</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1809" end_char="1812">abin</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="1814" end_char="1815">da</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1817" end_char="1820">muka</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1822" end_char="1823">fi</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1825" end_char="1826">yi</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="1828" end_char="1830">shi</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="1832" end_char="1833">ne</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="1835" end_char="1839">azumi</TOKEN>
+<TOKEN id="token-21-11" pos="punct" morph="none" start_char="1840" end_char="1840">,</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="1842" end_char="1846">wanda</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="1848" end_char="1851">muke</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="1853" end_char="1856">kira</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="1858" end_char="1863">azumin</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="1865" end_char="1872">tsofaffi</TOKEN>
+<TOKEN id="token-21-17" pos="punct" morph="none" start_char="1873" end_char="1873">,</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="1875" end_char="1876">da</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="1878" end_char="1881">kuma</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="1883" end_char="1888">sallar</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="1890" end_char="1897">tsakiyar</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="1899" end_char="1902">wata</TOKEN>
+<TOKEN id="token-21-23" pos="punct" morph="none" start_char="1903" end_char="1903">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1905" end_char="2012">
+<ORIGINAL_TEXT>Amma yin azumin nafila cikin Rajab, kamar yadda aka saba yi a sauran watanni, ya halatta kuma ma abin so ne.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1905" end_char="1908">Amma</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1910" end_char="1912">yin</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1914" end_char="1919">azumin</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1921" end_char="1926">nafila</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1928" end_char="1932">cikin</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1934" end_char="1938">Rajab</TOKEN>
+<TOKEN id="token-22-6" pos="punct" morph="none" start_char="1939" end_char="1939">,</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1941" end_char="1945">kamar</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="1947" end_char="1951">yadda</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="1953" end_char="1955">aka</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="1957" end_char="1960">saba</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="1962" end_char="1963">yi</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="1965" end_char="1965">a</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="1967" end_char="1972">sauran</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="1974" end_char="1980">watanni</TOKEN>
+<TOKEN id="token-22-15" pos="punct" morph="none" start_char="1981" end_char="1981">,</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="1983" end_char="1984">ya</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="1986" end_char="1992">halatta</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="1994" end_char="1997">kuma</TOKEN>
+<TOKEN id="token-22-19" pos="word" morph="none" start_char="1999" end_char="2000">ma</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="2002" end_char="2005">abin</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="2007" end_char="2008">so</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="2010" end_char="2011">ne</TOKEN>
+<TOKEN id="token-22-23" pos="punct" morph="none" start_char="2012" end_char="2012">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2014" end_char="2119">
+<ORIGINAL_TEXT>musamman azumin litinin da alhamis, da yin azumi uku cikin kowane wata, duk sun inganta daga Manzon Allah.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2014" end_char="2021">musamman</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2023" end_char="2028">azumin</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2030" end_char="2036">litinin</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2038" end_char="2039">da</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2041" end_char="2047">alhamis</TOKEN>
+<TOKEN id="token-23-5" pos="punct" morph="none" start_char="2048" end_char="2048">,</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2050" end_char="2051">da</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2053" end_char="2055">yin</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2057" end_char="2061">azumi</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2063" end_char="2065">uku</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2067" end_char="2071">cikin</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2073" end_char="2078">kowane</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="2080" end_char="2083">wata</TOKEN>
+<TOKEN id="token-23-13" pos="punct" morph="none" start_char="2084" end_char="2084">,</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2086" end_char="2088">duk</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="2090" end_char="2092">sun</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="2094" end_char="2100">inganta</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="2102" end_char="2105">daga</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="2107" end_char="2112">Manzon</TOKEN>
+<TOKEN id="token-23-19" pos="word" morph="none" start_char="2114" end_char="2118">Allah</TOKEN>
+<TOKEN id="token-23-20" pos="punct" morph="none" start_char="2119" end_char="2119">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2121" end_char="2221">
+<ORIGINAL_TEXT>Amma idan da wancan manufa ce, cewa watan Rajab na da wata falala ta musamman, ba abin da ya inganta.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2121" end_char="2124">Amma</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="2126" end_char="2129">idan</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="2131" end_char="2132">da</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="2134" end_char="2139">wancan</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="2141" end_char="2146">manufa</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="2148" end_char="2149">ce</TOKEN>
+<TOKEN id="token-24-6" pos="punct" morph="none" start_char="2150" end_char="2150">,</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="2152" end_char="2155">cewa</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="2157" end_char="2161">watan</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="2163" end_char="2167">Rajab</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="2169" end_char="2170">na</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="2172" end_char="2173">da</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="2175" end_char="2178">wata</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="2180" end_char="2185">falala</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="2187" end_char="2188">ta</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="2190" end_char="2197">musamman</TOKEN>
+<TOKEN id="token-24-16" pos="punct" morph="none" start_char="2198" end_char="2198">,</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="2200" end_char="2201">ba</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="2203" end_char="2206">abin</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="2208" end_char="2209">da</TOKEN>
+<TOKEN id="token-24-20" pos="word" morph="none" start_char="2211" end_char="2212">ya</TOKEN>
+<TOKEN id="token-24-21" pos="word" morph="none" start_char="2214" end_char="2220">inganta</TOKEN>
+<TOKEN id="token-24-22" pos="punct" morph="none" start_char="2221" end_char="2221">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2223" end_char="2391">
+<ORIGINAL_TEXT>Don karin bayani ka duba littafin "Al-Fawaaʼidul Majmooʼah fil Ahaadeesil Mawdooʼah" wanda Shawkaani ya rubuta, lambar hadisi na 287, da 288, da 289, da 290 da kuma 291.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2223" end_char="2225">Don</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="2227" end_char="2231">karin</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2233" end_char="2238">bayani</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="2240" end_char="2241">ka</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="2243" end_char="2246">duba</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="2248" end_char="2255">littafin</TOKEN>
+<TOKEN id="token-25-6" pos="punct" morph="none" start_char="2257" end_char="2257">"</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2258" end_char="2259">Al</TOKEN>
+<TOKEN id="token-25-8" pos="punct" morph="none" start_char="2260" end_char="2260">-</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="2261" end_char="2270">Fawaaʼidul</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="2272" end_char="2280">Majmooʼah</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="2282" end_char="2284">fil</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="2286" end_char="2295">Ahaadeesil</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="2297" end_char="2305">Mawdooʼah</TOKEN>
+<TOKEN id="token-25-14" pos="punct" morph="none" start_char="2306" end_char="2306">"</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="2308" end_char="2312">wanda</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="2314" end_char="2322">Shawkaani</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="2324" end_char="2325">ya</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="2327" end_char="2332">rubuta</TOKEN>
+<TOKEN id="token-25-19" pos="punct" morph="none" start_char="2333" end_char="2333">,</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="2335" end_char="2340">lambar</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="2342" end_char="2347">hadisi</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="2349" end_char="2350">na</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="2352" end_char="2354">287</TOKEN>
+<TOKEN id="token-25-24" pos="punct" morph="none" start_char="2355" end_char="2355">,</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="2357" end_char="2358">da</TOKEN>
+<TOKEN id="token-25-26" pos="word" morph="none" start_char="2360" end_char="2362">288</TOKEN>
+<TOKEN id="token-25-27" pos="punct" morph="none" start_char="2363" end_char="2363">,</TOKEN>
+<TOKEN id="token-25-28" pos="word" morph="none" start_char="2365" end_char="2366">da</TOKEN>
+<TOKEN id="token-25-29" pos="word" morph="none" start_char="2368" end_char="2370">289</TOKEN>
+<TOKEN id="token-25-30" pos="punct" morph="none" start_char="2371" end_char="2371">,</TOKEN>
+<TOKEN id="token-25-31" pos="word" morph="none" start_char="2373" end_char="2374">da</TOKEN>
+<TOKEN id="token-25-32" pos="number" morph="none" start_char="2376" end_char="2378">290</TOKEN>
+<TOKEN id="token-25-33" pos="word" morph="none" start_char="2380" end_char="2381">da</TOKEN>
+<TOKEN id="token-25-34" pos="word" morph="none" start_char="2383" end_char="2386">kuma</TOKEN>
+<TOKEN id="token-25-35" pos="word" morph="none" start_char="2388" end_char="2390">291</TOKEN>
+<TOKEN id="token-25-36" pos="punct" morph="none" start_char="2391" end_char="2391">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2393" end_char="2410">
+<ORIGINAL_TEXT>Da fatan ka gamsu.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2393" end_char="2394">Da</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="2396" end_char="2400">fatan</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2402" end_char="2403">ka</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="2405" end_char="2409">gamsu</TOKEN>
+<TOKEN id="token-26-4" pos="punct" morph="none" start_char="2410" end_char="2410">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

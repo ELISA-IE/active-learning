@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="HAU">
+  <DOC id="WL_NUR_HAU_007874_20100705_segment-0" lang="HAU">
+    <ANNOTATION id="WL_NUR_HAU_007874_20100705-ann-1" task="NE" type="TTL">
+      <EXTENT start_char="15" end_char="22">Shugaban</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007874_20100705-ann-2" task="NE" type="LOC">
+      <EXTENT start_char="24" end_char="34">Kasar Gabon</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007874_20100705-ann-3" task="NE" type="PER">
+      <EXTENT start_char="45" end_char="54">Umar Bango</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_SHI_TUR_0000832_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1807" raw_text_md5="e37bdca710ccedd7c94648a87502a75e">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="36">
+<ORIGINAL_TEXT>HES inşaatında göçük 4 ölü 1 Yaralı !</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="2">HES</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="4" end_char="13">inşaatında</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="15" end_char="19">göçük</TOKEN>
+<TOKEN id="token-0-3" pos="number" morph="none" start_char="21" end_char="21">4</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="23" end_char="25">ölü</TOKEN>
+<TOKEN id="token-0-5" pos="number" morph="none" start_char="27" end_char="27">1</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="29" end_char="34">Yaralı</TOKEN>
+<TOKEN id="token-0-7" pos="unknown" morph="none" start_char="36" end_char="36">!</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="38" end_char="179">
+<ORIGINAL_TEXT>Ölü ve yaralılar var Giresunʼun Dereli ilçesinde HES inşaatında oluşan toprak kaymasında ilk belirlemelere göre 4 kişi öldü, 1 kişi yaralandı.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="38" end_char="40">Ölü</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="42" end_char="43">ve</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="45" end_char="53">yaralılar</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="55" end_char="57">var</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="59" end_char="68">Giresunʼun</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="70" end_char="75">Dereli</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="77" end_char="85">ilçesinde</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="87" end_char="89">HES</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="91" end_char="100">inşaatında</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="102" end_char="107">oluşan</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="109" end_char="114">toprak</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="116" end_char="125">kaymasında</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="127" end_char="129">ilk</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="131" end_char="143">belirlemelere</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="145" end_char="148">göre</TOKEN>
+<TOKEN id="token-1-15" pos="number" morph="none" start_char="150" end_char="150">4</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="152" end_char="155">kişi</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="157" end_char="160">öldü</TOKEN>
+<TOKEN id="token-1-18" pos="punct" morph="none" start_char="161" end_char="161">,</TOKEN>
+<TOKEN id="token-1-19" pos="number" morph="none" start_char="163" end_char="163">1</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="165" end_char="168">kişi</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="170" end_char="178">yaralandı</TOKEN>
+<TOKEN id="token-1-22" pos="punct" morph="none" start_char="179" end_char="179">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="181" end_char="421">
+<ORIGINAL_TEXT>Dereli Belediye Başkanı Zeki Şenlikoğlu, yaptığı açıklamada, Kızıltaş köyünde bulunan hidroelektrik santralinde (HES) heyelan meydana geldiğini belirterek, olayda ilk belirlemelere göre 4 kişinin öldüğünü, 1 kişinin de yaralandığını söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="181" end_char="186">Dereli</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="188" end_char="195">Belediye</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="197" end_char="203">Başkanı</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="205" end_char="208">Zeki</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="210" end_char="219">Şenlikoğlu</TOKEN>
+<TOKEN id="token-2-5" pos="punct" morph="none" start_char="220" end_char="220">,</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="222" end_char="228">yaptığı</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="230" end_char="239">açıklamada</TOKEN>
+<TOKEN id="token-2-8" pos="punct" morph="none" start_char="240" end_char="240">,</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="242" end_char="249">Kızıltaş</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="251" end_char="257">köyünde</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="259" end_char="265">bulunan</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="267" end_char="279">hidroelektrik</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="281" end_char="291">santralinde</TOKEN>
+<TOKEN id="token-2-14" pos="punct" morph="none" start_char="293" end_char="293">(</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="294" end_char="296">HES</TOKEN>
+<TOKEN id="token-2-16" pos="punct" morph="none" start_char="297" end_char="297">)</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="299" end_char="305">heyelan</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="307" end_char="313">meydana</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="315" end_char="323">geldiğini</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="325" end_char="334">belirterek</TOKEN>
+<TOKEN id="token-2-21" pos="punct" morph="none" start_char="335" end_char="335">,</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="337" end_char="342">olayda</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="344" end_char="346">ilk</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="348" end_char="360">belirlemelere</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="362" end_char="365">göre</TOKEN>
+<TOKEN id="token-2-26" pos="number" morph="none" start_char="367" end_char="367">4</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="369" end_char="375">kişinin</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="377" end_char="384">öldüğünü</TOKEN>
+<TOKEN id="token-2-29" pos="punct" morph="none" start_char="385" end_char="385">,</TOKEN>
+<TOKEN id="token-2-30" pos="number" morph="none" start_char="387" end_char="387">1</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="389" end_char="395">kişinin</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="397" end_char="398">de</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="400" end_char="412">yaralandığını</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="414" end_char="420">söyledi</TOKEN>
+<TOKEN id="token-2-35" pos="punct" morph="none" start_char="421" end_char="421">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="423" end_char="434">
+<ORIGINAL_TEXT>AA haberturk</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="423" end_char="424">AA</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="426" end_char="434">haberturk</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="437" end_char="581">
+<ORIGINAL_TEXT>inna lillah ve inna ileyhi raciun müjdeler olsun ki vefat eden kardeşlerimiz hükmen şehiddir ve ölü değildir Rabbleri katında rızıklandırılırlar.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="437" end_char="440">inna</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="442" end_char="447">lillah</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="449" end_char="450">ve</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="452" end_char="455">inna</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="457" end_char="462">ileyhi</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="464" end_char="469">raciun</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="471" end_char="478">müjdeler</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="480" end_char="484">olsun</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="486" end_char="487">ki</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="489" end_char="493">vefat</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="495" end_char="498">eden</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="500" end_char="512">kardeşlerimiz</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="514" end_char="519">hükmen</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="521" end_char="528">şehiddir</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="530" end_char="531">ve</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="533" end_char="535">ölü</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="537" end_char="544">değildir</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="546" end_char="553">Rabbleri</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="555" end_char="561">katında</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="563" end_char="580">rızıklandırılırlar</TOKEN>
+<TOKEN id="token-4-20" pos="punct" morph="none" start_char="581" end_char="581">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="583" end_char="1110">
+<ORIGINAL_TEXT>Burası onlar için güzel olanı ama bir yanı var ki memleketimizin yüzkarası Dünyanın bilmemkaçıncısı olmuşuz şöyle ilerlemişiz işsizlik azalıp refah düzeyi artmım mış mış mış Beyler işçi ölümlerine baktığımızda ülkemizdeki işçilerin haklarının hayvan hakları kadar olmadığı açıkta artık işçilere ait şehitlikler kurmanın da zamanı daha yeni kaç kişi yaşamını o sulara bırakmadımı insan hayatı bu kadar ucuz mu yine nutuklar atılacak her parti leş kargaları misali cenaze evlerine dolacak ve kendilerine birşeyler çıkarmı bakacak.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="583" end_char="588">Burası</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="590" end_char="594">onlar</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="596" end_char="599">için</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="601" end_char="605">güzel</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="607" end_char="611">olanı</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="613" end_char="615">ama</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="617" end_char="619">bir</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="621" end_char="624">yanı</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="626" end_char="628">var</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="630" end_char="631">ki</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="633" end_char="646">memleketimizin</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="648" end_char="656">yüzkarası</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="658" end_char="665">Dünyanın</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="667" end_char="681">bilmemkaçıncısı</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="683" end_char="689">olmuşuz</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="691" end_char="695">şöyle</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="697" end_char="707">ilerlemişiz</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="709" end_char="716">işsizlik</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="718" end_char="723">azalıp</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="725" end_char="729">refah</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="731" end_char="736">düzeyi</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="738" end_char="743">artmım</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="745" end_char="747">mış</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="749" end_char="751">mış</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="753" end_char="755">mış</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="757" end_char="762">Beyler</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="764" end_char="767">işçi</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="769" end_char="778">ölümlerine</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="780" end_char="791">baktığımızda</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="793" end_char="803">ülkemizdeki</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="805" end_char="813">işçilerin</TOKEN>
+<TOKEN id="token-5-31" pos="word" morph="none" start_char="815" end_char="824">haklarının</TOKEN>
+<TOKEN id="token-5-32" pos="word" morph="none" start_char="826" end_char="831">hayvan</TOKEN>
+<TOKEN id="token-5-33" pos="word" morph="none" start_char="833" end_char="839">hakları</TOKEN>
+<TOKEN id="token-5-34" pos="word" morph="none" start_char="841" end_char="845">kadar</TOKEN>
+<TOKEN id="token-5-35" pos="word" morph="none" start_char="847" end_char="854">olmadığı</TOKEN>
+<TOKEN id="token-5-36" pos="word" morph="none" start_char="856" end_char="861">açıkta</TOKEN>
+<TOKEN id="token-5-37" pos="word" morph="none" start_char="863" end_char="867">artık</TOKEN>
+<TOKEN id="token-5-38" pos="word" morph="none" start_char="869" end_char="876">işçilere</TOKEN>
+<TOKEN id="token-5-39" pos="word" morph="none" start_char="878" end_char="880">ait</TOKEN>
+<TOKEN id="token-5-40" pos="word" morph="none" start_char="882" end_char="892">şehitlikler</TOKEN>
+<TOKEN id="token-5-41" pos="word" morph="none" start_char="894" end_char="901">kurmanın</TOKEN>
+<TOKEN id="token-5-42" pos="word" morph="none" start_char="903" end_char="904">da</TOKEN>
+<TOKEN id="token-5-43" pos="word" morph="none" start_char="906" end_char="911">zamanı</TOKEN>
+<TOKEN id="token-5-44" pos="word" morph="none" start_char="913" end_char="916">daha</TOKEN>
+<TOKEN id="token-5-45" pos="word" morph="none" start_char="918" end_char="921">yeni</TOKEN>
+<TOKEN id="token-5-46" pos="word" morph="none" start_char="923" end_char="925">kaç</TOKEN>
+<TOKEN id="token-5-47" pos="word" morph="none" start_char="927" end_char="930">kişi</TOKEN>
+<TOKEN id="token-5-48" pos="word" morph="none" start_char="932" end_char="939">yaşamını</TOKEN>
+<TOKEN id="token-5-49" pos="word" morph="none" start_char="941" end_char="941">o</TOKEN>
+<TOKEN id="token-5-50" pos="word" morph="none" start_char="943" end_char="948">sulara</TOKEN>
+<TOKEN id="token-5-51" pos="word" morph="none" start_char="950" end_char="960">bırakmadımı</TOKEN>
+<TOKEN id="token-5-52" pos="word" morph="none" start_char="962" end_char="966">insan</TOKEN>
+<TOKEN id="token-5-53" pos="word" morph="none" start_char="968" end_char="973">hayatı</TOKEN>
+<TOKEN id="token-5-54" pos="word" morph="none" start_char="975" end_char="976">bu</TOKEN>
+<TOKEN id="token-5-55" pos="word" morph="none" start_char="978" end_char="982">kadar</TOKEN>
+<TOKEN id="token-5-56" pos="word" morph="none" start_char="984" end_char="987">ucuz</TOKEN>
+<TOKEN id="token-5-57" pos="word" morph="none" start_char="989" end_char="990">mu</TOKEN>
+<TOKEN id="token-5-58" pos="word" morph="none" start_char="992" end_char="995">yine</TOKEN>
+<TOKEN id="token-5-59" pos="word" morph="none" start_char="997" end_char="1004">nutuklar</TOKEN>
+<TOKEN id="token-5-60" pos="word" morph="none" start_char="1006" end_char="1013">atılacak</TOKEN>
+<TOKEN id="token-5-61" pos="word" morph="none" start_char="1015" end_char="1017">her</TOKEN>
+<TOKEN id="token-5-62" pos="word" morph="none" start_char="1019" end_char="1023">parti</TOKEN>
+<TOKEN id="token-5-63" pos="word" morph="none" start_char="1025" end_char="1027">leş</TOKEN>
+<TOKEN id="token-5-64" pos="word" morph="none" start_char="1029" end_char="1037">kargaları</TOKEN>
+<TOKEN id="token-5-65" pos="word" morph="none" start_char="1039" end_char="1044">misali</TOKEN>
+<TOKEN id="token-5-66" pos="word" morph="none" start_char="1046" end_char="1051">cenaze</TOKEN>
+<TOKEN id="token-5-67" pos="word" morph="none" start_char="1053" end_char="1060">evlerine</TOKEN>
+<TOKEN id="token-5-68" pos="word" morph="none" start_char="1062" end_char="1068">dolacak</TOKEN>
+<TOKEN id="token-5-69" pos="word" morph="none" start_char="1070" end_char="1071">ve</TOKEN>
+<TOKEN id="token-5-70" pos="word" morph="none" start_char="1073" end_char="1083">kendilerine</TOKEN>
+<TOKEN id="token-5-71" pos="word" morph="none" start_char="1085" end_char="1093">birşeyler</TOKEN>
+<TOKEN id="token-5-72" pos="word" morph="none" start_char="1095" end_char="1101">çıkarmı</TOKEN>
+<TOKEN id="token-5-73" pos="word" morph="none" start_char="1103" end_char="1109">bakacak</TOKEN>
+<TOKEN id="token-5-74" pos="punct" morph="none" start_char="1110" end_char="1110">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="1112" end_char="1355">
+<ORIGINAL_TEXT>Ve o yetimler üç kuruş için hayatını kaybeden babalarının yolunu gözleyecekler efendim tazminat ödeniyorya geçenlerde bir liderin ağzından ilk defa hayırlı bir laf çıktı onun sorusuyla soralım o hıçkıran yetim kıza sorun kaç para verelim ......</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="1112" end_char="1113">Ve</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="1115" end_char="1115">o</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="1117" end_char="1124">yetimler</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="1126" end_char="1127">üç</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="1129" end_char="1133">kuruş</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="1135" end_char="1138">için</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="1140" end_char="1147">hayatını</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="1149" end_char="1156">kaybeden</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="1158" end_char="1168">babalarının</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="1170" end_char="1175">yolunu</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="1177" end_char="1189">gözleyecekler</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="1191" end_char="1197">efendim</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1199" end_char="1206">tazminat</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1208" end_char="1217">ödeniyorya</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="1219" end_char="1228">geçenlerde</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1230" end_char="1232">bir</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="1234" end_char="1240">liderin</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="1242" end_char="1249">ağzından</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="1251" end_char="1253">ilk</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="1255" end_char="1258">defa</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="1260" end_char="1266">hayırlı</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="1268" end_char="1270">bir</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="1272" end_char="1274">laf</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="1276" end_char="1280">çıktı</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="1282" end_char="1285">onun</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="1287" end_char="1295">sorusuyla</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="1297" end_char="1303">soralım</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="1305" end_char="1305">o</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="1307" end_char="1314">hıçkıran</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="1316" end_char="1320">yetim</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="1322" end_char="1325">kıza</TOKEN>
+<TOKEN id="token-6-31" pos="word" morph="none" start_char="1327" end_char="1331">sorun</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="1333" end_char="1335">kaç</TOKEN>
+<TOKEN id="token-6-33" pos="word" morph="none" start_char="1337" end_char="1340">para</TOKEN>
+<TOKEN id="token-6-34" pos="word" morph="none" start_char="1342" end_char="1348">verelim</TOKEN>
+<TOKEN id="token-6-35" pos="unknown" morph="none" start_char="1350" end_char="1355">......</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1357" end_char="1483">
+<ORIGINAL_TEXT>Memlekete yeni yetimler kazandırmayı marıfet sayanlar aman dikkat yetimin ahıda duasıda makbuldür ama ahını alanlar abad olmaz.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1357" end_char="1365">Memlekete</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1367" end_char="1370">yeni</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1372" end_char="1379">yetimler</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1381" end_char="1392">kazandırmayı</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1394" end_char="1400">marıfet</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1402" end_char="1409">sayanlar</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1411" end_char="1414">aman</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1416" end_char="1421">dikkat</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1423" end_char="1429">yetimin</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1431" end_char="1435">ahıda</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1437" end_char="1443">duasıda</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1445" end_char="1453">makbuldür</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1455" end_char="1457">ama</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1459" end_char="1463">ahını</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1465" end_char="1471">alanlar</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1473" end_char="1476">abad</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1478" end_char="1482">olmaz</TOKEN>
+<TOKEN id="token-7-17" pos="punct" morph="none" start_char="1483" end_char="1483">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1485" end_char="1804">
+<ORIGINAL_TEXT>her gün tuzlada ölüm hes lerde ölüm ölüm Allah[cc]ın emridir kişiler vesiledir ama islamda kısas vardır o vesilelere bir cana bir can dır yan,i üğç ay yat çık değildir bu sağın solun veya lazın kürdün davası değil bu artık ümmetin davasıdır yetim çocukların davasıdır en azından buğz ediniz ki imanın eksikliğinden olsun</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1485" end_char="1487">her</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1489" end_char="1491">gün</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1493" end_char="1499">tuzlada</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1501" end_char="1504">ölüm</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1506" end_char="1508">hes</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1510" end_char="1514">lerde</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1516" end_char="1519">ölüm</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1521" end_char="1524">ölüm</TOKEN>
+<TOKEN id="token-8-8" pos="unknown" morph="none" start_char="1526" end_char="1536">Allah[cc]ın</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1538" end_char="1544">emridir</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1546" end_char="1552">kişiler</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="1554" end_char="1562">vesiledir</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1564" end_char="1566">ama</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1568" end_char="1574">islamda</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1576" end_char="1580">kısas</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1582" end_char="1587">vardır</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1589" end_char="1589">o</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="1591" end_char="1600">vesilelere</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1602" end_char="1604">bir</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1606" end_char="1609">cana</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1611" end_char="1613">bir</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1615" end_char="1617">can</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="1619" end_char="1621">dır</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1623" end_char="1625">yan</TOKEN>
+<TOKEN id="token-8-24" pos="punct" morph="none" start_char="1626" end_char="1626">,</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1627" end_char="1627">i</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1629" end_char="1631">üğç</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1633" end_char="1634">ay</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1636" end_char="1638">yat</TOKEN>
+<TOKEN id="token-8-29" pos="word" morph="none" start_char="1640" end_char="1642">çık</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="1644" end_char="1651">değildir</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="1653" end_char="1654">bu</TOKEN>
+<TOKEN id="token-8-32" pos="word" morph="none" start_char="1656" end_char="1660">sağın</TOKEN>
+<TOKEN id="token-8-33" pos="word" morph="none" start_char="1662" end_char="1666">solun</TOKEN>
+<TOKEN id="token-8-34" pos="word" morph="none" start_char="1668" end_char="1671">veya</TOKEN>
+<TOKEN id="token-8-35" pos="word" morph="none" start_char="1673" end_char="1677">lazın</TOKEN>
+<TOKEN id="token-8-36" pos="word" morph="none" start_char="1679" end_char="1684">kürdün</TOKEN>
+<TOKEN id="token-8-37" pos="word" morph="none" start_char="1686" end_char="1691">davası</TOKEN>
+<TOKEN id="token-8-38" pos="word" morph="none" start_char="1693" end_char="1697">değil</TOKEN>
+<TOKEN id="token-8-39" pos="word" morph="none" start_char="1699" end_char="1700">bu</TOKEN>
+<TOKEN id="token-8-40" pos="word" morph="none" start_char="1702" end_char="1706">artık</TOKEN>
+<TOKEN id="token-8-41" pos="word" morph="none" start_char="1708" end_char="1714">ümmetin</TOKEN>
+<TOKEN id="token-8-42" pos="word" morph="none" start_char="1716" end_char="1724">davasıdır</TOKEN>
+<TOKEN id="token-8-43" pos="word" morph="none" start_char="1726" end_char="1730">yetim</TOKEN>
+<TOKEN id="token-8-44" pos="word" morph="none" start_char="1732" end_char="1741">çocukların</TOKEN>
+<TOKEN id="token-8-45" pos="word" morph="none" start_char="1743" end_char="1751">davasıdır</TOKEN>
+<TOKEN id="token-8-46" pos="word" morph="none" start_char="1753" end_char="1754">en</TOKEN>
+<TOKEN id="token-8-47" pos="word" morph="none" start_char="1756" end_char="1762">azından</TOKEN>
+<TOKEN id="token-8-48" pos="word" morph="none" start_char="1764" end_char="1767">buğz</TOKEN>
+<TOKEN id="token-8-49" pos="word" morph="none" start_char="1769" end_char="1774">ediniz</TOKEN>
+<TOKEN id="token-8-50" pos="word" morph="none" start_char="1776" end_char="1777">ki</TOKEN>
+<TOKEN id="token-8-51" pos="word" morph="none" start_char="1779" end_char="1784">imanın</TOKEN>
+<TOKEN id="token-8-52" pos="word" morph="none" start_char="1786" end_char="1798">eksikliğinden</TOKEN>
+<TOKEN id="token-8-53" pos="word" morph="none" start_char="1800" end_char="1804">olsun</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

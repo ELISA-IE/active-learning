@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_CNN_ENG_0100_20001213.uzb" lang="UZB">
+    <ANNOTATION id="NW_CNN_ENG_0100_20001213.uzb-NE1" task="NE">
+      <EXTENT start_char="47" end_char="55">Missisipi</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0100_20001213.uzb-NE2" task="NE">
+      <EXTENT start_char="232" end_char="236">Yaman</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0100_20001213.uzb-NE3" task="NE">
+      <EXTENT start_char="241" end_char="244">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0100_20001213.uzb-NE4" task="NE">
+      <EXTENT start_char="342" end_char="346">Yaman</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0100_20001213.uzb-NE5" task="NE">
+      <EXTENT start_char="61" end_char="76">Paskagula shahri</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0100_20001213.uzb-NE6" task="NE">
+      <EXTENT start_char="450" end_char="477">xalqaro terroristik tarmogʻi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_CNN_ENG_0100_20001213.uzb-NE7" task="NE">
+      <EXTENT start_char="15" end_char="22">USS Cole</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

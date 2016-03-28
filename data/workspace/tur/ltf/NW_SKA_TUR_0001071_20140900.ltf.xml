@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_SKA_TUR_0001071_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1597" raw_text_md5="ed990bf972f03071222dfb48dfa717f0">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="50">
+<ORIGINAL_TEXT>Şili'de 8.2 Büyüklüğünde Deprem Ve Tsunami Felaketi</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="3">Şili</TOKEN>
+<TOKEN id="token-0-1" pos="punct" morph="none" start_char="4" end_char="4">'</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="5" end_char="6">de</TOKEN>
+<TOKEN id="token-0-3" pos="number" morph="none" start_char="8" end_char="10">8.2</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="12" end_char="23">Büyüklüğünde</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="25" end_char="30">Deprem</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="32" end_char="33">Ve</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="35" end_char="41">Tsunami</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="43" end_char="50">Felaketi</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="53" end_char="123">
+<ORIGINAL_TEXT>Güney Amerika ülkesi Şili'de 8,2 büyüklüğünde bir deprem meydana geldi.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="53" end_char="57">Güney</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="59" end_char="65">Amerika</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="67" end_char="72">ülkesi</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="74" end_char="77">Şili</TOKEN>
+<TOKEN id="token-1-4" pos="punct" morph="none" start_char="78" end_char="78">'</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="79" end_char="80">de</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="82" end_char="82">8</TOKEN>
+<TOKEN id="token-1-7" pos="punct" morph="none" start_char="83" end_char="83">,</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="84" end_char="84">2</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="86" end_char="97">büyüklüğünde</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="99" end_char="101">bir</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="103" end_char="108">deprem</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="110" end_char="116">meydana</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="118" end_char="122">geldi</TOKEN>
+<TOKEN id="token-1-14" pos="punct" morph="none" start_char="123" end_char="123">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="125" end_char="232">
+<ORIGINAL_TEXT>Hawaii merkezli Pasifik Tsunami Uyarı Merkezi, Pasifikʼte kıyısı bulunan ülkeler için tsunami uyarısı yaptı.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="125" end_char="130">Hawaii</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="132" end_char="139">merkezli</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="141" end_char="147">Pasifik</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="149" end_char="155">Tsunami</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="157" end_char="161">Uyarı</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="163" end_char="169">Merkezi</TOKEN>
+<TOKEN id="token-2-6" pos="punct" morph="none" start_char="170" end_char="170">,</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="172" end_char="181">Pasifikʼte</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="183" end_char="188">kıyısı</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="190" end_char="196">bulunan</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="198" end_char="204">ülkeler</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="206" end_char="209">için</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="211" end_char="217">tsunami</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="219" end_char="225">uyarısı</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="227" end_char="231">yaptı</TOKEN>
+<TOKEN id="token-2-15" pos="punct" morph="none" start_char="232" end_char="232">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="234" end_char="299">
+<ORIGINAL_TEXT>İki metrelik İlk dalgalar 45 dakikaiçinde Şili sahillerine ulaştı.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="234" end_char="236">İki</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="238" end_char="245">metrelik</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="247" end_char="249">İlk</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="251" end_char="258">dalgalar</TOKEN>
+<TOKEN id="token-3-4" pos="number" morph="none" start_char="260" end_char="261">45</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="263" end_char="274">dakikaiçinde</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="276" end_char="279">Şili</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="281" end_char="291">sahillerine</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="293" end_char="298">ulaştı</TOKEN>
+<TOKEN id="token-3-9" pos="punct" morph="none" start_char="299" end_char="299">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="301" end_char="445">
+<ORIGINAL_TEXT>8.0 büyüklüğündeki çok şiddetli deprem, Şili'nin kuzeyindeki Iquique kentinin 83 kilometre açığında ve denizin 6 kilometre altında meydana geldi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="number" morph="none" start_char="301" end_char="303">8.0</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="305" end_char="318">büyüklüğündeki</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="320" end_char="322">çok</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="324" end_char="331">şiddetli</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="333" end_char="338">deprem</TOKEN>
+<TOKEN id="token-4-5" pos="punct" morph="none" start_char="339" end_char="339">,</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="341" end_char="344">Şili</TOKEN>
+<TOKEN id="token-4-7" pos="punct" morph="none" start_char="345" end_char="345">'</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="346" end_char="348">nin</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="350" end_char="360">kuzeyindeki</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="362" end_char="368">Iquique</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="370" end_char="377">kentinin</TOKEN>
+<TOKEN id="token-4-12" pos="number" morph="none" start_char="379" end_char="380">83</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="382" end_char="390">kilometre</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="392" end_char="399">açığında</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="401" end_char="402">ve</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="404" end_char="410">denizin</TOKEN>
+<TOKEN id="token-4-17" pos="number" morph="none" start_char="412" end_char="412">6</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="414" end_char="422">kilometre</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="424" end_char="430">altında</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="432" end_char="438">meydana</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="440" end_char="444">geldi</TOKEN>
+<TOKEN id="token-4-22" pos="punct" morph="none" start_char="445" end_char="445">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="447" end_char="558">
+<ORIGINAL_TEXT>Hawaii merkezli Pasifik Tsunami Uyarı Merkezi, Pasifikʼte kıyısı bulunan ülkeler için tsunami uyarısı yayınladı.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="447" end_char="452">Hawaii</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="454" end_char="461">merkezli</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="463" end_char="469">Pasifik</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="471" end_char="477">Tsunami</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="479" end_char="483">Uyarı</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="485" end_char="491">Merkezi</TOKEN>
+<TOKEN id="token-5-6" pos="punct" morph="none" start_char="492" end_char="492">,</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="494" end_char="503">Pasifikʼte</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="505" end_char="510">kıyısı</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="512" end_char="518">bulunan</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="520" end_char="526">ülkeler</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="528" end_char="531">için</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="533" end_char="539">tsunami</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="541" end_char="547">uyarısı</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="549" end_char="557">yayınladı</TOKEN>
+<TOKEN id="token-5-15" pos="punct" morph="none" start_char="558" end_char="558">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="560" end_char="638">
+<ORIGINAL_TEXT>Hasara ilişkin net açıklama henüz gelmezken, ilk tsunami dalgası sahile ulaştı.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="560" end_char="565">Hasara</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="567" end_char="573">ilişkin</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="575" end_char="577">net</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="579" end_char="586">açıklama</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="588" end_char="592">henüz</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="594" end_char="602">gelmezken</TOKEN>
+<TOKEN id="token-6-6" pos="punct" morph="none" start_char="603" end_char="603">,</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="605" end_char="607">ilk</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="609" end_char="615">tsunami</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="617" end_char="623">dalgası</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="625" end_char="630">sahile</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="632" end_char="637">ulaştı</TOKEN>
+<TOKEN id="token-6-12" pos="punct" morph="none" start_char="638" end_char="638">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="640" end_char="716">
+<ORIGINAL_TEXT>Pasifik Okyanusuʼndan boyu iki metreye ulaşan dalgalar Şili kıyılarını vurdu.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="640" end_char="646">Pasifik</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="648" end_char="660">Okyanusuʼndan</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="662" end_char="665">boyu</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="667" end_char="669">iki</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="671" end_char="677">metreye</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="679" end_char="684">ulaşan</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="686" end_char="693">dalgalar</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="695" end_char="698">Şili</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="700" end_char="709">kıyılarını</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="711" end_char="715">vurdu</TOKEN>
+<TOKEN id="token-7-10" pos="punct" morph="none" start_char="716" end_char="716">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="718" end_char="835">
+<ORIGINAL_TEXT>Yetkililer tsunaminin Latin Amerika kıyılarında Şili, Peru ve Ekvador'da etkili olabileceği konusunda uyarıda bulundu.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="718" end_char="727">Yetkililer</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="729" end_char="738">tsunaminin</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="740" end_char="744">Latin</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="746" end_char="752">Amerika</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="754" end_char="764">kıyılarında</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="766" end_char="769">Şili</TOKEN>
+<TOKEN id="token-8-6" pos="punct" morph="none" start_char="770" end_char="770">,</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="772" end_char="775">Peru</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="777" end_char="778">ve</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="780" end_char="786">Ekvador</TOKEN>
+<TOKEN id="token-8-10" pos="punct" morph="none" start_char="787" end_char="787">'</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="788" end_char="789">da</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="791" end_char="796">etkili</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="798" end_char="808">olabileceği</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="810" end_char="818">konusunda</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="820" end_char="826">uyarıda</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="828" end_char="834">bulundu</TOKEN>
+<TOKEN id="token-8-17" pos="punct" morph="none" start_char="835" end_char="835">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="837" end_char="987">
+<ORIGINAL_TEXT>Kıyı şeridinde yaşayanların bölgeyi acilen tahliye etmesi istenirken, yetkililer tsunaminin kıyı boyunca yıkıcı bir hale gelebileceği konusunda uyardı.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="837" end_char="840">Kıyı</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="842" end_char="850">şeridinde</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="852" end_char="863">yaşayanların</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="865" end_char="871">bölgeyi</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="873" end_char="878">acilen</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="880" end_char="886">tahliye</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="888" end_char="893">etmesi</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="895" end_char="904">istenirken</TOKEN>
+<TOKEN id="token-9-8" pos="punct" morph="none" start_char="905" end_char="905">,</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="907" end_char="916">yetkililer</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="918" end_char="927">tsunaminin</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="929" end_char="932">kıyı</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="934" end_char="940">boyunca</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="942" end_char="947">yıkıcı</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="949" end_char="951">bir</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="953" end_char="956">hale</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="958" end_char="969">gelebileceği</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="971" end_char="979">konusunda</TOKEN>
+<TOKEN id="token-9-18" pos="word" morph="none" start_char="981" end_char="986">uyardı</TOKEN>
+<TOKEN id="token-9-19" pos="punct" morph="none" start_char="987" end_char="987">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="989" end_char="1114">
+<ORIGINAL_TEXT>Açıklamada, "Bu büyüklükte bir depremin daha uzak sahiller için bile yıkıcı bir tsunami üretebilecek potansiyeli var” denildi.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="989" end_char="998">Açıklamada</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="999" end_char="999">,</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="1001" end_char="1001">"</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1002" end_char="1003">Bu</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1005" end_char="1014">büyüklükte</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1016" end_char="1018">bir</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1020" end_char="1027">depremin</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1029" end_char="1032">daha</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1034" end_char="1037">uzak</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1039" end_char="1046">sahiller</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1048" end_char="1051">için</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1053" end_char="1056">bile</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1058" end_char="1063">yıkıcı</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1065" end_char="1067">bir</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1069" end_char="1075">tsunami</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1077" end_char="1088">üretebilecek</TOKEN>
+<TOKEN id="token-10-16" pos="word" morph="none" start_char="1090" end_char="1100">potansiyeli</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1102" end_char="1104">var</TOKEN>
+<TOKEN id="token-10-18" pos="punct" morph="none" start_char="1105" end_char="1105">”</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1107" end_char="1113">denildi</TOKEN>
+<TOKEN id="token-10-20" pos="punct" morph="none" start_char="1114" end_char="1114">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1116" end_char="1177">
+<ORIGINAL_TEXT>Sarsıntı sırasında büyük panik yaşayan halk sokaklara döküldü.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1116" end_char="1123">Sarsıntı</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1125" end_char="1133">sırasında</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1135" end_char="1139">büyük</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1141" end_char="1145">panik</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1147" end_char="1153">yaşayan</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1155" end_char="1158">halk</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1160" end_char="1168">sokaklara</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1170" end_char="1176">döküldü</TOKEN>
+<TOKEN id="token-11-8" pos="punct" morph="none" start_char="1177" end_char="1177">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1179" end_char="1230">
+<ORIGINAL_TEXT>Birçok Şililinin stadyumlara sığındığı bildiriliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1179" end_char="1184">Birçok</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1186" end_char="1194">Şililinin</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1196" end_char="1206">stadyumlara</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1208" end_char="1216">sığındığı</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1218" end_char="1229">bildiriliyor</TOKEN>
+<TOKEN id="token-12-5" pos="punct" morph="none" start_char="1230" end_char="1230">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1232" end_char="1284">
+<ORIGINAL_TEXT>Şili dünyanın en aktif deprem üreten ülkelerden biri.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1232" end_char="1235">Şili</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1237" end_char="1244">dünyanın</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1246" end_char="1247">en</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1249" end_char="1253">aktif</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1255" end_char="1260">deprem</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1262" end_char="1267">üreten</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1269" end_char="1278">ülkelerden</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1280" end_char="1283">biri</TOKEN>
+<TOKEN id="token-13-8" pos="punct" morph="none" start_char="1284" end_char="1284">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1286" end_char="1445">
+<ORIGINAL_TEXT>2010 yılının Şubat ayında meydana gelen 8,8 büyüklüğündeki deprem ile ardından oluşan tsunamide 500ʼden fazla kişi ölmüş, 220 bin ev kullanılamaz hale gelmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="number" morph="none" start_char="1286" end_char="1289">2010</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1291" end_char="1297">yılının</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1299" end_char="1303">Şubat</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1305" end_char="1310">ayında</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1312" end_char="1318">meydana</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1320" end_char="1324">gelen</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1326" end_char="1326">8</TOKEN>
+<TOKEN id="token-14-7" pos="punct" morph="none" start_char="1327" end_char="1327">,</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1328" end_char="1328">8</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1330" end_char="1343">büyüklüğündeki</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1345" end_char="1350">deprem</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1352" end_char="1354">ile</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1356" end_char="1363">ardından</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1365" end_char="1370">oluşan</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1372" end_char="1380">tsunamide</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1382" end_char="1388">500ʼden</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1390" end_char="1394">fazla</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1396" end_char="1399">kişi</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1401" end_char="1405">ölmüş</TOKEN>
+<TOKEN id="token-14-19" pos="punct" morph="none" start_char="1406" end_char="1406">,</TOKEN>
+<TOKEN id="token-14-20" pos="number" morph="none" start_char="1408" end_char="1410">220</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1412" end_char="1414">bin</TOKEN>
+<TOKEN id="token-14-22" pos="word" morph="none" start_char="1416" end_char="1417">ev</TOKEN>
+<TOKEN id="token-14-23" pos="word" morph="none" start_char="1419" end_char="1430">kullanılamaz</TOKEN>
+<TOKEN id="token-14-24" pos="word" morph="none" start_char="1432" end_char="1435">hale</TOKEN>
+<TOKEN id="token-14-25" pos="word" morph="none" start_char="1437" end_char="1444">gelmişti</TOKEN>
+<TOKEN id="token-14-26" pos="punct" morph="none" start_char="1445" end_char="1445">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1447" end_char="1525">
+<ORIGINAL_TEXT>Şimdiye kadar ölçülen en büyük deprem de 1960 yılında Şili'de meydana gelmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1447" end_char="1453">Şimdiye</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="1455" end_char="1459">kadar</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1461" end_char="1467">ölçülen</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1469" end_char="1470">en</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1472" end_char="1476">büyük</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1478" end_char="1483">deprem</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1485" end_char="1486">de</TOKEN>
+<TOKEN id="token-15-7" pos="number" morph="none" start_char="1488" end_char="1491">1960</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1493" end_char="1499">yılında</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="1501" end_char="1504">Şili</TOKEN>
+<TOKEN id="token-15-10" pos="punct" morph="none" start_char="1505" end_char="1505">'</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="1506" end_char="1507">de</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1509" end_char="1515">meydana</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="1517" end_char="1524">gelmişti</TOKEN>
+<TOKEN id="token-15-14" pos="punct" morph="none" start_char="1525" end_char="1525">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1527" end_char="1594">
+<ORIGINAL_TEXT>9,5 büyüklüğündeki depremde 5 binden fazla kişi yaşamını yitirmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1527" end_char="1527">9</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="1528" end_char="1528">,</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1529" end_char="1529">5</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1531" end_char="1544">büyüklüğündeki</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1546" end_char="1553">depremde</TOKEN>
+<TOKEN id="token-16-5" pos="number" morph="none" start_char="1555" end_char="1555">5</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1557" end_char="1562">binden</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1564" end_char="1568">fazla</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1570" end_char="1573">kişi</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="1575" end_char="1582">yaşamını</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="1584" end_char="1593">yitirmişti</TOKEN>
+<TOKEN id="token-16-11" pos="punct" morph="none" start_char="1594" end_char="1594">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

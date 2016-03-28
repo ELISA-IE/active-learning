@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_SHI_TUR_0000715_20140900" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="2636" raw_text_md5="8b3043c5e6abcdc821ef61ad4e280f55">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="23">
+<ORIGINAL_TEXT>Cezayir uçağı kayboldu..</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="Cezayir:cezayir=NOUN" start_char="0" end_char="6">Cezayir</TOKEN>
+<TOKEN id="token-0-1" pos="NOUN" morph="uçağ:uçak=NOUN ı:ı=POSS_3S" start_char="8" end_char="12">uçağı</TOKEN>
+<TOKEN id="token-0-2" pos="VERB" morph="kaybol:kaybol=VERB du:du=DIPAST" start_char="14" end_char="21">kayboldu</TOKEN>
+<TOKEN id="token-0-3" pos="." morph="none" start_char="22" end_char="23">..</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="25" end_char="82">
+<ORIGINAL_TEXT>Cezayir Havayollarıʼna ait yolcu uçağı ile bağlantı koptu.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="Cezayir:cezayir=NOUN" start_char="25" end_char="31">Cezayir</TOKEN>
+<TOKEN id="token-1-1" pos="NOUN" morph="Havayollarıʼ:havayollarıʼ=NOUN n:n=POSS_2S a:a=CASE_DAT" start_char="33" end_char="46">Havayollarıʼna</TOKEN>
+<TOKEN id="token-1-2" pos="VERB" morph="ait:ait=VERB" start_char="48" end_char="50">ait</TOKEN>
+<TOKEN id="token-1-3" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="52" end_char="56">yolcu</TOKEN>
+<TOKEN id="token-1-4" pos="NOUN" morph="uçağ:uçak=NOUN ı:ı=CASE_ACC" start_char="58" end_char="62">uçağı</TOKEN>
+<TOKEN id="token-1-5" pos="CONJ" morph="ile:ile=CONJ" start_char="64" end_char="66">ile</TOKEN>
+<TOKEN id="token-1-6" pos="NOUN" morph="bağlantı:bağlantı=NOUN" start_char="68" end_char="75">bağlantı</TOKEN>
+<TOKEN id="token-1-7" pos="VERB" morph="kop:kop=VERB tu:tu=DIPAST" start_char="77" end_char="81">koptu</TOKEN>
+<TOKEN id="token-1-8" pos="." morph="none" start_char="82" end_char="82">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="84" end_char="137">
+<ORIGINAL_TEXT>110 yolcu taşıyan uçağın düşmüş olmasından korkuluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="NUM" morph="none" start_char="84" end_char="86">110</TOKEN>
+<TOKEN id="token-2-1" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="88" end_char="92">yolcu</TOKEN>
+<TOKEN id="token-2-2" pos="ADJ" morph="taşı:taşı=VERB yan:yan=PARTICIPLE" start_char="94" end_char="100">taşıyan</TOKEN>
+<TOKEN id="token-2-3" pos="NOUN" morph="uçağ:uçak=NOUN ın:ın=POSS_2S" start_char="102" end_char="107">uçağın</TOKEN>
+<TOKEN id="token-2-4" pos="VERB" morph="düş:düş=VERB müş:müş=mIsPAST" start_char="109" end_char="114">düşmüş</TOKEN>
+<TOKEN id="token-2-5" pos="NOUN" morph="olma:olma=NOUN sı:sı=POSS_3S ndan:ndan=CASE_ABL" start_char="116" end_char="125">olmasından</TOKEN>
+<TOKEN id="token-2-6" pos="VERB" morph="korkuluyor:korkuluyor=VERB" start_char="127" end_char="136">korkuluyor</TOKEN>
+<TOKEN id="token-2-7" pos="." morph="none" start_char="137" end_char="137">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="140" end_char="229">
+<ORIGINAL_TEXT>Burkina Fasoʼdan kalkan Cezayir havayollarına ait bir uçakla irtibatın koptuğu belirtildi.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Burkina:burkina=NOUN" start_char="140" end_char="146">Burkina</TOKEN>
+<TOKEN id="token-3-1" pos="NOUN" morph="Fasoʼ:fasoʼ=NOUN dan:dan=CASE_ABL" start_char="148" end_char="155">Fasoʼdan</TOKEN>
+<TOKEN id="token-3-2" pos="ADJ" morph="kalk:kalk=VERB an:an=PARTICIPLE" start_char="157" end_char="162">kalkan</TOKEN>
+<TOKEN id="token-3-3" pos="NOUN" morph="Cezayir:cezayir=NOUN" start_char="164" end_char="170">Cezayir</TOKEN>
+<TOKEN id="token-3-4" pos="NOUN" morph="havayolları:havayolları=NOUN n:n=POSS_2S a:a=CASE_DAT" start_char="172" end_char="184">havayollarına</TOKEN>
+<TOKEN id="token-3-5" pos="ADV" morph="ait:ait=ADV" start_char="186" end_char="188">ait</TOKEN>
+<TOKEN id="token-3-6" pos="NUM" morph="bir:bir=NUM" start_char="190" end_char="192">bir</TOKEN>
+<TOKEN id="token-3-7" pos="NOUN" morph="uçak:uçak=NOUN la:la=CASE_INS" start_char="194" end_char="199">uçakla</TOKEN>
+<TOKEN id="token-3-8" pos="NOUN" morph="irtibat:irtibat=NOUN ın:ın=CASE_GEN" start_char="201" end_char="209">irtibatın</TOKEN>
+<TOKEN id="token-3-9" pos="ADJ" morph="kop:kop=VERB tuğ:tuğ=PARTICIPLE u:u=CASE_ACC" start_char="211" end_char="217">koptuğu</TOKEN>
+<TOKEN id="token-3-10" pos="VERB" morph="belirtil:belirtil=VERB di:di=DIPAST" start_char="219" end_char="228">belirtildi</TOKEN>
+<TOKEN id="token-3-11" pos="." morph="none" start_char="229" end_char="229">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="231" end_char="307">
+<ORIGINAL_TEXT>Uçağı işleten Swiftair uçakta 110 yolcu ve 6 mürettebat bulunduğunu açıkladı.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="NOUN" morph="Uçağ:uçak=NOUN ı:ı=CASE_ACC" start_char="231" end_char="235">Uçağı</TOKEN>
+<TOKEN id="token-4-1" pos="ADJ" morph="işlet:işlet=VERB en:en=PARTICIPLE" start_char="237" end_char="243">işleten</TOKEN>
+<TOKEN id="token-4-2" pos="NOUN" morph="Swiftair:swiftair=NOUN" start_char="245" end_char="252">Swiftair</TOKEN>
+<TOKEN id="token-4-3" pos="NOUN" morph="uçak:uçak=NOUN ta:ta=CASE_LOC" start_char="254" end_char="259">uçakta</TOKEN>
+<TOKEN id="token-4-4" pos="NUM" morph="none" start_char="261" end_char="263">110</TOKEN>
+<TOKEN id="token-4-5" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="265" end_char="269">yolcu</TOKEN>
+<TOKEN id="token-4-6" pos="CONJ" morph="ve:ve=CONJ" start_char="271" end_char="272">ve</TOKEN>
+<TOKEN id="token-4-7" pos="NUM" morph="none" start_char="274" end_char="274">6</TOKEN>
+<TOKEN id="token-4-8" pos="NOUN" morph="mürettebat:mürettebat=NOUN" start_char="276" end_char="285">mürettebat</TOKEN>
+<TOKEN id="token-4-9" pos="ADJ" morph="bulun:bulun=VERB duğ:duğ=PARTICIPLE u:u=POSS_3S nu:nu=CASE_ACC" start_char="287" end_char="297">bulunduğunu</TOKEN>
+<TOKEN id="token-4-10" pos="VERB" morph="açıkla:açıkla=VERB dı:dı=DIPAST" start_char="299" end_char="306">açıkladı</TOKEN>
+<TOKEN id="token-4-11" pos="." morph="none" start_char="307" end_char="307">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="310" end_char="557">
+<ORIGINAL_TEXT>Burkina Fasoʼnun başkenti Ouagadougouʼdan Cezayirʼin başkenti Cezayirʼe giden Air Algeria havayolları tarafından işletilen Swiftair şirketine ait MD83 model bir yolcu uçağının havalandıktan 50 dakika sonra kuleyle iletişiminin kesildiği bildirildi.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="NOUN" morph="Burkina:burkina=NOUN" start_char="310" end_char="316">Burkina</TOKEN>
+<TOKEN id="token-5-1" pos="NOUN" morph="Fasoʼ:fasoʼ=NOUN nun:nun=CASE_GEN" start_char="318" end_char="325">Fasoʼnun</TOKEN>
+<TOKEN id="token-5-2" pos="NOUN" morph="başkent:başkent=NOUN i:i=POSS_3S" start_char="327" end_char="334">başkenti</TOKEN>
+<TOKEN id="token-5-3" pos="NOUN" morph="Ouagadougouʼ:ouagadougouʼ=NOUN dan:dan=CASE_ABL" start_char="336" end_char="350">Ouagadougouʼdan</TOKEN>
+<TOKEN id="token-5-4" pos="NOUN" morph="Cezayirʼ:cezayirʼ=NOUN in:in=CASE_GEN" start_char="352" end_char="361">Cezayirʼin</TOKEN>
+<TOKEN id="token-5-5" pos="NOUN" morph="başkent:başkent=NOUN i:i=POSS_3S" start_char="363" end_char="370">başkenti</TOKEN>
+<TOKEN id="token-5-6" pos="NOUN" morph="Cezayirʼ:cezayirʼ=NOUN e:e=CASE_DAT" start_char="372" end_char="380">Cezayirʼe</TOKEN>
+<TOKEN id="token-5-7" pos="ADJ" morph="gid:git=VERB en:en=PARTICIPLE" start_char="382" end_char="386">giden</TOKEN>
+<TOKEN id="token-5-8" pos="NOUN" morph="Air:air=NOUN" start_char="388" end_char="390">Air</TOKEN>
+<TOKEN id="token-5-9" pos="NOUN" morph="Algeria:algeria=NOUN" start_char="392" end_char="398">Algeria</TOKEN>
+<TOKEN id="token-5-10" pos="NOUN" morph="havayolları:havayolları=NOUN" start_char="400" end_char="410">havayolları</TOKEN>
+<TOKEN id="token-5-11" pos="NOUN" morph="taraf:taraf=NOUN ı:ı=POSS_3S ndan:ndan=CASE_ABL" start_char="412" end_char="421">tarafından</TOKEN>
+<TOKEN id="token-5-12" pos="ADJ" morph="işletil:işletil=VERB en:en=PARTICIPLE" start_char="423" end_char="431">işletilen</TOKEN>
+<TOKEN id="token-5-13" pos="NOUN" morph="Swiftair:swiftair=NOUN" start_char="433" end_char="440">Swiftair</TOKEN>
+<TOKEN id="token-5-14" pos="NOUN" morph="şirket:şirket=NOUN i:i=POSS_3S ne:ne=CASE_DAT" start_char="442" end_char="450">şirketine</TOKEN>
+<TOKEN id="token-5-15" pos="ADP" morph="ait:ait=POSTP" start_char="452" end_char="454">ait</TOKEN>
+<TOKEN id="token-5-16" pos="X" morph="unanalyzable" start_char="456" end_char="459">MD83</TOKEN>
+<TOKEN id="token-5-17" pos="NOUN" morph="model:model=NOUN" start_char="461" end_char="465">model</TOKEN>
+<TOKEN id="token-5-18" pos="NUM" morph="bir:bir=NUM" start_char="467" end_char="469">bir</TOKEN>
+<TOKEN id="token-5-19" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="471" end_char="475">yolcu</TOKEN>
+<TOKEN id="token-5-20" pos="NOUN" morph="uçağ:uçak=NOUN ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="477" end_char="484">uçağının</TOKEN>
+<TOKEN id="token-5-21" pos="ADJ" morph="havalan:havalan=VERB dık:dık=PARTICIPLE tan:tan=CASE_ABL" start_char="486" end_char="498">havalandıktan</TOKEN>
+<TOKEN id="token-5-22" pos="NUM" morph="none" start_char="500" end_char="501">50</TOKEN>
+<TOKEN id="token-5-23" pos="NOUN" morph="dakika:dakika=NOUN" start_char="503" end_char="508">dakika</TOKEN>
+<TOKEN id="token-5-24" pos="ADV" morph="sonra:sonra=ADV" start_char="510" end_char="514">sonra</TOKEN>
+<TOKEN id="token-5-25" pos="NOUN" morph="kule:kule=NOUN yle:yle=CASE_INS" start_char="516" end_char="522">kuleyle</TOKEN>
+<TOKEN id="token-5-26" pos="NOUN" morph="iletişim:iletişim=NOUN i:i=POSS_3S nin:nin=CASE_GEN" start_char="524" end_char="535">iletişiminin</TOKEN>
+<TOKEN id="token-5-27" pos="ADJ" morph="kesil:kesil=VERB diğ:diğ=PARTICIPLE i:i=CASE_ACC" start_char="537" end_char="545">kesildiği</TOKEN>
+<TOKEN id="token-5-28" pos="VERB" morph="bildiril:bildiril=VERB di:di=DIPAST" start_char="547" end_char="556">bildirildi</TOKEN>
+<TOKEN id="token-5-29" pos="." morph="none" start_char="557" end_char="557">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="559" end_char="655">
+<ORIGINAL_TEXT>Swiftair şirketi tarafından yapılan açıklamada uçakta 110 yolcu, 2 pilot ve 4 hostes bulunuyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="NOUN" morph="Swiftair:swiftair=NOUN" start_char="559" end_char="566">Swiftair</TOKEN>
+<TOKEN id="token-6-1" pos="NOUN" morph="şirket:şirket=NOUN i:i=CASE_ACC" start_char="568" end_char="574">şirketi</TOKEN>
+<TOKEN id="token-6-2" pos="NOUN" morph="taraf:taraf=NOUN ı:ı=POSS_3S ndan:ndan=CASE_ABL" start_char="576" end_char="585">tarafından</TOKEN>
+<TOKEN id="token-6-3" pos="ADJ" morph="yapıl:yapıl=VERB an:an=PARTICIPLE" start_char="587" end_char="593">yapılan</TOKEN>
+<TOKEN id="token-6-4" pos="NOUN" morph="açıklama:açıklama=NOUN da:da=CASE_LOC" start_char="595" end_char="604">açıklamada</TOKEN>
+<TOKEN id="token-6-5" pos="NOUN" morph="uçak:uçak=NOUN ta:ta=CASE_LOC" start_char="606" end_char="611">uçakta</TOKEN>
+<TOKEN id="token-6-6" pos="NUM" morph="none" start_char="613" end_char="615">110</TOKEN>
+<TOKEN id="token-6-7" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="617" end_char="621">yolcu</TOKEN>
+<TOKEN id="token-6-8" pos="." morph="none" start_char="622" end_char="622">,</TOKEN>
+<TOKEN id="token-6-9" pos="NUM" morph="none" start_char="624" end_char="624">2</TOKEN>
+<TOKEN id="token-6-10" pos="NOUN" morph="pilot:pilot=NOUN" start_char="626" end_char="630">pilot</TOKEN>
+<TOKEN id="token-6-11" pos="CONJ" morph="ve:ve=CONJ" start_char="632" end_char="633">ve</TOKEN>
+<TOKEN id="token-6-12" pos="NUM" morph="none" start_char="635" end_char="635">4</TOKEN>
+<TOKEN id="token-6-13" pos="NOUN" morph="hostes:hostes=NOUN" start_char="637" end_char="642">hostes</TOKEN>
+<TOKEN id="token-6-14" pos="VERB" morph="bul:bul=VERB un:un=REFL uyor:uyor=PROG du:du=DIPAST" start_char="644" end_char="654">bulunuyordu</TOKEN>
+<TOKEN id="token-6-15" pos="." morph="none" start_char="655" end_char="655">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="658" end_char="762">
+<ORIGINAL_TEXT>Uçağın yerel saat ile Ouagadougouʼdan 01.17ʼde havalandığı ve Cezayirʼe saat 05.10ʼda inmesi gerekiyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="NOUN" morph="Uçağ:uçak=NOUN ın:ın=POSS_2S" start_char="658" end_char="663">Uçağın</TOKEN>
+<TOKEN id="token-7-1" pos="ADJ" morph="yerel:yerel=ADJ" start_char="665" end_char="669">yerel</TOKEN>
+<TOKEN id="token-7-2" pos="NOUN" morph="saat:saat=NOUN" start_char="671" end_char="674">saat</TOKEN>
+<TOKEN id="token-7-3" pos="CONJ" morph="ile:ile=CONJ" start_char="676" end_char="678">ile</TOKEN>
+<TOKEN id="token-7-4" pos="NOUN" morph="Ouagadougouʼ:ouagadougouʼ=NOUN dan:dan=CASE_ABL" start_char="680" end_char="694">Ouagadougouʼdan</TOKEN>
+<TOKEN id="token-7-5" pos="NUM" morph="01:01=NUM" start_char="696" end_char="697">01</TOKEN>
+<TOKEN id="token-7-6" pos="." morph="none" start_char="698" end_char="698">.</TOKEN>
+<TOKEN id="token-7-7" pos="NUM" morph="17ʼ:17ʼ=NUM de:de=CASE_LOC" start_char="699" end_char="703">17ʼde</TOKEN>
+<TOKEN id="token-7-8" pos="ADJ" morph="havalan:havalan=VERB dığ:dığ=PARTICIPLE ı:ı=CASE_ACC" start_char="705" end_char="715">havalandığı</TOKEN>
+<TOKEN id="token-7-9" pos="CONJ" morph="ve:ve=CONJ" start_char="717" end_char="718">ve</TOKEN>
+<TOKEN id="token-7-10" pos="NOUN" morph="Cezayirʼ:cezayirʼ=NOUN e:e=CASE_DAT" start_char="720" end_char="728">Cezayirʼe</TOKEN>
+<TOKEN id="token-7-11" pos="NOUN" morph="saat:saat=NOUN" start_char="730" end_char="733">saat</TOKEN>
+<TOKEN id="token-7-12" pos="NUM" morph="05:05=NUM" start_char="735" end_char="736">05</TOKEN>
+<TOKEN id="token-7-13" pos="." morph="none" start_char="737" end_char="737">.</TOKEN>
+<TOKEN id="token-7-14" pos="NUM" morph="10ʼ:10ʼ=NUM da:da=CASE_LOC" start_char="738" end_char="742">10ʼda</TOKEN>
+<TOKEN id="token-7-15" pos="VERB" morph="inmesi:inmesi=VERB" start_char="744" end_char="749">inmesi</TOKEN>
+<TOKEN id="token-7-16" pos="VERB" morph="gerek:gerek=VERB iyor:iyor=PROG du:du=DIPAST" start_char="751" end_char="761">gerekiyordu</TOKEN>
+<TOKEN id="token-7-17" pos="." morph="none" start_char="762" end_char="762">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="764" end_char="1015">
+<ORIGINAL_TEXT>Yaklaşık 6 saat önce gideceği yere inmesi gerekirken tüm iletişimin kesildiğini duyuran ajanslar uçağın kaybolduğu bölgenin Sahal çölüne denk geldiğini ve burada hava sıcaklığının 45 dereceyi geçtiği ve hiçbir kara yolunun bulunmadığını dikkat çektiler</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="ADV" morph="Yaklaşık:yaklaşık=ADV" start_char="764" end_char="771">Yaklaşık</TOKEN>
+<TOKEN id="token-8-1" pos="NUM" morph="none" start_char="773" end_char="773">6</TOKEN>
+<TOKEN id="token-8-2" pos="NOUN" morph="saat:saat=NOUN" start_char="775" end_char="778">saat</TOKEN>
+<TOKEN id="token-8-3" pos="ADJ" morph="önce:önce=ADJ" start_char="780" end_char="783">önce</TOKEN>
+<TOKEN id="token-8-4" pos="ADJ" morph="gid:git=VERB eceğ:eceğ=PARTICIPLE i:i=CASE_ACC" start_char="785" end_char="792">gideceği</TOKEN>
+<TOKEN id="token-8-5" pos="NOUN" morph="yer:yer=NOUN e:e=CASE_DAT" start_char="794" end_char="797">yere</TOKEN>
+<TOKEN id="token-8-6" pos="VERB" morph="inmesi:inmesi=VERB" start_char="799" end_char="804">inmesi</TOKEN>
+<TOKEN id="token-8-7" pos="VERB" morph="gerekirken:gerekirken=VERB" start_char="806" end_char="815">gerekirken</TOKEN>
+<TOKEN id="token-8-8" pos="ADJ" morph="tüm:tüm=ADJ" start_char="817" end_char="819">tüm</TOKEN>
+<TOKEN id="token-8-9" pos="NOUN" morph="iletişim:iletişim=NOUN in:in=CASE_GEN" start_char="821" end_char="830">iletişimin</TOKEN>
+<TOKEN id="token-8-10" pos="ADJ" morph="kesil:kesil=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="832" end_char="842">kesildiğini</TOKEN>
+<TOKEN id="token-8-11" pos="ADJ" morph="duyur:duyur=VERB an:an=PARTICIPLE" start_char="844" end_char="850">duyuran</TOKEN>
+<TOKEN id="token-8-12" pos="NOUN" morph="ajans:ajans=NOUN lar:lar=PLURAL" start_char="852" end_char="859">ajanslar</TOKEN>
+<TOKEN id="token-8-13" pos="NOUN" morph="uçağ:uçak=NOUN ın:ın=CASE_GEN" start_char="861" end_char="866">uçağın</TOKEN>
+<TOKEN id="token-8-14" pos="ADJ" morph="kaybol:kaybol=VERB duğ:duğ=PARTICIPLE u:u=CASE_ACC" start_char="868" end_char="877">kaybolduğu</TOKEN>
+<TOKEN id="token-8-15" pos="NOUN" morph="bölge:bölge=NOUN nin:nin=CASE_GEN" start_char="879" end_char="886">bölgenin</TOKEN>
+<TOKEN id="token-8-16" pos="NOUN" morph="Sahal:sahal=NOUN" start_char="888" end_char="892">Sahal</TOKEN>
+<TOKEN id="token-8-17" pos="NOUN" morph="çöl:çöl=NOUN ü:ü=POSS_3S ne:ne=CASE_DAT" start_char="894" end_char="899">çölüne</TOKEN>
+<TOKEN id="token-8-18" pos="ADJ" morph="denk:denk=ADJ" start_char="901" end_char="904">denk</TOKEN>
+<TOKEN id="token-8-19" pos="ADJ" morph="gel:gel=VERB diğ:diğ=PARTICIPLE i:i=POSS_3S ni:ni=CASE_ACC" start_char="906" end_char="914">geldiğini</TOKEN>
+<TOKEN id="token-8-20" pos="CONJ" morph="ve:ve=CONJ" start_char="916" end_char="917">ve</TOKEN>
+<TOKEN id="token-8-21" pos="ADV" morph="burada:burada=ADV" start_char="919" end_char="924">burada</TOKEN>
+<TOKEN id="token-8-22" pos="NOUN" morph="hava:hava=NOUN" start_char="926" end_char="929">hava</TOKEN>
+<TOKEN id="token-8-23" pos="NOUN" morph="sıcaklığ:sıcaklık=NOUN ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="931" end_char="942">sıcaklığının</TOKEN>
+<TOKEN id="token-8-24" pos="NUM" morph="none" start_char="944" end_char="945">45</TOKEN>
+<TOKEN id="token-8-25" pos="NOUN" morph="derece:derece=NOUN yi:yi=CASE_ACC" start_char="947" end_char="954">dereceyi</TOKEN>
+<TOKEN id="token-8-26" pos="ADJ" morph="geç:geç=VERB tiğ:tiğ=PARTICIPLE i:i=CASE_ACC" start_char="956" end_char="962">geçtiği</TOKEN>
+<TOKEN id="token-8-27" pos="CONJ" morph="ve:ve=CONJ" start_char="964" end_char="965">ve</TOKEN>
+<TOKEN id="token-8-28" pos="ADJ" morph="hiçbir:hiçbir=ADJ" start_char="967" end_char="972">hiçbir</TOKEN>
+<TOKEN id="token-8-29" pos="NOUN" morph="kara:kara=NOUN" start_char="974" end_char="977">kara</TOKEN>
+<TOKEN id="token-8-30" pos="NOUN" morph="yol:yol=NOUN u:u=POSS_3S nun:nun=CASE_GEN" start_char="979" end_char="985">yolunun</TOKEN>
+<TOKEN id="token-8-31" pos="VERB" morph="bulunmadığını:bulunmadığını=VERB" start_char="987" end_char="999">bulunmadığını</TOKEN>
+<TOKEN id="token-8-32" pos="VERB" morph="dikkat:dikkat=VERB" start_char="1001" end_char="1006">dikkat</TOKEN>
+<TOKEN id="token-8-33" pos="VERB" morph="çektiler:çektiler=VERB" start_char="1008" end_char="1015">çektiler</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1018" end_char="1219">
+<ORIGINAL_TEXT>BİR HAFTADA 3ʼÜNCÜ UÇAK VAKASI Amsterdam-Kuala Lumpur seferini yapan Malezya Havayollarıʼna ait uçak 17 Temmuzʼda 'bir füzenin isabet etmesi sonucu' düşmüş, uçakta bulunan 298 kişi hayatını kaybetmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="NUM" morph="BİR:bİr=NUM" start_char="1018" end_char="1020">BİR</TOKEN>
+<TOKEN id="token-9-1" pos="NOUN" morph="HAFTA:hafta=NOUN da:da=CASE_LOC" start_char="1022" end_char="1028">HAFTADA</TOKEN>
+<TOKEN id="token-9-2" pos="NUM" morph="3ʼÜNCÜ:3ʼÜncÜ=NUM" start_char="1030" end_char="1035">3ʼÜNCÜ</TOKEN>
+<TOKEN id="token-9-3" pos="NOUN" morph="UÇAK:uÇak=NOUN" start_char="1037" end_char="1040">UÇAK</TOKEN>
+<TOKEN id="token-9-4" pos="NOUN" morph="VAKA:vaka=NOUN si:si=POSS_3S" start_char="1042" end_char="1047">VAKASI</TOKEN>
+<TOKEN id="token-9-5" pos="NOUN" morph="Amsterdam:amsterdam=NOUN" start_char="1049" end_char="1057">Amsterdam</TOKEN>
+<TOKEN id="token-9-6" pos="." morph="none" start_char="1058" end_char="1058">-</TOKEN>
+<TOKEN id="token-9-7" pos="NOUN" morph="Kuala:kuala=NOUN" start_char="1059" end_char="1063">Kuala</TOKEN>
+<TOKEN id="token-9-8" pos="NOUN" morph="Lumpur:lumpur=NOUN" start_char="1065" end_char="1070">Lumpur</TOKEN>
+<TOKEN id="token-9-9" pos="NOUN" morph="sefer:sefer=NOUN i:i=POSS_3S ni:ni=CASE_ACC" start_char="1072" end_char="1079">seferini</TOKEN>
+<TOKEN id="token-9-10" pos="ADJ" morph="yap:yap=VERB an:an=PARTICIPLE" start_char="1081" end_char="1085">yapan</TOKEN>
+<TOKEN id="token-9-11" pos="NOUN" morph="Malezya:malezya=NOUN" start_char="1087" end_char="1093">Malezya</TOKEN>
+<TOKEN id="token-9-12" pos="NOUN" morph="Havayollarıʼna:havayollarıʼna=NOUN" start_char="1095" end_char="1108">Havayollarıʼna</TOKEN>
+<TOKEN id="token-9-13" pos="ADP" morph="ait:ait=POSTP" start_char="1110" end_char="1112">ait</TOKEN>
+<TOKEN id="token-9-14" pos="NOUN" morph="uçak:uçak=NOUN" start_char="1114" end_char="1117">uçak</TOKEN>
+<TOKEN id="token-9-15" pos="NUM" morph="none" start_char="1119" end_char="1120">17</TOKEN>
+<TOKEN id="token-9-16" pos="NOUN" morph="Temmuzʼ:temmuzʼ=NOUN da:da=CASE_LOC" start_char="1122" end_char="1130">Temmuzʼda</TOKEN>
+<TOKEN id="token-9-17" pos="." morph="none" start_char="1132" end_char="1132">'</TOKEN>
+<TOKEN id="token-9-18" pos="NUM" morph="bir:bir=NUM" start_char="1133" end_char="1135">bir</TOKEN>
+<TOKEN id="token-9-19" pos="NOUN" morph="füze:füze=NOUN nin:nin=CASE_GEN" start_char="1137" end_char="1143">füzenin</TOKEN>
+<TOKEN id="token-9-20" pos="NOUN" morph="isabet:isabet=NOUN" start_char="1145" end_char="1150">isabet</TOKEN>
+<TOKEN id="token-9-21" pos="VERB" morph="etmesi:etmesi=VERB" start_char="1152" end_char="1157">etmesi</TOKEN>
+<TOKEN id="token-9-22" pos="NOUN" morph="sonuc:sonuç=NOUN u:u=CASE_ACC" start_char="1159" end_char="1164">sonucu</TOKEN>
+<TOKEN id="token-9-23" pos="." morph="none" start_char="1165" end_char="1165">'</TOKEN>
+<TOKEN id="token-9-24" pos="VERB" morph="düş:düş=VERB müş:müş=mIsPAST" start_char="1167" end_char="1172">düşmüş</TOKEN>
+<TOKEN id="token-9-25" pos="." morph="none" start_char="1173" end_char="1173">,</TOKEN>
+<TOKEN id="token-9-26" pos="NOUN" morph="uçak:uçak=NOUN ta:ta=CASE_LOC" start_char="1175" end_char="1180">uçakta</TOKEN>
+<TOKEN id="token-9-27" pos="ADJ" morph="bulunan:bulunan=ADJ" start_char="1182" end_char="1188">bulunan</TOKEN>
+<TOKEN id="token-9-28" pos="NUM" morph="none" start_char="1190" end_char="1192">298</TOKEN>
+<TOKEN id="token-9-29" pos="NOUN" morph="kişi:kişi=NOUN" start_char="1194" end_char="1197">kişi</TOKEN>
+<TOKEN id="token-9-30" pos="NOUN" morph="hayat:hayat=NOUN ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="1199" end_char="1206">hayatını</TOKEN>
+<TOKEN id="token-9-31" pos="VERB" morph="kaybet:kaybet=VERB miş:miş=mIsPAST ti:ti=DIPAST" start_char="1208" end_char="1218">kaybetmişti</TOKEN>
+<TOKEN id="token-9-32" pos="." morph="none" start_char="1219" end_char="1219">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1222" end_char="1391">
+<ORIGINAL_TEXT>Dün de Tayvanʼda 54 yolcu ve 4 mürettebatıyla Transasia Havayollarıʼna ait GE222 sefer sayılı ATR72-500 tipi yolcu uçağı düşmüş, kazada 48 kişi ölmüş 10 kişi kurtulmuştu.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="ADJ" morph="Dün:dün=ADJ" start_char="1222" end_char="1224">Dün</TOKEN>
+<TOKEN id="token-10-1" pos="ADP" morph="de:de=POSTP" start_char="1226" end_char="1227">de</TOKEN>
+<TOKEN id="token-10-2" pos="NOUN" morph="Tayvanʼ:tayvanʼ=NOUN da:da=CASE_LOC" start_char="1229" end_char="1237">Tayvanʼda</TOKEN>
+<TOKEN id="token-10-3" pos="NUM" morph="none" start_char="1239" end_char="1240">54</TOKEN>
+<TOKEN id="token-10-4" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="1242" end_char="1246">yolcu</TOKEN>
+<TOKEN id="token-10-5" pos="CONJ" morph="ve:ve=CONJ" start_char="1248" end_char="1249">ve</TOKEN>
+<TOKEN id="token-10-6" pos="NUM" morph="none" start_char="1251" end_char="1251">4</TOKEN>
+<TOKEN id="token-10-7" pos="NOUN" morph="mürettebat:mürettebat=NOUN ı:ı=POSS_3S yla:yla=CASE_INS" start_char="1253" end_char="1266">mürettebatıyla</TOKEN>
+<TOKEN id="token-10-8" pos="NOUN" morph="Transasia:transasia=NOUN" start_char="1268" end_char="1276">Transasia</TOKEN>
+<TOKEN id="token-10-9" pos="NOUN" morph="Havayollarıʼna:havayollarıʼna=NOUN" start_char="1278" end_char="1291">Havayollarıʼna</TOKEN>
+<TOKEN id="token-10-10" pos="ADP" morph="ait:ait=POSTP" start_char="1293" end_char="1295">ait</TOKEN>
+<TOKEN id="token-10-11" pos="X" morph="unanalyzable" start_char="1297" end_char="1301">GE222</TOKEN>
+<TOKEN id="token-10-12" pos="NOUN" morph="sefer:sefer=NOUN" start_char="1303" end_char="1307">sefer</TOKEN>
+<TOKEN id="token-10-13" pos="ADJ" morph="sayılı:sayılı=ADJ" start_char="1309" end_char="1314">sayılı</TOKEN>
+<TOKEN id="token-10-14" pos="X" morph="unanalyzable" start_char="1316" end_char="1320">ATR72</TOKEN>
+<TOKEN id="token-10-15" pos="." morph="none" start_char="1321" end_char="1321">-</TOKEN>
+<TOKEN id="token-10-16" pos="NUM" morph="500:500=NUM" start_char="1322" end_char="1324">500</TOKEN>
+<TOKEN id="token-10-17" pos="NOUN" morph="tip:tip=NOUN i:i=CASE_ACC" start_char="1326" end_char="1329">tipi</TOKEN>
+<TOKEN id="token-10-18" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="1331" end_char="1335">yolcu</TOKEN>
+<TOKEN id="token-10-19" pos="NOUN" morph="uçağ:uçak=NOUN ı:ı=CASE_ACC" start_char="1337" end_char="1341">uçağı</TOKEN>
+<TOKEN id="token-10-20" pos="VERB" morph="düş:düş=VERB müş:müş=mIsPAST" start_char="1343" end_char="1348">düşmüş</TOKEN>
+<TOKEN id="token-10-21" pos="." morph="none" start_char="1349" end_char="1349">,</TOKEN>
+<TOKEN id="token-10-22" pos="NOUN" morph="kaza:kaza=NOUN da:da=CASE_LOC" start_char="1351" end_char="1356">kazada</TOKEN>
+<TOKEN id="token-10-23" pos="NUM" morph="none" start_char="1358" end_char="1359">48</TOKEN>
+<TOKEN id="token-10-24" pos="NOUN" morph="kişi:kişi=NOUN" start_char="1361" end_char="1364">kişi</TOKEN>
+<TOKEN id="token-10-25" pos="ADJ" morph="ölmüş:ölmüş=ADJ" start_char="1366" end_char="1370">ölmüş</TOKEN>
+<TOKEN id="token-10-26" pos="NUM" morph="none" start_char="1372" end_char="1373">10</TOKEN>
+<TOKEN id="token-10-27" pos="NOUN" morph="kişi:kişi=NOUN" start_char="1375" end_char="1378">kişi</TOKEN>
+<TOKEN id="token-10-28" pos="VERB" morph="kurtul:kurtul=VERB muş:muş=mIsPAST tu:tu=DIPAST" start_char="1380" end_char="1390">kurtulmuştu</TOKEN>
+<TOKEN id="token-10-29" pos="." morph="none" start_char="1391" end_char="1391">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1394" end_char="1425">
+<ORIGINAL_TEXT>116 kişi taşıyan uçak çöle düştü</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="NUM" morph="none" start_char="1394" end_char="1396">116</TOKEN>
+<TOKEN id="token-11-1" pos="NOUN" morph="kişi:kişi=NOUN" start_char="1398" end_char="1401">kişi</TOKEN>
+<TOKEN id="token-11-2" pos="ADJ" morph="taşı:taşı=VERB yan:yan=PARTICIPLE" start_char="1403" end_char="1409">taşıyan</TOKEN>
+<TOKEN id="token-11-3" pos="NOUN" morph="uçak:uçak=NOUN" start_char="1411" end_char="1414">uçak</TOKEN>
+<TOKEN id="token-11-4" pos="NOUN" morph="çöl:çöl=NOUN e:e=CASE_DAT" start_char="1416" end_char="1419">çöle</TOKEN>
+<TOKEN id="token-11-5" pos="VERB" morph="düş:düş=VERB tü:tü=DIPAST" start_char="1421" end_char="1425">düştü</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1428" end_char="1522">
+<ORIGINAL_TEXT>Bir süredir haber alınamayan Cezayir Havayollarıʼna ait yolcu uçağının çöle düştüğü belirlendi.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="ADJ" morph="Bir:bir=ADJ" start_char="1428" end_char="1430">Bir</TOKEN>
+<TOKEN id="token-12-1" pos="ADJ" morph="süredir:süredir=ADJ" start_char="1432" end_char="1438">süredir</TOKEN>
+<TOKEN id="token-12-2" pos="NOUN" morph="haber:haber=NOUN" start_char="1440" end_char="1444">haber</TOKEN>
+<TOKEN id="token-12-3" pos="VERB" morph="alınamayan:alınamayan=VERB" start_char="1446" end_char="1455">alınamayan</TOKEN>
+<TOKEN id="token-12-4" pos="NOUN" morph="Cezayir:cezayir=NOUN" start_char="1457" end_char="1463">Cezayir</TOKEN>
+<TOKEN id="token-12-5" pos="NOUN" morph="Havayollarıʼna:havayollarıʼna=NOUN" start_char="1465" end_char="1478">Havayollarıʼna</TOKEN>
+<TOKEN id="token-12-6" pos="ADP" morph="ait:ait=POSTP" start_char="1480" end_char="1482">ait</TOKEN>
+<TOKEN id="token-12-7" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="1484" end_char="1488">yolcu</TOKEN>
+<TOKEN id="token-12-8" pos="NOUN" morph="uçağ:uçak=NOUN ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="1490" end_char="1497">uçağının</TOKEN>
+<TOKEN id="token-12-9" pos="NOUN" morph="çöl:çöl=NOUN e:e=CASE_DAT" start_char="1499" end_char="1502">çöle</TOKEN>
+<TOKEN id="token-12-10" pos="ADJ" morph="düş:düş=VERB tüğ:tüğ=PARTICIPLE ü:ü=CASE_ACC" start_char="1504" end_char="1510">düştüğü</TOKEN>
+<TOKEN id="token-12-11" pos="VERB" morph="belirle:belirle=VERB n:n=REFL di:di=DIPAST" start_char="1512" end_char="1521">belirlendi</TOKEN>
+<TOKEN id="token-12-12" pos="." morph="none" start_char="1522" end_char="1522">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1524" end_char="1574">
+<ORIGINAL_TEXT>Uçakta 6ʼsı mürettebat toplam 116 kişi bulunuyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="NOUN" morph="Uçak:uçak=NOUN ta:ta=CASE_LOC" start_char="1524" end_char="1529">Uçakta</TOKEN>
+<TOKEN id="token-13-1" pos="NUM" morph="6ʼsı:6ʼsı=NUM" start_char="1531" end_char="1534">6ʼsı</TOKEN>
+<TOKEN id="token-13-2" pos="NOUN" morph="mürettebat:mürettebat=NOUN" start_char="1536" end_char="1545">mürettebat</TOKEN>
+<TOKEN id="token-13-3" pos="NOUN" morph="toplam:toplam=NOUN" start_char="1547" end_char="1552">toplam</TOKEN>
+<TOKEN id="token-13-4" pos="NUM" morph="none" start_char="1554" end_char="1556">116</TOKEN>
+<TOKEN id="token-13-5" pos="NOUN" morph="kişi:kişi=NOUN" start_char="1558" end_char="1561">kişi</TOKEN>
+<TOKEN id="token-13-6" pos="VERB" morph="bul:bul=VERB un:un=REFL uyor:uyor=PROG du:du=DIPAST" start_char="1563" end_char="1573">bulunuyordu</TOKEN>
+<TOKEN id="token-13-7" pos="." morph="none" start_char="1574" end_char="1574">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1576" end_char="1647">
+<ORIGINAL_TEXT>Uçağın daha önce Real Madrid kulübü tarafından kullanıldığı öne sürüldü.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="NOUN" morph="Uçağ:uçak=NOUN ın:ın=CASE_GEN" start_char="1576" end_char="1581">Uçağın</TOKEN>
+<TOKEN id="token-14-1" pos="ADV" morph="daha:daha=ADV" start_char="1583" end_char="1586">daha</TOKEN>
+<TOKEN id="token-14-2" pos="ADJ" morph="önce:önce=ADJ" start_char="1588" end_char="1591">önce</TOKEN>
+<TOKEN id="token-14-3" pos="NOUN" morph="Real:real=NOUN" start_char="1593" end_char="1596">Real</TOKEN>
+<TOKEN id="token-14-4" pos="NOUN" morph="Madrid:madrid=NOUN" start_char="1598" end_char="1603">Madrid</TOKEN>
+<TOKEN id="token-14-5" pos="NOUN" morph="kulüb:kulüp=NOUN ü:ü=POSS_3S" start_char="1605" end_char="1610">kulübü</TOKEN>
+<TOKEN id="token-14-6" pos="NOUN" morph="taraf:taraf=NOUN ı:ı=POSS_3S ndan:ndan=CASE_ABL" start_char="1612" end_char="1621">tarafından</TOKEN>
+<TOKEN id="token-14-7" pos="VERB" morph="kullanıldığı:kullanıldığı=VERB" start_char="1623" end_char="1634">kullanıldığı</TOKEN>
+<TOKEN id="token-14-8" pos="ADV" morph="öne:öne=ADV" start_char="1636" end_char="1638">öne</TOKEN>
+<TOKEN id="token-14-9" pos="VERB" morph="sürül:sürül=VERB dü:dü=DIPAST" start_char="1640" end_char="1646">sürüldü</TOKEN>
+<TOKEN id="token-14-10" pos="." morph="none" start_char="1647" end_char="1647">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1650" end_char="1895">
+<ORIGINAL_TEXT>CEZAYİR - Burkina Fasoʼnun başkenti Ouagadougouʼdan Cezayirʼin başkenti Cezayirʼe giden Air Algeria havayolları tarafından işletilen Swiftair şirketine ait MD83 model bir yolcu uçağının, havalandıktan 50 dakika sonra kuleyle iletişiminin kesildi.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="NOUN" morph="CEZAYİR:cezayİr=NOUN" start_char="1650" end_char="1656">CEZAYİR</TOKEN>
+<TOKEN id="token-15-1" pos="X" morph="none" start_char="1658" end_char="1658">-</TOKEN>
+<TOKEN id="token-15-2" pos="NOUN" morph="Burkina:burkina=NOUN" start_char="1660" end_char="1666">Burkina</TOKEN>
+<TOKEN id="token-15-3" pos="NOUN" morph="Fasoʼ:fasoʼ=NOUN nun:nun=CASE_GEN" start_char="1668" end_char="1675">Fasoʼnun</TOKEN>
+<TOKEN id="token-15-4" pos="NOUN" morph="başkent:başkent=NOUN i:i=POSS_3S" start_char="1677" end_char="1684">başkenti</TOKEN>
+<TOKEN id="token-15-5" pos="NOUN" morph="Ouagadougouʼ:ouagadougouʼ=NOUN dan:dan=CASE_ABL" start_char="1686" end_char="1700">Ouagadougouʼdan</TOKEN>
+<TOKEN id="token-15-6" pos="NOUN" morph="Cezayirʼ:cezayirʼ=NOUN in:in=POSS_2S" start_char="1702" end_char="1711">Cezayirʼin</TOKEN>
+<TOKEN id="token-15-7" pos="NOUN" morph="başkent:başkent=NOUN i:i=POSS_3S" start_char="1713" end_char="1720">başkenti</TOKEN>
+<TOKEN id="token-15-8" pos="NOUN" morph="Cezayirʼ:cezayirʼ=NOUN e:e=CASE_DAT" start_char="1722" end_char="1730">Cezayirʼe</TOKEN>
+<TOKEN id="token-15-9" pos="ADJ" morph="gid:git=VERB en:en=PARTICIPLE" start_char="1732" end_char="1736">giden</TOKEN>
+<TOKEN id="token-15-10" pos="NOUN" morph="Air:air=NOUN" start_char="1738" end_char="1740">Air</TOKEN>
+<TOKEN id="token-15-11" pos="NOUN" morph="Algeria:algeria=NOUN" start_char="1742" end_char="1748">Algeria</TOKEN>
+<TOKEN id="token-15-12" pos="NOUN" morph="havayolları:havayolları=NOUN" start_char="1750" end_char="1760">havayolları</TOKEN>
+<TOKEN id="token-15-13" pos="NOUN" morph="taraf:taraf=NOUN ı:ı=POSS_3S ndan:ndan=CASE_ABL" start_char="1762" end_char="1771">tarafından</TOKEN>
+<TOKEN id="token-15-14" pos="VERB" morph="işletilen:işletilen=VERB" start_char="1773" end_char="1781">işletilen</TOKEN>
+<TOKEN id="token-15-15" pos="NOUN" morph="Swiftair:swiftair=NOUN" start_char="1783" end_char="1790">Swiftair</TOKEN>
+<TOKEN id="token-15-16" pos="NOUN" morph="şirket:şirket=NOUN i:i=POSS_3S ne:ne=CASE_DAT" start_char="1792" end_char="1800">şirketine</TOKEN>
+<TOKEN id="token-15-17" pos="ADP" morph="ait:ait=POSTP" start_char="1802" end_char="1804">ait</TOKEN>
+<TOKEN id="token-15-18" pos="NOUN" morph="MD83:md83=NOUN" start_char="1806" end_char="1809">MD83</TOKEN>
+<TOKEN id="token-15-19" pos="NOUN" morph="model:model=NOUN" start_char="1811" end_char="1815">model</TOKEN>
+<TOKEN id="token-15-20" pos="NUM" morph="bir:bir=NUM" start_char="1817" end_char="1819">bir</TOKEN>
+<TOKEN id="token-15-21" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="1821" end_char="1825">yolcu</TOKEN>
+<TOKEN id="token-15-22" pos="NOUN" morph="uçağ:uçak=NOUN ı:ı=POSS_3S nın:nın=CASE_GEN" start_char="1827" end_char="1834">uçağının</TOKEN>
+<TOKEN id="token-15-23" pos="." morph="none" start_char="1835" end_char="1835">,</TOKEN>
+<TOKEN id="token-15-24" pos="ADJ" morph="havalan:havalan=VERB dık:dık=PARTICIPLE tan:tan=CASE_ABL" start_char="1837" end_char="1849">havalandıktan</TOKEN>
+<TOKEN id="token-15-25" pos="NUM" morph="none" start_char="1851" end_char="1852">50</TOKEN>
+<TOKEN id="token-15-26" pos="NOUN" morph="dakika:dakika=NOUN" start_char="1854" end_char="1859">dakika</TOKEN>
+<TOKEN id="token-15-27" pos="ADV" morph="sonra:sonra=ADV" start_char="1861" end_char="1865">sonra</TOKEN>
+<TOKEN id="token-15-28" pos="NOUN" morph="kule:kule=NOUN yle:yle=CASE_INS" start_char="1867" end_char="1873">kuleyle</TOKEN>
+<TOKEN id="token-15-29" pos="NOUN" morph="iletişim:iletişim=NOUN i:i=POSS_3S nin:nin=CASE_GEN" start_char="1875" end_char="1886">iletişiminin</TOKEN>
+<TOKEN id="token-15-30" pos="VERB" morph="kesil:kesil=VERB di:di=DIPAST" start_char="1888" end_char="1894">kesildi</TOKEN>
+<TOKEN id="token-15-31" pos="." morph="none" start_char="1895" end_char="1895">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1897" end_char="1953">
+<ORIGINAL_TEXT>Uzun süre haber alınamayan uçağın çöle düştüğü açıklandı.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="ADJ" morph="Uzun:uzun=ADJ" start_char="1897" end_char="1900">Uzun</TOKEN>
+<TOKEN id="token-16-1" pos="NOUN" morph="süre:süre=NOUN" start_char="1902" end_char="1905">süre</TOKEN>
+<TOKEN id="token-16-2" pos="NOUN" morph="haber:haber=NOUN" start_char="1907" end_char="1911">haber</TOKEN>
+<TOKEN id="token-16-3" pos="VERB" morph="alınamayan:alınamayan=VERB" start_char="1913" end_char="1922">alınamayan</TOKEN>
+<TOKEN id="token-16-4" pos="NOUN" morph="uçağ:uçak=NOUN ın:ın=CASE_GEN" start_char="1924" end_char="1929">uçağın</TOKEN>
+<TOKEN id="token-16-5" pos="NOUN" morph="çöl:çöl=NOUN e:e=CASE_DAT" start_char="1931" end_char="1934">çöle</TOKEN>
+<TOKEN id="token-16-6" pos="ADJ" morph="düş:düş=VERB tüğ:tüğ=PARTICIPLE ü:ü=CASE_ACC" start_char="1936" end_char="1942">düştüğü</TOKEN>
+<TOKEN id="token-16-7" pos="VERB" morph="açıkla:açıkla=VERB n:n=REFL dı:dı=DIPAST" start_char="1944" end_char="1952">açıklandı</TOKEN>
+<TOKEN id="token-16-8" pos="." morph="none" start_char="1953" end_char="1953">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1955" end_char="1999">
+<ORIGINAL_TEXT>Uçakta 6 mürettebat ve 110 yolcu bulunuyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="NOUN" morph="Uçak:uçak=NOUN ta:ta=CASE_LOC" start_char="1955" end_char="1960">Uçakta</TOKEN>
+<TOKEN id="token-17-1" pos="NUM" morph="none" start_char="1962" end_char="1962">6</TOKEN>
+<TOKEN id="token-17-2" pos="NOUN" morph="mürettebat:mürettebat=NOUN" start_char="1964" end_char="1973">mürettebat</TOKEN>
+<TOKEN id="token-17-3" pos="CONJ" morph="ve:ve=CONJ" start_char="1975" end_char="1976">ve</TOKEN>
+<TOKEN id="token-17-4" pos="NUM" morph="none" start_char="1978" end_char="1980">110</TOKEN>
+<TOKEN id="token-17-5" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="1982" end_char="1986">yolcu</TOKEN>
+<TOKEN id="token-17-6" pos="VERB" morph="bul:bul=VERB un:un=REFL uyor:uyor=PROG du:du=DIPAST" start_char="1988" end_char="1998">bulunuyordu</TOKEN>
+<TOKEN id="token-17-7" pos="." morph="none" start_char="1999" end_char="1999">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2001" end_char="2047">
+<ORIGINAL_TEXT>Kazada kurtulan olup olmadığı henüz bilinmiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="NOUN" morph="Kaza:kaza=NOUN da:da=CASE_LOC" start_char="2001" end_char="2006">Kazada</TOKEN>
+<TOKEN id="token-18-1" pos="NOUN" morph="kurtulan:kurtulan=NOUN" start_char="2008" end_char="2015">kurtulan</TOKEN>
+<TOKEN id="token-18-2" pos="ADV" morph="ol:ol=VERB up:up=GER" start_char="2017" end_char="2020">olup</TOKEN>
+<TOKEN id="token-18-3" pos="VERB" morph="olmadığı:olmadığı=VERB" start_char="2022" end_char="2029">olmadığı</TOKEN>
+<TOKEN id="token-18-4" pos="ADV" morph="henüz:henüz=ADV" start_char="2031" end_char="2035">henüz</TOKEN>
+<TOKEN id="token-18-5" pos="VERB" morph="bilinmiyor:bilinmiyor=VERB" start_char="2037" end_char="2046">bilinmiyor</TOKEN>
+<TOKEN id="token-18-6" pos="." morph="none" start_char="2047" end_char="2047">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2050" end_char="2157">
+<ORIGINAL_TEXT>REAL DE KULLANMIŞ Öte yandan, İspanyol Marca gazetesi düşen uçakla ilgili ilginç bir ayrıntıya dikkat çekti.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="NOUN" morph="REAL:real=NOUN" start_char="2050" end_char="2053">REAL</TOKEN>
+<TOKEN id="token-19-1" pos="ADP" morph="DE:de=POSTP" start_char="2055" end_char="2056">DE</TOKEN>
+<TOKEN id="token-19-2" pos="VERB" morph="KULLANMIŞ:kullanmiŞ=VERB" start_char="2058" end_char="2066">KULLANMIŞ</TOKEN>
+<TOKEN id="token-19-3" pos="ADV" morph="Öte:Öte=ADV" start_char="2068" end_char="2070">Öte</TOKEN>
+<TOKEN id="token-19-4" pos="ADJ" morph="yandan:yandan=ADJ" start_char="2072" end_char="2077">yandan</TOKEN>
+<TOKEN id="token-19-5" pos="." morph="none" start_char="2078" end_char="2078">,</TOKEN>
+<TOKEN id="token-19-6" pos="NOUN" morph="İspanyol:İspanyol=NOUN" start_char="2080" end_char="2087">İspanyol</TOKEN>
+<TOKEN id="token-19-7" pos="NOUN" morph="Marca:marca=NOUN" start_char="2089" end_char="2093">Marca</TOKEN>
+<TOKEN id="token-19-8" pos="NOUN" morph="gazete:gazete=NOUN si:si=POSS_3S" start_char="2095" end_char="2102">gazetesi</TOKEN>
+<TOKEN id="token-19-9" pos="ADJ" morph="düş:düş=VERB en:en=PARTICIPLE" start_char="2104" end_char="2108">düşen</TOKEN>
+<TOKEN id="token-19-10" pos="NOUN" morph="uçak:uçak=NOUN la:la=CASE_INS" start_char="2110" end_char="2115">uçakla</TOKEN>
+<TOKEN id="token-19-11" pos="ADP" morph="ilgili:ilgili=POSTP" start_char="2117" end_char="2122">ilgili</TOKEN>
+<TOKEN id="token-19-12" pos="ADJ" morph="ilginç:ilginç=ADJ" start_char="2124" end_char="2129">ilginç</TOKEN>
+<TOKEN id="token-19-13" pos="NUM" morph="bir:bir=NUM" start_char="2131" end_char="2133">bir</TOKEN>
+<TOKEN id="token-19-14" pos="NOUN" morph="ayrıntı:ayrıntı=NOUN ya:ya=CASE_DAT" start_char="2135" end_char="2143">ayrıntıya</TOKEN>
+<TOKEN id="token-19-15" pos="NOUN" morph="dikkat:dikkat=NOUN" start_char="2145" end_char="2150">dikkat</TOKEN>
+<TOKEN id="token-19-16" pos="VERB" morph="çek:çek=VERB ti:ti=DIPAST" start_char="2152" end_char="2156">çekti</TOKEN>
+<TOKEN id="token-19-17" pos="." morph="none" start_char="2157" end_char="2157">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2160" end_char="2258">
+<ORIGINAL_TEXT>Gazete, düşen uçağın 2007-2009 yılları arasında Real Madrid kulübü tarafından kullanıldığını yazdı.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="NOUN" morph="Gazete:gazete=NOUN" start_char="2160" end_char="2165">Gazete</TOKEN>
+<TOKEN id="token-20-1" pos="." morph="none" start_char="2166" end_char="2166">,</TOKEN>
+<TOKEN id="token-20-2" pos="ADJ" morph="düş:düş=VERB en:en=PARTICIPLE" start_char="2168" end_char="2172">düşen</TOKEN>
+<TOKEN id="token-20-3" pos="NOUN" morph="uçağ:uçak=NOUN ın:ın=POSS_2S" start_char="2174" end_char="2179">uçağın</TOKEN>
+<TOKEN id="token-20-4" pos="NUM" morph="none" start_char="2181" end_char="2184">2007</TOKEN>
+<TOKEN id="token-20-5" pos="." morph="none" start_char="2185" end_char="2185">-</TOKEN>
+<TOKEN id="token-20-6" pos="NUM" morph="2009:2009=NUM" start_char="2186" end_char="2189">2009</TOKEN>
+<TOKEN id="token-20-7" pos="NOUN" morph="yıl:yıl=NOUN lar:lar=PLURAL ı:ı=CASE_ACC" start_char="2191" end_char="2197">yılları</TOKEN>
+<TOKEN id="token-20-8" pos="ADJ" morph="ara:ara=ADJ sı:sı=POSS_3S nda:nda=CASE_LOC" start_char="2199" end_char="2206">arasında</TOKEN>
+<TOKEN id="token-20-9" pos="NOUN" morph="Real:real=NOUN" start_char="2208" end_char="2211">Real</TOKEN>
+<TOKEN id="token-20-10" pos="NOUN" morph="Madrid:madrid=NOUN" start_char="2213" end_char="2218">Madrid</TOKEN>
+<TOKEN id="token-20-11" pos="NOUN" morph="kulüb:kulüp=NOUN ü:ü=CASE_ACC" start_char="2220" end_char="2225">kulübü</TOKEN>
+<TOKEN id="token-20-12" pos="NOUN" morph="taraf:taraf=NOUN ı:ı=POSS_3S ndan:ndan=CASE_ABL" start_char="2227" end_char="2236">tarafından</TOKEN>
+<TOKEN id="token-20-13" pos="ADJ" morph="kullanıl:kullanıl=VERB dığ:dığ=PARTICIPLE ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="2238" end_char="2251">kullanıldığını</TOKEN>
+<TOKEN id="token-20-14" pos="VERB" morph="yaz:yaz=VERB dı:dı=DIPAST" start_char="2253" end_char="2257">yazdı</TOKEN>
+<TOKEN id="token-20-15" pos="." morph="none" start_char="2258" end_char="2258">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2261" end_char="2462">
+<ORIGINAL_TEXT>BİR HAFTADA 3ʼÜNCÜ UÇAK VAKASI Amsterdam-Kuala Lumpur seferini yapan Malezya Havayollarıʼna ait uçak 17 Temmuzʼda 'bir füzenin isabet etmesi sonucu' düşmüş, uçakta bulunan 298 kişi hayatını kaybetmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="NUM" morph="BİR:bİr=NUM" start_char="2261" end_char="2263">BİR</TOKEN>
+<TOKEN id="token-21-1" pos="NOUN" morph="HAFTA:hafta=NOUN da:da=CASE_LOC" start_char="2265" end_char="2271">HAFTADA</TOKEN>
+<TOKEN id="token-21-2" pos="NUM" morph="3ʼÜNCÜ:3ʼÜncÜ=NUM" start_char="2273" end_char="2278">3ʼÜNCÜ</TOKEN>
+<TOKEN id="token-21-3" pos="NOUN" morph="UÇAK:uÇak=NOUN" start_char="2280" end_char="2283">UÇAK</TOKEN>
+<TOKEN id="token-21-4" pos="NOUN" morph="VAKA:vaka=NOUN si:si=POSS_3S" start_char="2285" end_char="2290">VAKASI</TOKEN>
+<TOKEN id="token-21-5" pos="NOUN" morph="Amsterdam:amsterdam=NOUN" start_char="2292" end_char="2300">Amsterdam</TOKEN>
+<TOKEN id="token-21-6" pos="." morph="none" start_char="2301" end_char="2301">-</TOKEN>
+<TOKEN id="token-21-7" pos="NOUN" morph="Kuala:kuala=NOUN" start_char="2302" end_char="2306">Kuala</TOKEN>
+<TOKEN id="token-21-8" pos="NOUN" morph="Lumpur:lumpur=NOUN" start_char="2308" end_char="2313">Lumpur</TOKEN>
+<TOKEN id="token-21-9" pos="NOUN" morph="sefer:sefer=NOUN i:i=POSS_3S ni:ni=CASE_ACC" start_char="2315" end_char="2322">seferini</TOKEN>
+<TOKEN id="token-21-10" pos="ADJ" morph="yap:yap=VERB an:an=PARTICIPLE" start_char="2324" end_char="2328">yapan</TOKEN>
+<TOKEN id="token-21-11" pos="NOUN" morph="Malezya:malezya=NOUN" start_char="2330" end_char="2336">Malezya</TOKEN>
+<TOKEN id="token-21-12" pos="NOUN" morph="Havayollarıʼna:havayollarıʼna=NOUN" start_char="2338" end_char="2351">Havayollarıʼna</TOKEN>
+<TOKEN id="token-21-13" pos="ADP" morph="ait:ait=POSTP" start_char="2353" end_char="2355">ait</TOKEN>
+<TOKEN id="token-21-14" pos="NOUN" morph="uçak:uçak=NOUN" start_char="2357" end_char="2360">uçak</TOKEN>
+<TOKEN id="token-21-15" pos="NUM" morph="none" start_char="2362" end_char="2363">17</TOKEN>
+<TOKEN id="token-21-16" pos="NOUN" morph="Temmuzʼ:temmuzʼ=NOUN da:da=CASE_LOC" start_char="2365" end_char="2373">Temmuzʼda</TOKEN>
+<TOKEN id="token-21-17" pos="." morph="none" start_char="2375" end_char="2375">'</TOKEN>
+<TOKEN id="token-21-18" pos="NUM" morph="bir:bir=NUM" start_char="2376" end_char="2378">bir</TOKEN>
+<TOKEN id="token-21-19" pos="NOUN" morph="füze:füze=NOUN nin:nin=CASE_GEN" start_char="2380" end_char="2386">füzenin</TOKEN>
+<TOKEN id="token-21-20" pos="NOUN" morph="isabet:isabet=NOUN" start_char="2388" end_char="2393">isabet</TOKEN>
+<TOKEN id="token-21-21" pos="VERB" morph="etmesi:etmesi=VERB" start_char="2395" end_char="2400">etmesi</TOKEN>
+<TOKEN id="token-21-22" pos="NOUN" morph="sonuc:sonuç=NOUN u:u=CASE_ACC" start_char="2402" end_char="2407">sonucu</TOKEN>
+<TOKEN id="token-21-23" pos="." morph="none" start_char="2408" end_char="2408">'</TOKEN>
+<TOKEN id="token-21-24" pos="VERB" morph="düş:düş=VERB müş:müş=mIsPAST" start_char="2410" end_char="2415">düşmüş</TOKEN>
+<TOKEN id="token-21-25" pos="." morph="none" start_char="2416" end_char="2416">,</TOKEN>
+<TOKEN id="token-21-26" pos="NOUN" morph="uçak:uçak=NOUN ta:ta=CASE_LOC" start_char="2418" end_char="2423">uçakta</TOKEN>
+<TOKEN id="token-21-27" pos="ADJ" morph="bulun:bulun=VERB an:an=PARTICIPLE" start_char="2425" end_char="2431">bulunan</TOKEN>
+<TOKEN id="token-21-28" pos="NUM" morph="none" start_char="2433" end_char="2435">298</TOKEN>
+<TOKEN id="token-21-29" pos="NOUN" morph="kişi:kişi=NOUN" start_char="2437" end_char="2440">kişi</TOKEN>
+<TOKEN id="token-21-30" pos="NOUN" morph="hayat:hayat=NOUN ı:ı=POSS_3S nı:nı=CASE_ACC" start_char="2442" end_char="2449">hayatını</TOKEN>
+<TOKEN id="token-21-31" pos="VERB" morph="kaybet:kaybet=VERB miş:miş=mIsPAST ti:ti=DIPAST" start_char="2451" end_char="2461">kaybetmişti</TOKEN>
+<TOKEN id="token-21-32" pos="." morph="none" start_char="2462" end_char="2462">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2464" end_char="2633">
+<ORIGINAL_TEXT>Dün de Tayvanʼda 54 yolcu ve 4 mürettebatıyla Transasia Havayollarıʼna ait GE222 sefer sayılı ATR72-500 tipi yolcu uçağı düşmüş, kazada 48 kişi ölmüş 10 kişi kurtulmuştu.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="ADJ" morph="Dün:dün=ADJ" start_char="2464" end_char="2466">Dün</TOKEN>
+<TOKEN id="token-22-1" pos="ADP" morph="de:de=POSTP" start_char="2468" end_char="2469">de</TOKEN>
+<TOKEN id="token-22-2" pos="NOUN" morph="Tayvanʼ:tayvanʼ=NOUN da:da=CASE_LOC" start_char="2471" end_char="2479">Tayvanʼda</TOKEN>
+<TOKEN id="token-22-3" pos="NUM" morph="none" start_char="2481" end_char="2482">54</TOKEN>
+<TOKEN id="token-22-4" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="2484" end_char="2488">yolcu</TOKEN>
+<TOKEN id="token-22-5" pos="CONJ" morph="ve:ve=CONJ" start_char="2490" end_char="2491">ve</TOKEN>
+<TOKEN id="token-22-6" pos="NUM" morph="none" start_char="2493" end_char="2493">4</TOKEN>
+<TOKEN id="token-22-7" pos="NOUN" morph="mürettebat:mürettebat=NOUN ı:ı=POSS_3S yla:yla=CASE_INS" start_char="2495" end_char="2508">mürettebatıyla</TOKEN>
+<TOKEN id="token-22-8" pos="NOUN" morph="Transasia:transasia=NOUN" start_char="2510" end_char="2518">Transasia</TOKEN>
+<TOKEN id="token-22-9" pos="NOUN" morph="Havayollarıʼna:havayollarıʼna=NOUN" start_char="2520" end_char="2533">Havayollarıʼna</TOKEN>
+<TOKEN id="token-22-10" pos="ADP" morph="ait:ait=POSTP" start_char="2535" end_char="2537">ait</TOKEN>
+<TOKEN id="token-22-11" pos="NOUN" morph="unanalyzable" start_char="2539" end_char="2543">GE222</TOKEN>
+<TOKEN id="token-22-12" pos="NOUN" morph="sefer:sefer=NOUN" start_char="2545" end_char="2549">sefer</TOKEN>
+<TOKEN id="token-22-13" pos="ADJ" morph="sayılı:sayılı=ADJ" start_char="2551" end_char="2556">sayılı</TOKEN>
+<TOKEN id="token-22-14" pos="X" morph="unanalyzable" start_char="2558" end_char="2562">ATR72</TOKEN>
+<TOKEN id="token-22-15" pos="." morph="none" start_char="2563" end_char="2563">-</TOKEN>
+<TOKEN id="token-22-16" pos="NUM" morph="500:500=NUM" start_char="2564" end_char="2566">500</TOKEN>
+<TOKEN id="token-22-17" pos="ADJ" morph="tipi:tipi=ADJ" start_char="2568" end_char="2571">tipi</TOKEN>
+<TOKEN id="token-22-18" pos="NOUN" morph="yolcu:yolcu=NOUN" start_char="2573" end_char="2577">yolcu</TOKEN>
+<TOKEN id="token-22-19" pos="NOUN" morph="uçağ:uçak=NOUN ı:ı=CASE_ACC" start_char="2579" end_char="2583">uçağı</TOKEN>
+<TOKEN id="token-22-20" pos="VERB" morph="düş:düş=VERB müş:müş=mIsPAST" start_char="2585" end_char="2590">düşmüş</TOKEN>
+<TOKEN id="token-22-21" pos="." morph="none" start_char="2591" end_char="2591">,</TOKEN>
+<TOKEN id="token-22-22" pos="NOUN" morph="kaza:kaza=NOUN da:da=CASE_LOC" start_char="2593" end_char="2598">kazada</TOKEN>
+<TOKEN id="token-22-23" pos="NUM" morph="none" start_char="2600" end_char="2601">48</TOKEN>
+<TOKEN id="token-22-24" pos="NOUN" morph="kişi:kişi=NOUN" start_char="2603" end_char="2606">kişi</TOKEN>
+<TOKEN id="token-22-25" pos="VERB" morph="öl:öl=VERB müş:müş=mIsPAST" start_char="2608" end_char="2612">ölmüş</TOKEN>
+<TOKEN id="token-22-26" pos="NUM" morph="none" start_char="2614" end_char="2615">10</TOKEN>
+<TOKEN id="token-22-27" pos="NOUN" morph="kişi:kişi=NOUN" start_char="2617" end_char="2620">kişi</TOKEN>
+<TOKEN id="token-22-28" pos="VERB" morph="kurtul:kurtul=VERB muş:muş=mIsPAST tu:tu=DIPAST" start_char="2622" end_char="2632">kurtulmuştu</TOKEN>
+<TOKEN id="token-22-29" pos="." morph="none" start_char="2633" end_char="2633">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

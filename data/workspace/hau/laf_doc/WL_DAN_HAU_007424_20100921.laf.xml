@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="HAU">
+  <DOC id="WL_DAN_HAU_007424_20100921" lang="HAU">
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-1" task="NE" type="PER">
+      <EXTENT start_char="0" end_char="16">BELLO GARBA BELLO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-2" task="NE" type="PER">
+      <EXTENT start_char="19" end_char="22">BABA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-3" task="NE" type="LOC">
+      <EXTENT start_char="110" end_char="120">birnin Kano</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-4" task="NE" type="ORG">
+      <EXTENT start_char="246" end_char="248">SSS</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-5" task="NE" type="PER">
+      <EXTENT start_char="260" end_char="270">Garba Bello</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-6" task="NE" type="ORG">
+      <EXTENT start_char="390" end_char="392">SSS</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-7" task="NE" type="PER">
+      <EXTENT start_char="488" end_char="504">Bello Garba Bello</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-8" task="NE" type="PER">
+      <EXTENT start_char="507" end_char="510">Baba</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-9" task="NE" type="PER">
+      <EXTENT start_char="515" end_char="518">Baba</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-10" task="NE" type="PER">
+      <EXTENT start_char="841" end_char="854">Allah Ubangiji</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-11" task="NE" type="PER">
+      <EXTENT start_char="956" end_char="969">Allah Ubangiji</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-12" task="NE" type="TTL">
+      <EXTENT start_char="1007" end_char="1012">Annabi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007424_20100921-ann-13" task="NE" type="PER">
+      <EXTENT start_char="1014" end_char="1021">Muhammad</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

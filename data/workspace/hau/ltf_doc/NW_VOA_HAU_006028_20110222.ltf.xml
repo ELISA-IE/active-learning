@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_VOA_HAU_006028_20110222" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="1225" raw_text_md5="768c11f735c04c799ae3e1610574426d">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="58">
+<ORIGINAL_TEXT>Ana Kan Shirin Kai Daukin Bayan Girgizar Kasa a New Zealand</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="PRON" morph="ana:ana=PRON_WSP_4P" start_char="0" end_char="2">Ana</TOKEN>
+<TOKEN id="token-0-1" pos="PREP" morph="Kan:kan=PREP" start_char="4" end_char="6">Kan</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="Shiri:shiri=NOUN n:n=CONSTRUCT" start_char="8" end_char="13">Shirin</TOKEN>
+<TOKEN id="token-0-3" pos="VERB" morph="Kai:kai=VERB" start_char="15" end_char="17">Kai</TOKEN>
+<TOKEN id="token-0-4" pos="NOUN" morph="Daukin:daukin=NOUN" start_char="19" end_char="24">Daukin</TOKEN>
+<TOKEN id="token-0-5" pos="COMP" morph="Bayan:bayan=COMP" start_char="26" end_char="30">Bayan</TOKEN>
+<TOKEN id="token-0-6" pos="NOUN" morph="Girgiza:girgiza=NOUN r:r=CONSTRUCT" start_char="32" end_char="39">Girgizar</TOKEN>
+<TOKEN id="token-0-7" pos="NOUN" morph="Kasa:kasa=NOUN" start_char="41" end_char="44">Kasa</TOKEN>
+<TOKEN id="token-0-8" pos="PREP" morph="a:a=PREP" start_char="46" end_char="46">a</TOKEN>
+<TOKEN id="token-0-9" pos="NOUN" morph="New:new=NOUN" start_char="48" end_char="50">New</TOKEN>
+<TOKEN id="token-0-10" pos="NOUN" morph="Zealand:zealand=NOUN" start_char="52" end_char="58">Zealand</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="61" end_char="377">
+<ORIGINAL_TEXT>Yau birni na biyu mafi girma a duk kasar New Zealand, wanda ake kira Christchurch, yana kwance male-male, duk kusan gine-ginen dake cikinsa suna a kasa, sun rushe a sanadin wata gagarumar girgizan kasan da ta rafgangar za hatta wuraren ibada, wacce kuma ta abku a daidai lokacinda ake cikin mafi hada-hadar maʼaikata.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="ADV" morph="Yau:yau=ADV" start_char="61" end_char="63">Yau</TOKEN>
+<TOKEN id="token-1-1" pos="NOUN" morph="birni:birni=NOUN" start_char="65" end_char="69">birni</TOKEN>
+<TOKEN id="token-1-2" pos="CONSTRUCT" morph="na:na=CONSTRUCT" start_char="71" end_char="72">na</TOKEN>
+<TOKEN id="token-1-3" pos="NUM" morph="biyu:biyu=NUM" start_char="74" end_char="77">biyu</TOKEN>
+<TOKEN id="token-1-4" pos="NOUN" morph="mafi:mafi=NOUN" start_char="79" end_char="82">mafi</TOKEN>
+<TOKEN id="token-1-5" pos="NOUN" morph="girma:girma=NOUN" start_char="84" end_char="88">girma</TOKEN>
+<TOKEN id="token-1-6" pos="PREP" morph="a:a=PREP" start_char="90" end_char="90">a</TOKEN>
+<TOKEN id="token-1-7" pos="NOUN" morph="duk:duk=NOUN" start_char="92" end_char="94">duk</TOKEN>
+<TOKEN id="token-1-8" pos="NOUN" morph="kasa:kasa=NOUN r:r=CONSTRUCT" start_char="96" end_char="100">kasar</TOKEN>
+<TOKEN id="token-1-9" pos="NOUN" morph="New:new=NOUN" start_char="102" end_char="104">New</TOKEN>
+<TOKEN id="token-1-10" pos="NOUN" morph="Zealand:zealand=NOUN" start_char="106" end_char="112">Zealand</TOKEN>
+<TOKEN id="token-1-11" pos="punct" morph="none" start_char="113" end_char="113">,</TOKEN>
+<TOKEN id="token-1-12" pos="RELPRON" morph="wanda:wanda=RELPRON" start_char="115" end_char="119">wanda</TOKEN>
+<TOKEN id="token-1-13" pos="PRON" morph="ake:ake=PRON_WSP_4P" start_char="121" end_char="123">ake</TOKEN>
+<TOKEN id="token-1-14" pos="VERB" morph="kira:kira=VERB" start_char="125" end_char="128">kira</TOKEN>
+<TOKEN id="token-1-15" pos="NOUN" morph="Christchurch:christchurch=NOUN" start_char="130" end_char="141">Christchurch</TOKEN>
+<TOKEN id="token-1-16" pos="punct" morph="none" start_char="142" end_char="142">,</TOKEN>
+<TOKEN id="token-1-17" pos="PRON" morph="yana:yana=PRON_WSP_3SM" start_char="144" end_char="147">yana</TOKEN>
+<TOKEN id="token-1-18" pos="ADV" morph="kwance:kwance=ADV" start_char="149" end_char="154">kwance</TOKEN>
+<TOKEN id="token-1-19" pos="ADV" morph="male:male=ADV" start_char="156" end_char="159">male</TOKEN>
+<TOKEN id="token-1-20" pos="punct" morph="none" start_char="160" end_char="160">-</TOKEN>
+<TOKEN id="token-1-21" pos="ADV" morph="male:male=ADV" start_char="161" end_char="164">male</TOKEN>
+<TOKEN id="token-1-22" pos="punct" morph="none" start_char="165" end_char="165">,</TOKEN>
+<TOKEN id="token-1-23" pos="NOUN" morph="duk:duk=NOUN" start_char="167" end_char="169">duk</TOKEN>
+<TOKEN id="token-1-24" pos="NOUN" morph="kusa:kusa=NOUN n:n=CONSTRUCT" start_char="171" end_char="175">kusan</TOKEN>
+<TOKEN id="token-1-25" pos="NOUN" morph="gine:gine=NOUN" start_char="177" end_char="180">gine</TOKEN>
+<TOKEN id="token-1-26" pos="punct" morph="none" start_char="181" end_char="181">-</TOKEN>
+<TOKEN id="token-1-27" pos="NOUN" morph="gine:gine=NOUN n:n=CONSTRUCT" start_char="182" end_char="186">ginen</TOKEN>
+<TOKEN id="token-1-28" pos="PRON" morph="da:da=RELPRON ke:ke=CONT" start_char="188" end_char="191">dake</TOKEN>
+<TOKEN id="token-1-29" pos="NOUN" morph="ciki:ciki=NOUN nsa:nsa=POSS_3SM" start_char="193" end_char="199">cikinsa</TOKEN>
+<TOKEN id="token-1-30" pos="PRON" morph="suna:suna=PRON_WSP_3P" start_char="201" end_char="204">suna</TOKEN>
+<TOKEN id="token-1-31" pos="PREP" morph="a:a=PREP" start_char="206" end_char="206">a</TOKEN>
+<TOKEN id="token-1-32" pos="NOUN" morph="kasa:kasa=NOUN" start_char="208" end_char="211">kasa</TOKEN>
+<TOKEN id="token-1-33" pos="punct" morph="none" start_char="212" end_char="212">,</TOKEN>
+<TOKEN id="token-1-34" pos="PRON" morph="sun:sun=PRON_WSP_3P" start_char="214" end_char="216">sun</TOKEN>
+<TOKEN id="token-1-35" pos="VERB" morph="rushe:rushe=VERB" start_char="218" end_char="222">rushe</TOKEN>
+<TOKEN id="token-1-36" pos="PREP" morph="a:a=PREP" start_char="224" end_char="224">a</TOKEN>
+<TOKEN id="token-1-37" pos="NOUN" morph="sanadi:sanadi=NOUN n:n=CONSTRUCT" start_char="226" end_char="232">sanadin</TOKEN>
+<TOKEN id="token-1-38" pos="NOUN" morph="wata:wata=NOUN" start_char="234" end_char="237">wata</TOKEN>
+<TOKEN id="token-1-39" pos="ADJ" morph="gagaruma:gagaruma=ADJ r:r=CONSTRUCT" start_char="239" end_char="247">gagarumar</TOKEN>
+<TOKEN id="token-1-40" pos="NOUN" morph="girgiza:girgiza=NOUN n:n=CONSTRUCT" start_char="249" end_char="256">girgizan</TOKEN>
+<TOKEN id="token-1-41" pos="NOUN" morph="kasa:kasa=NOUN n:n=DEFINITE" start_char="258" end_char="262">kasan</TOKEN>
+<TOKEN id="token-1-42" pos="RELPRON" morph="da:da=RELPRON" start_char="264" end_char="265">da</TOKEN>
+<TOKEN id="token-1-43" pos="PRON" morph="ta:ta=PRON_WSP_3SF" start_char="267" end_char="268">ta</TOKEN>
+<TOKEN id="token-1-44" pos="NOUN" morph="rafganga:rafganga=NOUN r:r=DEFINITE" start_char="270" end_char="278">rafgangar</TOKEN>
+<TOKEN id="token-1-45" pos="PRON" morph="za:za=FUT1" start_char="280" end_char="281">za</TOKEN>
+<TOKEN id="token-1-46" pos="PREP" morph="hatta:hatta=PREP" start_char="283" end_char="287">hatta</TOKEN>
+<TOKEN id="token-1-47" pos="NOUN" morph="wurare:wurare=NOUN n:n=CONSTRUCT" start_char="289" end_char="295">wuraren</TOKEN>
+<TOKEN id="token-1-48" pos="NOUN" morph="ibada:ibada=NOUN" start_char="297" end_char="301">ibada</TOKEN>
+<TOKEN id="token-1-49" pos="punct" morph="none" start_char="302" end_char="302">,</TOKEN>
+<TOKEN id="token-1-50" pos="DEMPRON" morph="wacce:wacce=DEMPRON" start_char="304" end_char="308">wacce</TOKEN>
+<TOKEN id="token-1-51" pos="CONJ" morph="kuma:kuma=CONJ" start_char="310" end_char="313">kuma</TOKEN>
+<TOKEN id="token-1-52" pos="PRON" morph="ta:ta=PRON_WSP_3SF" start_char="315" end_char="316">ta</TOKEN>
+<TOKEN id="token-1-53" pos="VERB" morph="abku:abku=VERB" start_char="318" end_char="321">abku</TOKEN>
+<TOKEN id="token-1-54" pos="PREP" morph="a:a=PREP" start_char="323" end_char="323">a</TOKEN>
+<TOKEN id="token-1-55" pos="ADV" morph="daidai:daidai=ADV" start_char="325" end_char="330">daidai</TOKEN>
+<TOKEN id="token-1-56" pos="word" morph="unanalyzable" start_char="332" end_char="340">lokacinda</TOKEN>
+<TOKEN id="token-1-57" pos="PRON" morph="ake:ake=PRON_WSP_4P" start_char="342" end_char="344">ake</TOKEN>
+<TOKEN id="token-1-58" pos="PREP" morph="cikin:cikin=PREP" start_char="346" end_char="350">cikin</TOKEN>
+<TOKEN id="token-1-59" pos="NOUN" morph="mafi:mafi=NOUN" start_char="352" end_char="355">mafi</TOKEN>
+<TOKEN id="token-1-60" pos="VERB" morph="hada:hada=VERB" start_char="357" end_char="360">hada</TOKEN>
+<TOKEN id="token-1-61" pos="punct" morph="none" start_char="361" end_char="361">-</TOKEN>
+<TOKEN id="token-1-62" pos="NOUN" morph="hada:hada=NOUN r:r=CONSTRUCT" start_char="362" end_char="366">hadar</TOKEN>
+<TOKEN id="token-1-63" pos="NOUN" morph="maʼaikata:maʼaikata=NOUN" start_char="368" end_char="376">maʼaikata</TOKEN>
+<TOKEN id="token-1-64" pos="punct" morph="none" start_char="377" end_char="377">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="380" end_char="696">
+<ORIGINAL_TEXT>Yau birni na biyu mafi girma a duk kasar New Zealand, wanda ake kira Christchurch, yana kwance male-male, duk kusan gine-ginen dake cikinsa suna a kasa, sun rushe a sanadin wata gagarumar girgizan kasan da ta rafgangar za hatta wuraren ibada, wacce kuma ta abku a daidai lokacinda ake cikin mafi hada-hadar maʼaikata.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="ADV" morph="Yau:yau=ADV" start_char="380" end_char="382">Yau</TOKEN>
+<TOKEN id="token-2-1" pos="NOUN" morph="birni:birni=NOUN" start_char="384" end_char="388">birni</TOKEN>
+<TOKEN id="token-2-2" pos="CONSTRUCT" morph="na:na=CONSTRUCT" start_char="390" end_char="391">na</TOKEN>
+<TOKEN id="token-2-3" pos="NUM" morph="biyu:biyu=NUM" start_char="393" end_char="396">biyu</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="mafi:mafi=NOUN" start_char="398" end_char="401">mafi</TOKEN>
+<TOKEN id="token-2-5" pos="NOUN" morph="girma:girma=NOUN" start_char="403" end_char="407">girma</TOKEN>
+<TOKEN id="token-2-6" pos="PREP" morph="a:a=PREP" start_char="409" end_char="409">a</TOKEN>
+<TOKEN id="token-2-7" pos="NOUN" morph="duk:duk=NOUN" start_char="411" end_char="413">duk</TOKEN>
+<TOKEN id="token-2-8" pos="NOUN" morph="kasa:kasa=NOUN r:r=CONSTRUCT" start_char="415" end_char="419">kasar</TOKEN>
+<TOKEN id="token-2-9" pos="NOUN" morph="New:new=NOUN" start_char="421" end_char="423">New</TOKEN>
+<TOKEN id="token-2-10" pos="NOUN" morph="Zealand:zealand=NOUN" start_char="425" end_char="431">Zealand</TOKEN>
+<TOKEN id="token-2-11" pos="punct" morph="none" start_char="432" end_char="432">,</TOKEN>
+<TOKEN id="token-2-12" pos="RELPRON" morph="wanda:wanda=RELPRON" start_char="434" end_char="438">wanda</TOKEN>
+<TOKEN id="token-2-13" pos="PRON" morph="ake:ake=PRON_WSP_4P" start_char="440" end_char="442">ake</TOKEN>
+<TOKEN id="token-2-14" pos="VERB" morph="kira:kira=VERB" start_char="444" end_char="447">kira</TOKEN>
+<TOKEN id="token-2-15" pos="NOUN" morph="Christchurch:christchurch=NOUN" start_char="449" end_char="460">Christchurch</TOKEN>
+<TOKEN id="token-2-16" pos="punct" morph="none" start_char="461" end_char="461">,</TOKEN>
+<TOKEN id="token-2-17" pos="PRON" morph="yana:yana=PRON_WSP_3SM" start_char="463" end_char="466">yana</TOKEN>
+<TOKEN id="token-2-18" pos="ADV" morph="kwance:kwance=ADV" start_char="468" end_char="473">kwance</TOKEN>
+<TOKEN id="token-2-19" pos="ADV" morph="male:male=ADV" start_char="475" end_char="478">male</TOKEN>
+<TOKEN id="token-2-20" pos="punct" morph="none" start_char="479" end_char="479">-</TOKEN>
+<TOKEN id="token-2-21" pos="ADV" morph="male:male=ADV" start_char="480" end_char="483">male</TOKEN>
+<TOKEN id="token-2-22" pos="punct" morph="none" start_char="484" end_char="484">,</TOKEN>
+<TOKEN id="token-2-23" pos="NOUN" morph="duk:duk=NOUN" start_char="486" end_char="488">duk</TOKEN>
+<TOKEN id="token-2-24" pos="NOUN" morph="kusa:kusa=NOUN n:n=CONSTRUCT" start_char="490" end_char="494">kusan</TOKEN>
+<TOKEN id="token-2-25" pos="NOUN" morph="gine:gine=NOUN" start_char="496" end_char="499">gine</TOKEN>
+<TOKEN id="token-2-26" pos="punct" morph="none" start_char="500" end_char="500">-</TOKEN>
+<TOKEN id="token-2-27" pos="NOUN" morph="gine:gine=NOUN n:n=CONSTRUCT" start_char="501" end_char="505">ginen</TOKEN>
+<TOKEN id="token-2-28" pos="PRON" morph="da:da=RELPRON ke:ke=CONT" start_char="507" end_char="510">dake</TOKEN>
+<TOKEN id="token-2-29" pos="NOUN" morph="ciki:ciki=NOUN nsa:nsa=POSS_3SM" start_char="512" end_char="518">cikinsa</TOKEN>
+<TOKEN id="token-2-30" pos="PRON" morph="suna:suna=PRON_WSP_3P" start_char="520" end_char="523">suna</TOKEN>
+<TOKEN id="token-2-31" pos="PREP" morph="a:a=PREP" start_char="525" end_char="525">a</TOKEN>
+<TOKEN id="token-2-32" pos="NOUN" morph="kasa:kasa=NOUN" start_char="527" end_char="530">kasa</TOKEN>
+<TOKEN id="token-2-33" pos="punct" morph="none" start_char="531" end_char="531">,</TOKEN>
+<TOKEN id="token-2-34" pos="PRON" morph="sun:sun=PRON_WSP_3P" start_char="533" end_char="535">sun</TOKEN>
+<TOKEN id="token-2-35" pos="VERB" morph="rushe:rushe=VERB" start_char="537" end_char="541">rushe</TOKEN>
+<TOKEN id="token-2-36" pos="PREP" morph="a:a=PREP" start_char="543" end_char="543">a</TOKEN>
+<TOKEN id="token-2-37" pos="NOUN" morph="sanadi:sanadi=NOUN n:n=CONSTRUCT" start_char="545" end_char="551">sanadin</TOKEN>
+<TOKEN id="token-2-38" pos="NOUN" morph="wata:wata=NOUN" start_char="553" end_char="556">wata</TOKEN>
+<TOKEN id="token-2-39" pos="ADJ" morph="gagaruma:gagaruma=ADJ r:r=CONSTRUCT" start_char="558" end_char="566">gagarumar</TOKEN>
+<TOKEN id="token-2-40" pos="NOUN" morph="girgiza:girgiza=NOUN n:n=CONSTRUCT" start_char="568" end_char="575">girgizan</TOKEN>
+<TOKEN id="token-2-41" pos="NOUN" morph="kasa:kasa=NOUN n:n=DEFINITE" start_char="577" end_char="581">kasan</TOKEN>
+<TOKEN id="token-2-42" pos="RELPRON" morph="da:da=RELPRON" start_char="583" end_char="584">da</TOKEN>
+<TOKEN id="token-2-43" pos="PRON" morph="ta:ta=PRON_WSP_3SF" start_char="586" end_char="587">ta</TOKEN>
+<TOKEN id="token-2-44" pos="NOUN" morph="rafganga:rafganga=NOUN r:r=DEFINITE" start_char="589" end_char="597">rafgangar</TOKEN>
+<TOKEN id="token-2-45" pos="PRON" morph="za:za=FUT1" start_char="599" end_char="600">za</TOKEN>
+<TOKEN id="token-2-46" pos="PREP" morph="hatta:hatta=PREP" start_char="602" end_char="606">hatta</TOKEN>
+<TOKEN id="token-2-47" pos="NOUN" morph="wurare:wurare=NOUN n:n=CONSTRUCT" start_char="608" end_char="614">wuraren</TOKEN>
+<TOKEN id="token-2-48" pos="NOUN" morph="ibada:ibada=NOUN" start_char="616" end_char="620">ibada</TOKEN>
+<TOKEN id="token-2-49" pos="punct" morph="none" start_char="621" end_char="621">,</TOKEN>
+<TOKEN id="token-2-50" pos="DEMPRON" morph="wacce:wacce=DEMPRON" start_char="623" end_char="627">wacce</TOKEN>
+<TOKEN id="token-2-51" pos="COMP" morph="kuma:kuma=COMP" start_char="629" end_char="632">kuma</TOKEN>
+<TOKEN id="token-2-52" pos="PRON" morph="ta:ta=PRON_WSP_3SF" start_char="634" end_char="635">ta</TOKEN>
+<TOKEN id="token-2-53" pos="VERB" morph="abku:abku=VERB" start_char="637" end_char="640">abku</TOKEN>
+<TOKEN id="token-2-54" pos="PREP" morph="a:a=PREP" start_char="642" end_char="642">a</TOKEN>
+<TOKEN id="token-2-55" pos="ADV" morph="daidai:daidai=ADV" start_char="644" end_char="649">daidai</TOKEN>
+<TOKEN id="token-2-56" pos="word" morph="unanalyzable" start_char="651" end_char="659">lokacinda</TOKEN>
+<TOKEN id="token-2-57" pos="PRON" morph="ake:ake=PRON_WSP_4P" start_char="661" end_char="663">ake</TOKEN>
+<TOKEN id="token-2-58" pos="PREP" morph="cikin:cikin=PREP" start_char="665" end_char="669">cikin</TOKEN>
+<TOKEN id="token-2-59" pos="NOUN" morph="mafi:mafi=NOUN" start_char="671" end_char="674">mafi</TOKEN>
+<TOKEN id="token-2-60" pos="VERB" morph="hada:hada=VERB" start_char="676" end_char="679">hada</TOKEN>
+<TOKEN id="token-2-61" pos="punct" morph="none" start_char="680" end_char="680">-</TOKEN>
+<TOKEN id="token-2-62" pos="NOUN" morph="hada:hada=NOUN r:r=CONSTRUCT" start_char="681" end_char="685">hadar</TOKEN>
+<TOKEN id="token-2-63" pos="NOUN" morph="maʼaikata:maʼaikata=NOUN" start_char="687" end_char="695">maʼaikata</TOKEN>
+<TOKEN id="token-2-64" pos="punct" morph="none" start_char="696" end_char="696">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="699" end_char="924">
+<ORIGINAL_TEXT>Girgizan ta hallaka mutane da dama, kuma wasu da yawa sun salwanta, ana nemansu yayinda masu aikin kawo ceto dake aiki da manyan injuna suke ci gaba da farfasa kasar da ta fadi a kokarin neman mutanen da ginepginen suka danne.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Girgiza:girgiza=NOUN n:n=DEFINITE" start_char="699" end_char="706">Girgizan</TOKEN>
+<TOKEN id="token-3-1" pos="PRON" morph="ta:ta=PRON_WSP_3SF" start_char="708" end_char="709">ta</TOKEN>
+<TOKEN id="token-3-2" pos="NOUN" morph="hallaka:hallaka=NOUN" start_char="711" end_char="717">hallaka</TOKEN>
+<TOKEN id="token-3-3" pos="NOUN" morph="mutane:mutane=NOUN" start_char="719" end_char="724">mutane</TOKEN>
+<TOKEN id="token-3-4" pos="PARTICLE" morph="da:da=PARTICLE" start_char="726" end_char="727">da</TOKEN>
+<TOKEN id="token-3-5" pos="NOUN" morph="dama:dama=NOUN" start_char="729" end_char="732">dama</TOKEN>
+<TOKEN id="token-3-6" pos="punct" morph="none" start_char="733" end_char="733">,</TOKEN>
+<TOKEN id="token-3-7" pos="PARTICLE" morph="kuma:kuma=PARTICLE" start_char="735" end_char="738">kuma</TOKEN>
+<TOKEN id="token-3-8" pos="NOUN" morph="wasu:wasu=NOUN" start_char="740" end_char="743">wasu</TOKEN>
+<TOKEN id="token-3-9" pos="PARTICLE" morph="da:da=PARTICLE" start_char="745" end_char="746">da</TOKEN>
+<TOKEN id="token-3-10" pos="NOUN" morph="yawa:yawa=NOUN" start_char="748" end_char="751">yawa</TOKEN>
+<TOKEN id="token-3-11" pos="PRON" morph="sun:sun=PRON_WSP_3P" start_char="753" end_char="755">sun</TOKEN>
+<TOKEN id="token-3-12" pos="VERB" morph="salwanta:salwanta=VERB" start_char="757" end_char="764">salwanta</TOKEN>
+<TOKEN id="token-3-13" pos="punct" morph="none" start_char="765" end_char="765">,</TOKEN>
+<TOKEN id="token-3-14" pos="PRON" morph="ana:ana=PRON_WSP_4P" start_char="767" end_char="769">ana</TOKEN>
+<TOKEN id="token-3-15" pos="NOUN" morph="nema:nema=NOUN nsu:nsu=POSS_3P" start_char="771" end_char="777">nemansu</TOKEN>
+<TOKEN id="token-3-16" pos="ADV" morph="yayinda:yayinda=ADV" start_char="779" end_char="785">yayinda</TOKEN>
+<TOKEN id="token-3-17" pos="PARTICLE" morph="masu:masu=PARTICLE" start_char="787" end_char="790">masu</TOKEN>
+<TOKEN id="token-3-18" pos="NOUN" morph="aiki:aiki=NOUN n:n=CONSTRUCT" start_char="792" end_char="796">aikin</TOKEN>
+<TOKEN id="token-3-19" pos="VERB" morph="kawo:kawo=VERB" start_char="798" end_char="801">kawo</TOKEN>
+<TOKEN id="token-3-20" pos="NOUN" morph="ceto:ceto=NOUN" start_char="803" end_char="806">ceto</TOKEN>
+<TOKEN id="token-3-21" pos="PRON" morph="da:da=RELPRON ke:ke=CONT" start_char="808" end_char="811">dake</TOKEN>
+<TOKEN id="token-3-22" pos="VERB" morph="aiki:aiki=VERB" start_char="813" end_char="816">aiki</TOKEN>
+<TOKEN id="token-3-23" pos="PREP" morph="da:da=PREP" start_char="818" end_char="819">da</TOKEN>
+<TOKEN id="token-3-24" pos="ADJ" morph="manya:manya=ADJ n:n=CONSTRUCT" start_char="821" end_char="826">manyan</TOKEN>
+<TOKEN id="token-3-25" pos="NOUN" morph="injuna:injuna=NOUN" start_char="828" end_char="833">injuna</TOKEN>
+<TOKEN id="token-3-26" pos="PRON" morph="suke:suke=PRON_WSP_3P" start_char="835" end_char="838">suke</TOKEN>
+<TOKEN id="token-3-27" pos="VERB" morph="ci:ci=VERB" start_char="840" end_char="841">ci</TOKEN>
+<TOKEN id="token-3-28" pos="ADV" morph="gaba:gaba=ADV" start_char="843" end_char="846">gaba</TOKEN>
+<TOKEN id="token-3-29" pos="PREP" morph="da:da=PREP" start_char="848" end_char="849">da</TOKEN>
+<TOKEN id="token-3-30" pos="VERB" morph="farfasa:farfasa=VERB" start_char="851" end_char="857">farfasa</TOKEN>
+<TOKEN id="token-3-31" pos="NOUN" morph="kasa:kasa=NOUN r:r=DEFINITE" start_char="859" end_char="863">kasar</TOKEN>
+<TOKEN id="token-3-32" pos="RELPRON" morph="da:da=RELPRON" start_char="865" end_char="866">da</TOKEN>
+<TOKEN id="token-3-33" pos="PRON" morph="ta:ta=PRON_WSP_3SF" start_char="868" end_char="869">ta</TOKEN>
+<TOKEN id="token-3-34" pos="VERB" morph="fadi:fadi=VERB" start_char="871" end_char="874">fadi</TOKEN>
+<TOKEN id="token-3-35" pos="PREP" morph="a:a=PREP" start_char="876" end_char="876">a</TOKEN>
+<TOKEN id="token-3-36" pos="NOUN" morph="kokari:kokari=NOUN n:n=CONSTRUCT" start_char="878" end_char="884">kokarin</TOKEN>
+<TOKEN id="token-3-37" pos="NOUN" morph="nema:nema=NOUN n:n=CONSTRUCT" start_char="886" end_char="890">neman</TOKEN>
+<TOKEN id="token-3-38" pos="NOUN" morph="mutane:mutane=NOUN n:n=DEFINITE" start_char="892" end_char="898">mutanen</TOKEN>
+<TOKEN id="token-3-39" pos="RELPRON" morph="da:da=RELPRON" start_char="900" end_char="901">da</TOKEN>
+<TOKEN id="token-3-40" pos="NOUN" morph="ginepginen:ginepginen=NOUN" start_char="903" end_char="912">ginepginen</TOKEN>
+<TOKEN id="token-3-41" pos="PRON" morph="suka:suka=PRON_WSP_3P" start_char="914" end_char="917">suka</TOKEN>
+<TOKEN id="token-3-42" pos="VERB" morph="danne:danne=VERB" start_char="919" end_char="923">danne</TOKEN>
+<TOKEN id="token-3-43" pos="punct" morph="none" start_char="924" end_char="924">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="927" end_char="1222">
+<ORIGINAL_TEXT>Rahottanin dake fitowa daga inda abin ya afru na cewa da kyar ne idan girgizan bai halakka mutanen da yawansu ya kai 300 ba – ko da yake hukumomi na taka-tsatsan bada alkalumman, suna cewa yawan matattun na tsakanin 38 ne zuwa 65 – wanda shine yawan ainihin gawawwakin da aka gani kuma aka kirga.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="NOUN" morph="Rahottani:rahottani=NOUN n:n=DEFINITE" start_char="927" end_char="936">Rahottanin</TOKEN>
+<TOKEN id="token-4-1" pos="PRON" morph="da:da=RELPRON ke:ke=CONT" start_char="938" end_char="941">dake</TOKEN>
+<TOKEN id="token-4-2" pos="NOUN" morph="fitowa:fitowa=NOUN" start_char="943" end_char="948">fitowa</TOKEN>
+<TOKEN id="token-4-3" pos="PREP" morph="daga:daga=PREP" start_char="950" end_char="953">daga</TOKEN>
+<TOKEN id="token-4-4" pos="ADV" morph="inda:inda=ADV" start_char="955" end_char="958">inda</TOKEN>
+<TOKEN id="token-4-5" pos="NOUN" morph="abin:abin=NOUN" start_char="960" end_char="963">abin</TOKEN>
+<TOKEN id="token-4-6" pos="PRON" morph="ya:ya=PRON_WSP_3SM" start_char="965" end_char="966">ya</TOKEN>
+<TOKEN id="token-4-7" pos="VERB" morph="afru:afru=VERB" start_char="968" end_char="971">afru</TOKEN>
+<TOKEN id="token-4-8" pos="CONSTRUCT" morph="na:na=CONSTRUCT" start_char="973" end_char="974">na</TOKEN>
+<TOKEN id="token-4-9" pos="NOUN" morph="cewa:cewa=NOUN" start_char="976" end_char="979">cewa</TOKEN>
+<TOKEN id="token-4-10" pos="PARTICLE" morph="da:da=PARTICLE" start_char="981" end_char="982">da</TOKEN>
+<TOKEN id="token-4-11" pos="ADV" morph="kyar:kyar=ADV" start_char="984" end_char="987">kyar</TOKEN>
+<TOKEN id="token-4-12" pos="COPULA" morph="ne:ne=COPULA" start_char="989" end_char="990">ne</TOKEN>
+<TOKEN id="token-4-13" pos="CONJ" morph="idan:idan=CONJ" start_char="992" end_char="995">idan</TOKEN>
+<TOKEN id="token-4-14" pos="NOUN" morph="girgiza:girgiza=NOUN n:n=DEFINITE" start_char="997" end_char="1004">girgizan</TOKEN>
+<TOKEN id="token-4-15" pos="PRON" morph="bai:bai=PRON_WSP_3SM*NEG" start_char="1006" end_char="1008">bai</TOKEN>
+<TOKEN id="token-4-16" pos="VERB" morph="halakka:halakka=VERB" start_char="1010" end_char="1016">halakka</TOKEN>
+<TOKEN id="token-4-17" pos="NOUN" morph="mutane:mutane=NOUN n:n=DEFINITE" start_char="1018" end_char="1024">mutanen</TOKEN>
+<TOKEN id="token-4-18" pos="RELPRON" morph="da:da=RELPRON" start_char="1026" end_char="1027">da</TOKEN>
+<TOKEN id="token-4-19" pos="NOUN" morph="yawa:yawa=NOUN nsu:nsu=POSS_3P" start_char="1029" end_char="1035">yawansu</TOKEN>
+<TOKEN id="token-4-20" pos="PRON" morph="ya:ya=PRON_WSP_3SM" start_char="1037" end_char="1038">ya</TOKEN>
+<TOKEN id="token-4-21" pos="VERB" morph="kai:kai=VERB" start_char="1040" end_char="1042">kai</TOKEN>
+<TOKEN id="token-4-22" pos="number" morph="none" start_char="1044" end_char="1046">300</TOKEN>
+<TOKEN id="token-4-23" pos="NEG" morph="ba:ba=NEG" start_char="1048" end_char="1049">ba</TOKEN>
+<TOKEN id="token-4-24" pos="unknown" morph="none" start_char="1051" end_char="1051">–</TOKEN>
+<TOKEN id="token-4-25" pos="CONJ" morph="ko:ko=CONJ" start_char="1053" end_char="1054">ko</TOKEN>
+<TOKEN id="token-4-26" pos="PARTICLE" morph="da:da=PARTICLE" start_char="1056" end_char="1057">da</TOKEN>
+<TOKEN id="token-4-27" pos="PRON" morph="yake:yake=PRON_WSP_3SM" start_char="1059" end_char="1062">yake</TOKEN>
+<TOKEN id="token-4-28" pos="NOUN" morph="hukumomi:hukumomi=NOUN" start_char="1064" end_char="1071">hukumomi</TOKEN>
+<TOKEN id="token-4-29" pos="PRON" morph="na:na=PRON_WSP_1S" start_char="1073" end_char="1074">na</TOKEN>
+<TOKEN id="token-4-30" pos="VERB" morph="taka:taka=VERB" start_char="1076" end_char="1079">taka</TOKEN>
+<TOKEN id="token-4-31" pos="punct" morph="none" start_char="1080" end_char="1080">-</TOKEN>
+<TOKEN id="token-4-32" pos="ADJ" morph="tsatsa:tsatsa=ADJ n:n=DEFINITE" start_char="1081" end_char="1087">tsatsan</TOKEN>
+<TOKEN id="token-4-33" pos="VERB" morph="bada:bada=VERB" start_char="1089" end_char="1092">bada</TOKEN>
+<TOKEN id="token-4-34" pos="NOUN" morph="alkalumma:alkalumma=NOUN n:n=DEFINITE" start_char="1094" end_char="1103">alkalumman</TOKEN>
+<TOKEN id="token-4-35" pos="punct" morph="none" start_char="1104" end_char="1104">,</TOKEN>
+<TOKEN id="token-4-36" pos="PRON" morph="suna:suna=PRON_WSP_3P" start_char="1106" end_char="1109">suna</TOKEN>
+<TOKEN id="token-4-37" pos="NOUN" morph="cewa:cewa=NOUN" start_char="1111" end_char="1114">cewa</TOKEN>
+<TOKEN id="token-4-38" pos="NOUN" morph="yawa:yawa=NOUN n:n=CONSTRUCT" start_char="1116" end_char="1120">yawan</TOKEN>
+<TOKEN id="token-4-39" pos="NOUN" morph="matattu:matattu=NOUN n:n=DEFINITE" start_char="1122" end_char="1129">matattun</TOKEN>
+<TOKEN id="token-4-40" pos="PRON" morph="na:na=PRON_WSP_1S" start_char="1131" end_char="1132">na</TOKEN>
+<TOKEN id="token-4-41" pos="PREP" morph="tsakanin:tsakanin=PREP" start_char="1134" end_char="1141">tsakanin</TOKEN>
+<TOKEN id="token-4-42" pos="number" morph="none" start_char="1143" end_char="1144">38</TOKEN>
+<TOKEN id="token-4-43" pos="COPULA" morph="ne:ne=COPULA" start_char="1146" end_char="1147">ne</TOKEN>
+<TOKEN id="token-4-44" pos="PREP" morph="zuwa:zuwa=PREP" start_char="1149" end_char="1152">zuwa</TOKEN>
+<TOKEN id="token-4-45" pos="number" morph="none" start_char="1154" end_char="1155">65</TOKEN>
+<TOKEN id="token-4-46" pos="unknown" morph="none" start_char="1157" end_char="1157">–</TOKEN>
+<TOKEN id="token-4-47" pos="RELPRON" morph="wanda:wanda=RELPRON" start_char="1159" end_char="1163">wanda</TOKEN>
+<TOKEN id="token-4-48" pos="RELPRON" morph="shine:shine=RELPRON" start_char="1165" end_char="1169">shine</TOKEN>
+<TOKEN id="token-4-49" pos="NOUN" morph="yawa:yawa=NOUN n:n=CONSTRUCT" start_char="1171" end_char="1175">yawan</TOKEN>
+<TOKEN id="token-4-50" pos="NOUN" morph="ainihi:ainihi=NOUN n:n=CONSTRUCT" start_char="1177" end_char="1183">ainihin</TOKEN>
+<TOKEN id="token-4-51" pos="NOUN" morph="gawawwaki:gawawwaki=NOUN n:n=CONSTRUCT" start_char="1185" end_char="1194">gawawwakin</TOKEN>
+<TOKEN id="token-4-52" pos="RELPRON" morph="da:da=RELPRON" start_char="1196" end_char="1197">da</TOKEN>
+<TOKEN id="token-4-53" pos="PRON" morph="aka:aka=PRON_WSP_4P" start_char="1199" end_char="1201">aka</TOKEN>
+<TOKEN id="token-4-54" pos="VERB" morph="gani:gani=VERB" start_char="1203" end_char="1206">gani</TOKEN>
+<TOKEN id="token-4-55" pos="PARTICLE" morph="kuma:kuma=PARTICLE" start_char="1208" end_char="1211">kuma</TOKEN>
+<TOKEN id="token-4-56" pos="PRON" morph="aka:aka=PRON_WSP_4P" start_char="1213" end_char="1215">aka</TOKEN>
+<TOKEN id="token-4-57" pos="VERB" morph="kirga:kirga=VERB" start_char="1217" end_char="1221">kirga</TOKEN>
+<TOKEN id="token-4-58" pos="punct" morph="none" start_char="1222" end_char="1222">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

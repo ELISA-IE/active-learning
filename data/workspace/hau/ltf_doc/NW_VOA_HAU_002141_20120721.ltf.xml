@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_VOA_HAU_002141_20120721" tokenization="tokenization_parameters.v2.0" grammar="manual" raw_text_char_length="822" raw_text_md5="bb148ec7ffd264844588af8c66861d87">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="133">
+<ORIGINAL_TEXT>Wadansu ʼyan majalisar dokokin kasar Zimbabwe guda hudu sun yi kaciya a yunkurin wayar da kan alʼumma dangane da illar cutar kanjamau.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="NOUN" morph="Wadansu:wadansu=NOUN" start_char="0" end_char="6">Wadansu</TOKEN>
+<TOKEN id="token-0-1" pos="NOUN" morph="ʼyan:ʼyan=NOUN" start_char="8" end_char="11">ʼyan</TOKEN>
+<TOKEN id="token-0-2" pos="NOUN" morph="majalisa:majalisa=NOUN r:r=CONSTRUCT" start_char="13" end_char="21">majalisar</TOKEN>
+<TOKEN id="token-0-3" pos="NOUN" morph="dokoki:dokoki=NOUN n:n=CONSTRUCT" start_char="23" end_char="29">dokokin</TOKEN>
+<TOKEN id="token-0-4" pos="NOUN" morph="kasa:kasa=NOUN r:r=CONSTRUCT" start_char="31" end_char="35">kasar</TOKEN>
+<TOKEN id="token-0-5" pos="NOUN" morph="Zimbabwe:zimbabwe=NOUN" start_char="37" end_char="44">Zimbabwe</TOKEN>
+<TOKEN id="token-0-6" pos="NOUN" morph="guda:guda=NOUN" start_char="46" end_char="49">guda</TOKEN>
+<TOKEN id="token-0-7" pos="NUM" morph="hudu:hudu=NUM" start_char="51" end_char="54">hudu</TOKEN>
+<TOKEN id="token-0-8" pos="PRON" morph="sun:sun=PRON_WSP_3P" start_char="56" end_char="58">sun</TOKEN>
+<TOKEN id="token-0-9" pos="VERB" morph="yi:yi=VERB" start_char="60" end_char="61">yi</TOKEN>
+<TOKEN id="token-0-10" pos="NOUN" morph="kaciya:kaciya=NOUN" start_char="63" end_char="68">kaciya</TOKEN>
+<TOKEN id="token-0-11" pos="PREP" morph="a:a=PREP" start_char="70" end_char="70">a</TOKEN>
+<TOKEN id="token-0-12" pos="NOUN" morph="yunkurin:yunkurin=NOUN" start_char="72" end_char="79">yunkurin</TOKEN>
+<TOKEN id="token-0-13" pos="NOUN" morph="waya:waya=NOUN r:r=CONSTRUCT" start_char="81" end_char="85">wayar</TOKEN>
+<TOKEN id="token-0-14" pos="PREP" morph="da:da=PREP" start_char="87" end_char="88">da</TOKEN>
+<TOKEN id="token-0-15" pos="PREP" morph="kan:kan=PREP" start_char="90" end_char="92">kan</TOKEN>
+<TOKEN id="token-0-16" pos="NOUN" morph="alʼumma:alʼumma=NOUN" start_char="94" end_char="100">alʼumma</TOKEN>
+<TOKEN id="token-0-17" pos="PREP" morph="dangane:dangane=PREP" start_char="102" end_char="108">dangane</TOKEN>
+<TOKEN id="token-0-18" pos="PREP" morph="da:da=PREP" start_char="110" end_char="111">da</TOKEN>
+<TOKEN id="token-0-19" pos="NOUN" morph="illa:illa=NOUN r:r=CONSTRUCT" start_char="113" end_char="117">illar</TOKEN>
+<TOKEN id="token-0-20" pos="NOUN" morph="cuta:cuta=NOUN r:r=CONSTRUCT" start_char="119" end_char="123">cutar</TOKEN>
+<TOKEN id="token-0-21" pos="NOUN" morph="kanjamau:kanjamau=NOUN" start_char="125" end_char="132">kanjamau</TOKEN>
+<TOKEN id="token-0-22" pos="punct" morph="none" start_char="133" end_char="133">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="136" end_char="370">
+<ORIGINAL_TEXT>ʼYan majalisar wadanda suka fito daga manyan jamʼiyun siyasar kasar dake adawa da juna, Jamʼiyar shugaba Robert Mugabe, ZANU-PF da kuma ta Firai Minista Morgan Tsvangirai, MDC, sun dauki matakin hadin guiwar a yunkurin shawo kan cutar.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="NOUN" morph="ʼYan:ʼyan=NOUN" start_char="136" end_char="139">ʼYan</TOKEN>
+<TOKEN id="token-1-1" pos="NOUN" morph="majalisa:majalisa=NOUN r:r=CONSTRUCT" start_char="141" end_char="149">majalisar</TOKEN>
+<TOKEN id="token-1-2" pos="DEMPRON" morph="wadanda:wadanda=DEMPRON" start_char="151" end_char="157">wadanda</TOKEN>
+<TOKEN id="token-1-3" pos="PRON" morph="suka:suka=PRON_WSP_3P" start_char="159" end_char="162">suka</TOKEN>
+<TOKEN id="token-1-4" pos="VERB" morph="fito:fito=VERB" start_char="164" end_char="167">fito</TOKEN>
+<TOKEN id="token-1-5" pos="PREP" morph="daga:daga=PREP" start_char="169" end_char="172">daga</TOKEN>
+<TOKEN id="token-1-6" pos="NOUN" morph="manya:manya=NOUN n:n=CONSTRUCT" start_char="174" end_char="179">manyan</TOKEN>
+<TOKEN id="token-1-7" pos="NOUN" morph="jamʼiyu:jamʼiyu=NOUN n:n=CONSTRUCT" start_char="181" end_char="188">jamʼiyun</TOKEN>
+<TOKEN id="token-1-8" pos="NOUN" morph="siyasa:siyasa=NOUN r:r=CONSTRUCT" start_char="190" end_char="196">siyasar</TOKEN>
+<TOKEN id="token-1-9" pos="NOUN" morph="kasa:kasa=NOUN r:r=DEFINITE" start_char="198" end_char="202">kasar</TOKEN>
+<TOKEN id="token-1-10" pos="PRON" morph="da:da=RELPRON ke:ke=CONT" start_char="204" end_char="207">dake</TOKEN>
+<TOKEN id="token-1-11" pos="NOUN" morph="adawa:adawa=NOUN" start_char="209" end_char="213">adawa</TOKEN>
+<TOKEN id="token-1-12" pos="PREP" morph="da:da=PREP" start_char="215" end_char="216">da</TOKEN>
+<TOKEN id="token-1-13" pos="NOUN" morph="juna:juna=NOUN" start_char="218" end_char="221">juna</TOKEN>
+<TOKEN id="token-1-14" pos="punct" morph="none" start_char="222" end_char="222">,</TOKEN>
+<TOKEN id="token-1-15" pos="NOUN" morph="Jamʼiyar:jamʼiyar=NOUN" start_char="224" end_char="231">Jamʼiyar</TOKEN>
+<TOKEN id="token-1-16" pos="NOUN" morph="shugaba:shugaba=NOUN" start_char="233" end_char="239">shugaba</TOKEN>
+<TOKEN id="token-1-17" pos="NOUN" morph="Robert:robert=NOUN" start_char="241" end_char="246">Robert</TOKEN>
+<TOKEN id="token-1-18" pos="NOUN" morph="Mugabe:mugabe=NOUN" start_char="248" end_char="253">Mugabe</TOKEN>
+<TOKEN id="token-1-19" pos="punct" morph="none" start_char="254" end_char="254">,</TOKEN>
+<TOKEN id="token-1-20" pos="NOUN" morph="ZANU:zanu=NOUN" start_char="256" end_char="259">ZANU</TOKEN>
+<TOKEN id="token-1-21" pos="punct" morph="none" start_char="260" end_char="260">-</TOKEN>
+<TOKEN id="token-1-22" pos="NOUN" morph="PF:pf=NOUN" start_char="261" end_char="262">PF</TOKEN>
+<TOKEN id="token-1-23" pos="CONJ" morph="da:da=CONJ" start_char="264" end_char="265">da</TOKEN>
+<TOKEN id="token-1-24" pos="PREP" morph="kuma:kuma=PREP" start_char="267" end_char="270">kuma</TOKEN>
+<TOKEN id="token-1-25" pos="CONSTRUCT" morph="ta:ta=CONSTRUCT" start_char="272" end_char="273">ta</TOKEN>
+<TOKEN id="token-1-26" pos="NOUN" morph="Firai:firai=NOUN" start_char="275" end_char="279">Firai</TOKEN>
+<TOKEN id="token-1-27" pos="NOUN" morph="Minista:minista=NOUN" start_char="281" end_char="287">Minista</TOKEN>
+<TOKEN id="token-1-28" pos="NOUN" morph="Morgan:morgan=NOUN" start_char="289" end_char="294">Morgan</TOKEN>
+<TOKEN id="token-1-29" pos="NOUN" morph="Tsvangirai:tsvangirai=NOUN" start_char="296" end_char="305">Tsvangirai</TOKEN>
+<TOKEN id="token-1-30" pos="punct" morph="none" start_char="306" end_char="306">,</TOKEN>
+<TOKEN id="token-1-31" pos="NOUN" morph="MDC:mdc=NOUN" start_char="308" end_char="310">MDC</TOKEN>
+<TOKEN id="token-1-32" pos="punct" morph="none" start_char="311" end_char="311">,</TOKEN>
+<TOKEN id="token-1-33" pos="PRON" morph="sun:sun=PRON_WSP_3P" start_char="313" end_char="315">sun</TOKEN>
+<TOKEN id="token-1-34" pos="VERB" morph="dauki:dauki=VERB" start_char="317" end_char="321">dauki</TOKEN>
+<TOKEN id="token-1-35" pos="NOUN" morph="mataki:mataki=NOUN n:n=CONSTRUCT" start_char="323" end_char="329">matakin</TOKEN>
+<TOKEN id="token-1-36" pos="NOUN" morph="hadi:hadi=NOUN n:n=CONSTRUCT" start_char="331" end_char="335">hadin</TOKEN>
+<TOKEN id="token-1-37" pos="NOUN" morph="guiwar:guiwar=NOUN" start_char="337" end_char="342">guiwar</TOKEN>
+<TOKEN id="token-1-38" pos="PREP" morph="a:a=PREP" start_char="344" end_char="344">a</TOKEN>
+<TOKEN id="token-1-39" pos="NOUN" morph="yunkuri:yunkuri=NOUN n:n=CONSTRUCT" start_char="346" end_char="353">yunkurin</TOKEN>
+<TOKEN id="token-1-40" pos="VERB" morph="shawo:shawo=VERB" start_char="355" end_char="359">shawo</TOKEN>
+<TOKEN id="token-1-41" pos="NOUN" morph="ka:ka=NOUN n:n=CONSTRUCT" start_char="361" end_char="363">kan</TOKEN>
+<TOKEN id="token-1-42" pos="NOUN" morph="cuta:cuta=NOUN r:r=DEFINITE" start_char="365" end_char="369">cutar</TOKEN>
+<TOKEN id="token-1-43" pos="punct" morph="none" start_char="370" end_char="370">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="373" end_char="499">
+<ORIGINAL_TEXT>Binciken Hukumar lafiya ta duniya na nuni da cewa, yiwa maza kaciya yana rage hadarin kamuwa da kwayar cutar HIV da kasshi 60%.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="NOUN" morph="Bincike:bincike=NOUN n:n=CONSTRUCT" start_char="373" end_char="380">Binciken</TOKEN>
+<TOKEN id="token-2-1" pos="NOUN" morph="Hukuma:hukuma=NOUN r:r=CONSTRUCT" start_char="382" end_char="388">Hukumar</TOKEN>
+<TOKEN id="token-2-2" pos="NOUN" morph="lafiya:lafiya=NOUN" start_char="390" end_char="395">lafiya</TOKEN>
+<TOKEN id="token-2-3" pos="CONSTRUCT" morph="ta:ta=CONSTRUCT" start_char="397" end_char="398">ta</TOKEN>
+<TOKEN id="token-2-4" pos="NOUN" morph="duniya:duniya=NOUN" start_char="400" end_char="405">duniya</TOKEN>
+<TOKEN id="token-2-5" pos="CONSTRUCT" morph="na:na=CONSTRUCT" start_char="407" end_char="408">na</TOKEN>
+<TOKEN id="token-2-6" pos="VERB" morph="nuni:nuni=VERB" start_char="410" end_char="413">nuni</TOKEN>
+<TOKEN id="token-2-7" pos="COMP" morph="da:da=COMP" start_char="415" end_char="416">da</TOKEN>
+<TOKEN id="token-2-8" pos="NOUN" morph="cewa:cewa=NOUN" start_char="418" end_char="421">cewa</TOKEN>
+<TOKEN id="token-2-9" pos="punct" morph="none" start_char="422" end_char="422">,</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="unanalyzable" start_char="424" end_char="427">yiwa</TOKEN>
+<TOKEN id="token-2-11" pos="NOUN" morph="maza:maza=NOUN" start_char="429" end_char="432">maza</TOKEN>
+<TOKEN id="token-2-12" pos="NOUN" morph="kaciya:kaciya=NOUN" start_char="434" end_char="439">kaciya</TOKEN>
+<TOKEN id="token-2-13" pos="PRON" morph="yana:yana=PRON_WSP_3SM" start_char="441" end_char="444">yana</TOKEN>
+<TOKEN id="token-2-14" pos="VERB" morph="rage:rage=VERB" start_char="446" end_char="449">rage</TOKEN>
+<TOKEN id="token-2-15" pos="NOUN" morph="hadari:hadari=NOUN n:n=CONSTRUCT" start_char="451" end_char="457">hadarin</TOKEN>
+<TOKEN id="token-2-16" pos="NOUN" morph="kamuwa:kamuwa=NOUN" start_char="459" end_char="464">kamuwa</TOKEN>
+<TOKEN id="token-2-17" pos="PREP" morph="da:da=PREP" start_char="466" end_char="467">da</TOKEN>
+<TOKEN id="token-2-18" pos="NOUN" morph="kwaya:kwaya=NOUN r:r=CONSTRUCT" start_char="469" end_char="474">kwayar</TOKEN>
+<TOKEN id="token-2-19" pos="NOUN" morph="cuta:cuta=NOUN r:r=CONSTRUCT" start_char="476" end_char="480">cutar</TOKEN>
+<TOKEN id="token-2-20" pos="NOUN" morph="HIV:hiv=NOUN" start_char="482" end_char="484">HIV</TOKEN>
+<TOKEN id="token-2-21" pos="PREP" morph="da:da=PREP" start_char="486" end_char="487">da</TOKEN>
+<TOKEN id="token-2-22" pos="NOUN" morph="kasshi:kasshi=NOUN" start_char="489" end_char="494">kasshi</TOKEN>
+<TOKEN id="token-2-23" pos="NUM" morph="60:60=NUM" start_char="496" end_char="497">60</TOKEN>
+<TOKEN id="token-2-24" pos="punct" morph="none" start_char="498" end_char="499">%.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="502" end_char="597">
+<ORIGINAL_TEXT>Kasar Zimbabwe tana amfani da wannan hanyar wajen yaki da cutar kanjamau da tayi kamari a kasar.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="NOUN" morph="Kasa:kasa=NOUN r:r=CONSTRUCT" start_char="502" end_char="506">Kasar</TOKEN>
+<TOKEN id="token-3-1" pos="NOUN" morph="Zimbabwe:zimbabwe=NOUN" start_char="508" end_char="515">Zimbabwe</TOKEN>
+<TOKEN id="token-3-2" pos="PRON" morph="tana:tana=PRON_WSP_3SF" start_char="517" end_char="520">tana</TOKEN>
+<TOKEN id="token-3-3" pos="VERB" morph="amfani:amfani=VERB" start_char="522" end_char="527">amfani</TOKEN>
+<TOKEN id="token-3-4" pos="PREP" morph="da:da=PREP" start_char="529" end_char="530">da</TOKEN>
+<TOKEN id="token-3-5" pos="DEMPRON" morph="wannan:wannan=DEMPRON" start_char="532" end_char="537">wannan</TOKEN>
+<TOKEN id="token-3-6" pos="NOUN" morph="hanya:hanya=NOUN r:r=DEFINITE" start_char="539" end_char="544">hanyar</TOKEN>
+<TOKEN id="token-3-7" pos="PREP" morph="wajen:wajen=PREP" start_char="546" end_char="550">wajen</TOKEN>
+<TOKEN id="token-3-8" pos="VERB" morph="yaki:yaki=VERB" start_char="552" end_char="555">yaki</TOKEN>
+<TOKEN id="token-3-9" pos="PREP" morph="da:da=PREP" start_char="557" end_char="558">da</TOKEN>
+<TOKEN id="token-3-10" pos="NOUN" morph="cuta:cuta=NOUN r:r=CONSTRUCT" start_char="560" end_char="564">cutar</TOKEN>
+<TOKEN id="token-3-11" pos="NOUN" morph="kanjamau:kanjamau=NOUN" start_char="566" end_char="573">kanjamau</TOKEN>
+<TOKEN id="token-3-12" pos="RELPRON" morph="da:da=RELPRON" start_char="575" end_char="576">da</TOKEN>
+<TOKEN id="token-3-13" pos="VERB" morph="tayi:tayi=VERB" start_char="578" end_char="581">tayi</TOKEN>
+<TOKEN id="token-3-14" pos="NOUN" morph="kamari:kamari=NOUN" start_char="583" end_char="588">kamari</TOKEN>
+<TOKEN id="token-3-15" pos="PREP" morph="a:a=PREP" start_char="590" end_char="590">a</TOKEN>
+<TOKEN id="token-3-16" pos="NOUN" morph="kasa:kasa=NOUN r:r=DEFINITE" start_char="592" end_char="596">kasar</TOKEN>
+<TOKEN id="token-3-17" pos="punct" morph="none" start_char="597" end_char="597">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="600" end_char="819">
+<ORIGINAL_TEXT>A shekarar alib da dari tara da casaʼin kasar Zimbabwe ce tafi kowacce kasa a duniya yawan masu fama da cutar kanjamau, yayinda aka sami kimanin kashi 13.7% na mutanen da suka balaga a kasar dauke da kwayar cutar a 2009.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="PREP" morph="A:a=PREP" start_char="600" end_char="600">A</TOKEN>
+<TOKEN id="token-4-1" pos="NOUN" morph="shekara:shekara=NOUN r:r=CONSTRUCT" start_char="602" end_char="609">shekarar</TOKEN>
+<TOKEN id="token-4-2" pos="NOUN" morph="alib:alib=NOUN" start_char="611" end_char="614">alib</TOKEN>
+<TOKEN id="token-4-3" pos="CONJ" morph="da:da=CONJ" start_char="616" end_char="617">da</TOKEN>
+<TOKEN id="token-4-4" pos="NOUN" morph="dari:dari=NOUN" start_char="619" end_char="622">dari</TOKEN>
+<TOKEN id="token-4-5" pos="NUM" morph="tara:tara=NUM" start_char="624" end_char="627">tara</TOKEN>
+<TOKEN id="token-4-6" pos="CONJ" morph="da:da=CONJ" start_char="629" end_char="630">da</TOKEN>
+<TOKEN id="token-4-7" pos="NUM" morph="casaʼin:casaʼin=NUM" start_char="632" end_char="638">casaʼin</TOKEN>
+<TOKEN id="token-4-8" pos="NOUN" morph="kasa:kasa=NOUN r:r=CONSTRUCT" start_char="640" end_char="644">kasar</TOKEN>
+<TOKEN id="token-4-9" pos="NOUN" morph="Zimbabwe:zimbabwe=NOUN" start_char="646" end_char="653">Zimbabwe</TOKEN>
+<TOKEN id="token-4-10" pos="COPULA" morph="ce:ce=COPULA" start_char="655" end_char="656">ce</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="unanalyzable" start_char="658" end_char="661">tafi</TOKEN>
+<TOKEN id="token-4-12" pos="NOUN" morph="kowacce:kowacce=NOUN" start_char="663" end_char="669">kowacce</TOKEN>
+<TOKEN id="token-4-13" pos="NOUN" morph="kasa:kasa=NOUN" start_char="671" end_char="674">kasa</TOKEN>
+<TOKEN id="token-4-14" pos="PREP" morph="a:a=PREP" start_char="676" end_char="676">a</TOKEN>
+<TOKEN id="token-4-15" pos="NOUN" morph="duniya:duniya=NOUN" start_char="678" end_char="683">duniya</TOKEN>
+<TOKEN id="token-4-16" pos="NOUN" morph="yawa:yawa=NOUN n:n=CONSTRUCT" start_char="685" end_char="689">yawan</TOKEN>
+<TOKEN id="token-4-17" pos="NOUN" morph="masu:masu=NOUN" start_char="691" end_char="694">masu</TOKEN>
+<TOKEN id="token-4-18" pos="VERB" morph="fama:fama=VERB" start_char="696" end_char="699">fama</TOKEN>
+<TOKEN id="token-4-19" pos="PREP" morph="da:da=PREP" start_char="701" end_char="702">da</TOKEN>
+<TOKEN id="token-4-20" pos="NOUN" morph="cuta:cuta=NOUN r:r=CONSTRUCT" start_char="704" end_char="708">cutar</TOKEN>
+<TOKEN id="token-4-21" pos="NOUN" morph="kanjamau:kanjamau=NOUN" start_char="710" end_char="717">kanjamau</TOKEN>
+<TOKEN id="token-4-22" pos="punct" morph="none" start_char="718" end_char="718">,</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="unanalyzable" start_char="720" end_char="726">yayinda</TOKEN>
+<TOKEN id="token-4-24" pos="PRON" morph="aka:aka=PRON_WSP_4P" start_char="728" end_char="730">aka</TOKEN>
+<TOKEN id="token-4-25" pos="VERB" morph="sami:sami=VERB" start_char="732" end_char="735">sami</TOKEN>
+<TOKEN id="token-4-26" pos="NOUN" morph="kimanin:kimanin=NOUN" start_char="737" end_char="743">kimanin</TOKEN>
+<TOKEN id="token-4-27" pos="NOUN" morph="kashi:kashi=NOUN" start_char="745" end_char="749">kashi</TOKEN>
+<TOKEN id="token-4-28" pos="NUM" morph="13:13=NUM" start_char="751" end_char="752">13</TOKEN>
+<TOKEN id="token-4-29" pos="punct" morph="none" start_char="753" end_char="753">.</TOKEN>
+<TOKEN id="token-4-30" pos="NUM" morph="7:7=NUM" start_char="754" end_char="754">7</TOKEN>
+<TOKEN id="token-4-31" pos="punct" morph="none" start_char="755" end_char="755">%</TOKEN>
+<TOKEN id="token-4-32" pos="CONSTRUCT" morph="na:na=CONSTRUCT" start_char="757" end_char="758">na</TOKEN>
+<TOKEN id="token-4-33" pos="NOUN" morph="mutane:mutane=NOUN n:n=CONSTRUCT" start_char="760" end_char="766">mutanen</TOKEN>
+<TOKEN id="token-4-34" pos="RELPRON" morph="da:da=RELPRON" start_char="768" end_char="769">da</TOKEN>
+<TOKEN id="token-4-35" pos="PRON" morph="suka:suka=PRON_WSP_3P" start_char="771" end_char="774">suka</TOKEN>
+<TOKEN id="token-4-36" pos="NOUN" morph="balaga:balaga=NOUN" start_char="776" end_char="781">balaga</TOKEN>
+<TOKEN id="token-4-37" pos="PREP" morph="a:a=PREP" start_char="783" end_char="783">a</TOKEN>
+<TOKEN id="token-4-38" pos="NOUN" morph="kasa:kasa=NOUN r:r=DEFINITE" start_char="785" end_char="789">kasar</TOKEN>
+<TOKEN id="token-4-39" pos="VERB" morph="dauke:dauke=VERB" start_char="791" end_char="795">dauke</TOKEN>
+<TOKEN id="token-4-40" pos="PREP" morph="da:da=PREP" start_char="797" end_char="798">da</TOKEN>
+<TOKEN id="token-4-41" pos="NOUN" morph="kwaya:kwaya=NOUN r:r=CONSTRUCT" start_char="800" end_char="805">kwayar</TOKEN>
+<TOKEN id="token-4-42" pos="NOUN" morph="cuta:cuta=NOUN r:r=DEFINITE" start_char="807" end_char="811">cutar</TOKEN>
+<TOKEN id="token-4-43" pos="PREP" morph="a:a=PREP" start_char="813" end_char="813">a</TOKEN>
+<TOKEN id="token-4-44" pos="NUM" morph="2009:2009=NUM" start_char="815" end_char="818">2009</TOKEN>
+<TOKEN id="token-4-45" pos="punct" morph="none" start_char="819" end_char="819">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

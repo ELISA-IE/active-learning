@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DAN_HAU_007440_20110329" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE1" task="NE" type="PER">
+      <EXTENT start_char="0" end_char="4">ZUWAN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE2" task="NE" type="PER">
+      <EXTENT start_char="6" end_char="11">BUHARI</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE3" task="NE" type="PER">
+      <EXTENT start_char="13" end_char="16">KANO</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE4" task="NE" type="PER">
+      <EXTENT start_char="18" end_char="19">YA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE5" task="NE" type="PER">
+      <EXTENT start_char="21" end_char="26">BATAWA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE6" task="NE" type="PER">
+      <EXTENT start_char="28" end_char="31">WASU</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE7" task="NE" type="PER">
+      <EXTENT start_char="33" end_char="35">RAI</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE8" task="NE" type="PER">
+      <EXTENT start_char="37" end_char="40">AMMA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE9" task="NE" type="PER">
+      <EXTENT start_char="42" end_char="46">BANDA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007440_20110329-NE10" task="NE" type="PER">
+      <EXTENT start_char="48" end_char="49">NI</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

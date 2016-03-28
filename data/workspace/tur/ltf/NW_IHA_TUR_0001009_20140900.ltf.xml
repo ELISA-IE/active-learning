@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_IHA_TUR_0001009_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="2794" raw_text_md5="f69f7d9e6ffe241567ef9ef0c14d99a7">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="39">
+<ORIGINAL_TEXT>Aşırı sıcaklar, böbrek taşını tetikliyor</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="4">Aşırı</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="6" end_char="13">sıcaklar</TOKEN>
+<TOKEN id="token-0-2" pos="punct" morph="none" start_char="14" end_char="14">,</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="16" end_char="21">böbrek</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="23" end_char="28">taşını</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="30" end_char="39">tetikliyor</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="42" end_char="135">
+<ORIGINAL_TEXT>Böbrek taşı sorununun görülme sıklığı yaz aylarında artığına dikkat çeken nefroloji uzmanı Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="42" end_char="47">Böbrek</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="49" end_char="52">taşı</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="54" end_char="62">sorununun</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="64" end_char="70">görülme</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="72" end_char="78">sıklığı</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="80" end_char="82">yaz</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="84" end_char="92">aylarında</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="94" end_char="101">artığına</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="103" end_char="108">dikkat</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="110" end_char="114">çeken</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="116" end_char="124">nefroloji</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="126" end_char="131">uzmanı</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="133" end_char="134">Dr</TOKEN>
+<TOKEN id="token-1-13" pos="punct" morph="none" start_char="135" end_char="135">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="137" end_char="251">
+<ORIGINAL_TEXT>Hüseyin Çelik, bunun en önemli sebebinin ise sıcak havalarda vücudun ihtiyacı kadar su tüketmemek olduğunu söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="137" end_char="143">Hüseyin</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="145" end_char="149">Çelik</TOKEN>
+<TOKEN id="token-2-2" pos="punct" morph="none" start_char="150" end_char="150">,</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="152" end_char="156">bunun</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="158" end_char="159">en</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="161" end_char="166">önemli</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="168" end_char="176">sebebinin</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="178" end_char="180">ise</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="182" end_char="186">sıcak</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="188" end_char="196">havalarda</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="198" end_char="204">vücudun</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="206" end_char="213">ihtiyacı</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="215" end_char="219">kadar</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="221" end_char="222">su</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="224" end_char="233">tüketmemek</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="235" end_char="242">olduğunu</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="244" end_char="250">söyledi</TOKEN>
+<TOKEN id="token-2-17" pos="punct" morph="none" start_char="251" end_char="251">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="254" end_char="483">
+<ORIGINAL_TEXT>Böbrek taşı Türkiyeʼde en yaygın görülen hastalıklardan birini oluşturduğuna dikkat çeken uzmanlar, aşırı kilolu ve hareketsiz kişilerde daha fazla görülen böbrek taşı, tedavi edilmediğinde böbrek kaybına yol açabildiğini söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="254" end_char="259">Böbrek</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="261" end_char="264">taşı</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="266" end_char="275">Türkiyeʼde</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="277" end_char="278">en</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="280" end_char="285">yaygın</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="287" end_char="293">görülen</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="295" end_char="308">hastalıklardan</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="310" end_char="315">birini</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="317" end_char="329">oluşturduğuna</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="331" end_char="336">dikkat</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="338" end_char="342">çeken</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="344" end_char="351">uzmanlar</TOKEN>
+<TOKEN id="token-3-12" pos="punct" morph="none" start_char="352" end_char="352">,</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="354" end_char="358">aşırı</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="360" end_char="365">kilolu</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="367" end_char="368">ve</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="370" end_char="379">hareketsiz</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="381" end_char="389">kişilerde</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="391" end_char="394">daha</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="396" end_char="400">fazla</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="402" end_char="408">görülen</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="410" end_char="415">böbrek</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="417" end_char="420">taşı</TOKEN>
+<TOKEN id="token-3-23" pos="punct" morph="none" start_char="421" end_char="421">,</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="423" end_char="428">tedavi</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="430" end_char="442">edilmediğinde</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="444" end_char="449">böbrek</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="451" end_char="457">kaybına</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="459" end_char="461">yol</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="463" end_char="474">açabildiğini</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="476" end_char="482">söyledi</TOKEN>
+<TOKEN id="token-3-31" pos="punct" morph="none" start_char="483" end_char="483">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="485" end_char="666">
+<ORIGINAL_TEXT>Böbrek taşı sorununun görülme sıklığı yaz aylarında artığını ifade eden Çelik, bunun en önemli sebebinin ise sıcak havalarda vücudun ihtiyacı kadar su tüketilmemesi olduğunu söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="485" end_char="490">Böbrek</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="492" end_char="495">taşı</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="497" end_char="505">sorununun</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="507" end_char="513">görülme</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="515" end_char="521">sıklığı</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="523" end_char="525">yaz</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="527" end_char="535">aylarında</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="537" end_char="544">artığını</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="546" end_char="550">ifade</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="552" end_char="555">eden</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="557" end_char="561">Çelik</TOKEN>
+<TOKEN id="token-4-11" pos="punct" morph="none" start_char="562" end_char="562">,</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="564" end_char="568">bunun</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="570" end_char="571">en</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="573" end_char="578">önemli</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="580" end_char="588">sebebinin</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="590" end_char="592">ise</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="594" end_char="598">sıcak</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="600" end_char="608">havalarda</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="610" end_char="616">vücudun</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="618" end_char="625">ihtiyacı</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="627" end_char="631">kadar</TOKEN>
+<TOKEN id="token-4-22" pos="word" morph="none" start_char="633" end_char="634">su</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="636" end_char="648">tüketilmemesi</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="650" end_char="657">olduğunu</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="659" end_char="665">söyledi</TOKEN>
+<TOKEN id="token-4-26" pos="punct" morph="none" start_char="666" end_char="666">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="668" end_char="935">
+<ORIGINAL_TEXT>Nefroloji uzmanı Çelik, aşırı sıcaklarda vücuttaki suyun terleme yoluyla kaybedildiğine dikkat çekerek, "Eğer yeterli sıvı alınamazsa idrar miktarı azalıyor ve bol idrar ile vücuttan kolayca atılması mümkün olan maddeler birbirine eklenerek taş oluşumuna neden oluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="668" end_char="676">Nefroloji</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="678" end_char="683">uzmanı</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="685" end_char="689">Çelik</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="690" end_char="690">,</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="692" end_char="696">aşırı</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="698" end_char="707">sıcaklarda</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="709" end_char="717">vücuttaki</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="719" end_char="723">suyun</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="725" end_char="731">terleme</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="733" end_char="739">yoluyla</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="741" end_char="754">kaybedildiğine</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="756" end_char="761">dikkat</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="763" end_char="769">çekerek</TOKEN>
+<TOKEN id="token-5-13" pos="punct" morph="none" start_char="770" end_char="770">,</TOKEN>
+<TOKEN id="token-5-14" pos="punct" morph="none" start_char="772" end_char="772">"</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="773" end_char="776">Eğer</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="778" end_char="784">yeterli</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="786" end_char="789">sıvı</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="791" end_char="800">alınamazsa</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="802" end_char="806">idrar</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="808" end_char="814">miktarı</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="816" end_char="823">azalıyor</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="825" end_char="826">ve</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="828" end_char="830">bol</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="832" end_char="836">idrar</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="838" end_char="840">ile</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="842" end_char="849">vücuttan</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="851" end_char="857">kolayca</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="859" end_char="866">atılması</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="868" end_char="873">mümkün</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="875" end_char="878">olan</TOKEN>
+<TOKEN id="token-5-31" pos="word" morph="none" start_char="880" end_char="887">maddeler</TOKEN>
+<TOKEN id="token-5-32" pos="word" morph="none" start_char="889" end_char="897">birbirine</TOKEN>
+<TOKEN id="token-5-33" pos="word" morph="none" start_char="899" end_char="907">eklenerek</TOKEN>
+<TOKEN id="token-5-34" pos="word" morph="none" start_char="909" end_char="911">taş</TOKEN>
+<TOKEN id="token-5-35" pos="word" morph="none" start_char="913" end_char="921">oluşumuna</TOKEN>
+<TOKEN id="token-5-36" pos="word" morph="none" start_char="923" end_char="927">neden</TOKEN>
+<TOKEN id="token-5-37" pos="word" morph="none" start_char="929" end_char="934">oluyor</TOKEN>
+<TOKEN id="token-5-38" pos="punct" morph="none" start_char="935" end_char="935">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="937" end_char="1042">
+<ORIGINAL_TEXT>bu taşlar bir kum taneciğinden 7 santime, hatta bazen daha büyük ölçülere kadar değişiklik gösterebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="937" end_char="938">bu</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="940" end_char="945">taşlar</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="947" end_char="949">bir</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="951" end_char="953">kum</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="955" end_char="966">taneciğinden</TOKEN>
+<TOKEN id="token-6-5" pos="number" morph="none" start_char="968" end_char="968">7</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="970" end_char="976">santime</TOKEN>
+<TOKEN id="token-6-7" pos="punct" morph="none" start_char="977" end_char="977">,</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="979" end_char="983">hatta</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="985" end_char="989">bazen</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="991" end_char="994">daha</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="996" end_char="1000">büyük</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="1002" end_char="1009">ölçülere</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="1011" end_char="1015">kadar</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="1017" end_char="1026">değişiklik</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="1028" end_char="1041">gösterebiliyor</TOKEN>
+<TOKEN id="token-6-16" pos="punct" morph="none" start_char="1042" end_char="1042">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="1044" end_char="1212">
+<ORIGINAL_TEXT>Taşların varlığı genellikle bel bölgesinde ya da böbrek ile idrar torbası arasında bulunan böbrek yolundaki konumuna göre karın ve kasık bölgesinde ağrı ile anlaşılıyor.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="1044" end_char="1051">Taşların</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1053" end_char="1059">varlığı</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1061" end_char="1070">genellikle</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1072" end_char="1074">bel</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1076" end_char="1085">bölgesinde</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1087" end_char="1088">ya</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1090" end_char="1091">da</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1093" end_char="1098">böbrek</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1100" end_char="1102">ile</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1104" end_char="1108">idrar</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1110" end_char="1116">torbası</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1118" end_char="1125">arasında</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1127" end_char="1133">bulunan</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1135" end_char="1140">böbrek</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1142" end_char="1150">yolundaki</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1152" end_char="1159">konumuna</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1161" end_char="1164">göre</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1166" end_char="1170">karın</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1172" end_char="1173">ve</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1175" end_char="1179">kasık</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1181" end_char="1190">bölgesinde</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1192" end_char="1195">ağrı</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1197" end_char="1199">ile</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1201" end_char="1211">anlaşılıyor</TOKEN>
+<TOKEN id="token-7-24" pos="punct" morph="none" start_char="1212" end_char="1212">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1214" end_char="1265">
+<ORIGINAL_TEXT>Bazen bulantı, bazen kusma hatta ateş görülebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1214" end_char="1218">Bazen</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1220" end_char="1226">bulantı</TOKEN>
+<TOKEN id="token-8-2" pos="punct" morph="none" start_char="1227" end_char="1227">,</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1229" end_char="1233">bazen</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="1235" end_char="1239">kusma</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1241" end_char="1245">hatta</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1247" end_char="1250">ateş</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1252" end_char="1264">görülebiliyor</TOKEN>
+<TOKEN id="token-8-8" pos="punct" morph="none" start_char="1265" end_char="1265">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1267" end_char="1323">
+<ORIGINAL_TEXT>Ağrının şiddeti ise hastadan hastaya değişebiliyor" dedi.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1267" end_char="1273">Ağrının</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1275" end_char="1281">şiddeti</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1283" end_char="1285">ise</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1287" end_char="1294">hastadan</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1296" end_char="1302">hastaya</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1304" end_char="1316">değişebiliyor</TOKEN>
+<TOKEN id="token-9-6" pos="punct" morph="none" start_char="1317" end_char="1317">"</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1319" end_char="1322">dedi</TOKEN>
+<TOKEN id="token-9-8" pos="punct" morph="none" start_char="1323" end_char="1323">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1326" end_char="1573">
+<ORIGINAL_TEXT>Böbrek taşları bazen böbrek fonksiyonunu bozuncaya veya kalıcı hasarlar oluşturuncaya dek belirtisiz büyüyebildiğini ifade eden Çelik, "Böbreğinde taş olduğunu bildiği halde bir uzmana başvurmakta geç kalarak organ kaybı yaşayan hastalar da oluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1326" end_char="1331">Böbrek</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1333" end_char="1339">taşları</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1341" end_char="1345">bazen</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1347" end_char="1352">böbrek</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1354" end_char="1365">fonksiyonunu</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1367" end_char="1375">bozuncaya</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1377" end_char="1380">veya</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1382" end_char="1387">kalıcı</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1389" end_char="1396">hasarlar</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1398" end_char="1410">oluşturuncaya</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1412" end_char="1414">dek</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1416" end_char="1425">belirtisiz</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1427" end_char="1441">büyüyebildiğini</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1443" end_char="1447">ifade</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1449" end_char="1452">eden</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1454" end_char="1458">Çelik</TOKEN>
+<TOKEN id="token-10-16" pos="punct" morph="none" start_char="1459" end_char="1459">,</TOKEN>
+<TOKEN id="token-10-17" pos="punct" morph="none" start_char="1461" end_char="1461">"</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1462" end_char="1471">Böbreğinde</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1473" end_char="1475">taş</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1477" end_char="1484">olduğunu</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1486" end_char="1492">bildiği</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1494" end_char="1498">halde</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1500" end_char="1502">bir</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1504" end_char="1509">uzmana</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="1511" end_char="1521">başvurmakta</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1523" end_char="1525">geç</TOKEN>
+<TOKEN id="token-10-27" pos="word" morph="none" start_char="1527" end_char="1533">kalarak</TOKEN>
+<TOKEN id="token-10-28" pos="word" morph="none" start_char="1535" end_char="1539">organ</TOKEN>
+<TOKEN id="token-10-29" pos="word" morph="none" start_char="1541" end_char="1545">kaybı</TOKEN>
+<TOKEN id="token-10-30" pos="word" morph="none" start_char="1547" end_char="1553">yaşayan</TOKEN>
+<TOKEN id="token-10-31" pos="word" morph="none" start_char="1555" end_char="1562">hastalar</TOKEN>
+<TOKEN id="token-10-32" pos="word" morph="none" start_char="1564" end_char="1565">da</TOKEN>
+<TOKEN id="token-10-33" pos="word" morph="none" start_char="1567" end_char="1572">oluyor</TOKEN>
+<TOKEN id="token-10-34" pos="punct" morph="none" start_char="1573" end_char="1573">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1575" end_char="1659">
+<ORIGINAL_TEXT>Taşın böbrekte oluşturabileceği sorunların bulunduğu yere göre değişiklik gösteriyor.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1575" end_char="1579">Taşın</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1581" end_char="1588">böbrekte</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1590" end_char="1605">oluşturabileceği</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1607" end_char="1616">sorunların</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1618" end_char="1626">bulunduğu</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1628" end_char="1631">yere</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1633" end_char="1636">göre</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1638" end_char="1647">değişiklik</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1649" end_char="1658">gösteriyor</TOKEN>
+<TOKEN id="token-11-9" pos="punct" morph="none" start_char="1659" end_char="1659">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1661" end_char="1794">
+<ORIGINAL_TEXT>Taşın, böbrekte üretilen idrarı mesaneye taşıyan ‘üreterʼin ağzına yerleşmesi idrar çıkışının azalmasına ya da durmasına neden oluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1661" end_char="1665">Taşın</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="1666" end_char="1666">,</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1668" end_char="1675">böbrekte</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1677" end_char="1684">üretilen</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1686" end_char="1691">idrarı</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1693" end_char="1700">mesaneye</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1702" end_char="1708">taşıyan</TOKEN>
+<TOKEN id="token-12-7" pos="punct" morph="none" start_char="1710" end_char="1710">‘</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1711" end_char="1719">üreterʼin</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1721" end_char="1726">ağzına</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1728" end_char="1737">yerleşmesi</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1739" end_char="1743">idrar</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1745" end_char="1753">çıkışının</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1755" end_char="1764">azalmasına</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1766" end_char="1767">ya</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1769" end_char="1770">da</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1772" end_char="1780">durmasına</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1782" end_char="1786">neden</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1788" end_char="1793">oluyor</TOKEN>
+<TOKEN id="token-12-19" pos="punct" morph="none" start_char="1794" end_char="1794">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1796" end_char="1898">
+<ORIGINAL_TEXT>Bu durumun uzun sürmesi halinde idrarın geriye dönüp böbreğe baskı yaptığını ve şişmesine neden oluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1796" end_char="1797">Bu</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1799" end_char="1805">durumun</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1807" end_char="1810">uzun</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1812" end_char="1818">sürmesi</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1820" end_char="1826">halinde</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1828" end_char="1834">idrarın</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1836" end_char="1841">geriye</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1843" end_char="1847">dönüp</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1849" end_char="1855">böbreğe</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1857" end_char="1861">baskı</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1863" end_char="1871">yaptığını</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1873" end_char="1874">ve</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1876" end_char="1884">şişmesine</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1886" end_char="1890">neden</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1892" end_char="1897">oluyor</TOKEN>
+<TOKEN id="token-13-15" pos="punct" morph="none" start_char="1898" end_char="1898">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1900" end_char="2035">
+<ORIGINAL_TEXT>Hidronefroz olarak adlandırılan bu durum bize o bölgede taşa bağlı ya da bir başka nedenle oluşmuş tıkanıklığı gösteriyor” diye konuştu.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1900" end_char="1910">Hidronefroz</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1912" end_char="1917">olarak</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1919" end_char="1930">adlandırılan</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1932" end_char="1933">bu</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1935" end_char="1939">durum</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1941" end_char="1944">bize</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1946" end_char="1946">o</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1948" end_char="1954">bölgede</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1956" end_char="1959">taşa</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1961" end_char="1965">bağlı</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1967" end_char="1968">ya</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1970" end_char="1971">da</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1973" end_char="1975">bir</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1977" end_char="1981">başka</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1983" end_char="1989">nedenle</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="1991" end_char="1997">oluşmuş</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="1999" end_char="2009">tıkanıklığı</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="2011" end_char="2020">gösteriyor</TOKEN>
+<TOKEN id="token-14-18" pos="punct" morph="none" start_char="2021" end_char="2021">”</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="2023" end_char="2026">diye</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="2028" end_char="2034">konuştu</TOKEN>
+<TOKEN id="token-14-21" pos="punct" morph="none" start_char="2035" end_char="2035">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2038" end_char="2315">
+<ORIGINAL_TEXT>Böbrekte taşı oluşumunun neden olduğu bir başka hastalık ise böbreğin bakteriyel enfeksiyonu ile ortaya çıkan pyelonefrit olduğunu belirten Çelik, "Taşın bulunduğu bölgede oluşan enfeksiyon doğru ve zamanında tedavi edilmediği takdirde hastayı böbrek yetmezliğine götürebiliyor.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2038" end_char="2045">Böbrekte</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2047" end_char="2050">taşı</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="2052" end_char="2061">oluşumunun</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2063" end_char="2067">neden</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2069" end_char="2074">olduğu</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2076" end_char="2078">bir</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2080" end_char="2084">başka</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2086" end_char="2093">hastalık</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2095" end_char="2097">ise</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="2099" end_char="2106">böbreğin</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2108" end_char="2117">bakteriyel</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2119" end_char="2129">enfeksiyonu</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="2131" end_char="2133">ile</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2135" end_char="2140">ortaya</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="2142" end_char="2146">çıkan</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="2148" end_char="2158">pyelonefrit</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="2160" end_char="2167">olduğunu</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="2169" end_char="2176">belirten</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="2178" end_char="2182">Çelik</TOKEN>
+<TOKEN id="token-15-19" pos="punct" morph="none" start_char="2183" end_char="2183">,</TOKEN>
+<TOKEN id="token-15-20" pos="punct" morph="none" start_char="2185" end_char="2185">"</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="2186" end_char="2190">Taşın</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="2192" end_char="2200">bulunduğu</TOKEN>
+<TOKEN id="token-15-23" pos="word" morph="none" start_char="2202" end_char="2208">bölgede</TOKEN>
+<TOKEN id="token-15-24" pos="word" morph="none" start_char="2210" end_char="2215">oluşan</TOKEN>
+<TOKEN id="token-15-25" pos="word" morph="none" start_char="2217" end_char="2226">enfeksiyon</TOKEN>
+<TOKEN id="token-15-26" pos="word" morph="none" start_char="2228" end_char="2232">doğru</TOKEN>
+<TOKEN id="token-15-27" pos="word" morph="none" start_char="2234" end_char="2235">ve</TOKEN>
+<TOKEN id="token-15-28" pos="word" morph="none" start_char="2237" end_char="2245">zamanında</TOKEN>
+<TOKEN id="token-15-29" pos="word" morph="none" start_char="2247" end_char="2252">tedavi</TOKEN>
+<TOKEN id="token-15-30" pos="word" morph="none" start_char="2254" end_char="2263">edilmediği</TOKEN>
+<TOKEN id="token-15-31" pos="word" morph="none" start_char="2265" end_char="2272">takdirde</TOKEN>
+<TOKEN id="token-15-32" pos="word" morph="none" start_char="2274" end_char="2280">hastayı</TOKEN>
+<TOKEN id="token-15-33" pos="word" morph="none" start_char="2282" end_char="2287">böbrek</TOKEN>
+<TOKEN id="token-15-34" pos="word" morph="none" start_char="2289" end_char="2300">yetmezliğine</TOKEN>
+<TOKEN id="token-15-35" pos="word" morph="none" start_char="2302" end_char="2314">götürebiliyor</TOKEN>
+<TOKEN id="token-15-36" pos="punct" morph="none" start_char="2315" end_char="2315">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2317" end_char="2399">
+<ORIGINAL_TEXT>Her iki durumda da taşa müdahale edilerek böbreğin geri döndürülmesi mümkün oluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2317" end_char="2319">Her</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2321" end_char="2323">iki</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="2325" end_char="2331">durumda</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2333" end_char="2334">da</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2336" end_char="2339">taşa</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2341" end_char="2348">müdahale</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2350" end_char="2357">edilerek</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2359" end_char="2366">böbreğin</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2368" end_char="2371">geri</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2373" end_char="2384">döndürülmesi</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2386" end_char="2391">mümkün</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2393" end_char="2398">oluyor</TOKEN>
+<TOKEN id="token-16-12" pos="punct" morph="none" start_char="2399" end_char="2399">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2401" end_char="2515">
+<ORIGINAL_TEXT>Ancak taşların geri dönülemeyecek kadar zarar verdiği ve böbreğin alınmasının söz konusu olduğu hastalar da oluyor.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2401" end_char="2405">Ancak</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2407" end_char="2414">taşların</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2416" end_char="2419">geri</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2421" end_char="2433">dönülemeyecek</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2435" end_char="2439">kadar</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2441" end_char="2445">zarar</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2447" end_char="2453">verdiği</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2455" end_char="2456">ve</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2458" end_char="2465">böbreğin</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2467" end_char="2477">alınmasının</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2479" end_char="2481">söz</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2483" end_char="2488">konusu</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2490" end_char="2495">olduğu</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2497" end_char="2504">hastalar</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2506" end_char="2507">da</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2509" end_char="2514">oluyor</TOKEN>
+<TOKEN id="token-17-16" pos="punct" morph="none" start_char="2515" end_char="2515">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2517" end_char="2649">
+<ORIGINAL_TEXT>Erken tanı için hastanın kendisinde ve ailesinde taş öyküsü varsa böbreğin yılda en az bir kez ultrason ile takip edilmesi gerekiyor.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2517" end_char="2521">Erken</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2523" end_char="2526">tanı</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2528" end_char="2531">için</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2533" end_char="2540">hastanın</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2542" end_char="2551">kendisinde</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2553" end_char="2554">ve</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2556" end_char="2564">ailesinde</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2566" end_char="2568">taş</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="2570" end_char="2575">öyküsü</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2577" end_char="2581">varsa</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2583" end_char="2590">böbreğin</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2592" end_char="2596">yılda</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2598" end_char="2599">en</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2601" end_char="2602">az</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2604" end_char="2606">bir</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2608" end_char="2610">kez</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2612" end_char="2619">ultrason</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2621" end_char="2623">ile</TOKEN>
+<TOKEN id="token-18-18" pos="word" morph="none" start_char="2625" end_char="2629">takip</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2631" end_char="2638">edilmesi</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2640" end_char="2648">gerekiyor</TOKEN>
+<TOKEN id="token-18-21" pos="punct" morph="none" start_char="2649" end_char="2649">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2651" end_char="2791">
+<ORIGINAL_TEXT>Bir böbreği alınmış hastaların ise 3-6 aylık aralıklarla takip edilmeleri ve diğer organın çok iyi korunması gerekiyor" ifadelerini kullandı.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2651" end_char="2653">Bir</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2655" end_char="2661">böbreği</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2663" end_char="2669">alınmış</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="2671" end_char="2680">hastaların</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="2682" end_char="2684">ise</TOKEN>
+<TOKEN id="token-19-5" pos="number" morph="none" start_char="2686" end_char="2686">3</TOKEN>
+<TOKEN id="token-19-6" pos="punct" morph="none" start_char="2687" end_char="2687">-</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="2688" end_char="2688">6</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="2690" end_char="2694">aylık</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="2696" end_char="2706">aralıklarla</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="2708" end_char="2712">takip</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="2714" end_char="2723">edilmeleri</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="2725" end_char="2726">ve</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="2728" end_char="2732">diğer</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="2734" end_char="2740">organın</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="2742" end_char="2744">çok</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="2746" end_char="2748">iyi</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="2750" end_char="2758">korunması</TOKEN>
+<TOKEN id="token-19-18" pos="word" morph="none" start_char="2760" end_char="2768">gerekiyor</TOKEN>
+<TOKEN id="token-19-19" pos="punct" morph="none" start_char="2769" end_char="2769">"</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="2771" end_char="2781">ifadelerini</TOKEN>
+<TOKEN id="token-19-21" pos="word" morph="none" start_char="2783" end_char="2790">kullandı</TOKEN>
+<TOKEN id="token-19-22" pos="punct" morph="none" start_char="2791" end_char="2791">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="NW_BBC_TUR_0000926_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="1591" raw_text_md5="5f28040becfb8837118ad41c68c5f6fa">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="38">
+<ORIGINAL_TEXT>Hollanda Prensi Friso çığ altında kaldı</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="7">Hollanda</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="9" end_char="14">Prensi</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="16" end_char="20">Friso</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="22" end_char="24">çığ</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="26" end_char="32">altında</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="34" end_char="38">kaldı</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="41" end_char="99">
+<ORIGINAL_TEXT>Hollanda prensi Johan Friso Avusturya'da çığ altında kaldı.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="41" end_char="48">Hollanda</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="50" end_char="55">prensi</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="57" end_char="61">Johan</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="63" end_char="67">Friso</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="69" end_char="77">Avusturya</TOKEN>
+<TOKEN id="token-1-5" pos="punct" morph="none" start_char="78" end_char="78">'</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="79" end_char="80">da</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="82" end_char="84">çığ</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="86" end_char="92">altında</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="94" end_char="98">kaldı</TOKEN>
+<TOKEN id="token-1-10" pos="punct" morph="none" start_char="99" end_char="99">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="101" end_char="193">
+<ORIGINAL_TEXT>15 dakika sonra kurtarılan ve hastaneye kaldırılan Prens'in durumunun ağır olduğu bildirildi.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="number" morph="none" start_char="101" end_char="102">15</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="104" end_char="109">dakika</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="111" end_char="115">sonra</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="117" end_char="126">kurtarılan</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="128" end_char="129">ve</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="131" end_char="139">hastaneye</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="141" end_char="150">kaldırılan</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="152" end_char="156">Prens</TOKEN>
+<TOKEN id="token-2-8" pos="punct" morph="none" start_char="157" end_char="157">'</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="158" end_char="159">in</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="161" end_char="169">durumunun</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="171" end_char="174">ağır</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="176" end_char="181">olduğu</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="183" end_char="192">bildirildi</TOKEN>
+<TOKEN id="token-2-14" pos="punct" morph="none" start_char="193" end_char="193">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="196" end_char="299">
+<ORIGINAL_TEXT>Kraliçe Beatrix'in oğlu olan Friso, kraliyet ailesinin bazı üyeleriyle Avusturya Alpleri'nde tatildeydi.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="196" end_char="202">Kraliçe</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="204" end_char="210">Beatrix</TOKEN>
+<TOKEN id="token-3-2" pos="punct" morph="none" start_char="211" end_char="211">'</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="212" end_char="213">in</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="215" end_char="218">oğlu</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="220" end_char="223">olan</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="225" end_char="229">Friso</TOKEN>
+<TOKEN id="token-3-7" pos="punct" morph="none" start_char="230" end_char="230">,</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="232" end_char="239">kraliyet</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="241" end_char="249">ailesinin</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="251" end_char="254">bazı</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="256" end_char="265">üyeleriyle</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="267" end_char="275">Avusturya</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="277" end_char="283">Alpleri</TOKEN>
+<TOKEN id="token-3-14" pos="punct" morph="none" start_char="284" end_char="284">'</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="285" end_char="287">nde</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="289" end_char="298">tatildeydi</TOKEN>
+<TOKEN id="token-3-17" pos="punct" morph="none" start_char="299" end_char="299">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="302" end_char="421">
+<ORIGINAL_TEXT>Hollanda Başbakanı Mark Rutte, kraliçenin de grupla birlikte Avusturya'da olduğunu ancak çığdan etkilenmediğini söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="302" end_char="309">Hollanda</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="311" end_char="319">Başbakanı</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="321" end_char="324">Mark</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="326" end_char="330">Rutte</TOKEN>
+<TOKEN id="token-4-4" pos="punct" morph="none" start_char="331" end_char="331">,</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="333" end_char="342">kraliçenin</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="344" end_char="345">de</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="347" end_char="352">grupla</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="354" end_char="361">birlikte</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="363" end_char="371">Avusturya</TOKEN>
+<TOKEN id="token-4-10" pos="punct" morph="none" start_char="372" end_char="372">'</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="373" end_char="374">da</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="376" end_char="383">olduğunu</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="385" end_char="389">ancak</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="391" end_char="396">çığdan</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="398" end_char="412">etkilenmediğini</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="414" end_char="420">söyledi</TOKEN>
+<TOKEN id="token-4-17" pos="punct" morph="none" start_char="421" end_char="421">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="424" end_char="601">
+<ORIGINAL_TEXT>Kayak merkezinden Stefan Jochum, olay sırasında prensin küçük bir grupla kaymakta olduğunu, öğle saatlerinde çığ altında kaldığını, olayda başka kimsenin yaralanmadığını söyledi.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="424" end_char="428">Kayak</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="430" end_char="440">merkezinden</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="442" end_char="447">Stefan</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="449" end_char="454">Jochum</TOKEN>
+<TOKEN id="token-5-4" pos="punct" morph="none" start_char="455" end_char="455">,</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="457" end_char="460">olay</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="462" end_char="470">sırasında</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="472" end_char="478">prensin</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="480" end_char="484">küçük</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="486" end_char="488">bir</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="490" end_char="495">grupla</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="497" end_char="504">kaymakta</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="506" end_char="513">olduğunu</TOKEN>
+<TOKEN id="token-5-13" pos="punct" morph="none" start_char="514" end_char="514">,</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="516" end_char="519">öğle</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="521" end_char="531">saatlerinde</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="533" end_char="535">çığ</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="537" end_char="543">altında</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="545" end_char="553">kaldığını</TOKEN>
+<TOKEN id="token-5-19" pos="punct" morph="none" start_char="554" end_char="554">,</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="556" end_char="561">olayda</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="563" end_char="567">başka</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="569" end_char="576">kimsenin</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="578" end_char="592">yaralanmadığını</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="594" end_char="600">söyledi</TOKEN>
+<TOKEN id="token-5-25" pos="punct" morph="none" start_char="601" end_char="601">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="604" end_char="735">
+<ORIGINAL_TEXT>Lech kentinin belediye başkanı Ludwig Muxel, prensin 30 metreye 40 metre büyüklüğünde bir kar kütlesinin altında kaldığını belirtti.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="604" end_char="607">Lech</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="609" end_char="616">kentinin</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="618" end_char="625">belediye</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="627" end_char="633">başkanı</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="635" end_char="640">Ludwig</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="642" end_char="646">Muxel</TOKEN>
+<TOKEN id="token-6-6" pos="punct" morph="none" start_char="647" end_char="647">,</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="649" end_char="655">prensin</TOKEN>
+<TOKEN id="token-6-8" pos="number" morph="none" start_char="657" end_char="658">30</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="660" end_char="666">metreye</TOKEN>
+<TOKEN id="token-6-10" pos="number" morph="none" start_char="668" end_char="669">40</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="671" end_char="675">metre</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="677" end_char="688">büyüklüğünde</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="690" end_char="692">bir</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="694" end_char="696">kar</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="698" end_char="707">kütlesinin</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="709" end_char="715">altında</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="717" end_char="725">kaldığını</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="727" end_char="734">belirtti</TOKEN>
+<TOKEN id="token-6-19" pos="punct" morph="none" start_char="735" end_char="735">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="737" end_char="862">
+<ORIGINAL_TEXT>Hollanda hükümetinden yapılan açıklamada, prensin durumunun "stabil" olduğunu ancak henüz tehlikenin atlatılmadığı kaydedildi.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="737" end_char="744">Hollanda</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="746" end_char="757">hükümetinden</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="759" end_char="765">yapılan</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="767" end_char="776">açıklamada</TOKEN>
+<TOKEN id="token-7-4" pos="punct" morph="none" start_char="777" end_char="777">,</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="779" end_char="785">prensin</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="787" end_char="795">durumunun</TOKEN>
+<TOKEN id="token-7-7" pos="punct" morph="none" start_char="797" end_char="797">"</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="798" end_char="803">stabil</TOKEN>
+<TOKEN id="token-7-9" pos="punct" morph="none" start_char="804" end_char="804">"</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="806" end_char="813">olduğunu</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="815" end_char="819">ancak</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="821" end_char="825">henüz</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="827" end_char="836">tehlikenin</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="838" end_char="850">atlatılmadığı</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="852" end_char="861">kaydedildi</TOKEN>
+<TOKEN id="token-7-16" pos="punct" morph="none" start_char="862" end_char="862">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="865" end_char="996">
+<ORIGINAL_TEXT>Bundan bısa bir süre önce yapılan başka bir açıklamada, prensin yoğun bakımda olduğu ve hayati tehlikesinin bulunduğu belirtilmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="865" end_char="870">Bundan</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="872" end_char="875">bısa</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="877" end_char="879">bir</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="881" end_char="884">süre</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="886" end_char="889">önce</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="891" end_char="897">yapılan</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="899" end_char="903">başka</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="905" end_char="907">bir</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="909" end_char="918">açıklamada</TOKEN>
+<TOKEN id="token-8-9" pos="punct" morph="none" start_char="919" end_char="919">,</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="921" end_char="927">prensin</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="929" end_char="933">yoğun</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="935" end_char="941">bakımda</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="943" end_char="948">olduğu</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="950" end_char="951">ve</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="953" end_char="958">hayati</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="960" end_char="971">tehlikesinin</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="973" end_char="981">bulunduğu</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="983" end_char="995">belirtilmişti</TOKEN>
+<TOKEN id="token-8-19" pos="punct" morph="none" start_char="996" end_char="996">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="999" end_char="1052">
+<ORIGINAL_TEXT>Avusturya Alpleri'nde bu kış yoğun kar yağışı görüldü.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="999" end_char="1007">Avusturya</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1009" end_char="1015">Alpleri</TOKEN>
+<TOKEN id="token-9-2" pos="punct" morph="none" start_char="1016" end_char="1016">'</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1017" end_char="1019">nde</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1021" end_char="1022">bu</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="1024" end_char="1026">kış</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1028" end_char="1032">yoğun</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="1034" end_char="1036">kar</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1038" end_char="1043">yağışı</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1045" end_char="1051">görüldü</TOKEN>
+<TOKEN id="token-9-10" pos="punct" morph="none" start_char="1052" end_char="1052">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1054" end_char="1087">
+<ORIGINAL_TEXT>Bölgede birkaç çığ vakası yaşandı.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1054" end_char="1060">Bölgede</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1062" end_char="1067">birkaç</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1069" end_char="1071">çığ</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1073" end_char="1078">vakası</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="1080" end_char="1086">yaşandı</TOKEN>
+<TOKEN id="token-10-5" pos="punct" morph="none" start_char="1087" end_char="1087">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1090" end_char="1221">
+<ORIGINAL_TEXT>Yoğun kar yağışı nedeniyle Voralberg'in merkezle bağlantısı kesilmiş, prensin çığ altında kaldığı bölge için çığ uyarısı yapılmıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1090" end_char="1094">Yoğun</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1096" end_char="1098">kar</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1100" end_char="1105">yağışı</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1107" end_char="1115">nedeniyle</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1117" end_char="1125">Voralberg</TOKEN>
+<TOKEN id="token-11-5" pos="punct" morph="none" start_char="1126" end_char="1126">'</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="1127" end_char="1128">in</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1130" end_char="1137">merkezle</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1139" end_char="1148">bağlantısı</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1150" end_char="1157">kesilmiş</TOKEN>
+<TOKEN id="token-11-10" pos="punct" morph="none" start_char="1158" end_char="1158">,</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1160" end_char="1166">prensin</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1168" end_char="1170">çığ</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1172" end_char="1178">altında</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1180" end_char="1186">kaldığı</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1188" end_char="1192">bölge</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1194" end_char="1197">için</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1199" end_char="1201">çığ</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1203" end_char="1209">uyarısı</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1211" end_char="1220">yapılmıştı</TOKEN>
+<TOKEN id="token-11-20" pos="punct" morph="none" start_char="1221" end_char="1221">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1224" end_char="1341">
+<ORIGINAL_TEXT>Prens Friso, 2004ʼte insan hakları eylemcisi Mabel Wisse Smit'le evlendikten sonra tahttaki hakkından feragat etmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1224" end_char="1228">Prens</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1230" end_char="1234">Friso</TOKEN>
+<TOKEN id="token-12-2" pos="punct" morph="none" start_char="1235" end_char="1235">,</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1237" end_char="1243">2004ʼte</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1245" end_char="1249">insan</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1251" end_char="1257">hakları</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1259" end_char="1267">eylemcisi</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1269" end_char="1273">Mabel</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="1275" end_char="1279">Wisse</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1281" end_char="1284">Smit</TOKEN>
+<TOKEN id="token-12-10" pos="punct" morph="none" start_char="1285" end_char="1285">'</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1286" end_char="1287">le</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1289" end_char="1299">evlendikten</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1301" end_char="1305">sonra</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1307" end_char="1314">tahttaki</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1316" end_char="1324">hakkından</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1326" end_char="1332">feragat</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="1334" end_char="1340">etmişti</TOKEN>
+<TOKEN id="token-12-18" pos="punct" morph="none" start_char="1341" end_char="1341">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1344" end_char="1463">
+<ORIGINAL_TEXT>Hükümet Smit'in ölen bir gangsterle ilişkisi konusunda yanıltıcı bilgiler verdiği gerekçesiyle evliliğe onay vermemişti.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1344" end_char="1350">Hükümet</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1352" end_char="1355">Smit</TOKEN>
+<TOKEN id="token-13-2" pos="punct" morph="none" start_char="1356" end_char="1356">'</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1357" end_char="1358">in</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1360" end_char="1363">ölen</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1365" end_char="1367">bir</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1369" end_char="1378">gangsterle</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1380" end_char="1387">ilişkisi</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1389" end_char="1397">konusunda</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1399" end_char="1407">yanıltıcı</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1409" end_char="1416">bilgiler</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1418" end_char="1424">verdiği</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1426" end_char="1437">gerekçesiyle</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1439" end_char="1446">evliliğe</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1448" end_char="1451">onay</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1453" end_char="1462">vermemişti</TOKEN>
+<TOKEN id="token-13-16" pos="punct" morph="none" start_char="1463" end_char="1463">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1466" end_char="1588">
+<ORIGINAL_TEXT>Hollanda yasaları uyarınca tahta çıkmak isteyen kraliyet ailesi üyeleri evlenebilmek için parlamentodan izin almak zorunda.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1466" end_char="1473">Hollanda</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1475" end_char="1482">yasaları</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1484" end_char="1491">uyarınca</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1493" end_char="1497">tahta</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1499" end_char="1504">çıkmak</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1506" end_char="1512">isteyen</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1514" end_char="1521">kraliyet</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="1523" end_char="1528">ailesi</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1530" end_char="1536">üyeleri</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="1538" end_char="1549">evlenebilmek</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1551" end_char="1554">için</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="1556" end_char="1568">parlamentodan</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1570" end_char="1573">izin</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="1575" end_char="1579">almak</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1581" end_char="1587">zorunda</TOKEN>
+<TOKEN id="token-14-15" pos="punct" morph="none" start_char="1588" end_char="1588">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

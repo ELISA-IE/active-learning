@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="">
+  <DOC id="WL_DAN_HAU_007528_20120603" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-NE1" task="NE" type="LOC">
+      <EXTENT start_char="9" end_char="17">Masar Sun</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-NE2" task="NE" type="PER">
+      <EXTENT start_char="78" end_char="82">Hosni</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007528_20120603-NE3" task="NE" type="PER">
+      <EXTENT start_char="84" end_char="90">Mubarak</EXTENT>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

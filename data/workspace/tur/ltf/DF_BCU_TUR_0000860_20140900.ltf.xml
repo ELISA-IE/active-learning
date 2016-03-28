@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="DF_BCU_TUR_0000860_20140900" tokenization="tokenization_parameters.v2.0" grammar="none" raw_text_char_length="5887" raw_text_md5="80b4e01db22275a14de7f09401e87e25">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="70">
+<ORIGINAL_TEXT>1912 yılından kalma bu biletin sahibi, tarihin en şanslı insanlarından.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="number" morph="none" start_char="0" end_char="3">1912</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="5" end_char="12">yılından</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="14" end_char="18">kalma</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="20" end_char="21">bu</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="23" end_char="29">biletin</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="31" end_char="36">sahibi</TOKEN>
+<TOKEN id="token-0-6" pos="punct" morph="none" start_char="37" end_char="37">,</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="39" end_char="45">tarihin</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="47" end_char="48">en</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="50" end_char="55">şanslı</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="57" end_char="69">insanlarından</TOKEN>
+<TOKEN id="token-0-11" pos="punct" morph="none" start_char="70" end_char="70">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="72" end_char="157">
+<ORIGINAL_TEXT>Zira bileti düzenleyen White Star Line deniz şirketi, Titanicʼin sahibi olan şirketti.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="72" end_char="75">Zira</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="77" end_char="82">bileti</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="84" end_char="93">düzenleyen</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="95" end_char="99">White</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="101" end_char="104">Star</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="106" end_char="109">Line</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="111" end_char="115">deniz</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="117" end_char="123">şirketi</TOKEN>
+<TOKEN id="token-1-8" pos="punct" morph="none" start_char="124" end_char="124">,</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="126" end_char="135">Titanicʼin</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="137" end_char="142">sahibi</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="144" end_char="147">olan</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="149" end_char="156">şirketti</TOKEN>
+<TOKEN id="token-1-13" pos="punct" morph="none" start_char="157" end_char="157">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="159" end_char="529">
+<ORIGINAL_TEXT>Bilette el yazısı ile belirtilen geminin ismi ise Titanic...Dünyanın en büyük deniz facialarından birinin yaşandığı Titanicʼe bileti olup da, devasa geminin ilk seferini kaçıran bu biletin sahibi, aslında mutlak bir ölümden de kurtulmuştu...İnsanoğlunun hayal gücünün bir ürünü olan bu gemi, aynı zamanda doğa karşısında insanlığın çaresizliğini de gözler önüne sermişti.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="159" end_char="165">Bilette</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="167" end_char="168">el</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="170" end_char="175">yazısı</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="177" end_char="179">ile</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="181" end_char="190">belirtilen</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="192" end_char="198">geminin</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="200" end_char="203">ismi</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="205" end_char="207">ise</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="209" end_char="215">Titanic</TOKEN>
+<TOKEN id="token-2-9" pos="punct" morph="none" start_char="216" end_char="218">...</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="219" end_char="226">Dünyanın</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="228" end_char="229">en</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="231" end_char="235">büyük</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="237" end_char="241">deniz</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="243" end_char="255">facialarından</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="257" end_char="263">birinin</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="265" end_char="273">yaşandığı</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="275" end_char="283">Titanicʼe</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="285" end_char="290">bileti</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="292" end_char="295">olup</TOKEN>
+<TOKEN id="token-2-20" pos="word" morph="none" start_char="297" end_char="298">da</TOKEN>
+<TOKEN id="token-2-21" pos="punct" morph="none" start_char="299" end_char="299">,</TOKEN>
+<TOKEN id="token-2-22" pos="word" morph="none" start_char="301" end_char="306">devasa</TOKEN>
+<TOKEN id="token-2-23" pos="word" morph="none" start_char="308" end_char="314">geminin</TOKEN>
+<TOKEN id="token-2-24" pos="word" morph="none" start_char="316" end_char="318">ilk</TOKEN>
+<TOKEN id="token-2-25" pos="word" morph="none" start_char="320" end_char="327">seferini</TOKEN>
+<TOKEN id="token-2-26" pos="word" morph="none" start_char="329" end_char="335">kaçıran</TOKEN>
+<TOKEN id="token-2-27" pos="word" morph="none" start_char="337" end_char="338">bu</TOKEN>
+<TOKEN id="token-2-28" pos="word" morph="none" start_char="340" end_char="346">biletin</TOKEN>
+<TOKEN id="token-2-29" pos="word" morph="none" start_char="348" end_char="353">sahibi</TOKEN>
+<TOKEN id="token-2-30" pos="punct" morph="none" start_char="354" end_char="354">,</TOKEN>
+<TOKEN id="token-2-31" pos="word" morph="none" start_char="356" end_char="362">aslında</TOKEN>
+<TOKEN id="token-2-32" pos="word" morph="none" start_char="364" end_char="369">mutlak</TOKEN>
+<TOKEN id="token-2-33" pos="word" morph="none" start_char="371" end_char="373">bir</TOKEN>
+<TOKEN id="token-2-34" pos="word" morph="none" start_char="375" end_char="381">ölümden</TOKEN>
+<TOKEN id="token-2-35" pos="word" morph="none" start_char="383" end_char="384">de</TOKEN>
+<TOKEN id="token-2-36" pos="word" morph="none" start_char="386" end_char="396">kurtulmuştu</TOKEN>
+<TOKEN id="token-2-37" pos="punct" morph="none" start_char="397" end_char="399">...</TOKEN>
+<TOKEN id="token-2-38" pos="word" morph="none" start_char="400" end_char="411">İnsanoğlunun</TOKEN>
+<TOKEN id="token-2-39" pos="word" morph="none" start_char="413" end_char="417">hayal</TOKEN>
+<TOKEN id="token-2-40" pos="word" morph="none" start_char="419" end_char="425">gücünün</TOKEN>
+<TOKEN id="token-2-41" pos="word" morph="none" start_char="427" end_char="429">bir</TOKEN>
+<TOKEN id="token-2-42" pos="word" morph="none" start_char="431" end_char="435">ürünü</TOKEN>
+<TOKEN id="token-2-43" pos="word" morph="none" start_char="437" end_char="440">olan</TOKEN>
+<TOKEN id="token-2-44" pos="word" morph="none" start_char="442" end_char="443">bu</TOKEN>
+<TOKEN id="token-2-45" pos="word" morph="none" start_char="445" end_char="448">gemi</TOKEN>
+<TOKEN id="token-2-46" pos="punct" morph="none" start_char="449" end_char="449">,</TOKEN>
+<TOKEN id="token-2-47" pos="word" morph="none" start_char="451" end_char="454">aynı</TOKEN>
+<TOKEN id="token-2-48" pos="word" morph="none" start_char="456" end_char="462">zamanda</TOKEN>
+<TOKEN id="token-2-49" pos="word" morph="none" start_char="464" end_char="467">doğa</TOKEN>
+<TOKEN id="token-2-50" pos="word" morph="none" start_char="469" end_char="478">karşısında</TOKEN>
+<TOKEN id="token-2-51" pos="word" morph="none" start_char="480" end_char="489">insanlığın</TOKEN>
+<TOKEN id="token-2-52" pos="word" morph="none" start_char="491" end_char="503">çaresizliğini</TOKEN>
+<TOKEN id="token-2-53" pos="word" morph="none" start_char="505" end_char="506">de</TOKEN>
+<TOKEN id="token-2-54" pos="word" morph="none" start_char="508" end_char="513">gözler</TOKEN>
+<TOKEN id="token-2-55" pos="word" morph="none" start_char="515" end_char="519">önüne</TOKEN>
+<TOKEN id="token-2-56" pos="word" morph="none" start_char="521" end_char="528">sermişti</TOKEN>
+<TOKEN id="token-2-57" pos="punct" morph="none" start_char="529" end_char="529">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="531" end_char="650">
+<ORIGINAL_TEXT>1910 yılında White Star Line şirketi, bastırdığı broşürlerle "batması imkansız" bir transatlantiğin reklamını yapıyordu.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="number" morph="none" start_char="531" end_char="534">1910</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="536" end_char="542">yılında</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="544" end_char="548">White</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="550" end_char="553">Star</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="555" end_char="558">Line</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="560" end_char="566">şirketi</TOKEN>
+<TOKEN id="token-3-6" pos="punct" morph="none" start_char="567" end_char="567">,</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="569" end_char="578">bastırdığı</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="580" end_char="590">broşürlerle</TOKEN>
+<TOKEN id="token-3-9" pos="punct" morph="none" start_char="592" end_char="592">"</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="593" end_char="599">batması</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="601" end_char="608">imkansız</TOKEN>
+<TOKEN id="token-3-12" pos="punct" morph="none" start_char="609" end_char="609">"</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="611" end_char="613">bir</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="615" end_char="629">transatlantiğin</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="631" end_char="639">reklamını</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="641" end_char="649">yapıyordu</TOKEN>
+<TOKEN id="token-3-17" pos="punct" morph="none" start_char="650" end_char="650">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="652" end_char="775">
+<ORIGINAL_TEXT>1861 yılında İrlandaʼda kurulan Harland and Wolff tersanesi, Titanicʼi inşa etme görevine 31 Mart 1909 tarihinde başlamıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="number" morph="none" start_char="652" end_char="655">1861</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="657" end_char="663">yılında</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="665" end_char="674">İrlandaʼda</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="676" end_char="682">kurulan</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="684" end_char="690">Harland</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="692" end_char="694">and</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="696" end_char="700">Wolff</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="702" end_char="710">tersanesi</TOKEN>
+<TOKEN id="token-4-8" pos="punct" morph="none" start_char="711" end_char="711">,</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="713" end_char="721">Titanicʼi</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="723" end_char="726">inşa</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="728" end_char="731">etme</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="733" end_char="740">görevine</TOKEN>
+<TOKEN id="token-4-13" pos="number" morph="none" start_char="742" end_char="743">31</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="745" end_char="748">Mart</TOKEN>
+<TOKEN id="token-4-15" pos="number" morph="none" start_char="750" end_char="753">1909</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="755" end_char="763">tarihinde</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="765" end_char="774">başlamıştı</TOKEN>
+<TOKEN id="token-4-18" pos="punct" morph="none" start_char="775" end_char="775">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="777" end_char="863">
+<ORIGINAL_TEXT>Her şeyiyle "en büyük", "en ihtişamlı" ve "en güçlü" olması planlanan Titanicʼten önce.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="777" end_char="779">Her</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="781" end_char="787">şeyiyle</TOKEN>
+<TOKEN id="token-5-2" pos="punct" morph="none" start_char="789" end_char="789">"</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="790" end_char="791">en</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="793" end_char="797">büyük</TOKEN>
+<TOKEN id="token-5-5" pos="punct" morph="none" start_char="798" end_char="799">",</TOKEN>
+<TOKEN id="token-5-6" pos="punct" morph="none" start_char="801" end_char="801">"</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="802" end_char="803">en</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="805" end_char="813">ihtişamlı</TOKEN>
+<TOKEN id="token-5-9" pos="punct" morph="none" start_char="814" end_char="814">"</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="816" end_char="817">ve</TOKEN>
+<TOKEN id="token-5-11" pos="punct" morph="none" start_char="819" end_char="819">"</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="820" end_char="821">en</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="823" end_char="827">güçlü</TOKEN>
+<TOKEN id="token-5-14" pos="punct" morph="none" start_char="828" end_char="828">"</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="830" end_char="835">olması</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="837" end_char="845">planlanan</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="847" end_char="857">Titanicʼten</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="859" end_char="862">önce</TOKEN>
+<TOKEN id="token-5-19" pos="punct" morph="none" start_char="863" end_char="863">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="865" end_char="925">
+<ORIGINAL_TEXT>..kardeş gemisi Olympic inşa edilmiş ve seferlere başlamıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="punct" morph="none" start_char="865" end_char="866">..</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="867" end_char="872">kardeş</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="874" end_char="879">gemisi</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="881" end_char="887">Olympic</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="889" end_char="892">inşa</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="894" end_char="900">edilmiş</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="902" end_char="903">ve</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="905" end_char="913">seferlere</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="915" end_char="924">başlamıştı</TOKEN>
+<TOKEN id="token-6-9" pos="punct" morph="none" start_char="925" end_char="925">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="927" end_char="1577">
+<ORIGINAL_TEXT>Olympic hem Titanicʼin öncüsü olmuş, hem de White Star Lineʼın üretmeyi planladığı 3 devasa yolcu gemisi için sınıf ismi olmuştu.Tam 46.328 ton olarak inşa edilen Titanicʼi hareket ettirebilmek için....iki tane dört silindirli buhar motoru kullanılıyordu.Böylece devasa Titanicʼin kalbi tam 59.000 beygir gücü üretiyordu...1909ʼda inşasına başlanan Titanicʼin gövdesi 31 Mayıs 1911ʼde bitirildi.Geminin diğer bölümlerinin bitirilmesi de neredeyse bir yıl daha sürdü ve 31 Mart 1912ʼde tamamlandı.Böylece 269 metre uzunluğunda, 28 metre genişliğinde, 46.328 ton ağırlığındaki bu dev denize indirildi...Titanicʼin içi de eşsiz olması için tasarlanmıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="927" end_char="933">Olympic</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="935" end_char="937">hem</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="939" end_char="948">Titanicʼin</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="950" end_char="955">öncüsü</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="957" end_char="961">olmuş</TOKEN>
+<TOKEN id="token-7-5" pos="punct" morph="none" start_char="962" end_char="962">,</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="964" end_char="966">hem</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="968" end_char="969">de</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="971" end_char="975">White</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="977" end_char="980">Star</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="982" end_char="988">Lineʼın</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="990" end_char="997">üretmeyi</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="999" end_char="1008">planladığı</TOKEN>
+<TOKEN id="token-7-13" pos="number" morph="none" start_char="1010" end_char="1010">3</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1012" end_char="1017">devasa</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1019" end_char="1023">yolcu</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1025" end_char="1030">gemisi</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1032" end_char="1035">için</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1037" end_char="1041">sınıf</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1043" end_char="1046">ismi</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1048" end_char="1054">olmuştu</TOKEN>
+<TOKEN id="token-7-21" pos="punct" morph="none" start_char="1055" end_char="1055">.</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1056" end_char="1058">Tam</TOKEN>
+<TOKEN id="token-7-23" pos="number" morph="none" start_char="1060" end_char="1065">46.328</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1067" end_char="1069">ton</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="1071" end_char="1076">olarak</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="1078" end_char="1081">inşa</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="1083" end_char="1088">edilen</TOKEN>
+<TOKEN id="token-7-28" pos="word" morph="none" start_char="1090" end_char="1098">Titanicʼi</TOKEN>
+<TOKEN id="token-7-29" pos="word" morph="none" start_char="1100" end_char="1106">hareket</TOKEN>
+<TOKEN id="token-7-30" pos="word" morph="none" start_char="1108" end_char="1119">ettirebilmek</TOKEN>
+<TOKEN id="token-7-31" pos="word" morph="none" start_char="1121" end_char="1124">için</TOKEN>
+<TOKEN id="token-7-32" pos="punct" morph="none" start_char="1125" end_char="1128">....</TOKEN>
+<TOKEN id="token-7-33" pos="word" morph="none" start_char="1129" end_char="1131">iki</TOKEN>
+<TOKEN id="token-7-34" pos="word" morph="none" start_char="1133" end_char="1136">tane</TOKEN>
+<TOKEN id="token-7-35" pos="word" morph="none" start_char="1138" end_char="1141">dört</TOKEN>
+<TOKEN id="token-7-36" pos="word" morph="none" start_char="1143" end_char="1152">silindirli</TOKEN>
+<TOKEN id="token-7-37" pos="word" morph="none" start_char="1154" end_char="1158">buhar</TOKEN>
+<TOKEN id="token-7-38" pos="word" morph="none" start_char="1160" end_char="1165">motoru</TOKEN>
+<TOKEN id="token-7-39" pos="word" morph="none" start_char="1167" end_char="1180">kullanılıyordu</TOKEN>
+<TOKEN id="token-7-40" pos="punct" morph="none" start_char="1181" end_char="1181">.</TOKEN>
+<TOKEN id="token-7-41" pos="word" morph="none" start_char="1182" end_char="1188">Böylece</TOKEN>
+<TOKEN id="token-7-42" pos="word" morph="none" start_char="1190" end_char="1195">devasa</TOKEN>
+<TOKEN id="token-7-43" pos="word" morph="none" start_char="1197" end_char="1206">Titanicʼin</TOKEN>
+<TOKEN id="token-7-44" pos="word" morph="none" start_char="1208" end_char="1212">kalbi</TOKEN>
+<TOKEN id="token-7-45" pos="word" morph="none" start_char="1214" end_char="1216">tam</TOKEN>
+<TOKEN id="token-7-46" pos="number" morph="none" start_char="1218" end_char="1223">59.000</TOKEN>
+<TOKEN id="token-7-47" pos="word" morph="none" start_char="1225" end_char="1230">beygir</TOKEN>
+<TOKEN id="token-7-48" pos="word" morph="none" start_char="1232" end_char="1235">gücü</TOKEN>
+<TOKEN id="token-7-49" pos="word" morph="none" start_char="1237" end_char="1246">üretiyordu</TOKEN>
+<TOKEN id="token-7-50" pos="punct" morph="none" start_char="1247" end_char="1249">...</TOKEN>
+<TOKEN id="token-7-51" pos="word" morph="none" start_char="1250" end_char="1256">1909ʼda</TOKEN>
+<TOKEN id="token-7-52" pos="word" morph="none" start_char="1258" end_char="1265">inşasına</TOKEN>
+<TOKEN id="token-7-53" pos="word" morph="none" start_char="1267" end_char="1274">başlanan</TOKEN>
+<TOKEN id="token-7-54" pos="word" morph="none" start_char="1276" end_char="1285">Titanicʼin</TOKEN>
+<TOKEN id="token-7-55" pos="word" morph="none" start_char="1287" end_char="1293">gövdesi</TOKEN>
+<TOKEN id="token-7-56" pos="number" morph="none" start_char="1295" end_char="1296">31</TOKEN>
+<TOKEN id="token-7-57" pos="word" morph="none" start_char="1298" end_char="1302">Mayıs</TOKEN>
+<TOKEN id="token-7-58" pos="word" morph="none" start_char="1304" end_char="1310">1911ʼde</TOKEN>
+<TOKEN id="token-7-59" pos="word" morph="none" start_char="1312" end_char="1320">bitirildi</TOKEN>
+<TOKEN id="token-7-60" pos="punct" morph="none" start_char="1321" end_char="1321">.</TOKEN>
+<TOKEN id="token-7-61" pos="word" morph="none" start_char="1322" end_char="1328">Geminin</TOKEN>
+<TOKEN id="token-7-62" pos="word" morph="none" start_char="1330" end_char="1334">diğer</TOKEN>
+<TOKEN id="token-7-63" pos="word" morph="none" start_char="1336" end_char="1347">bölümlerinin</TOKEN>
+<TOKEN id="token-7-64" pos="word" morph="none" start_char="1349" end_char="1359">bitirilmesi</TOKEN>
+<TOKEN id="token-7-65" pos="word" morph="none" start_char="1361" end_char="1362">de</TOKEN>
+<TOKEN id="token-7-66" pos="word" morph="none" start_char="1364" end_char="1372">neredeyse</TOKEN>
+<TOKEN id="token-7-67" pos="word" morph="none" start_char="1374" end_char="1376">bir</TOKEN>
+<TOKEN id="token-7-68" pos="word" morph="none" start_char="1378" end_char="1380">yıl</TOKEN>
+<TOKEN id="token-7-69" pos="word" morph="none" start_char="1382" end_char="1385">daha</TOKEN>
+<TOKEN id="token-7-70" pos="word" morph="none" start_char="1387" end_char="1391">sürdü</TOKEN>
+<TOKEN id="token-7-71" pos="word" morph="none" start_char="1393" end_char="1394">ve</TOKEN>
+<TOKEN id="token-7-72" pos="number" morph="none" start_char="1396" end_char="1397">31</TOKEN>
+<TOKEN id="token-7-73" pos="word" morph="none" start_char="1399" end_char="1402">Mart</TOKEN>
+<TOKEN id="token-7-74" pos="word" morph="none" start_char="1404" end_char="1410">1912ʼde</TOKEN>
+<TOKEN id="token-7-75" pos="word" morph="none" start_char="1412" end_char="1421">tamamlandı</TOKEN>
+<TOKEN id="token-7-76" pos="punct" morph="none" start_char="1422" end_char="1422">.</TOKEN>
+<TOKEN id="token-7-77" pos="word" morph="none" start_char="1423" end_char="1429">Böylece</TOKEN>
+<TOKEN id="token-7-78" pos="number" morph="none" start_char="1431" end_char="1433">269</TOKEN>
+<TOKEN id="token-7-79" pos="word" morph="none" start_char="1435" end_char="1439">metre</TOKEN>
+<TOKEN id="token-7-80" pos="word" morph="none" start_char="1441" end_char="1451">uzunluğunda</TOKEN>
+<TOKEN id="token-7-81" pos="punct" morph="none" start_char="1452" end_char="1452">,</TOKEN>
+<TOKEN id="token-7-82" pos="number" morph="none" start_char="1454" end_char="1455">28</TOKEN>
+<TOKEN id="token-7-83" pos="word" morph="none" start_char="1457" end_char="1461">metre</TOKEN>
+<TOKEN id="token-7-84" pos="word" morph="none" start_char="1463" end_char="1474">genişliğinde</TOKEN>
+<TOKEN id="token-7-85" pos="punct" morph="none" start_char="1475" end_char="1475">,</TOKEN>
+<TOKEN id="token-7-86" pos="number" morph="none" start_char="1477" end_char="1482">46.328</TOKEN>
+<TOKEN id="token-7-87" pos="word" morph="none" start_char="1484" end_char="1486">ton</TOKEN>
+<TOKEN id="token-7-88" pos="word" morph="none" start_char="1488" end_char="1500">ağırlığındaki</TOKEN>
+<TOKEN id="token-7-89" pos="word" morph="none" start_char="1502" end_char="1503">bu</TOKEN>
+<TOKEN id="token-7-90" pos="word" morph="none" start_char="1505" end_char="1507">dev</TOKEN>
+<TOKEN id="token-7-91" pos="word" morph="none" start_char="1509" end_char="1514">denize</TOKEN>
+<TOKEN id="token-7-92" pos="word" morph="none" start_char="1516" end_char="1524">indirildi</TOKEN>
+<TOKEN id="token-7-93" pos="punct" morph="none" start_char="1525" end_char="1527">...</TOKEN>
+<TOKEN id="token-7-94" pos="word" morph="none" start_char="1528" end_char="1537">Titanicʼin</TOKEN>
+<TOKEN id="token-7-95" pos="word" morph="none" start_char="1539" end_char="1541">içi</TOKEN>
+<TOKEN id="token-7-96" pos="word" morph="none" start_char="1543" end_char="1544">de</TOKEN>
+<TOKEN id="token-7-97" pos="word" morph="none" start_char="1546" end_char="1550">eşsiz</TOKEN>
+<TOKEN id="token-7-98" pos="word" morph="none" start_char="1552" end_char="1557">olması</TOKEN>
+<TOKEN id="token-7-99" pos="word" morph="none" start_char="1559" end_char="1562">için</TOKEN>
+<TOKEN id="token-7-100" pos="word" morph="none" start_char="1564" end_char="1576">tasarlanmıştı</TOKEN>
+<TOKEN id="token-7-101" pos="punct" morph="none" start_char="1577" end_char="1577">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1579" end_char="2436">
+<ORIGINAL_TEXT>Gemide bir yüzme havuzu, spor salonu ve kütüphaneler yer alıyordu.Bütün bu ihtişamıyla Titanic tam 3.547 kişiyi taşıyabilecek bir gemiydi.Normalde 3 bacalı olarak tasarlanan gemiye "daha etkileyici görünsün" diye, 4. bir baca daha eklenmişti.Denize indirildikten sonra Titanic Belfastʼtan İrlanda denizine götürüldü ve testlere başlandı.Bu fotoğraftada Titanic, ilk yolculuğuna başlamak için Southamptonʼdayken görülüyor.Fotoğrafın çekildiği tarih 2 Nisan 1912.Bu devasa transatlantiğin ilk seferine katılmak için milyonerler, siyasetçiler, aktör ve aktrisler sıraya girmişlerdi.Yolcuğunun henüz başında, Southampton limanını terkederken Titanic bir tehlike atlatmış ve New York gemisiyle çarpışmaktan son anda kurtulmuştu.10 Nisan 1912 günü tarihi yolculuk başladı..Geminin kumandası Kaptan Edward J. Smithʼe verilmişti.Titanicʼin ikinci durağı Fransa oldu.</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1579" end_char="1584">Gemide</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1586" end_char="1588">bir</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1590" end_char="1594">yüzme</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="1596" end_char="1601">havuzu</TOKEN>
+<TOKEN id="token-8-4" pos="punct" morph="none" start_char="1602" end_char="1602">,</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="1604" end_char="1607">spor</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="1609" end_char="1614">salonu</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="1616" end_char="1617">ve</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="1619" end_char="1630">kütüphaneler</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="1632" end_char="1634">yer</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="1636" end_char="1643">alıyordu</TOKEN>
+<TOKEN id="token-8-11" pos="punct" morph="none" start_char="1644" end_char="1644">.</TOKEN>
+<TOKEN id="token-8-12" pos="word" morph="none" start_char="1645" end_char="1649">Bütün</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="1651" end_char="1652">bu</TOKEN>
+<TOKEN id="token-8-14" pos="word" morph="none" start_char="1654" end_char="1664">ihtişamıyla</TOKEN>
+<TOKEN id="token-8-15" pos="word" morph="none" start_char="1666" end_char="1672">Titanic</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="1674" end_char="1676">tam</TOKEN>
+<TOKEN id="token-8-17" pos="number" morph="none" start_char="1678" end_char="1682">3.547</TOKEN>
+<TOKEN id="token-8-18" pos="word" morph="none" start_char="1684" end_char="1689">kişiyi</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="1691" end_char="1703">taşıyabilecek</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="1705" end_char="1707">bir</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="1709" end_char="1715">gemiydi</TOKEN>
+<TOKEN id="token-8-22" pos="punct" morph="none" start_char="1716" end_char="1716">.</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="1717" end_char="1724">Normalde</TOKEN>
+<TOKEN id="token-8-24" pos="number" morph="none" start_char="1726" end_char="1726">3</TOKEN>
+<TOKEN id="token-8-25" pos="word" morph="none" start_char="1728" end_char="1733">bacalı</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="1735" end_char="1740">olarak</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="1742" end_char="1751">tasarlanan</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="1753" end_char="1758">gemiye</TOKEN>
+<TOKEN id="token-8-29" pos="punct" morph="none" start_char="1760" end_char="1760">"</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="1761" end_char="1764">daha</TOKEN>
+<TOKEN id="token-8-31" pos="word" morph="none" start_char="1766" end_char="1775">etkileyici</TOKEN>
+<TOKEN id="token-8-32" pos="word" morph="none" start_char="1777" end_char="1784">görünsün</TOKEN>
+<TOKEN id="token-8-33" pos="punct" morph="none" start_char="1785" end_char="1785">"</TOKEN>
+<TOKEN id="token-8-34" pos="word" morph="none" start_char="1787" end_char="1790">diye</TOKEN>
+<TOKEN id="token-8-35" pos="punct" morph="none" start_char="1791" end_char="1791">,</TOKEN>
+<TOKEN id="token-8-36" pos="word" morph="none" start_char="1793" end_char="1793">4</TOKEN>
+<TOKEN id="token-8-37" pos="punct" morph="none" start_char="1794" end_char="1794">.</TOKEN>
+<TOKEN id="token-8-38" pos="word" morph="none" start_char="1796" end_char="1798">bir</TOKEN>
+<TOKEN id="token-8-39" pos="word" morph="none" start_char="1800" end_char="1803">baca</TOKEN>
+<TOKEN id="token-8-40" pos="word" morph="none" start_char="1805" end_char="1808">daha</TOKEN>
+<TOKEN id="token-8-41" pos="word" morph="none" start_char="1810" end_char="1819">eklenmişti</TOKEN>
+<TOKEN id="token-8-42" pos="punct" morph="none" start_char="1820" end_char="1820">.</TOKEN>
+<TOKEN id="token-8-43" pos="word" morph="none" start_char="1821" end_char="1826">Denize</TOKEN>
+<TOKEN id="token-8-44" pos="word" morph="none" start_char="1828" end_char="1840">indirildikten</TOKEN>
+<TOKEN id="token-8-45" pos="word" morph="none" start_char="1842" end_char="1846">sonra</TOKEN>
+<TOKEN id="token-8-46" pos="word" morph="none" start_char="1848" end_char="1854">Titanic</TOKEN>
+<TOKEN id="token-8-47" pos="word" morph="none" start_char="1856" end_char="1866">Belfastʼtan</TOKEN>
+<TOKEN id="token-8-48" pos="word" morph="none" start_char="1868" end_char="1874">İrlanda</TOKEN>
+<TOKEN id="token-8-49" pos="word" morph="none" start_char="1876" end_char="1883">denizine</TOKEN>
+<TOKEN id="token-8-50" pos="word" morph="none" start_char="1885" end_char="1893">götürüldü</TOKEN>
+<TOKEN id="token-8-51" pos="word" morph="none" start_char="1895" end_char="1896">ve</TOKEN>
+<TOKEN id="token-8-52" pos="word" morph="none" start_char="1898" end_char="1905">testlere</TOKEN>
+<TOKEN id="token-8-53" pos="word" morph="none" start_char="1907" end_char="1914">başlandı</TOKEN>
+<TOKEN id="token-8-54" pos="punct" morph="none" start_char="1915" end_char="1915">.</TOKEN>
+<TOKEN id="token-8-55" pos="word" morph="none" start_char="1916" end_char="1917">Bu</TOKEN>
+<TOKEN id="token-8-56" pos="word" morph="none" start_char="1919" end_char="1930">fotoğraftada</TOKEN>
+<TOKEN id="token-8-57" pos="word" morph="none" start_char="1932" end_char="1938">Titanic</TOKEN>
+<TOKEN id="token-8-58" pos="punct" morph="none" start_char="1939" end_char="1939">,</TOKEN>
+<TOKEN id="token-8-59" pos="word" morph="none" start_char="1941" end_char="1943">ilk</TOKEN>
+<TOKEN id="token-8-60" pos="word" morph="none" start_char="1945" end_char="1955">yolculuğuna</TOKEN>
+<TOKEN id="token-8-61" pos="word" morph="none" start_char="1957" end_char="1964">başlamak</TOKEN>
+<TOKEN id="token-8-62" pos="word" morph="none" start_char="1966" end_char="1969">için</TOKEN>
+<TOKEN id="token-8-63" pos="word" morph="none" start_char="1971" end_char="1988">Southamptonʼdayken</TOKEN>
+<TOKEN id="token-8-64" pos="word" morph="none" start_char="1990" end_char="1998">görülüyor</TOKEN>
+<TOKEN id="token-8-65" pos="punct" morph="none" start_char="1999" end_char="1999">.</TOKEN>
+<TOKEN id="token-8-66" pos="word" morph="none" start_char="2000" end_char="2009">Fotoğrafın</TOKEN>
+<TOKEN id="token-8-67" pos="word" morph="none" start_char="2011" end_char="2019">çekildiği</TOKEN>
+<TOKEN id="token-8-68" pos="word" morph="none" start_char="2021" end_char="2025">tarih</TOKEN>
+<TOKEN id="token-8-69" pos="number" morph="none" start_char="2027" end_char="2027">2</TOKEN>
+<TOKEN id="token-8-70" pos="word" morph="none" start_char="2029" end_char="2033">Nisan</TOKEN>
+<TOKEN id="token-8-71" pos="word" morph="none" start_char="2035" end_char="2038">1912</TOKEN>
+<TOKEN id="token-8-72" pos="punct" morph="none" start_char="2039" end_char="2039">.</TOKEN>
+<TOKEN id="token-8-73" pos="word" morph="none" start_char="2040" end_char="2041">Bu</TOKEN>
+<TOKEN id="token-8-74" pos="word" morph="none" start_char="2043" end_char="2048">devasa</TOKEN>
+<TOKEN id="token-8-75" pos="word" morph="none" start_char="2050" end_char="2064">transatlantiğin</TOKEN>
+<TOKEN id="token-8-76" pos="word" morph="none" start_char="2066" end_char="2068">ilk</TOKEN>
+<TOKEN id="token-8-77" pos="word" morph="none" start_char="2070" end_char="2077">seferine</TOKEN>
+<TOKEN id="token-8-78" pos="word" morph="none" start_char="2079" end_char="2086">katılmak</TOKEN>
+<TOKEN id="token-8-79" pos="word" morph="none" start_char="2088" end_char="2091">için</TOKEN>
+<TOKEN id="token-8-80" pos="word" morph="none" start_char="2093" end_char="2103">milyonerler</TOKEN>
+<TOKEN id="token-8-81" pos="punct" morph="none" start_char="2104" end_char="2104">,</TOKEN>
+<TOKEN id="token-8-82" pos="word" morph="none" start_char="2106" end_char="2117">siyasetçiler</TOKEN>
+<TOKEN id="token-8-83" pos="punct" morph="none" start_char="2118" end_char="2118">,</TOKEN>
+<TOKEN id="token-8-84" pos="word" morph="none" start_char="2120" end_char="2124">aktör</TOKEN>
+<TOKEN id="token-8-85" pos="word" morph="none" start_char="2126" end_char="2127">ve</TOKEN>
+<TOKEN id="token-8-86" pos="word" morph="none" start_char="2129" end_char="2137">aktrisler</TOKEN>
+<TOKEN id="token-8-87" pos="word" morph="none" start_char="2139" end_char="2144">sıraya</TOKEN>
+<TOKEN id="token-8-88" pos="word" morph="none" start_char="2146" end_char="2156">girmişlerdi</TOKEN>
+<TOKEN id="token-8-89" pos="punct" morph="none" start_char="2157" end_char="2157">.</TOKEN>
+<TOKEN id="token-8-90" pos="word" morph="none" start_char="2158" end_char="2167">Yolcuğunun</TOKEN>
+<TOKEN id="token-8-91" pos="word" morph="none" start_char="2169" end_char="2173">henüz</TOKEN>
+<TOKEN id="token-8-92" pos="word" morph="none" start_char="2175" end_char="2181">başında</TOKEN>
+<TOKEN id="token-8-93" pos="punct" morph="none" start_char="2182" end_char="2182">,</TOKEN>
+<TOKEN id="token-8-94" pos="word" morph="none" start_char="2184" end_char="2194">Southampton</TOKEN>
+<TOKEN id="token-8-95" pos="word" morph="none" start_char="2196" end_char="2203">limanını</TOKEN>
+<TOKEN id="token-8-96" pos="word" morph="none" start_char="2205" end_char="2215">terkederken</TOKEN>
+<TOKEN id="token-8-97" pos="word" morph="none" start_char="2217" end_char="2223">Titanic</TOKEN>
+<TOKEN id="token-8-98" pos="word" morph="none" start_char="2225" end_char="2227">bir</TOKEN>
+<TOKEN id="token-8-99" pos="word" morph="none" start_char="2229" end_char="2235">tehlike</TOKEN>
+<TOKEN id="token-8-100" pos="word" morph="none" start_char="2237" end_char="2244">atlatmış</TOKEN>
+<TOKEN id="token-8-101" pos="word" morph="none" start_char="2246" end_char="2247">ve</TOKEN>
+<TOKEN id="token-8-102" pos="word" morph="none" start_char="2249" end_char="2251">New</TOKEN>
+<TOKEN id="token-8-103" pos="word" morph="none" start_char="2253" end_char="2256">York</TOKEN>
+<TOKEN id="token-8-104" pos="word" morph="none" start_char="2258" end_char="2266">gemisiyle</TOKEN>
+<TOKEN id="token-8-105" pos="word" morph="none" start_char="2268" end_char="2279">çarpışmaktan</TOKEN>
+<TOKEN id="token-8-106" pos="word" morph="none" start_char="2281" end_char="2283">son</TOKEN>
+<TOKEN id="token-8-107" pos="word" morph="none" start_char="2285" end_char="2288">anda</TOKEN>
+<TOKEN id="token-8-108" pos="word" morph="none" start_char="2290" end_char="2300">kurtulmuştu</TOKEN>
+<TOKEN id="token-8-109" pos="punct" morph="none" start_char="2301" end_char="2301">.</TOKEN>
+<TOKEN id="token-8-110" pos="word" morph="none" start_char="2302" end_char="2303">10</TOKEN>
+<TOKEN id="token-8-111" pos="word" morph="none" start_char="2305" end_char="2309">Nisan</TOKEN>
+<TOKEN id="token-8-112" pos="number" morph="none" start_char="2311" end_char="2314">1912</TOKEN>
+<TOKEN id="token-8-113" pos="word" morph="none" start_char="2316" end_char="2319">günü</TOKEN>
+<TOKEN id="token-8-114" pos="word" morph="none" start_char="2321" end_char="2326">tarihi</TOKEN>
+<TOKEN id="token-8-115" pos="word" morph="none" start_char="2328" end_char="2335">yolculuk</TOKEN>
+<TOKEN id="token-8-116" pos="word" morph="none" start_char="2337" end_char="2343">başladı</TOKEN>
+<TOKEN id="token-8-117" pos="punct" morph="none" start_char="2344" end_char="2345">..</TOKEN>
+<TOKEN id="token-8-118" pos="word" morph="none" start_char="2346" end_char="2352">Geminin</TOKEN>
+<TOKEN id="token-8-119" pos="word" morph="none" start_char="2354" end_char="2362">kumandası</TOKEN>
+<TOKEN id="token-8-120" pos="word" morph="none" start_char="2364" end_char="2369">Kaptan</TOKEN>
+<TOKEN id="token-8-121" pos="word" morph="none" start_char="2371" end_char="2376">Edward</TOKEN>
+<TOKEN id="token-8-122" pos="word" morph="none" start_char="2378" end_char="2378">J</TOKEN>
+<TOKEN id="token-8-123" pos="punct" morph="none" start_char="2379" end_char="2379">.</TOKEN>
+<TOKEN id="token-8-124" pos="word" morph="none" start_char="2381" end_char="2387">Smithʼe</TOKEN>
+<TOKEN id="token-8-125" pos="word" morph="none" start_char="2389" end_char="2398">verilmişti</TOKEN>
+<TOKEN id="token-8-126" pos="punct" morph="none" start_char="2399" end_char="2399">.</TOKEN>
+<TOKEN id="token-8-127" pos="word" morph="none" start_char="2400" end_char="2409">Titanicʼin</TOKEN>
+<TOKEN id="token-8-128" pos="word" morph="none" start_char="2411" end_char="2416">ikinci</TOKEN>
+<TOKEN id="token-8-129" pos="word" morph="none" start_char="2418" end_char="2423">durağı</TOKEN>
+<TOKEN id="token-8-130" pos="word" morph="none" start_char="2425" end_char="2430">Fransa</TOKEN>
+<TOKEN id="token-8-131" pos="word" morph="none" start_char="2432" end_char="2435">oldu</TOKEN>
+<TOKEN id="token-8-132" pos="punct" morph="none" start_char="2436" end_char="2436">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="2438" end_char="2578">
+<ORIGINAL_TEXT>Buradan aldığı yolcularla gemi toplam 2.240 kişiyle New Yorkʼa doğru yola çıktı.14 Nisan gecesi sıcaklık neredeyse 0 dereceye kadar düşmüştü.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="2438" end_char="2444">Buradan</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="2446" end_char="2451">aldığı</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="2453" end_char="2462">yolcularla</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="2464" end_char="2467">gemi</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="2469" end_char="2474">toplam</TOKEN>
+<TOKEN id="token-9-5" pos="number" morph="none" start_char="2476" end_char="2480">2.240</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="2482" end_char="2488">kişiyle</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="2490" end_char="2492">New</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="2494" end_char="2499">Yorkʼa</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="2501" end_char="2505">doğru</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="2507" end_char="2510">yola</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="2512" end_char="2516">çıktı</TOKEN>
+<TOKEN id="token-9-12" pos="punct" morph="none" start_char="2517" end_char="2517">.</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="2518" end_char="2519">14</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="2521" end_char="2525">Nisan</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="2527" end_char="2532">gecesi</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="2534" end_char="2541">sıcaklık</TOKEN>
+<TOKEN id="token-9-17" pos="word" morph="none" start_char="2543" end_char="2551">neredeyse</TOKEN>
+<TOKEN id="token-9-18" pos="number" morph="none" start_char="2553" end_char="2553">0</TOKEN>
+<TOKEN id="token-9-19" pos="word" morph="none" start_char="2555" end_char="2562">dereceye</TOKEN>
+<TOKEN id="token-9-20" pos="word" morph="none" start_char="2564" end_char="2568">kadar</TOKEN>
+<TOKEN id="token-9-21" pos="word" morph="none" start_char="2570" end_char="2577">düşmüştü</TOKEN>
+<TOKEN id="token-9-22" pos="punct" morph="none" start_char="2578" end_char="2578">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="2580" end_char="2728">
+<ORIGINAL_TEXT>Kaptan Smith, telsizle gelen buzdağı uyarılarını dikkate alıp, geminin rotasını biraz daha güneye çekmişti.Gökyüzü son derece açıktı, ancak ay yoktu.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="2580" end_char="2585">Kaptan</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="2587" end_char="2591">Smith</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="2592" end_char="2592">,</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="2594" end_char="2601">telsizle</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="2603" end_char="2607">gelen</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="2609" end_char="2615">buzdağı</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="2617" end_char="2627">uyarılarını</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="2629" end_char="2635">dikkate</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="2637" end_char="2640">alıp</TOKEN>
+<TOKEN id="token-10-9" pos="punct" morph="none" start_char="2641" end_char="2641">,</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="2643" end_char="2649">geminin</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="2651" end_char="2658">rotasını</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="2660" end_char="2664">biraz</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="2666" end_char="2669">daha</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="2671" end_char="2676">güneye</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="2678" end_char="2685">çekmişti</TOKEN>
+<TOKEN id="token-10-16" pos="punct" morph="none" start_char="2686" end_char="2686">.</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="2687" end_char="2693">Gökyüzü</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="2695" end_char="2697">son</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="2699" end_char="2704">derece</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="2706" end_char="2711">açıktı</TOKEN>
+<TOKEN id="token-10-21" pos="punct" morph="none" start_char="2712" end_char="2712">,</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="2714" end_char="2718">ancak</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="2720" end_char="2721">ay</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="2723" end_char="2727">yoktu</TOKEN>
+<TOKEN id="token-10-25" pos="punct" morph="none" start_char="2728" end_char="2728">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="2730" end_char="3194">
+<ORIGINAL_TEXT>Saat 11.40ʼda geminin iki gözcüsü köprüye telefonla "Buzdağı, tam önümüzde" mesajını ilettiğinde artık çok geçti...Görevi Kaptan Smithʼten devralan İkinci Kaptan Murdoch, birçoklarına göre hatalı bir karar vererek gemiyi döndürdü ve buzdağı Titanicʼe daha sağlam olduğu söylenen burnu yerine, yandan çarpmış ve daha fazla hasar almıştır.Titanic inşa edilirken 16 su geçirmez bölmeyle korunmuş ve bu bölmelerden 4ʼü suyla dolsa bile batmayacak şekilde tasarlanmıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="2730" end_char="2733">Saat</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="2735" end_char="2736">11</TOKEN>
+<TOKEN id="token-11-2" pos="punct" morph="none" start_char="2737" end_char="2737">.</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="2738" end_char="2742">40ʼda</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="2744" end_char="2750">geminin</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="2752" end_char="2754">iki</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="2756" end_char="2762">gözcüsü</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="2764" end_char="2770">köprüye</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="2772" end_char="2780">telefonla</TOKEN>
+<TOKEN id="token-11-9" pos="punct" morph="none" start_char="2782" end_char="2782">"</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="2783" end_char="2789">Buzdağı</TOKEN>
+<TOKEN id="token-11-11" pos="punct" morph="none" start_char="2790" end_char="2790">,</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="2792" end_char="2794">tam</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="2796" end_char="2803">önümüzde</TOKEN>
+<TOKEN id="token-11-14" pos="punct" morph="none" start_char="2804" end_char="2804">"</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="2806" end_char="2813">mesajını</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="2815" end_char="2825">ilettiğinde</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="2827" end_char="2831">artık</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="2833" end_char="2835">çok</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="2837" end_char="2841">geçti</TOKEN>
+<TOKEN id="token-11-20" pos="punct" morph="none" start_char="2842" end_char="2844">...</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="2845" end_char="2850">Görevi</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="2852" end_char="2857">Kaptan</TOKEN>
+<TOKEN id="token-11-23" pos="word" morph="none" start_char="2859" end_char="2867">Smithʼten</TOKEN>
+<TOKEN id="token-11-24" pos="word" morph="none" start_char="2869" end_char="2876">devralan</TOKEN>
+<TOKEN id="token-11-25" pos="word" morph="none" start_char="2878" end_char="2883">İkinci</TOKEN>
+<TOKEN id="token-11-26" pos="word" morph="none" start_char="2885" end_char="2890">Kaptan</TOKEN>
+<TOKEN id="token-11-27" pos="word" morph="none" start_char="2892" end_char="2898">Murdoch</TOKEN>
+<TOKEN id="token-11-28" pos="punct" morph="none" start_char="2899" end_char="2899">,</TOKEN>
+<TOKEN id="token-11-29" pos="word" morph="none" start_char="2901" end_char="2912">birçoklarına</TOKEN>
+<TOKEN id="token-11-30" pos="word" morph="none" start_char="2914" end_char="2917">göre</TOKEN>
+<TOKEN id="token-11-31" pos="word" morph="none" start_char="2919" end_char="2924">hatalı</TOKEN>
+<TOKEN id="token-11-32" pos="word" morph="none" start_char="2926" end_char="2928">bir</TOKEN>
+<TOKEN id="token-11-33" pos="word" morph="none" start_char="2930" end_char="2934">karar</TOKEN>
+<TOKEN id="token-11-34" pos="word" morph="none" start_char="2936" end_char="2942">vererek</TOKEN>
+<TOKEN id="token-11-35" pos="word" morph="none" start_char="2944" end_char="2949">gemiyi</TOKEN>
+<TOKEN id="token-11-36" pos="word" morph="none" start_char="2951" end_char="2958">döndürdü</TOKEN>
+<TOKEN id="token-11-37" pos="word" morph="none" start_char="2960" end_char="2961">ve</TOKEN>
+<TOKEN id="token-11-38" pos="word" morph="none" start_char="2963" end_char="2969">buzdağı</TOKEN>
+<TOKEN id="token-11-39" pos="word" morph="none" start_char="2971" end_char="2979">Titanicʼe</TOKEN>
+<TOKEN id="token-11-40" pos="word" morph="none" start_char="2981" end_char="2984">daha</TOKEN>
+<TOKEN id="token-11-41" pos="word" morph="none" start_char="2986" end_char="2991">sağlam</TOKEN>
+<TOKEN id="token-11-42" pos="word" morph="none" start_char="2993" end_char="2998">olduğu</TOKEN>
+<TOKEN id="token-11-43" pos="word" morph="none" start_char="3000" end_char="3007">söylenen</TOKEN>
+<TOKEN id="token-11-44" pos="word" morph="none" start_char="3009" end_char="3013">burnu</TOKEN>
+<TOKEN id="token-11-45" pos="word" morph="none" start_char="3015" end_char="3020">yerine</TOKEN>
+<TOKEN id="token-11-46" pos="punct" morph="none" start_char="3021" end_char="3021">,</TOKEN>
+<TOKEN id="token-11-47" pos="word" morph="none" start_char="3023" end_char="3028">yandan</TOKEN>
+<TOKEN id="token-11-48" pos="word" morph="none" start_char="3030" end_char="3036">çarpmış</TOKEN>
+<TOKEN id="token-11-49" pos="word" morph="none" start_char="3038" end_char="3039">ve</TOKEN>
+<TOKEN id="token-11-50" pos="word" morph="none" start_char="3041" end_char="3044">daha</TOKEN>
+<TOKEN id="token-11-51" pos="word" morph="none" start_char="3046" end_char="3050">fazla</TOKEN>
+<TOKEN id="token-11-52" pos="word" morph="none" start_char="3052" end_char="3056">hasar</TOKEN>
+<TOKEN id="token-11-53" pos="word" morph="none" start_char="3058" end_char="3065">almıştır</TOKEN>
+<TOKEN id="token-11-54" pos="punct" morph="none" start_char="3066" end_char="3066">.</TOKEN>
+<TOKEN id="token-11-55" pos="word" morph="none" start_char="3067" end_char="3073">Titanic</TOKEN>
+<TOKEN id="token-11-56" pos="word" morph="none" start_char="3075" end_char="3078">inşa</TOKEN>
+<TOKEN id="token-11-57" pos="word" morph="none" start_char="3080" end_char="3088">edilirken</TOKEN>
+<TOKEN id="token-11-58" pos="number" morph="none" start_char="3090" end_char="3091">16</TOKEN>
+<TOKEN id="token-11-59" pos="word" morph="none" start_char="3093" end_char="3094">su</TOKEN>
+<TOKEN id="token-11-60" pos="word" morph="none" start_char="3096" end_char="3103">geçirmez</TOKEN>
+<TOKEN id="token-11-61" pos="word" morph="none" start_char="3105" end_char="3112">bölmeyle</TOKEN>
+<TOKEN id="token-11-62" pos="word" morph="none" start_char="3114" end_char="3121">korunmuş</TOKEN>
+<TOKEN id="token-11-63" pos="word" morph="none" start_char="3123" end_char="3124">ve</TOKEN>
+<TOKEN id="token-11-64" pos="word" morph="none" start_char="3126" end_char="3127">bu</TOKEN>
+<TOKEN id="token-11-65" pos="word" morph="none" start_char="3129" end_char="3139">bölmelerden</TOKEN>
+<TOKEN id="token-11-66" pos="word" morph="none" start_char="3141" end_char="3143">4ʼü</TOKEN>
+<TOKEN id="token-11-67" pos="word" morph="none" start_char="3145" end_char="3149">suyla</TOKEN>
+<TOKEN id="token-11-68" pos="word" morph="none" start_char="3151" end_char="3155">dolsa</TOKEN>
+<TOKEN id="token-11-69" pos="word" morph="none" start_char="3157" end_char="3160">bile</TOKEN>
+<TOKEN id="token-11-70" pos="word" morph="none" start_char="3162" end_char="3171">batmayacak</TOKEN>
+<TOKEN id="token-11-71" pos="word" morph="none" start_char="3173" end_char="3179">şekilde</TOKEN>
+<TOKEN id="token-11-72" pos="word" morph="none" start_char="3181" end_char="3193">tasarlanmıştı</TOKEN>
+<TOKEN id="token-11-73" pos="punct" morph="none" start_char="3194" end_char="3194">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="3196" end_char="3288">
+<ORIGINAL_TEXT>Ancak buzdağının çarpmasıyla tam 6 bölme hasar görmüş ve gemi hızla suyla dolmaya başlamıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="3196" end_char="3200">Ancak</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="3202" end_char="3211">buzdağının</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="3213" end_char="3223">çarpmasıyla</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="3225" end_char="3227">tam</TOKEN>
+<TOKEN id="token-12-4" pos="number" morph="none" start_char="3229" end_char="3229">6</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="3231" end_char="3235">bölme</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="3237" end_char="3241">hasar</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="3243" end_char="3248">görmüş</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="3250" end_char="3251">ve</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="3253" end_char="3256">gemi</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="3258" end_char="3262">hızla</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="3264" end_char="3268">suyla</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="3270" end_char="3276">dolmaya</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="3278" end_char="3287">başlamıştı</TOKEN>
+<TOKEN id="token-12-14" pos="punct" morph="none" start_char="3288" end_char="3288">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="3290" end_char="3372">
+<ORIGINAL_TEXT>Sadece dakikalar içerisinde geminin içerisindeki su 2.5 metre yüksekliğe ulaşmıştı.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="3290" end_char="3295">Sadece</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="3297" end_char="3305">dakikalar</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="3307" end_char="3316">içerisinde</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="3318" end_char="3324">geminin</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="3326" end_char="3337">içerisindeki</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="3339" end_char="3340">su</TOKEN>
+<TOKEN id="token-13-6" pos="number" morph="none" start_char="3342" end_char="3344">2.5</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="3346" end_char="3350">metre</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="3352" end_char="3361">yüksekliğe</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="3363" end_char="3371">ulaşmıştı</TOKEN>
+<TOKEN id="token-13-10" pos="punct" morph="none" start_char="3372" end_char="3372">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="3374" end_char="3457">
+<ORIGINAL_TEXT>12.27ʼde 65 kişi kapasitesi olan ilk kurtarma botu sadece 28 kişiyle suya indirildi.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="3374" end_char="3375">12</TOKEN>
+<TOKEN id="token-14-1" pos="punct" morph="none" start_char="3376" end_char="3376">.</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="3377" end_char="3381">27ʼde</TOKEN>
+<TOKEN id="token-14-3" pos="number" morph="none" start_char="3383" end_char="3384">65</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="3386" end_char="3389">kişi</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="3391" end_char="3400">kapasitesi</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="3402" end_char="3405">olan</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="3407" end_char="3409">ilk</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="3411" end_char="3418">kurtarma</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="3420" end_char="3423">botu</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="3425" end_char="3430">sadece</TOKEN>
+<TOKEN id="token-14-11" pos="number" morph="none" start_char="3432" end_char="3433">28</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="3435" end_char="3441">kişiyle</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="3443" end_char="3446">suya</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="3448" end_char="3456">indirildi</TOKEN>
+<TOKEN id="token-14-15" pos="punct" morph="none" start_char="3457" end_char="3457">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="3459" end_char="3541">
+<ORIGINAL_TEXT>Titanicʼte toplam 1.178 kişiyi taşıma kapasitesinde 20 kurtarma botu bulunmaktaydı.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="3459" end_char="3468">Titanicʼte</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="3470" end_char="3475">toplam</TOKEN>
+<TOKEN id="token-15-2" pos="number" morph="none" start_char="3477" end_char="3481">1.178</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="3483" end_char="3488">kişiyi</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="3490" end_char="3495">taşıma</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="3497" end_char="3509">kapasitesinde</TOKEN>
+<TOKEN id="token-15-6" pos="number" morph="none" start_char="3511" end_char="3512">20</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="3514" end_char="3521">kurtarma</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="3523" end_char="3526">botu</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="3528" end_char="3540">bulunmaktaydı</TOKEN>
+<TOKEN id="token-15-10" pos="punct" morph="none" start_char="3541" end_char="3541">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="3543" end_char="3685">
+<ORIGINAL_TEXT>Telsiz operatörleri sürekli yardım çağrıları gönderiyorlardı, ancak Titanicʼe en yakın gemi olan Carpathiaʼnın enkaza varması 4 saat sürecekti.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="3543" end_char="3548">Telsiz</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="3550" end_char="3561">operatörleri</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="3563" end_char="3569">sürekli</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="3571" end_char="3576">yardım</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="3578" end_char="3586">çağrıları</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="3588" end_char="3602">gönderiyorlardı</TOKEN>
+<TOKEN id="token-16-6" pos="punct" morph="none" start_char="3603" end_char="3603">,</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="3605" end_char="3609">ancak</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="3611" end_char="3619">Titanicʼe</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="3621" end_char="3622">en</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="3624" end_char="3628">yakın</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="3630" end_char="3633">gemi</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="3635" end_char="3638">olan</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="3640" end_char="3652">Carpathiaʼnın</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="3654" end_char="3659">enkaza</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="3661" end_char="3667">varması</TOKEN>
+<TOKEN id="token-16-16" pos="number" morph="none" start_char="3669" end_char="3669">4</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="3671" end_char="3674">saat</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="3676" end_char="3684">sürecekti</TOKEN>
+<TOKEN id="token-16-19" pos="punct" morph="none" start_char="3685" end_char="3685">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="3687" end_char="3827">
+<ORIGINAL_TEXT>Köprüden, başka bir geminin ışıkları görülse de, bu esrarengiz gemi Titanicʼle hiçbir şekilde iletişime geçmemiş, çağrılara yanıt vermemişti.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="3687" end_char="3694">Köprüden</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="3695" end_char="3695">,</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="3697" end_char="3701">başka</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="3703" end_char="3705">bir</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="3707" end_char="3713">geminin</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="3715" end_char="3722">ışıkları</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="3724" end_char="3730">görülse</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="3732" end_char="3733">de</TOKEN>
+<TOKEN id="token-17-8" pos="punct" morph="none" start_char="3734" end_char="3734">,</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="3736" end_char="3737">bu</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="3739" end_char="3748">esrarengiz</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="3750" end_char="3753">gemi</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="3755" end_char="3764">Titanicʼle</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="3766" end_char="3771">hiçbir</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="3773" end_char="3779">şekilde</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="3781" end_char="3789">iletişime</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="3791" end_char="3798">geçmemiş</TOKEN>
+<TOKEN id="token-17-17" pos="punct" morph="none" start_char="3799" end_char="3799">,</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="3801" end_char="3809">çağrılara</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="3811" end_char="3815">yanıt</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="3817" end_char="3826">vermemişti</TOKEN>
+<TOKEN id="token-17-21" pos="punct" morph="none" start_char="3827" end_char="3827">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="3829" end_char="3883">
+<ORIGINAL_TEXT>Saat 2.05ʼte geminin burnu tamamen sular içerisindeydi.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="3829" end_char="3832">Saat</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="3834" end_char="3834">2</TOKEN>
+<TOKEN id="token-18-2" pos="punct" morph="none" start_char="3835" end_char="3835">.</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="3836" end_char="3840">05ʼte</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="3842" end_char="3848">geminin</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="3850" end_char="3854">burnu</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="3856" end_char="3862">tamamen</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="3864" end_char="3868">sular</TOKEN>
+<TOKEN id="token-18-8" pos="word" morph="none" start_char="3870" end_char="3882">içerisindeydi</TOKEN>
+<TOKEN id="token-18-9" pos="punct" morph="none" start_char="3883" end_char="3883">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="3885" end_char="3933">
+<ORIGINAL_TEXT>2.17ʼde suların yüksekliği güverteye kadar geldi.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="3885" end_char="3885">2</TOKEN>
+<TOKEN id="token-19-1" pos="punct" morph="none" start_char="3886" end_char="3886">.</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="3887" end_char="3891">17ʼde</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="3893" end_char="3899">suların</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="3901" end_char="3910">yüksekliği</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="3912" end_char="3920">güverteye</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="3922" end_char="3926">kadar</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="3928" end_char="3932">geldi</TOKEN>
+<TOKEN id="token-19-8" pos="punct" morph="none" start_char="3933" end_char="3933">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="3935" end_char="4025">
+<ORIGINAL_TEXT>Geminin yapımında kullanılan malzemenin esneme özelliği olmaması, korkunç sonu hızlandırdı.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="3935" end_char="3941">Geminin</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="3943" end_char="3951">yapımında</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="3953" end_char="3962">kullanılan</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="3964" end_char="3973">malzemenin</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="3975" end_char="3980">esneme</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="3982" end_char="3989">özelliği</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="3991" end_char="3998">olmaması</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="3999" end_char="3999">,</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="4001" end_char="4007">korkunç</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="4009" end_char="4012">sonu</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="4014" end_char="4024">hızlandırdı</TOKEN>
+<TOKEN id="token-20-11" pos="punct" morph="none" start_char="4025" end_char="4025">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="4027" end_char="4093">
+<ORIGINAL_TEXT>Gövde içeri dolan sulara dayanamadı ve tam anlamıyla ikiye ayrıldı.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="4027" end_char="4031">Gövde</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="4033" end_char="4037">içeri</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="4039" end_char="4043">dolan</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="4045" end_char="4050">sulara</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="4052" end_char="4061">dayanamadı</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="4063" end_char="4064">ve</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="4066" end_char="4068">tam</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="4070" end_char="4078">anlamıyla</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="4080" end_char="4084">ikiye</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="4086" end_char="4092">ayrıldı</TOKEN>
+<TOKEN id="token-21-10" pos="punct" morph="none" start_char="4093" end_char="4093">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="4095" end_char="4111">
+<ORIGINAL_TEXT>Önce burun battı.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="4095" end_char="4098">Önce</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="4100" end_char="4104">burun</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="4106" end_char="4110">battı</TOKEN>
+<TOKEN id="token-22-3" pos="punct" morph="none" start_char="4111" end_char="4111">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="4113" end_char="4173">
+<ORIGINAL_TEXT>Birkaç dakika sonra da kıç kısmı saat 2.20ʼde sulara gömüldü.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="4113" end_char="4118">Birkaç</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="4120" end_char="4125">dakika</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="4127" end_char="4131">sonra</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="4133" end_char="4134">da</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="4136" end_char="4138">kıç</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="4140" end_char="4144">kısmı</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="4146" end_char="4149">saat</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="4151" end_char="4151">2</TOKEN>
+<TOKEN id="token-23-8" pos="punct" morph="none" start_char="4152" end_char="4152">.</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="4153" end_char="4157">20ʼde</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="4159" end_char="4164">sulara</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="4166" end_char="4172">gömüldü</TOKEN>
+<TOKEN id="token-23-12" pos="punct" morph="none" start_char="4173" end_char="4173">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="4175" end_char="4391">
+<ORIGINAL_TEXT>Büyük bir dehşetin yaşandığı yaklaşık 2.5 saatlik sürenin sonunda..Tarihin en büyük deniz kazalarından biri çok ağır bir bilançoyla ortaya çıktı...2.223 kişiden sadece 706ʼsı kurtulmuş, 1.516 kişi yaşamını yitirmişti.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="4175" end_char="4179">Büyük</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="4181" end_char="4183">bir</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="4185" end_char="4192">dehşetin</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="4194" end_char="4202">yaşandığı</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="4204" end_char="4211">yaklaşık</TOKEN>
+<TOKEN id="token-24-5" pos="number" morph="none" start_char="4213" end_char="4215">2.5</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="4217" end_char="4223">saatlik</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="4225" end_char="4231">sürenin</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="4233" end_char="4239">sonunda</TOKEN>
+<TOKEN id="token-24-9" pos="punct" morph="none" start_char="4240" end_char="4241">..</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="4242" end_char="4248">Tarihin</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="4250" end_char="4251">en</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="4253" end_char="4257">büyük</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="4259" end_char="4263">deniz</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="4265" end_char="4276">kazalarından</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="4278" end_char="4281">biri</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="4283" end_char="4285">çok</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="4287" end_char="4290">ağır</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="4292" end_char="4294">bir</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="4296" end_char="4305">bilançoyla</TOKEN>
+<TOKEN id="token-24-20" pos="word" morph="none" start_char="4307" end_char="4312">ortaya</TOKEN>
+<TOKEN id="token-24-21" pos="unknown" morph="none" start_char="4314" end_char="4326">çıktı...2.223</TOKEN>
+<TOKEN id="token-24-22" pos="word" morph="none" start_char="4328" end_char="4334">kişiden</TOKEN>
+<TOKEN id="token-24-23" pos="word" morph="none" start_char="4336" end_char="4341">sadece</TOKEN>
+<TOKEN id="token-24-24" pos="word" morph="none" start_char="4343" end_char="4348">706ʼsı</TOKEN>
+<TOKEN id="token-24-25" pos="word" morph="none" start_char="4350" end_char="4358">kurtulmuş</TOKEN>
+<TOKEN id="token-24-26" pos="punct" morph="none" start_char="4359" end_char="4359">,</TOKEN>
+<TOKEN id="token-24-27" pos="number" morph="none" start_char="4361" end_char="4365">1.516</TOKEN>
+<TOKEN id="token-24-28" pos="word" morph="none" start_char="4367" end_char="4370">kişi</TOKEN>
+<TOKEN id="token-24-29" pos="word" morph="none" start_char="4372" end_char="4379">yaşamını</TOKEN>
+<TOKEN id="token-24-30" pos="word" morph="none" start_char="4381" end_char="4390">yitirmişti</TOKEN>
+<TOKEN id="token-24-31" pos="punct" morph="none" start_char="4391" end_char="4391">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="4393" end_char="4584">
+<ORIGINAL_TEXT>Ölenlerin çoğu, -2 derecedeki deniz suyunda hipotermiye girmiş ve yaşamını yitirmişti.Titanicʼin batması denizciliği, deniz seyahatlerine yaklaşımı ve gemi tasarımlarını çok derinden etkiledi.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="4393" end_char="4401">Ölenlerin</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="4403" end_char="4406">çoğu</TOKEN>
+<TOKEN id="token-25-2" pos="punct" morph="none" start_char="4407" end_char="4407">,</TOKEN>
+<TOKEN id="token-25-3" pos="punct" morph="none" start_char="4409" end_char="4409">-</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="4410" end_char="4410">2</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="4412" end_char="4421">derecedeki</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="4423" end_char="4427">deniz</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="4429" end_char="4435">suyunda</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="4437" end_char="4447">hipotermiye</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="4449" end_char="4454">girmiş</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="4456" end_char="4457">ve</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="4459" end_char="4466">yaşamını</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="4468" end_char="4477">yitirmişti</TOKEN>
+<TOKEN id="token-25-13" pos="punct" morph="none" start_char="4478" end_char="4478">.</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="4479" end_char="4488">Titanicʼin</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="4490" end_char="4496">batması</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="4498" end_char="4508">denizciliği</TOKEN>
+<TOKEN id="token-25-17" pos="punct" morph="none" start_char="4509" end_char="4509">,</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="4511" end_char="4515">deniz</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="4517" end_char="4529">seyahatlerine</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="4531" end_char="4539">yaklaşımı</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="4541" end_char="4542">ve</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="4544" end_char="4547">gemi</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="4549" end_char="4561">tasarımlarını</TOKEN>
+<TOKEN id="token-25-24" pos="word" morph="none" start_char="4563" end_char="4565">çok</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="4567" end_char="4574">derinden</TOKEN>
+<TOKEN id="token-25-26" pos="word" morph="none" start_char="4576" end_char="4583">etkiledi</TOKEN>
+<TOKEN id="token-25-27" pos="punct" morph="none" start_char="4584" end_char="4584">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="4586" end_char="4647">
+<ORIGINAL_TEXT>1 Eylül 1985ʼe kadar yeri keşfedilemeyen enkaz, bu tarihte Dr.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="number" morph="none" start_char="4586" end_char="4586">1</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="4588" end_char="4592">Eylül</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="4594" end_char="4599">1985ʼe</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="4601" end_char="4605">kadar</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="4607" end_char="4610">yeri</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="4612" end_char="4625">keşfedilemeyen</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="4627" end_char="4631">enkaz</TOKEN>
+<TOKEN id="token-26-7" pos="punct" morph="none" start_char="4632" end_char="4632">,</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="4634" end_char="4635">bu</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="4637" end_char="4643">tarihte</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="4645" end_char="4646">Dr</TOKEN>
+<TOKEN id="token-26-11" pos="punct" morph="none" start_char="4647" end_char="4647">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="4649" end_char="4751">
+<ORIGINAL_TEXT>Robert Ballard liderliğindeki bir ekipçe bulundu ve tüm dünya Titanik faciasını bir kez daha hatırladı.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="4649" end_char="4654">Robert</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="4656" end_char="4662">Ballard</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="4664" end_char="4677">liderliğindeki</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="4679" end_char="4681">bir</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="4683" end_char="4688">ekipçe</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="4690" end_char="4696">bulundu</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="4698" end_char="4699">ve</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="4701" end_char="4703">tüm</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="4705" end_char="4709">dünya</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="4711" end_char="4717">Titanik</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="4719" end_char="4727">faciasını</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="4729" end_char="4731">bir</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="4733" end_char="4735">kez</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="4737" end_char="4740">daha</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="4742" end_char="4750">hatırladı</TOKEN>
+<TOKEN id="token-27-15" pos="punct" morph="none" start_char="4751" end_char="4751">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="4754" end_char="4776">
+<ORIGINAL_TEXT>Bir efsanenin sönüşü :(</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="4754" end_char="4756">Bir</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="4758" end_char="4766">efsanenin</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="4768" end_char="4773">sönüşü</TOKEN>
+<TOKEN id="token-28-3" pos="unknown" morph="none" start_char="4775" end_char="4776">:(</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="4779" end_char="4785">
+<ORIGINAL_TEXT>acı son</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="4779" end_char="4781">acı</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="4783" end_char="4785">son</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="4788" end_char="4803">
+<ORIGINAL_TEXT>tüyler ürpertici</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="4788" end_char="4793">tüyler</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="4795" end_char="4803">ürpertici</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="4806" end_char="4953">
+<ORIGINAL_TEXT>titaniğin batmasının sebebi tam olarak buz dağına çarpması değil bence çünkü biletlerin üzerinde 'TANRININ BİLE BATIRAMAYACAĞI GEMİ' diye satılmış .</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="4806" end_char="4814">titaniğin</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="4816" end_char="4825">batmasının</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="4827" end_char="4832">sebebi</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="4834" end_char="4836">tam</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="4838" end_char="4843">olarak</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="4845" end_char="4847">buz</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="4849" end_char="4854">dağına</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="4856" end_char="4863">çarpması</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="4865" end_char="4869">değil</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="4871" end_char="4875">bence</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="4877" end_char="4881">çünkü</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="4883" end_char="4892">biletlerin</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="4894" end_char="4901">üzerinde</TOKEN>
+<TOKEN id="token-31-13" pos="punct" morph="none" start_char="4903" end_char="4903">'</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="4904" end_char="4911">TANRININ</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="4913" end_char="4916">BİLE</TOKEN>
+<TOKEN id="token-31-16" pos="word" morph="none" start_char="4918" end_char="4931">BATIRAMAYACAĞI</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="4933" end_char="4936">GEMİ</TOKEN>
+<TOKEN id="token-31-18" pos="punct" morph="none" start_char="4937" end_char="4937">'</TOKEN>
+<TOKEN id="token-31-19" pos="word" morph="none" start_char="4939" end_char="4942">diye</TOKEN>
+<TOKEN id="token-31-20" pos="word" morph="none" start_char="4944" end_char="4951">satılmış</TOKEN>
+<TOKEN id="token-31-21" pos="unknown" morph="none" start_char="4953" end_char="4953">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="4956" end_char="4965">
+<ORIGINAL_TEXT>Aynen öle.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="4956" end_char="4960">Aynen</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="4962" end_char="4964">öle</TOKEN>
+<TOKEN id="token-32-2" pos="punct" morph="none" start_char="4965" end_char="4965">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="4968" end_char="5100">
+<ORIGINAL_TEXT>Gerçektende hazin bir son ama benim düşüncem orda onların carptıgı şey buz dağı değil bu gemiyi tanrı bile batıramaz dedikleri sözdü.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="4968" end_char="4978">Gerçektende</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="4980" end_char="4984">hazin</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="4986" end_char="4988">bir</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="4990" end_char="4992">son</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="4994" end_char="4996">ama</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="4998" end_char="5002">benim</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="5004" end_char="5011">düşüncem</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="5013" end_char="5016">orda</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="5018" end_char="5024">onların</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="5026" end_char="5033">carptıgı</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="5035" end_char="5037">şey</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="5039" end_char="5041">buz</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="5043" end_char="5046">dağı</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="5048" end_char="5052">değil</TOKEN>
+<TOKEN id="token-33-14" pos="word" morph="none" start_char="5054" end_char="5055">bu</TOKEN>
+<TOKEN id="token-33-15" pos="word" morph="none" start_char="5057" end_char="5062">gemiyi</TOKEN>
+<TOKEN id="token-33-16" pos="word" morph="none" start_char="5064" end_char="5068">tanrı</TOKEN>
+<TOKEN id="token-33-17" pos="word" morph="none" start_char="5070" end_char="5073">bile</TOKEN>
+<TOKEN id="token-33-18" pos="word" morph="none" start_char="5075" end_char="5083">batıramaz</TOKEN>
+<TOKEN id="token-33-19" pos="word" morph="none" start_char="5085" end_char="5093">dedikleri</TOKEN>
+<TOKEN id="token-33-20" pos="word" morph="none" start_char="5095" end_char="5099">sözdü</TOKEN>
+<TOKEN id="token-33-21" pos="punct" morph="none" start_char="5100" end_char="5100">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="5103" end_char="5123">
+<ORIGINAL_TEXT>Kendileri kaşındılar.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="5103" end_char="5111">Kendileri</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="5113" end_char="5122">kaşındılar</TOKEN>
+<TOKEN id="token-34-2" pos="punct" morph="none" start_char="5123" end_char="5123">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="5125" end_char="5243">
+<ORIGINAL_TEXT>Kurʼanda birçok ayette Rabbimiz 'denizi sizin emrinize veren Oʼdur gemilerin suyu yararak gittiklerini görürsün' diyor.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="5125" end_char="5132">Kurʼanda</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="5134" end_char="5139">birçok</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="5141" end_char="5146">ayette</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="5148" end_char="5155">Rabbimiz</TOKEN>
+<TOKEN id="token-35-4" pos="punct" morph="none" start_char="5157" end_char="5157">'</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="5158" end_char="5163">denizi</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="5165" end_char="5169">sizin</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="5171" end_char="5178">emrinize</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="5180" end_char="5184">veren</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="5186" end_char="5190">Oʼdur</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="5192" end_char="5200">gemilerin</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="5202" end_char="5205">suyu</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="5207" end_char="5213">yararak</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="5215" end_char="5226">gittiklerini</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="5228" end_char="5235">görürsün</TOKEN>
+<TOKEN id="token-35-15" pos="punct" morph="none" start_char="5236" end_char="5236">'</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="5238" end_char="5242">diyor</TOKEN>
+<TOKEN id="token-35-17" pos="punct" morph="none" start_char="5243" end_char="5243">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="5245" end_char="5309">
+<ORIGINAL_TEXT>Bu gemilerin suda serbestçe gitmesi bize Rabbimizin bir lütfudur.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="5245" end_char="5246">Bu</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="5248" end_char="5256">gemilerin</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="5258" end_char="5261">suda</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="5263" end_char="5271">serbestçe</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="5273" end_char="5279">gitmesi</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="5281" end_char="5284">bize</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="5286" end_char="5295">Rabbimizin</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="5297" end_char="5299">bir</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="5301" end_char="5308">lütfudur</TOKEN>
+<TOKEN id="token-36-9" pos="punct" morph="none" start_char="5309" end_char="5309">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="5311" end_char="5399">
+<ORIGINAL_TEXT>Fakat bu Allahʼa ortak koşan hristiyanlar birde 'Tanrı bile bu gemiyi batıramaz' dediler.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="5311" end_char="5315">Fakat</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="5317" end_char="5318">bu</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="5320" end_char="5326">Allahʼa</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="5328" end_char="5332">ortak</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="5334" end_char="5338">koşan</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="5340" end_char="5351">hristiyanlar</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="5353" end_char="5357">birde</TOKEN>
+<TOKEN id="token-37-7" pos="punct" morph="none" start_char="5359" end_char="5359">'</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="5360" end_char="5364">Tanrı</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="5366" end_char="5369">bile</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="5371" end_char="5372">bu</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="5374" end_char="5379">gemiyi</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="5381" end_char="5389">batıramaz</TOKEN>
+<TOKEN id="token-37-13" pos="punct" morph="none" start_char="5390" end_char="5390">'</TOKEN>
+<TOKEN id="token-37-14" pos="word" morph="none" start_char="5392" end_char="5398">dediler</TOKEN>
+<TOKEN id="token-37-15" pos="punct" morph="none" start_char="5399" end_char="5399">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="5401" end_char="5421">
+<ORIGINAL_TEXT>Buzdağı olayı hikaye.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="5401" end_char="5407">Buzdağı</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="5409" end_char="5413">olayı</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="5415" end_char="5420">hikaye</TOKEN>
+<TOKEN id="token-38-3" pos="punct" morph="none" start_char="5421" end_char="5421">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="5423" end_char="5455">
+<ORIGINAL_TEXT>Buzdağı burda sadece bir araçtır.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="5423" end_char="5429">Buzdağı</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="5431" end_char="5435">burda</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="5437" end_char="5442">sadece</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="5444" end_char="5446">bir</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="5448" end_char="5454">araçtır</TOKEN>
+<TOKEN id="token-39-5" pos="punct" morph="none" start_char="5455" end_char="5455">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="5457" end_char="5516">
+<ORIGINAL_TEXT>Yani dilese Allah başka bir araçla bu gemiyi yine batırırdı.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="5457" end_char="5460">Yani</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="5462" end_char="5467">dilese</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="5469" end_char="5473">Allah</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="5475" end_char="5479">başka</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="5481" end_char="5483">bir</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="5485" end_char="5490">araçla</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="5492" end_char="5493">bu</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="5495" end_char="5500">gemiyi</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="5502" end_char="5505">yine</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="5507" end_char="5515">batırırdı</TOKEN>
+<TOKEN id="token-40-10" pos="punct" morph="none" start_char="5516" end_char="5516">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="5518" end_char="5751">
+<ORIGINAL_TEXT>Hem zaten battığı nokta yan tarafı ve su geçirmez bölmeleri vede çeliğinin esnekliğinin işe yaraması durumunda yine batmaması gerekirdi fakat gemide çarpmayla oluşan delikler mors kodu gibi nokta noktaydı belli bir yerde değildi yani.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="5518" end_char="5520">Hem</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="5522" end_char="5526">zaten</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="5528" end_char="5534">battığı</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="5536" end_char="5540">nokta</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="5542" end_char="5544">yan</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="5546" end_char="5551">tarafı</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="5553" end_char="5554">ve</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="5556" end_char="5557">su</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="5559" end_char="5566">geçirmez</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="5568" end_char="5576">bölmeleri</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="5578" end_char="5581">vede</TOKEN>
+<TOKEN id="token-41-11" pos="word" morph="none" start_char="5583" end_char="5591">çeliğinin</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="5593" end_char="5604">esnekliğinin</TOKEN>
+<TOKEN id="token-41-13" pos="word" morph="none" start_char="5606" end_char="5608">işe</TOKEN>
+<TOKEN id="token-41-14" pos="word" morph="none" start_char="5610" end_char="5617">yaraması</TOKEN>
+<TOKEN id="token-41-15" pos="word" morph="none" start_char="5619" end_char="5627">durumunda</TOKEN>
+<TOKEN id="token-41-16" pos="word" morph="none" start_char="5629" end_char="5632">yine</TOKEN>
+<TOKEN id="token-41-17" pos="word" morph="none" start_char="5634" end_char="5642">batmaması</TOKEN>
+<TOKEN id="token-41-18" pos="word" morph="none" start_char="5644" end_char="5652">gerekirdi</TOKEN>
+<TOKEN id="token-41-19" pos="word" morph="none" start_char="5654" end_char="5658">fakat</TOKEN>
+<TOKEN id="token-41-20" pos="word" morph="none" start_char="5660" end_char="5665">gemide</TOKEN>
+<TOKEN id="token-41-21" pos="word" morph="none" start_char="5667" end_char="5675">çarpmayla</TOKEN>
+<TOKEN id="token-41-22" pos="word" morph="none" start_char="5677" end_char="5682">oluşan</TOKEN>
+<TOKEN id="token-41-23" pos="word" morph="none" start_char="5684" end_char="5691">delikler</TOKEN>
+<TOKEN id="token-41-24" pos="word" morph="none" start_char="5693" end_char="5696">mors</TOKEN>
+<TOKEN id="token-41-25" pos="word" morph="none" start_char="5698" end_char="5701">kodu</TOKEN>
+<TOKEN id="token-41-26" pos="word" morph="none" start_char="5703" end_char="5706">gibi</TOKEN>
+<TOKEN id="token-41-27" pos="word" morph="none" start_char="5708" end_char="5712">nokta</TOKEN>
+<TOKEN id="token-41-28" pos="word" morph="none" start_char="5714" end_char="5721">noktaydı</TOKEN>
+<TOKEN id="token-41-29" pos="word" morph="none" start_char="5723" end_char="5727">belli</TOKEN>
+<TOKEN id="token-41-30" pos="word" morph="none" start_char="5729" end_char="5731">bir</TOKEN>
+<TOKEN id="token-41-31" pos="word" morph="none" start_char="5733" end_char="5737">yerde</TOKEN>
+<TOKEN id="token-41-32" pos="word" morph="none" start_char="5739" end_char="5745">değildi</TOKEN>
+<TOKEN id="token-41-33" pos="word" morph="none" start_char="5747" end_char="5750">yani</TOKEN>
+<TOKEN id="token-41-34" pos="punct" morph="none" start_char="5751" end_char="5751">.</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="5753" end_char="5824">
+<ORIGINAL_TEXT>Öyle yada böyle birçoğu godomanlardan oluşan zenginler, siyasetçiler vb.</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="5753" end_char="5756">Öyle</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="5758" end_char="5761">yada</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="5763" end_char="5767">böyle</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="5769" end_char="5775">birçoğu</TOKEN>
+<TOKEN id="token-42-4" pos="word" morph="none" start_char="5777" end_char="5789">godomanlardan</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="5791" end_char="5796">oluşan</TOKEN>
+<TOKEN id="token-42-6" pos="word" morph="none" start_char="5798" end_char="5806">zenginler</TOKEN>
+<TOKEN id="token-42-7" pos="punct" morph="none" start_char="5807" end_char="5807">,</TOKEN>
+<TOKEN id="token-42-8" pos="word" morph="none" start_char="5809" end_char="5820">siyasetçiler</TOKEN>
+<TOKEN id="token-42-9" pos="word" morph="none" start_char="5822" end_char="5823">vb</TOKEN>
+<TOKEN id="token-42-10" pos="punct" morph="none" start_char="5824" end_char="5824">.</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="5826" end_char="5884">
+<ORIGINAL_TEXT>-2 derecedeki kuzey buz denizinin suyunda yaşamını yitirdi.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="punct" morph="none" start_char="5826" end_char="5826">-</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="5827" end_char="5827">2</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="5829" end_char="5838">derecedeki</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="5840" end_char="5844">kuzey</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="5846" end_char="5848">buz</TOKEN>
+<TOKEN id="token-43-5" pos="word" morph="none" start_char="5850" end_char="5858">denizinin</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="5860" end_char="5866">suyunda</TOKEN>
+<TOKEN id="token-43-7" pos="word" morph="none" start_char="5868" end_char="5875">yaşamını</TOKEN>
+<TOKEN id="token-43-8" pos="word" morph="none" start_char="5877" end_char="5883">yitirdi</TOKEN>
+<TOKEN id="token-43-9" pos="punct" morph="none" start_char="5884" end_char="5884">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

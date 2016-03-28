@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
+<LCTL_ANNOTATIONS lang="UZB">
+  <DOC id="NW_WSJ_ENG_0180_20060331.uzb" lang="UZB">
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE1" task="NE">
+      <EXTENT start_char="0" end_char="14">Kanada hukumati</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE2" task="NE">
+      <EXTENT start_char="16" end_char="28">Lotin Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE3" task="NE">
+      <EXTENT start_char="82" end_char="91">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE4" task="NE">
+      <EXTENT start_char="107" end_char="145">Amerika Davlatlar mintaqaviy Tashkiloti</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE5" task="NE">
+      <EXTENT start_char="202" end_char="207">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE6" task="NE">
+      <EXTENT start_char="218" end_char="221">Bush</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE7" task="NE">
+      <EXTENT start_char="324" end_char="328">Grena</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE8" task="NE">
+      <EXTENT start_char="354" end_char="362">Nikaragua</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE9" task="NE">
+      <EXTENT start_char="366" end_char="371">Kontra</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE10" task="NE">
+      <EXTENT start_char="446" end_char="458">Lotin Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE11" task="NE">
+      <EXTENT start_char="471" end_char="476">Kanada</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE12" task="NE">
+      <EXTENT start_char="493" end_char="495">ADT</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE13" task="NE">
+      <EXTENT start_char="583" end_char="586">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE14" task="NE">
+      <EXTENT start_char="613" end_char="616">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE15" task="NE">
+      <EXTENT start_char="667" end_char="676">Vashington</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE16" task="NE">
+      <EXTENT start_char="765" end_char="768">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE17" task="NE">
+      <EXTENT start_char="784" end_char="789">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE18" task="NE">
+      <EXTENT start_char="850" end_char="860">Alan Gotlib</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE19" task="NE">
+      <EXTENT start_char="893" end_char="898">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE20" task="NE">
+      <EXTENT start_char="908" end_char="915">San Xose</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE21" task="NE">
+      <EXTENT start_char="918" end_char="927">Kosta Rika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE22" task="NE">
+      <EXTENT start_char="938" end_char="948">Bosh Vaziri</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE23" task="NE">
+      <EXTENT start_char="950" end_char="963">Brayan Malruni</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE24" task="NE">
+      <EXTENT start_char="991" end_char="1000">Kosta Rika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE25" task="NE">
+      <EXTENT start_char="1064" end_char="1069">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE26" task="NE">
+      <EXTENT start_char="1132" end_char="1134">j-b</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE27" task="NE">
+      <EXTENT start_char="1136" end_char="1142">Malruni</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE28" task="NE">
+      <EXTENT start_char="1166" end_char="1171">Kanada</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE29" task="NE">
+      <EXTENT start_char="1197" end_char="1202">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE30" task="NE">
+      <EXTENT start_char="1226" end_char="1229">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE31" task="NE">
+      <EXTENT start_char="1318" end_char="1332">Djeffri Simpson</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE32" task="NE">
+      <EXTENT start_char="1335" end_char="1356">Toronto Gloub end Meyl</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE33" task="NE">
+      <EXTENT start_char="1371" end_char="1381">sharhlovchi</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE34" task="NE">
+      <EXTENT start_char="1387" end_char="1392">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE35" task="NE">
+      <EXTENT start_char="1394" end_char="1406">Lotin Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE36" task="NE">
+      <EXTENT start_char="1474" end_char="1476">ADT</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE37" task="NE">
+      <EXTENT start_char="1482" end_char="1485">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE38" task="NE">
+      <EXTENT start_char="1566" end_char="1571">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE39" task="NE">
+      <EXTENT start_char="1580" end_char="1583">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE40" task="NE">
+      <EXTENT start_char="1591" end_char="1593">ADT</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE41" task="NE">
+      <EXTENT start_char="1642" end_char="1644">BMT</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE42" task="NE">
+      <EXTENT start_char="1681" end_char="1683">BMT</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE43" task="NE">
+      <EXTENT start_char="1733" end_char="1738">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE44" task="NE">
+      <EXTENT start_char="1787" end_char="1792">Fransa</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE45" task="NE">
+      <EXTENT start_char="1804" end_char="1807">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE46" task="NE">
+      <EXTENT start_char="1825" end_char="1841">Gʻarbiy Germaniya</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE47" task="NE">
+      <EXTENT start_char="1851" end_char="1859">Britaniya</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE48" task="NE">
+      <EXTENT start_char="1867" end_char="1877">Larri Berns</EXTENT>
+      <TAG>PER</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE49" task="NE">
+      <EXTENT start_char="1880" end_char="1889">Vashington</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE50" task="NE">
+      <EXTENT start_char="1904" end_char="1926">Palla ishlari mahkamasi</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE51" task="NE">
+      <EXTENT start_char="1966" end_char="1971">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE52" task="NE">
+      <EXTENT start_char="2020" end_char="2032">Lotin Amerika</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE53" task="NE">
+      <EXTENT start_char="2208" end_char="2210">ADT</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE54" task="NE">
+      <EXTENT start_char="2281" end_char="2286">Panama</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE55" task="NE">
+      <EXTENT start_char="2340" end_char="2343">Kuba</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE56" task="NE">
+      <EXTENT start_char="2347" end_char="2349">ADT</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE57" task="NE">
+      <EXTENT start_char="2401" end_char="2404">Kuba</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE58" task="NE">
+      <EXTENT start_char="265" end_char="270">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE59" task="NE">
+      <EXTENT start_char="272" end_char="275">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE60" task="NE">
+      <EXTENT start_char="279" end_char="282">Kuba</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE61" task="NE">
+      <EXTENT start_char="618" end_char="623">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE62" task="NE">
+      <EXTENT start_char="869" end_char="872">AQSh</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE63" task="NE">
+      <EXTENT start_char="876" end_char="881">Kanada</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE64" task="NE">
+      <EXTENT start_char="931" end_char="936">Kanada</EXTENT>
+      <TAG>LOC</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE65" task="NE">
+      <EXTENT start_char="1073" end_char="1085">Yarim Pallada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE66" task="NE">
+      <EXTENT start_char="1740" end_char="1743">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE67" task="NE">
+      <EXTENT start_char="1685" end_char="1699">Bosh Assambleya</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE68" task="NE">
+      <EXTENT start_char="1952" end_char="1957">rahbar</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE69" task="NE">
+      <EXTENT start_char="1973" end_char="1975">ADT</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE70" task="NE">
+      <EXTENT start_char="1979" end_char="1982">AQSh</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE71" task="NE">
+      <EXTENT start_char="2109" end_char="2114">Kanada</EXTENT>
+      <TAG>ORG</TAG>
+    </ANNOTATION>
+    <ANNOTATION id="NW_WSJ_ENG_0180_20060331.uzb-NE72" task="NE">
+      <EXTENT start_char="883" end_char="887">elchi</EXTENT>
+      <TAG>TTL</TAG>
+    </ANNOTATION>
+  </DOC>
+</LCTL_ANNOTATIONS>

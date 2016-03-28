@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+  <DOC id="NW_AMI_HAU_006001_20141128_segment-3">
+    <TEXT><SEG id="segment-3" start_char="323" end_char="342">
+<ORIGINAL_TEXT>“Ban taba hakura ba.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="punct" morph="none" start_char="323" end_char="323">“</TOKEN>
+<TOKEN id="token-3-1" pos="PRON" morph="ban:ban=PRON_WSP_1S*NEG" start_char="324" end_char="326">Ban</TOKEN>
+<TOKEN id="token-3-2" pos="NOUN" morph="taba:taba=NOUN" start_char="328" end_char="331">taba</TOKEN>
+<TOKEN id="token-3-3" pos="VERB" morph="hakura:hakura=VERB" start_char="333" end_char="338">hakura</TOKEN>
+<TOKEN id="token-3-4" pos="NEG" morph="ba:ba=NEG" start_char="340" end_char="341">ba</TOKEN>
+<TOKEN id="token-3-5" pos="punct" morph="none" start_char="342" end_char="342">.</TOKEN>
+</SEG>
+</TEXT>
+  </DOC>
+</LCTL_TEXT>
