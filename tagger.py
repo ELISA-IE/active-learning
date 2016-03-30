@@ -76,29 +76,32 @@ def tag_file(ltf, aligner, enc, chunker, modelf, tagged_dir, tagged_ext):
         featsf = cached_ltf_feats_path
 
         # Tag.
-        if os.environ.get('CRFSUITE'):
-            crf_path = os.path.join(os.environ.get('CRFSUITE'), 'crfsuite')
-        else:
-            crf_path = 'crfsuite'
-
+        # print "tmep_dir"+temp_dir
         tagsf = os.path.join(temp_dir, 'tags.txt')
         #probf = os.path.join(temp_dir, 'probs.txt')
-        cmd = [crf_path, 'tag',
+        cmd = ['crfsuite', 'tag',
                '-m', modelf,
                featsf]
         with open(tagsf, 'w') as f:
-            subprocess.call(' '.join(cmd), shell=True, stdout=f);  # option when running in command line
+            if os.environ.get('CRFSUITE'):
+                subprocess.call(' '.join(cmd), shell=True, stdout=f, env={'CRFSUITE': '/usr/local/bin'});
+            else:
+                subprocess.call(' '.join(cmd), shell=True, stdout=f);  # option when running in command line
 
         # Load tagged output.
         # probf = os.getcwd() + '/data/workspace/hun/probs/' + ltf.split('/')[-1] + '.txt'
         probf = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data/workspace/hun/probs',
                              ltf.split('/')[-1] + '.txt')
         # print probf
-        cmd_ = [crf_path, 'tag',
+        cmd_ = ['crfsuite', 'tag',
                '-m', modelf, '-i',
                featsf]
         with open(probf, 'w') as f:
-            subprocess.call(' '.join(cmd_), shell=True, stdout=f);  # option when running in command line
+            # subprocess.call(cmd_, stdout=f)
+            if os.environ.get('CRFSUITE'):
+                subprocess.call(' '.join(cmd_), shell=True, stderr=f, stdout=f, env={'CRFSUITE': '/usr/local/bin'});
+            else:
+                subprocess.call(' '.join(cmd_), shell=True, stdout=f);  # option when running in command line
 
         with open(tagsf, 'r') as f:
             tags = [line.strip() for line in f]
