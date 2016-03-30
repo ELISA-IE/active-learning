@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="320906" end_char="320915">Suba János</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="ORG">
+      <EXTENT start_char="320920" end_char="320954">Pannon GSM kommunikációs igazgatója</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="320964" end_char="320971">, összes</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="320987" end_char="321008">költségvetésük mintegy</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="ORG">
+      <EXTENT start_char="321026" end_char="321035">Sziget Kft</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="321038" end_char="321040">nek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="ORG">
+      <EXTENT start_char="321060" end_char="321075">Sziget Fesztivál</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="314981" end_char="314993">A vállalkozás</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="315010" end_char="315018">az FT 580</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="315027" end_char="315031">eurót</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="315065" end_char="315069">annál</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="315073" end_char="315083">10 milliárd</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="315103" end_char="315122">korábbi megállapodás</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="315132" end_char="315132">a</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
+      <EXTENT start_char="315139" end_char="315148">százalékos</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="ORG">
+      <EXTENT start_char="315163" end_char="315190">lévő Mobilcom fejlesztéseire</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
+      <EXTENT start_char="315200" end_char="315204">volna</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
+      <EXTENT start_char="315215" end_char="315223">a francia</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

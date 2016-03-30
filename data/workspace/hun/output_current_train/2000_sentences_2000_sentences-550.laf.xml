@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="170486" end_char="170491">Kovács</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="170512" end_char="170533">igazgató tájékoztatása</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="170543" end_char="170560">az anyacég a világ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="170566" end_char="170575">országában</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="170582" end_char="170585">mint</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="170595" end_char="170600">üzleti</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="170611" end_char="170617">szolgál</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
+      <EXTENT start_char="170621" end_char="170621">,</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

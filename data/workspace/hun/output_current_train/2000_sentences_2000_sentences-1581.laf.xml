@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="430719" end_char="430742">a tranzakcióból összesen</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="430757" end_char="430775">euró bevételre tett</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="430786" end_char="430793">társaság</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="430801" end_char="430812">tőkéjének 15</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="430836" end_char="430846">részvényből</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="430852" end_char="430861">milliárdos</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

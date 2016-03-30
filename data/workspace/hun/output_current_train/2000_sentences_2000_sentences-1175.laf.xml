@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="329740" end_char="329746">: Közös</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="329761" end_char="329772">a Vivendi és</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="ORG">
+      <EXTENT start_char="329776" end_char="329793">pécsi önkormányzat</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="329845" end_char="329854">Alternatív</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="329871" end_char="329879">a Vivendi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="329946" end_char="329946">a</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="329995" end_char="330003">Versenybe</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

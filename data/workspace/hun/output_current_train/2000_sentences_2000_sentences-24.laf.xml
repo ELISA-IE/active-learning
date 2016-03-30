@@ -1,5 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="9944" end_char="10026">sávszélességgel és augusztus végéig féláron kínált internettel ünnepli a névváltást</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="10030" end_char="10034">Matáv</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="10036" end_char="10042">csoport</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="10069" end_char="10074">Magyar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="10091" end_char="10103">50 százalékos</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="10119" end_char="10147">a cég szolgáltatási területén</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="10156" end_char="10165">valamennyi</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
+      <EXTENT start_char="10187" end_char="10196">beépítette</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
+      <EXTENT start_char="10202" end_char="10202">-</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
+      <EXTENT start_char="10225" end_char="10261">a legolcsóbb előfizetések ára kétéves</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
+      <EXTENT start_char="10283" end_char="10298">alig haladja meg</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
+      <EXTENT start_char="10302" end_char="10312">havi 3 ezer</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
+      <EXTENT start_char="10324" end_char="10326">egy</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE14" task="NE" type="PER">
+      <EXTENT start_char="10333" end_char="10344">szerződéssel</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE15" task="NE" type="PER">
+      <EXTENT start_char="10352" end_char="10357">4 ezer</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE16" task="NE" type="PER">
+      <EXTENT start_char="10378" end_char="10378">.</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

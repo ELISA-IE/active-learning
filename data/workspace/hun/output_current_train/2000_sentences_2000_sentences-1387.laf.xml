@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="381898" end_char="381934">immár bankkártyával is kiegyenlíthető</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="ORG">
+      <EXTENT start_char="381938" end_char="381948">Westel WLAN</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="381971" end_char="381971">.</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="381976" end_char="381978">azt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="ORG">
+      <EXTENT start_char="381996" end_char="382015">Westel ügyfelein túl</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="382025" end_char="382025">,</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="382045" end_char="382061">hitelkártyával és</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="ORG">
+      <EXTENT start_char="382073" end_char="382086">WLAN eszközzel</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
+      <EXTENT start_char="382115" end_char="382127">a szupergyors</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
+      <EXTENT start_char="382130" end_char="382136">vezeték</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

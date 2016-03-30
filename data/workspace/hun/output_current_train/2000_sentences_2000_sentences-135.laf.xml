@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="49573" end_char="49576">Kéry</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="ORG">
+      <EXTENT start_char="49588" end_char="49612">Magyar Kábelkommunikációs</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="49624" end_char="49632">elnökének</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="49656" end_char="49712">az informatikai tárca kistelepülések széles sávú internet</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="49728" end_char="49757">való ellátottságának növelését</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="49768" end_char="49777">pályázatát</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="49788" end_char="49806">a kábelszolgáltatók</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
+      <EXTENT start_char="49812" end_char="49845">a felhívás nem mindenben felel meg</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
+      <EXTENT start_char="49849" end_char="49853">cégek</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

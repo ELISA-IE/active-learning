@@ -1,5 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="344037" end_char="344041">Egyes</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="344061" end_char="344070">ma már nem</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="344074" end_char="344078">drága</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="ORG">
+      <EXTENT start_char="344101" end_char="344132">weben elérhető szolgáltatások és</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="ORG">
+      <EXTENT start_char="344144" end_char="344160">hiánya magyarázza</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="344162" end_char="344187">az internet alacsony hazai</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="ORG">
+      <EXTENT start_char="344207" end_char="344224">GKI Gazdaságkutató</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="ORG">
+      <EXTENT start_char="344233" end_char="344241">Westel és</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="ORG">
+      <EXTENT start_char="344245" end_char="344260">Sun Microsystems</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="ORG">
+      <EXTENT start_char="344262" end_char="344266">közös</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
+      <EXTENT start_char="344286" end_char="344313">az internetes szolgáltatások</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
+      <EXTENT start_char="344325" end_char="344357">különösen a pénzügyi szektor erős</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

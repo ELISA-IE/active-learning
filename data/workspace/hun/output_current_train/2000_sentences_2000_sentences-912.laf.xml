@@ -1,5 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="265363" end_char="265372">Kóka János</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="265378" end_char="265387">Elender Rt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="265400" end_char="265425">igazgatója nyilatkozatában</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="265439" end_char="265439">,</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="265446" end_char="265467">nem ismerik a Matáv új</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="265492" end_char="265522">nem tudnak érdemben nyilatkozni</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="265524" end_char="265553">az esetleges hazai tiltakozási</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
+      <EXTENT start_char="265564" end_char="265564">,</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
+      <EXTENT start_char="265582" end_char="265587">inkább</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
+      <EXTENT start_char="265591" end_char="265615">kisfelhasználók oldaláról</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
+      <EXTENT start_char="265665" end_char="265675">A díjemelés</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
+      <EXTENT start_char="265686" end_char="265709">a szolgáltatók is várják</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

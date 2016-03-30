@@ -1,5 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="360692" end_char="360698">Somlyai</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="ORG">
+      <EXTENT start_char="360708" end_char="360748">Pannon GSM kommunikációs igazgatója ehhez</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="360762" end_char="360776">az InfoRádió és</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="ORG">
+      <EXTENT start_char="360780" end_char="360852">Pannon GSM tartalomszolgáltatási együttműködésével létrejött szolgáltatás</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="360866" end_char="360873">a magyar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="360881" end_char="360884">, és</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="ORG">
+      <EXTENT start_char="360890" end_char="360905">demonstrálja azt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
+      <EXTENT start_char="360906" end_char="360906">,</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="ORG">
+      <EXTENT start_char="360945" end_char="360970">mobiltelefon alapfunkcióin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
+      <EXTENT start_char="360972" end_char="360992">kívül is hasznos társ</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
+      <EXTENT start_char="361000" end_char="361013">az üzleti és a</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE12" task="NE" type="ORG">
+      <EXTENT start_char="361015" end_char="361035">magánéletben egyaránt</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

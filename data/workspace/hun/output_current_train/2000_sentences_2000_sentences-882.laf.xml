@@ -1,5 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="257309" end_char="257317">Gazdasági</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="257333" end_char="257341">politikai</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="257370" end_char="257393">a centrumba kerülés és a</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="ORG">
+      <EXTENT start_char="257395" end_char="257407">magyar nemzet</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="257424" end_char="257438">európai keretek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="257463" end_char="257472">vasfüggöny</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="257474" end_char="257474">,</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
+      <EXTENT start_char="257494" end_char="257501">fiatalok</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
+      <EXTENT start_char="257517" end_char="257533">az otthon maradók</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
+      <EXTENT start_char="257546" end_char="257571">Magyarország európai uniós</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE11" task="NE" type="ORG">
+      <EXTENT start_char="257589" end_char="257618">kapcsolatban a fenti kitételek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
+      <EXTENT start_char="257630" end_char="257631">el</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
+      <EXTENT start_char="257653" end_char="257655">van</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE14" task="NE" type="PER">
+      <EXTENT start_char="257664" end_char="257677">belépés hogyan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE15" task="NE" type="PER">
+      <EXTENT start_char="257683" end_char="257699">a határon túl élő</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

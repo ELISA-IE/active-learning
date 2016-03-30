@@ -1,5 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="64693" end_char="64711">kormány 51 milliárd</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="64722" end_char="64730">szavazott</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="64740" end_char="64746">a valós</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="64758" end_char="64768">az MP Tetra</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="64774" end_char="64784">vezetőjének</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="64800" end_char="64806">szerint</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="64821" end_char="64839">ennél alacsonyabbak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
+      <EXTENT start_char="64869" end_char="64883">szólva Galambos</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="ORG">
+      <EXTENT start_char="64895" end_char="64927">Motorola magyarországi igazgatója</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
+      <EXTENT start_char="64946" end_char="64981">klasszikus vezetéknélküli rendszerek</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
+      <EXTENT start_char="65000" end_char="65004">GSM -</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
+      <EXTENT start_char="65017" end_char="65027">biztosítani</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
+      <EXTENT start_char="65031" end_char="65083">kormányzati intézmények számára szükséges titkosítási</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE14" task="NE" type="PER">
+      <EXTENT start_char="65092" end_char="65094">, s</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE15" task="NE" type="PER">
+      <EXTENT start_char="65105" end_char="65127">adatátviteli sebességük</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE16" task="NE" type="PER">
+      <EXTENT start_char="65141" end_char="65165">hangminőségük is gyengébb</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

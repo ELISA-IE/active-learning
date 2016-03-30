@@ -1,5 +1,72 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="47606" end_char="47609">most</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="47618" end_char="47621">lévő</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
+      <EXTENT start_char="47623" end_char="47648">mintegy tucatnyi nyilvános</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="47650" end_char="47668">kötvény mögött álló</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="47674" end_char="47703">többségét az új jogszabály nem</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="47726" end_char="47743">jobbára vagy eleve</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="47757" end_char="47762">élvező</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
+      <EXTENT start_char="47771" end_char="47803">vagy olyan tőzsdei nagyvállalatok</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="ORG">
+      <EXTENT start_char="47813" end_char="47818">Mol Rt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="ORG">
+      <EXTENT start_char="47828" end_char="47835">Matáv Rt</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
+      <EXTENT start_char="47856" end_char="47878">sok vállalatnak elvette</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
+      <EXTENT start_char="47882" end_char="47918">kedvét a kötvények kibocsátásától az,</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
+      <EXTENT start_char="47928" end_char="47962">1997-től hatályos értékpapírtörvény</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE14" task="NE" type="PER">
+      <EXTENT start_char="47975" end_char="48000">tette az azonos sorozatban</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE15" task="NE" type="PER">
+      <EXTENT start_char="48036" end_char="48060">nagyobb összegű nyilvános</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE16" task="NE" type="PER">
+      <EXTENT start_char="48062" end_char="48088">értékpapírcsomagok tőzsdére</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE17" task="NE" type="PER">
+      <EXTENT start_char="48108" end_char="48123">cégek nagy része</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE18" task="NE" type="PER">
+      <EXTENT start_char="48140" end_char="48150">átmenetileg</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE19" task="NE" type="PER">
+      <EXTENT start_char="48159" end_char="48159">,</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE20" task="NE" type="PER">
+      <EXTENT start_char="48170" end_char="48213">a meglévő papírokat is visszavásárolta - így</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE21" task="NE" type="ORG">
+      <EXTENT start_char="48230" end_char="48239">Pannon GSM</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE22" task="NE" type="PER">
+      <EXTENT start_char="48254" end_char="48258">. is.</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

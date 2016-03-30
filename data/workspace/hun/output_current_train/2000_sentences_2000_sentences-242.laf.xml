@@ -1,5 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang=""/>
+  <DOC id="2000_sentences" lang="">
+    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
+      <EXTENT start_char="82436" end_char="82447">minisztérium</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
+      <EXTENT start_char="82469" end_char="82550">az adókedvezmények révén három év alatt legalábbis megkétszereződhet az otthoni PC</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE3" task="NE" type="ORG">
+      <EXTENT start_char="82565" end_char="82577">további célok</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
+      <EXTENT start_char="82579" end_char="82579">a</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
+      <EXTENT start_char="82591" end_char="82591">,</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
+      <EXTENT start_char="82620" end_char="82633">hozzáférésének</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
+      <EXTENT start_char="82645" end_char="82667">az interneten található</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE8" task="NE" type="ORG">
+      <EXTENT start_char="82669" end_char="82684">magyar tartalmak</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
+      <EXTENT start_char="82701" end_char="82713">hazai oktatás</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
+      <EXTENT start_char="82722" end_char="82732">tevékenység</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
+      <EXTENT start_char="82748" end_char="82775">gazdaság versenyképességének</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
+      <EXTENT start_char="82787" end_char="82807">az egyes területek és</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE13" task="NE" type="ORG">
+      <EXTENT start_char="82820" end_char="82856">csoportok közötti esélyegyenlőtlenség</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE14" task="NE" type="PER">
+      <EXTENT start_char="82872" end_char="82894">az életminőség javítása</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE15" task="NE" type="PER">
+      <EXTENT start_char="82906" end_char="82933">az elektronikus közigazgatás</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="2000_sentences-NE16" task="NE" type="PER">
+      <EXTENT start_char="82936" end_char="82975">az elektronikus ügyintézés feltételeinek</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

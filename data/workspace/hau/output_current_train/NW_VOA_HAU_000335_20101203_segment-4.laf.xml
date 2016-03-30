@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_000335_20101203" lang=""/>
+  <DOC id="NW_VOA_HAU_000335_20101203" lang="">
+    <ANNOTATION id="NW_VOA_HAU_000335_20101203-NE1" task="NE" type="LOC">
+      <EXTENT start_char="568" end_char="574">Zamfara</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

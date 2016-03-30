@@ -2,13 +2,10 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_NUR_HAU_007886_20100705" lang="">
-    <ANNOTATION id="WL_NUR_HAU_007886_20100705-NE1" task="NE" type="PER">
-      <EXTENT start_char="0" end_char="4">Goyon</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="WL_NUR_HAU_007886_20100705-NE2" task="NE" type="PER">
+    <ANNOTATION id="WL_NUR_HAU_007886_20100705-NE1" task="NE" type="LOC">
       <EXTENT start_char="6" end_char="17">Bayan Amurka</EXTENT>
     </ANNOTATION>
-    <ANNOTATION id="WL_NUR_HAU_007886_20100705-NE3" task="NE" type="PER">
+    <ANNOTATION id="WL_NUR_HAU_007886_20100705-NE2" task="NE" type="LOC">
       <EXTENT start_char="22" end_char="28">HKI Ido</EXTENT>
     </ANNOTATION>
   </DOC>

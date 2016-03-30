@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_002308_20121011" lang=""/>
+  <DOC id="NW_VOA_HAU_002308_20121011" lang="">
+    <ANNOTATION id="NW_VOA_HAU_002308_20121011-NE1" task="NE" type="LOC">
+      <EXTENT start_char="284" end_char="300">rigunan Sigiletin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_002308_20121011-NE2" task="NE" type="LOC">
+      <EXTENT start_char="381" end_char="386">Harare</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

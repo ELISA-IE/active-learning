@@ -2,13 +2,10 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="NW_VOA_HAU_003956_20140103" lang="">
-    <ANNOTATION id="NW_VOA_HAU_003956_20140103-NE1" task="NE" type="TTL">
-      <EXTENT start_char="1209" end_char="1213">Taron</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="NW_VOA_HAU_003956_20140103-NE2" task="NE" type="PER">
+    <ANNOTATION id="NW_VOA_HAU_003956_20140103-NE1" task="NE" type="LOC">
       <EXTENT start_char="1215" end_char="1231">Maʼaikatan Lafiya</EXTENT>
     </ANNOTATION>
-    <ANNOTATION id="NW_VOA_HAU_003956_20140103-NE3" task="NE" type="LOC">
+    <ANNOTATION id="NW_VOA_HAU_003956_20140103-NE2" task="NE" type="LOC">
       <EXTENT start_char="1235" end_char="1244">Jihar Kano</EXTENT>
     </ANNOTATION>
   </DOC>

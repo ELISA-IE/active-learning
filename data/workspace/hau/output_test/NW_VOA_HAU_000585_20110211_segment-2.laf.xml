@@ -2,14 +2,8 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="NW_VOA_HAU_000585_20110211" lang="">
-    <ANNOTATION id="NW_VOA_HAU_000585_20110211-NE1" task="NE" type="TTL">
-      <EXTENT start_char="313" end_char="320">Shugaban</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="NW_VOA_HAU_000585_20110211-NE2" task="NE" type="PER">
-      <EXTENT start_char="322" end_char="335">Bankin Duniyan</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="NW_VOA_HAU_000585_20110211-NE3" task="NE" type="PER">
-      <EXTENT start_char="337" end_char="351">Robert Zoellick</EXTENT>
+    <ANNOTATION id="NW_VOA_HAU_000585_20110211-NE1" task="NE" type="LOC">
+      <EXTENT start_char="329" end_char="342">Duniyan Robert</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>
