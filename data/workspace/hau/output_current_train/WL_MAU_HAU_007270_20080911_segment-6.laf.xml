@@ -3,6 +3,18 @@
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_MAU_HAU_007270_20080911" lang="">
     <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE1" task="NE" type="LOC">
+      <EXTENT start_char="654" end_char="660">Hikimar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE2" task="NE" type="LOC">
+      <EXTENT start_char="691" end_char="698">Language</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE3" task="NE" type="LOC">
+      <EXTENT start_char="742" end_char="747">Fasaha</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE4" task="NE" type="PER">
+      <EXTENT start_char="752" end_char="757">Hassan</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE5" task="NE" type="LOC">
       <EXTENT start_char="759" end_char="771">Usman Katsina</EXTENT>
     </ANNOTATION>
   </DOC>

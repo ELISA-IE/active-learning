@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_DAN_HAU_007487_20120123" lang=""/>
+  <DOC id="WL_DAN_HAU_007487_20120123" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE1" task="NE" type="LOC">
+      <EXTENT start_char="164" end_char="167">Kano</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE2" task="NE" type="LOC">
+      <EXTENT start_char="333" end_char="339">Nigeria</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

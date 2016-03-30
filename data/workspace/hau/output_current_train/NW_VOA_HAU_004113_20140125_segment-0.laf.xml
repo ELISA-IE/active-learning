@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_004113_20140125" lang=""/>
+  <DOC id="NW_VOA_HAU_004113_20140125" lang="">
+    <ANNOTATION id="NW_VOA_HAU_004113_20140125-NE1" task="NE" type="LOC">
+      <EXTENT start_char="69" end_char="76">Najeriya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_004113_20140125-NE2" task="NE" type="LOC">
+      <EXTENT start_char="239" end_char="242">Yobe</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

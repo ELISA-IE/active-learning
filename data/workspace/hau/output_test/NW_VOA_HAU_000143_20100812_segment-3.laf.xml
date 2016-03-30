@@ -2,8 +2,17 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="NW_VOA_HAU_000143_20100812" lang="">
-    <ANNOTATION id="NW_VOA_HAU_000143_20100812-NE1" task="NE" type="PER">
-      <EXTENT start_char="549" end_char="553">Nijar</EXTENT>
+    <ANNOTATION id="NW_VOA_HAU_000143_20100812-NE1" task="NE" type="ORG">
+      <EXTENT start_char="476" end_char="499">Hukumar Abinci Ta Duniya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_000143_20100812-NE2" task="NE" type="TTL">
+      <EXTENT start_char="519" end_char="524">Agajin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_000143_20100812-NE3" task="NE" type="PER">
+      <EXTENT start_char="526" end_char="536">Abinci Zuwa</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_000143_20100812-NE4" task="NE" type="ORG">
+      <EXTENT start_char="538" end_char="553">Jamhuriyar Nijar</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

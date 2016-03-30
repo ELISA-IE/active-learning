@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_FAS_HAU_007638_20070216" lang=""/>
+  <DOC id="WL_FAS_HAU_007638_20070216" lang="">
+    <ANNOTATION id="WL_FAS_HAU_007638_20070216-NE1" task="NE" type="LOC">
+      <EXTENT start_char="1357" end_char="1365">Bercelona</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_FAS_HAU_007638_20070216-NE2" task="NE" type="LOC">
+      <EXTENT start_char="1372" end_char="1384">kasar Andalus</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

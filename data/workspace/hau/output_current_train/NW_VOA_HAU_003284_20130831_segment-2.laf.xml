@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_003284_20130831" lang=""/>
+  <DOC id="NW_VOA_HAU_003284_20130831" lang="">
+    <ANNOTATION id="NW_VOA_HAU_003284_20130831-NE1" task="NE" type="ORG">
+      <EXTENT start_char="509" end_char="522">Hukumar Lafiya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

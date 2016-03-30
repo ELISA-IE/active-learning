@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_NBC_ENG_0127_20001007.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_NBC_ENG_0127_20001007.hun" lang="HUN">
+  <ANNOTATION id="NW_NBC_ENG_0127_20001007.hun-NE1" task="NE" type="LOC" start_token="NW_NBC_ENG_0127_20001007.hun-0-11" end_token="NW_NBC_ENG_0127_20001007.hun-0-11">
+    <EXTENT>Mexikóban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0127_20001007.hun-NE2" task="NE" type="ORG" start_token="NW_NBC_ENG_0127_20001007.hun-2-0" end_token="NW_NBC_ENG_0127_20001007.hun-2-2">
+    <EXTENT>Az Aero Mexico</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0127_20001007.hun-NE3" task="NE" type="LOC" start_token="NW_NBC_ENG_0127_20001007.hun-2-8" end_token="NW_NBC_ENG_0127_20001007.hun-2-8">
+    <EXTENT>Reynosa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0127_20001007.hun-NE4" task="NE" type="LOC" start_token="NW_NBC_ENG_0127_20001007.hun-2-17" end_token="NW_NBC_ENG_0127_20001007.hun-2-17">
+    <EXTENT>texasi</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0127_20001007.hun-NE5" task="NE" type="LOC" start_token="NW_NBC_ENG_0127_20001007.hun-2-18" end_token="NW_NBC_ENG_0127_20001007.hun-2-20">
+    <EXTENT>Brownsville - től</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

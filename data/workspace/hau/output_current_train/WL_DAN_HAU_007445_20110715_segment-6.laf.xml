@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_DAN_HAU_007445_20110715" lang=""/>
+  <DOC id="WL_DAN_HAU_007445_20110715" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE1" task="NE" type="LOC">
+      <EXTENT start_char="761" end_char="766">Afrika</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE2" task="NE" type="LOC">
+      <EXTENT start_char="813" end_char="817">Niger</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE3" task="NE" type="LOC">
+      <EXTENT start_char="820" end_char="824">Kenya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE4" task="NE" type="LOC">
+      <EXTENT start_char="827" end_char="834">Tanzania</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE5" task="NE" type="LOC">
+      <EXTENT start_char="837" end_char="843">Algeria</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007445_20110715-NE6" task="NE" type="LOC">
+      <EXTENT start_char="846" end_char="850">Libya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

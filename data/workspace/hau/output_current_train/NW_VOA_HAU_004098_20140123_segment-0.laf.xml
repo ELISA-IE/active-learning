@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_004098_20140123" lang=""/>
+  <DOC id="NW_VOA_HAU_004098_20140123" lang="">
+    <ANNOTATION id="NW_VOA_HAU_004098_20140123-NE1" task="NE" type="LOC">
+      <EXTENT start_char="16" end_char="28">Jihar Katsina</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

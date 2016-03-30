@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_WSJ_ENG_0180_20060331.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_WSJ_ENG_0180_20060331.hun" lang="HUN">
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE1" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-0-1" end_token="NW_WSJ_ENG_0180_20060331.hun-0-1">
+    <EXTENT>kanadai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE2" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-0-3" end_token="NW_WSJ_ENG_0180_20060331.hun-0-5">
+    <EXTENT>Latin - Amerikában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE3" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-0-20" end_token="NW_WSJ_ENG_0180_20060331.hun-0-23">
+    <EXTENT>az Amerikai Államok Szervezetébe</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE4" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-0-27" end_token="NW_WSJ_ENG_0180_20060331.hun-0-27">
+    <EXTENT>washingtoni</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE5" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-1-2" end_token="NW_WSJ_ENG_0180_20060331.hun-1-2">
+    <EXTENT>kanadai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE6" task="NE" type="PER" start_token="NW_WSJ_ENG_0180_20060331.hun-1-5" end_token="NW_WSJ_ENG_0180_20060331.hun-1-5">
+    <EXTENT>Bush</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE7" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-1-13" end_token="NW_WSJ_ENG_0180_20060331.hun-1-13">
+    <EXTENT>Kanada</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE8" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-1-14" end_token="NW_WSJ_ENG_0180_20060331.hun-1-16">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE9" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-1-26" end_token="NW_WSJ_ENG_0180_20060331.hun-1-26">
+    <EXTENT>Kuba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE10" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-1-30" end_token="NW_WSJ_ENG_0180_20060331.hun-1-30">
+    <EXTENT>Grenadát</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE11" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-1-36" end_token="NW_WSJ_ENG_0180_20060331.hun-1-36">
+    <EXTENT>nicaraguai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE12" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-1-37" end_token="NW_WSJ_ENG_0180_20060331.hun-1-37">
+    <EXTENT>Contra</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE13" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-2-1" end_token="NW_WSJ_ENG_0180_20060331.hun-2-3">
+    <EXTENT>latin - amerikai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE14" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-2-7" end_token="NW_WSJ_ENG_0180_20060331.hun-2-7">
+    <EXTENT>Kanadát</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE15" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-2-12" end_token="NW_WSJ_ENG_0180_20060331.hun-2-15">
+    <EXTENT>az OAS - be</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE16" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-2-25" end_token="NW_WSJ_ENG_0180_20060331.hun-2-27">
+    <EXTENT>az Egyesült Államokat</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE17" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-3-1" end_token="NW_WSJ_ENG_0180_20060331.hun-3-3">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE18" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-3-5" end_token="NW_WSJ_ENG_0180_20060331.hun-3-5">
+    <EXTENT>Kanada</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE19" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-3-8" end_token="NW_WSJ_ENG_0180_20060331.hun-3-8">
+    <EXTENT>Washington</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE20" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-4-5" end_token="NW_WSJ_ENG_0180_20060331.hun-4-7">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE21" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-4-9" end_token="NW_WSJ_ENG_0180_20060331.hun-4-9">
+    <EXTENT>Kanada</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE22" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-4-10" end_token="NW_WSJ_ENG_0180_20060331.hun-4-10">
+    <EXTENT>OAS</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE23" task="NE" type="PER" start_token="NW_WSJ_ENG_0180_20060331.hun-4-26" end_token="NW_WSJ_ENG_0180_20060331.hun-4-27">
+    <EXTENT>Allan Gotlieb</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE24" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-4-29" end_token="NW_WSJ_ENG_0180_20060331.hun-4-29">
+    <EXTENT>Kanada</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE25" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-4-31" end_token="NW_WSJ_ENG_0180_20060331.hun-4-34">
+    <EXTENT>Egyesült Államok - beli</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE26" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-5-1" end_token="NW_WSJ_ENG_0180_20060331.hun-5-1">
+    <EXTENT>kanadai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE27" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-5-4" end_token="NW_WSJ_ENG_0180_20060331.hun-5-8">
+    <EXTENT>a Costa Rica - i</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE28" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-5-9" end_token="NW_WSJ_ENG_0180_20060331.hun-5-10">
+    <EXTENT>San Joséban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE29" task="NE" type="PER" start_token="NW_WSJ_ENG_0180_20060331.hun-5-14" end_token="NW_WSJ_ENG_0180_20060331.hun-5-15">
+    <EXTENT>Brian Mulroney</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE30" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-5-18" end_token="NW_WSJ_ENG_0180_20060331.hun-5-18">
+    <EXTENT>kanadai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE31" task="NE" type="TTL" start_token="NW_WSJ_ENG_0180_20060331.hun-5-19" end_token="NW_WSJ_ENG_0180_20060331.hun-5-19">
+    <EXTENT>miniszterelnök</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE32" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-5-22" end_token="NW_WSJ_ENG_0180_20060331.hun-5-26">
+    <EXTENT>a Costa Rica - i</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE33" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-6-1" end_token="NW_WSJ_ENG_0180_20060331.hun-6-1">
+    <EXTENT>Kanadának</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE34" task="NE" type="PER" start_token="NW_WSJ_ENG_0180_20060331.hun-6-14" end_token="NW_WSJ_ENG_0180_20060331.hun-6-14">
+    <EXTENT>Mulroney</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE35" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-7-1" end_token="NW_WSJ_ENG_0180_20060331.hun-7-1">
+    <EXTENT>kanadai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE36" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-7-5" end_token="NW_WSJ_ENG_0180_20060331.hun-7-5">
+    <EXTENT>Kanada</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE37" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-7-11" end_token="NW_WSJ_ENG_0180_20060331.hun-7-13">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE38" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-8-1" end_token="NW_WSJ_ENG_0180_20060331.hun-8-1">
+    <EXTENT>Kanada</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE39" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-8-7" end_token="NW_WSJ_ENG_0180_20060331.hun-8-9">
+    <EXTENT>Latin - Amerikával</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE40" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-8-25" end_token="NW_WSJ_ENG_0180_20060331.hun-8-27">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE41" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-8-29" end_token="NW_WSJ_ENG_0180_20060331.hun-8-30">
+    <EXTENT>az OAS</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE42" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-8-31" end_token="NW_WSJ_ENG_0180_20060331.hun-8-33">
+    <EXTENT>latin - amerikai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE43" task="NE" type="PER" start_token="NW_WSJ_ENG_0180_20060331.hun-8-38" end_token="NW_WSJ_ENG_0180_20060331.hun-8-39">
+    <EXTENT>Jeffrey Simpson</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE44" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-8-42" end_token="NW_WSJ_ENG_0180_20060331.hun-8-42">
+    <EXTENT>torontói</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE45" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-8-43" end_token="NW_WSJ_ENG_0180_20060331.hun-8-45">
+    <EXTENT>Globe &amp; Mail</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE46" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-9-3" end_token="NW_WSJ_ENG_0180_20060331.hun-9-3">
+    <EXTENT>Kanada</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE47" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-9-5" end_token="NW_WSJ_ENG_0180_20060331.hun-9-7">
+    <EXTENT>az Egyesült Államoknak</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE48" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-9-15" end_token="NW_WSJ_ENG_0180_20060331.hun-9-18">
+    <EXTENT>az OAS - ben</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE49" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-9-21" end_token="NW_WSJ_ENG_0180_20060331.hun-9-24">
+    <EXTENT>Az ENSZ - beli</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE50" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-10-2" end_token="NW_WSJ_ENG_0180_20060331.hun-10-2">
+    <EXTENT>ENSZ</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE51" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-10-5" end_token="NW_WSJ_ENG_0180_20060331.hun-10-5">
+    <EXTENT>Kanada</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE52" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-10-16" end_token="NW_WSJ_ENG_0180_20060331.hun-10-18">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE53" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-11-0" end_token="NW_WSJ_ENG_0180_20060331.hun-11-0">
+    <EXTENT>Franciaország</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE54" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-11-10" end_token="NW_WSJ_ENG_0180_20060331.hun-11-12">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE55" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-11-14" end_token="NW_WSJ_ENG_0180_20060331.hun-11-16">
+    <EXTENT>Nyugat - Németország</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE56" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-11-23" end_token="NW_WSJ_ENG_0180_20060331.hun-11-25">
+    <EXTENT>Nagy - Britannia</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE57" task="NE" type="PER" start_token="NW_WSJ_ENG_0180_20060331.hun-12-0" end_token="NW_WSJ_ENG_0180_20060331.hun-12-1">
+    <EXTENT>Larry Birns</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE58" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-12-4" end_token="NW_WSJ_ENG_0180_20060331.hun-12-4">
+    <EXTENT>washingtoni</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE59" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-12-6" end_token="NW_WSJ_ENG_0180_20060331.hun-12-8">
+    <EXTENT>Világrész Ügyeinek Tanácsa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE60" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-12-18" end_token="NW_WSJ_ENG_0180_20060331.hun-12-20">
+    <EXTENT>latin - amerikai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE61" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-12-27" end_token="NW_WSJ_ENG_0180_20060331.hun-12-27">
+    <EXTENT>Kanada</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE62" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-12-29" end_token="NW_WSJ_ENG_0180_20060331.hun-12-31">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE63" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-12-33" end_token="NW_WSJ_ENG_0180_20060331.hun-12-36">
+    <EXTENT>az OAS - ben</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE64" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-13-5" end_token="NW_WSJ_ENG_0180_20060331.hun-13-5">
+    <EXTENT>Kanadát</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE65" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-14-0" end_token="NW_WSJ_ENG_0180_20060331.hun-14-1">
+    <EXTENT>Az OAS</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE66" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-14-13" end_token="NW_WSJ_ENG_0180_20060331.hun-14-13">
+    <EXTENT>Amerikában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE67" task="NE" type="LOC" start_token="NW_WSJ_ENG_0180_20060331.hun-14-18" end_token="NW_WSJ_ENG_0180_20060331.hun-14-18">
+    <EXTENT>panamai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE68" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-15-0" end_token="NW_WSJ_ENG_0180_20060331.hun-15-0">
+    <EXTENT>Kuba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE69" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-15-1" end_token="NW_WSJ_ENG_0180_20060331.hun-15-1">
+    <EXTENT>OAS</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0180_20060331.hun-NE70" task="NE" type="ORG" start_token="NW_WSJ_ENG_0180_20060331.hun-15-11" end_token="NW_WSJ_ENG_0180_20060331.hun-15-11">
+    <EXTENT>Kuba</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

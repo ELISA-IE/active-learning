@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_CNN_ENG_0092_20001031.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_CNN_ENG_0092_20001031.hun" lang="HUN">
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE1" task="NE" type="LOC" start_token="NW_CNN_ENG_0092_20001031.hun-0-6" end_token="NW_CNN_ENG_0092_20001031.hun-0-9">
+    <EXTENT>az Atlanti - óceán</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE2" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-1-7" end_token="NW_CNN_ENG_0092_20001031.hun-1-8">
+    <EXTENT>Bob Glascoff</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE3" task="NE" type="LOC" start_token="NW_CNN_ENG_0092_20001031.hun-1-11" end_token="NW_CNN_ENG_0092_20001031.hun-1-11">
+    <EXTENT>brit</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE4" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-1-16" end_token="NW_CNN_ENG_0092_20001031.hun-1-17">
+    <EXTENT>Louise Woodward</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE5" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-3-0" end_token="NW_CNN_ENG_0092_20001031.hun-3-1">
+    <EXTENT>Louise Woodwardot</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE6" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-4-4" end_token="NW_CNN_ENG_0092_20001031.hun-4-4">
+    <EXTENT>Woodwardot</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE7" task="NE" type="LOC" start_token="NW_CNN_ENG_0092_20001031.hun-4-7" end_token="NW_CNN_ENG_0092_20001031.hun-4-7">
+    <EXTENT>brit</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE8" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-4-18" end_token="NW_CNN_ENG_0092_20001031.hun-4-19">
+    <EXTENT>Matthew Eappent</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE9" task="NE" type="LOC" start_token="NW_CNN_ENG_0092_20001031.hun-5-5" end_token="NW_CNN_ENG_0092_20001031.hun-5-5">
+    <EXTENT>Angliában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE10" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-6-0" end_token="NW_CNN_ENG_0092_20001031.hun-6-0">
+    <EXTENT>Woodward</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE11" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-6-2" end_token="NW_CNN_ENG_0092_20001031.hun-6-2">
+    <EXTENT>Eappen</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE12" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-9-0" end_token="NW_CNN_ENG_0092_20001031.hun-9-0">
+    <EXTENT>Woodward</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE13" task="NE" type="LOC" start_token="NW_CNN_ENG_0092_20001031.hun-9-5" end_token="NW_CNN_ENG_0092_20001031.hun-9-7">
+    <EXTENT>Nagy - Britanniába</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE14" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-12-0" end_token="NW_CNN_ENG_0092_20001031.hun-12-0">
+    <EXTENT>Woodward</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE15" task="NE" type="ORG" start_token="NW_CNN_ENG_0092_20001031.hun-13-0" end_token="NW_CNN_ENG_0092_20001031.hun-13-5">
+    <EXTENT>A " Rövid hírek "- től</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0092_20001031.hun-NE16" task="NE" type="PER" start_token="NW_CNN_ENG_0092_20001031.hun-13-6" end_token="NW_CNN_ENG_0092_20001031.hun-13-7">
+    <EXTENT>Bob Glascoffot</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

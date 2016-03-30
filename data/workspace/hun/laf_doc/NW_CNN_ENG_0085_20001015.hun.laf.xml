@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_CNN_ENG_0085_20001015.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_CNN_ENG_0085_20001015.hun" lang="HUN">
+  <ANNOTATION id="NW_CNN_ENG_0085_20001015.hun-NE1" task="NE" type="ORG" start_token="NW_CNN_ENG_0085_20001015.hun-0-8" end_token="NW_CNN_ENG_0085_20001015.hun-0-8">
+    <EXTENT>FBI</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0085_20001015.hun-NE2" task="NE" type="LOC" start_token="NW_CNN_ENG_0085_20001015.hun-0-15" end_token="NW_CNN_ENG_0085_20001015.hun-0-15">
+    <EXTENT>Jemenbe</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0085_20001015.hun-NE3" task="NE" type="ORG" start_token="NW_CNN_ENG_0085_20001015.hun-3-0" end_token="NW_CNN_ENG_0085_20001015.hun-3-0">
+    <EXTENT>Pentagoni</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0085_20001015.hun-NE4" task="NE" type="LOC" start_token="NW_CNN_ENG_0085_20001015.hun-4-17" end_token="NW_CNN_ENG_0085_20001015.hun-4-19">
+    <EXTENT>közel - keleti</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

@@ -2,11 +2,8 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_DAN_HAU_007498_20120206" lang="">
-    <ANNOTATION id="WL_DAN_HAU_007498_20120206-NE1" task="NE" type="PER">
-      <EXTENT start_char="729" end_char="731">BBC</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="WL_DAN_HAU_007498_20120206-NE2" task="NE" type="PER">
-      <EXTENT start_char="733" end_char="737">Hausa</EXTENT>
+    <ANNOTATION id="WL_DAN_HAU_007498_20120206-NE1" task="NE" type="LOC">
+      <EXTENT start_char="717" end_char="731">Daga Shafin BBC</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

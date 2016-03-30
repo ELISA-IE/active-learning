@@ -24,10 +24,10 @@ import json
 from collections import OrderedDict
 from multiprocessing import cpu_count
 
-
+il = 'hau'
 NUM_PROC = cpu_count() / 2 if cpu_count() / 2 < 10 else 10  # use half of the cpus, maximum is 10.
 WORKING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                           'data/workspace/hau')
+                           'data/workspace/%s' % il)
 LTF_TRAIN_DIR = os.path.join(WORKING_DIR,'ltf_train')
 LTF_TEST_DIR = os.path.join(WORKING_DIR,'ltf_test')
 LAF_TRAIN_DIR = os.path.join(WORKING_DIR,'laf_train')
@@ -45,7 +45,8 @@ MODEL_DIR = os.path.join(WORKING_DIR,'model')
 def annotate(files):
     ann_files = []
     for file in files:
-        subprocess.call(['cp', os.path.join(LAF_TRAIN_DIR, file.replace('ltf','laf')), os.path.join(LAF_CURRENT_TRAIN_DIR, file.replace('ltf','laf'))])
+        laf = file.split('/')[-1].replace('ltf', 'laf')
+        subprocess.call(['cp', os.path.join(LAF_TRAIN_DIR, laf), os.path.join(LAF_CURRENT_TRAIN_DIR, laf)])
         ann_files.append(file.replace('ltf','laf'))
     return ann_files
 
@@ -56,20 +57,21 @@ os.mkdir(LAF_CURRENT_TRAIN_DIR)
 
 ##################################
 # DRIVER FUNCTION EXAMPLE
-learner = ActiveLearning(WORKING_DIR, os.listdir(LTF_TRAIN_DIR), max_iter=5, init_size=20, max_size=100, batch_size=5,
+unlabeled_ltf = [os.path.join(LTF_TRAIN_DIR, p) for p in os.listdir(LTF_TRAIN_DIR)]
+learner = ActiveLearning(il, WORKING_DIR, unlabeled_ltf, max_iter=5, init_size=20, max_size=100, batch_size=5,
                          select='select_entropy', verbose=True)
 
 iteration_index = 0
 while not learner.done():
     print '################## Current Iteration %d ##################' % iteration_index
-    if not learner.current_train_set:
+    if not learner.labled_ltf:
         annotated_files = annotate(learner.init_set())
-        learner.retrain(annotated_files)
+        learner.train()
     else:
         files = learner.iterate() #LTF filename list to annotate
         print 'INFO: ITERATION COMPLETED'
         annotated_files = annotate(files) #LAF filename list from annotator to give to retrainer
-        learner.retrain(annotated_files) #A list of LAF filenames to retrain with
+        learner.train() #A list of LAF filenames to retrain with
 
     # evaluate on test set
     test_set = os.listdir(LTF_TEST_DIR)

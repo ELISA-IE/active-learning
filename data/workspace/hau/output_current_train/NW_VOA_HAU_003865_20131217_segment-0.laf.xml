@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_003865_20131217" lang=""/>
+  <DOC id="NW_VOA_HAU_003865_20131217" lang="">
+    <ANNOTATION id="NW_VOA_HAU_003865_20131217-NE1" task="NE" type="LOC">
+      <EXTENT start_char="106" end_char="113">Najeriya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003865_20131217-NE2" task="NE" type="PER">
+      <EXTENT start_char="116" end_char="132">Olusegun Obasanjo</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

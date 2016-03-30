@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_NUR_HAU_007870_20100705" lang="">
-    <ANNOTATION id="WL_NUR_HAU_007870_20100705-NE1" task="NE" type="PER">
-      <EXTENT start_char="0" end_char="6">TARIHIN</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="WL_NUR_HAU_007870_20100705-NE2" task="NE" type="PER">
-      <EXTENT start_char="8" end_char="9">DR</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="WL_NUR_HAU_007870_20100705-NE3" task="NE" type="PER">
-      <EXTENT start_char="12" end_char="19">MUHUTHIR</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="WL_NUR_HAU_007870_20100705-NE4" task="NE" type="PER">
-      <EXTENT start_char="21" end_char="28">MUHAMMAD</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="WL_NUR_HAU_007870_20100705" lang=""/>
 </LCTL_ANNOTATIONS>

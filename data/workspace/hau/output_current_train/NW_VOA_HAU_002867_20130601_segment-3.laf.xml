@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_002867_20130601" lang=""/>
+  <DOC id="NW_VOA_HAU_002867_20130601" lang="">
+    <ANNOTATION id="NW_VOA_HAU_002867_20130601-NE1" task="NE" type="LOC">
+      <EXTENT start_char="446" end_char="457">kasar Canada</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_002867_20130601-NE2" task="NE" type="LOC">
+      <EXTENT start_char="461" end_char="468">Najeriya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_002867_20130601-NE3" task="NE" type="PER">
+      <EXTENT start_char="553" end_char="561">Hadin Kai</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_002867_20130601-NE4" task="NE" type="PER">
+      <EXTENT start_char="563" end_char="564">Da</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_002867_20130601-NE5" task="NE" type="LOC">
+      <EXTENT start_char="566" end_char="580">Kasashen Duniya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_002867_20130601-NE6" task="NE" type="LOC">
+      <EXTENT start_char="585" end_char="590">Canada</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_002867_20130601-NE7" task="NE" type="PER">
+      <EXTENT start_char="657" end_char="671">Kasashen Duniya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

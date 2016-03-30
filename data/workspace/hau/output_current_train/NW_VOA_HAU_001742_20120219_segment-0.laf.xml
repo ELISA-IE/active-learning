@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_001742_20120219" lang=""/>
+  <DOC id="NW_VOA_HAU_001742_20120219" lang="">
+    <ANNOTATION id="NW_VOA_HAU_001742_20120219-NE1" task="NE" type="LOC">
+      <EXTENT start_char="8" end_char="17">jihar Kano</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_001742_20120219-NE2" task="NE" type="PER">
+      <EXTENT start_char="40" end_char="48">Kwankwaso</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_001742_20120219-NE3" task="NE" type="LOC">
+      <EXTENT start_char="112" end_char="119">Najeriya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

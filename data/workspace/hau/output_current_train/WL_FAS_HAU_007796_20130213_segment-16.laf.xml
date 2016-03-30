@@ -3,7 +3,16 @@
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_FAS_HAU_007796_20130213" lang="">
     <ANNOTATION id="WL_FAS_HAU_007796_20130213-NE1" task="NE" type="LOC">
-      <EXTENT start_char="1106" end_char="1112">Ci Gaba</EXTENT>
+      <EXTENT start_char="1039" end_char="1054">Bunkasar Fasahar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_FAS_HAU_007796_20130213-NE2" task="NE" type="PER">
+      <EXTENT start_char="1056" end_char="1070">Sadarwar Zamani</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_FAS_HAU_007796_20130213-NE3" task="NE" type="LOC">
+      <EXTENT start_char="1074" end_char="1081">Najeriya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_FAS_HAU_007796_20130213-NE4" task="NE" type="PER">
+      <EXTENT start_char="1097" end_char="1107">Hanyoyin Ci</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

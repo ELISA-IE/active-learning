@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_NUR_HAU_007887_20100705" lang=""/>
+  <DOC id="WL_NUR_HAU_007887_20100705" lang="">
+    <ANNOTATION id="WL_NUR_HAU_007887_20100705-NE1" task="NE" type="LOC">
+      <EXTENT start_char="2445" end_char="2454">kasar inda</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007887_20100705-NE2" task="NE" type="PER">
+      <EXTENT start_char="2519" end_char="2532">Saddam Husaini</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

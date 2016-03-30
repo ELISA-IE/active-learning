@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_CNN_ENG_0094_20001124.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_CNN_ENG_0094_20001124.hun" lang="HUN">
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE1" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-0-9" end_token="NW_CNN_ENG_0094_20001124.hun-0-9">
+    <EXTENT>Fagyapó</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE2" task="NE" type="LOC" start_token="NW_CNN_ENG_0094_20001124.hun-0-13" end_token="NW_CNN_ENG_0094_20001124.hun-0-13">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE3" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-1-0" end_token="NW_CNN_ENG_0094_20001124.hun-1-1">
+    <EXTENT>Denise Dillon</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE4" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-2-0" end_token="NW_CNN_ENG_0094_20001124.hun-2-0">
+    <EXTENT>Télapó</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE5" task="NE" type="LOC" start_token="NW_CNN_ENG_0094_20001124.hun-2-3" end_token="NW_CNN_ENG_0094_20001124.hun-2-3">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE6" task="NE" type="LOC" start_token="NW_CNN_ENG_0094_20001124.hun-2-6" end_token="NW_CNN_ENG_0094_20001124.hun-2-7">
+    <EXTENT>Velikij Usztyugba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE7" task="NE" type="LOC" start_token="NW_CNN_ENG_0094_20001124.hun-2-11" end_token="NW_CNN_ENG_0094_20001124.hun-2-11">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE8" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-2-14" end_token="NW_CNN_ENG_0094_20001124.hun-2-14">
+    <EXTENT>Fagyapóval</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE9" task="NE" type="LOC" start_token="NW_CNN_ENG_0094_20001124.hun-3-1" end_token="NW_CNN_ENG_0094_20001124.hun-3-1">
+    <EXTENT>Moszkvától</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE10" task="NE" type="LOC" start_token="NW_CNN_ENG_0094_20001124.hun-3-9" end_token="NW_CNN_ENG_0094_20001124.hun-3-10">
+    <EXTENT>Velikij Usztyugról</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE11" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-3-17" end_token="NW_CNN_ENG_0094_20001124.hun-3-17">
+    <EXTENT>Fagyapó</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE12" task="NE" type="LOC" start_token="NW_CNN_ENG_0094_20001124.hun-3-20" end_token="NW_CNN_ENG_0094_20001124.hun-3-20">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE13" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-4-23" end_token="NW_CNN_ENG_0094_20001124.hun-4-23">
+    <EXTENT>Télapót</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE14" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-4-25" end_token="NW_CNN_ENG_0094_20001124.hun-4-25">
+    <EXTENT>Fagyapót</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE15" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-10-1" end_token="NW_CNN_ENG_0094_20001124.hun-10-1">
+    <EXTENT>Télapó</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE16" task="NE" type="LOC" start_token="NW_CNN_ENG_0094_20001124.hun-10-19" end_token="NW_CNN_ENG_0094_20001124.hun-10-19">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE17" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-11-1" end_token="NW_CNN_ENG_0094_20001124.hun-11-1">
+    <EXTENT>Télapó</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE18" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-11-3" end_token="NW_CNN_ENG_0094_20001124.hun-11-3">
+    <EXTENT>Fagyapó</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE19" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-12-2" end_token="NW_CNN_ENG_0094_20001124.hun-12-2">
+    <EXTENT>Télapóban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE20" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-14-6" end_token="NW_CNN_ENG_0094_20001124.hun-14-6">
+    <EXTENT>Télapó</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE21" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-14-8" end_token="NW_CNN_ENG_0094_20001124.hun-14-8">
+    <EXTENT>Fagyapó</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE22" task="NE" type="PER" start_token="NW_CNN_ENG_0094_20001124.hun-15-0" end_token="NW_CNN_ENG_0094_20001124.hun-15-1">
+    <EXTENT>Denise Dillon</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0094_20001124.hun-NE23" task="NE" type="ORG" start_token="NW_CNN_ENG_0094_20001124.hun-15-4" end_token="NW_CNN_ENG_0094_20001124.hun-15-5">
+    <EXTENT>Rövid hírek</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

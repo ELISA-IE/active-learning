@@ -2,8 +2,17 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="NW_VOA_HAU_001129_20110728" lang="">
-    <ANNOTATION id="NW_VOA_HAU_001129_20110728-NE1" task="NE" type="LOC">
-      <EXTENT start_char="368" end_char="380">Dinkin Duniya</EXTENT>
+    <ANNOTATION id="NW_VOA_HAU_001129_20110728-NE1" task="NE" type="ORG">
+      <EXTENT start_char="331" end_char="343">Hukumar Samar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_001129_20110728-NE2" task="NE" type="ORG">
+      <EXTENT start_char="348" end_char="356">Abinci ta</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_001129_20110728-NE3" task="NE" type="LOC">
+      <EXTENT start_char="358" end_char="373">Majalisar Dinkin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_001129_20110728-NE4" task="NE" type="LOC">
+      <EXTENT start_char="375" end_char="380">Duniya</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

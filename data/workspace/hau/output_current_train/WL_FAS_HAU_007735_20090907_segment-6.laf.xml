@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_FAS_HAU_007735_20090907" lang=""/>
+  <DOC id="WL_FAS_HAU_007735_20090907" lang="">
+    <ANNOTATION id="WL_FAS_HAU_007735_20090907-NE1" task="NE" type="LOC">
+      <EXTENT start_char="1282" end_char="1296">kasar Burtaniya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

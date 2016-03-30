@@ -3,6 +3,21 @@
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_DAN_HAU_007540_20120620" lang="">
     <ANNOTATION id="WL_DAN_HAU_007540_20120620-NE1" task="NE" type="LOC">
+      <EXTENT start_char="0" end_char="5">Adduʼa</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007540_20120620-NE2" task="NE" type="PER">
+      <EXTENT start_char="8" end_char="18">Hanyar Kawo</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007540_20120620-NE3" task="NE" type="PER">
+      <EXTENT start_char="20" end_char="26">Karshen</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007540_20120620-NE4" task="NE" type="PER">
+      <EXTENT start_char="28" end_char="35">Halin Da</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007540_20120620-NE5" task="NE" type="PER">
+      <EXTENT start_char="37" end_char="45">Muke Ciki</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007540_20120620-NE6" task="NE" type="LOC">
       <EXTENT start_char="49" end_char="57">Kasar Nan</EXTENT>
     </ANNOTATION>
   </DOC>

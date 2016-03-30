@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_NUR_HAU_007858_20100705" lang=""/>
+  <DOC id="WL_NUR_HAU_007858_20100705" lang="">
+    <ANNOTATION id="WL_NUR_HAU_007858_20100705-NE1" task="NE" type="LOC">
+      <EXTENT start_char="3302" end_char="3305">Iran</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007858_20100705-NE2" task="NE" type="LOC">
+      <EXTENT start_char="3376" end_char="3391">kasar Indonusiya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007858_20100705-NE3" task="NE" type="LOC">
+      <EXTENT start_char="3459" end_char="3470">kasar Jordan</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

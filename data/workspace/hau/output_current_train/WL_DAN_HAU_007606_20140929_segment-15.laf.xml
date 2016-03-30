@@ -2,8 +2,11 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_DAN_HAU_007606_20140929" lang="">
-    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE1" task="NE" type="LOC">
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE1" task="NE" type="PER">
       <EXTENT start_char="1868" end_char="1887">Dabino International</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE2" task="NE" type="LOC">
+      <EXTENT start_char="1889" end_char="1903">Nigeria Limited</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

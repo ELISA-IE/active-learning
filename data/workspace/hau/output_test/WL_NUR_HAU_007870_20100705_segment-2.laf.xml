@@ -3,7 +3,16 @@
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_NUR_HAU_007870_20100705" lang="">
     <ANNOTATION id="WL_NUR_HAU_007870_20100705-NE1" task="NE" type="LOC">
-      <EXTENT start_char="214" end_char="218">Kedar</EXTENT>
+      <EXTENT start_char="89" end_char="103">kasar Malaysiya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007870_20100705-NE2" task="NE" type="LOC">
+      <EXTENT start_char="182" end_char="185">Alor</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007870_20100705-NE3" task="NE" type="PER">
+      <EXTENT start_char="187" end_char="191">Setar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007870_20100705-NE4" task="NE" type="LOC">
+      <EXTENT start_char="208" end_char="218">jihar Kedar</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

@@ -2,8 +2,11 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_MAU_HAU_007279_20090520" lang="">
-    <ANNOTATION id="WL_MAU_HAU_007279_20090520-NE1" task="NE" type="LOC">
-      <EXTENT start_char="1421" end_char="1424">Kano</EXTENT>
+    <ANNOTATION id="WL_MAU_HAU_007279_20090520-NE1" task="NE" type="PER">
+      <EXTENT start_char="1341" end_char="1351">Yaron Malam</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007279_20090520-NE2" task="NE" type="LOC">
+      <EXTENT start_char="1415" end_char="1424">Fagge Kano</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_001039_20110626" lang=""/>
+  <DOC id="NW_VOA_HAU_001039_20110626" lang="">
+    <ANNOTATION id="NW_VOA_HAU_001039_20110626-NE1" task="NE" type="LOC">
+      <EXTENT start_char="51" end_char="56">Afirka</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

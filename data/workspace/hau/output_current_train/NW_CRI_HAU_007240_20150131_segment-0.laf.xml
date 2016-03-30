@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_CRI_HAU_007240_20150131" lang=""/>
+  <DOC id="NW_CRI_HAU_007240_20150131" lang="">
+    <ANNOTATION id="NW_CRI_HAU_007240_20150131-NE1" task="NE" type="LOC">
+      <EXTENT start_char="22" end_char="35">kasar Pakistan</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

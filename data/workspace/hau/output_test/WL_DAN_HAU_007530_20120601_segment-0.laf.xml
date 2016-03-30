@@ -2,10 +2,16 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_DAN_HAU_007530_20120601" lang="">
-    <ANNOTATION id="WL_DAN_HAU_007530_20120601-NE1" task="NE" type="LOC">
-      <EXTENT start_char="10" end_char="17">Nijeriya</EXTENT>
+    <ANNOTATION id="WL_DAN_HAU_007530_20120601-NE1" task="NE" type="PER">
+      <EXTENT start_char="0" end_char="8">Gwamnatin</EXTENT>
     </ANNOTATION>
     <ANNOTATION id="WL_DAN_HAU_007530_20120601-NE2" task="NE" type="LOC">
+      <EXTENT start_char="10" end_char="17">Nijeriya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007530_20120601-NE3" task="NE" type="PER">
+      <EXTENT start_char="61" end_char="62">Ce</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007530_20120601-NE4" task="NE" type="PER">
       <EXTENT start_char="64" end_char="71">Karin Ba</EXTENT>
     </ANNOTATION>
   </DOC>

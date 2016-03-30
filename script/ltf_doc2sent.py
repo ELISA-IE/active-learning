@@ -5,7 +5,7 @@ import io
 import xml.etree.ElementTree as ET
 
 
-def doc2sent(ltf_xml, laf_xml):
+def doc2sent(ltf_xml, laf_xml, is_eval_il):
     # process ltf
     ltf_result = []
     ltf_root = ET.parse(ltf_xml)
@@ -24,6 +24,9 @@ def doc2sent(ltf_xml, laf_xml):
         seg_id = seg.get('id')
         offset_start = seg.get('start_char')
         offset_end = seg.get('end_char')
+        if not offset_start or not  offset_end:
+            offset_start = '0'
+            offset_end = '0'
         sent_docid = '_'.join([docid, seg_id])
         ltf_result.append((ltf_head +
                            ET.tostring(seg, encoding='UTF-8').replace("<?xml version='1.0' encoding='UTF-8'?>\n", '') +
@@ -32,6 +35,9 @@ def doc2sent(ltf_xml, laf_xml):
 
     # process laf
     laf_result = []
+    if is_eval_il:
+        return ltf_result, laf_result
+
     laf_root = ET.parse(laf_xml)
     laf_empty = '''<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
@@ -74,15 +80,16 @@ if __name__ == '__main__':
     #     laf_indir = sys.argv[3]
     #     laf_outdir = sys.argv[4]
 
-    ltf_indir = '../hau/ltf_doc'
-    ltf_outdir = '../hau/ltf_sent'
-    laf_indir = '../hau/laf_doc'
-    laf_outdir = '../hau/laf_sent'
+    ltf_indir = '../data/workspace/hun/ltf_doc'
+    ltf_outdir = '../data/workspace/hun/ltf_sent'
+    laf_indir = '../data/workspace/hun/laf_doc'
+    laf_outdir = '../data/workspace/hun/laf_sent'
+    is_eval_il = True
 
     for fn in os.listdir(ltf_indir):
         ltf_path = os.path.join(ltf_indir, fn)
         laf_path = os.path.join(laf_indir, fn.replace('ltf', 'laf'))
-        ltf_sents, laf_sents = doc2sent(ltf_path, laf_path)
+        ltf_sents, laf_sents = doc2sent(ltf_path, laf_path, is_eval_il)
         for item in ltf_sents:
             f = io.open(os.path.join(ltf_outdir, item[1]+'.ltf.xml'), 'w', -1, 'utf-8')
             f.write(unicode(item[0], encoding='utf-8'))

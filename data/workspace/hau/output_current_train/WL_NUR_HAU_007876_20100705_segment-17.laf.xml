@@ -2,8 +2,14 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_NUR_HAU_007876_20100705" lang="">
-    <ANNOTATION id="WL_NUR_HAU_007876_20100705-NE1" task="NE" type="LOC">
-      <EXTENT start_char="3384" end_char="3394">Ahmad Yasin</EXTENT>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-NE1" task="NE" type="TTL">
+      <EXTENT start_char="3377" end_char="3382">Sheikh</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-NE2" task="NE" type="PER">
+      <EXTENT start_char="3384" end_char="3388">Ahmad</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007876_20100705-NE3" task="NE" type="LOC">
+      <EXTENT start_char="3521" end_char="3535">kasar Israʼilan</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

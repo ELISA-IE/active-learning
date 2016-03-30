@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_WSJ_ENG_0176_20060331.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_WSJ_ENG_0176_20060331.hun" lang="HUN">
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE1" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-0-3" end_token="NW_WSJ_ENG_0176_20060331.hun-0-5">
+    <EXTENT>Nyugat - India</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE2" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-4-11" end_token="NW_WSJ_ENG_0176_20060331.hun-4-11">
+    <EXTENT>Sidhpur</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE3" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-8-6" end_token="NW_WSJ_ENG_0176_20060331.hun-8-6">
+    <EXTENT>Sidhpur</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE4" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-11-5" end_token="NW_WSJ_ENG_0176_20060331.hun-11-5">
+    <EXTENT>Indiában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE5" task="NE" type="PER" start_token="NW_WSJ_ENG_0176_20060331.hun-11-18" end_token="NW_WSJ_ENG_0176_20060331.hun-11-22">
+    <EXTENT>T . V . Krisnamurti</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE6" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-11-24" end_token="NW_WSJ_ENG_0176_20060331.hun-11-30">
+    <EXTENT>a Procter &amp; Gamble India Ltd .</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE7" task="NE" type="TTL" start_token="NW_WSJ_ENG_0176_20060331.hun-11-31" end_token="NW_WSJ_ENG_0176_20060331.hun-11-31">
+    <EXTENT>alelnöke</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE8" task="NE" type="PER" start_token="NW_WSJ_ENG_0176_20060331.hun-13-0" end_token="NW_WSJ_ENG_0176_20060331.hun-13-1">
+    <EXTENT>Arvind Patel</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE9" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-14-8" end_token="NW_WSJ_ENG_0176_20060331.hun-14-8">
+    <EXTENT>Sidhpur</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE10" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-14-16" end_token="NW_WSJ_ENG_0176_20060331.hun-14-18">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE11" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-14-19" end_token="NW_WSJ_ENG_0176_20060331.hun-14-22">
+    <EXTENT>Élelmiszerügyi és Gyógyszerészeti Igazgatóságától</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE12" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-15-12" end_token="NW_WSJ_ENG_0176_20060331.hun-15-12">
+    <EXTENT>sidhpuri</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE13" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-19-9" end_token="NW_WSJ_ENG_0176_20060331.hun-19-11">
+    <EXTENT>Észak - Indiában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE14" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-20-9" end_token="NW_WSJ_ENG_0176_20060331.hun-20-11">
+    <EXTENT>Új - Delhiben</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE15" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-21-2" end_token="NW_WSJ_ENG_0176_20060331.hun-21-2">
+    <EXTENT>bombayi</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE16" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-28-13" end_token="NW_WSJ_ENG_0176_20060331.hun-28-18">
+    <EXTENT>a Procter &amp; Gamble Co .</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE17" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-28-22" end_token="NW_WSJ_ENG_0176_20060331.hun-28-24">
+    <EXTENT>az Egyesült Államokban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE18" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-28-31" end_token="NW_WSJ_ENG_0176_20060331.hun-28-36">
+    <EXTENT>a Ciba - Geigy Corp .</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE19" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-30-1" end_token="NW_WSJ_ENG_0176_20060331.hun-30-1">
+    <EXTENT>cincinnati</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE20" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-30-3" end_token="NW_WSJ_ENG_0176_20060331.hun-30-5">
+    <EXTENT>P &amp; G</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE21" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-31-5" end_token="NW_WSJ_ENG_0176_20060331.hun-31-7">
+    <EXTENT>a Minnesotai egyetem</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE22" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-33-2" end_token="NW_WSJ_ENG_0176_20060331.hun-33-5">
+    <EXTENT>a P &amp; G</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE23" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-33-8" end_token="NW_WSJ_ENG_0176_20060331.hun-33-11">
+    <EXTENT>az FDA - tól</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE24" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-33-17" end_token="NW_WSJ_ENG_0176_20060331.hun-33-19">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE25" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-35-0" end_token="NW_WSJ_ENG_0176_20060331.hun-35-4">
+    <EXTENT>A General Mills Inc .,</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE26" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-36-1" end_token="NW_WSJ_ENG_0176_20060331.hun-36-4">
+    <EXTENT>a Kellogg Co .</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE27" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-39-2" end_token="NW_WSJ_ENG_0176_20060331.hun-39-6">
+    <EXTENT>az Élelmiszerügyi és Gyógyszerészeti Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE28" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-41-0" end_token="NW_WSJ_ENG_0176_20060331.hun-41-1">
+    <EXTENT>Az FDA</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE29" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-41-3" end_token="NW_WSJ_ENG_0176_20060331.hun-41-4">
+    <EXTENT>a Kelloggot</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE30" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-41-6" end_token="NW_WSJ_ENG_0176_20060331.hun-41-8">
+    <EXTENT>a General Millst</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE31" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-42-2" end_token="NW_WSJ_ENG_0176_20060331.hun-42-5">
+    <EXTENT>a P &amp; G</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE32" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-44-1" end_token="NW_WSJ_ENG_0176_20060331.hun-44-2">
+    <EXTENT>az FDA</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE33" task="NE" type="PER" start_token="NW_WSJ_ENG_0176_20060331.hun-45-7" end_token="NW_WSJ_ENG_0176_20060331.hun-45-7">
+    <EXTENT>Krisnamurti</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE34" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-45-8" end_token="NW_WSJ_ENG_0176_20060331.hun-45-13">
+    <EXTENT>a P &amp; G - től</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE35" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-45-14" end_token="NW_WSJ_ENG_0176_20060331.hun-45-14">
+    <EXTENT>Bombayben</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE36" task="NE" type="PER" start_token="NW_WSJ_ENG_0176_20060331.hun-46-0" end_token="NW_WSJ_ENG_0176_20060331.hun-46-0">
+    <EXTENT>Patel</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE37" task="NE" type="TTL" start_token="NW_WSJ_ENG_0176_20060331.hun-46-1" end_token="NW_WSJ_ENG_0176_20060331.hun-46-1">
+    <EXTENT>úr</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE38" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-46-10" end_token="NW_WSJ_ENG_0176_20060331.hun-46-12">
+    <EXTENT>az Egyesült Államokból</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE39" task="NE" type="PER" start_token="NW_WSJ_ENG_0176_20060331.hun-50-10" end_token="NW_WSJ_ENG_0176_20060331.hun-50-11">
+    <EXTENT>Sooraji Jath</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE40" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-50-17" end_token="NW_WSJ_ENG_0176_20060331.hun-50-17">
+    <EXTENT>Lakshmipura</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE41" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-52-1" end_token="NW_WSJ_ENG_0176_20060331.hun-52-10">
+    <EXTENT>az Alapvető Vegyszerek , Gyógyszerek és Kozmetikumok Exportja Előmozdításának Tanácsánál</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE42" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-53-10" end_token="NW_WSJ_ENG_0176_20060331.hun-53-10">
+    <EXTENT>amerikai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE43" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-58-0" end_token="NW_WSJ_ENG_0176_20060331.hun-58-0">
+    <EXTENT>Sidhpur</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE44" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-61-3" end_token="NW_WSJ_ENG_0176_20060331.hun-61-3">
+    <EXTENT>Pakisztánban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE45" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-61-5" end_token="NW_WSJ_ENG_0176_20060331.hun-61-5">
+    <EXTENT>Franciaországban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE46" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-61-7" end_token="NW_WSJ_ENG_0176_20060331.hun-61-7">
+    <EXTENT>Spanyolországban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE47" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-61-9" end_token="NW_WSJ_ENG_0176_20060331.hun-61-9">
+    <EXTENT>Belgiumban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE48" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-61-11" end_token="NW_WSJ_ENG_0176_20060331.hun-61-11">
+    <EXTENT>Brazíliában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE49" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-61-20" end_token="NW_WSJ_ENG_0176_20060331.hun-61-20">
+    <EXTENT>indiai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE50" task="NE" type="ORG" start_token="NW_WSJ_ENG_0176_20060331.hun-62-6" end_token="NW_WSJ_ENG_0176_20060331.hun-62-9">
+    <EXTENT>a Procter &amp; Gamble</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE51" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-62-14" end_token="NW_WSJ_ENG_0176_20060331.hun-62-15">
+    <EXTENT>a földön</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE52" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-62-18" end_token="NW_WSJ_ENG_0176_20060331.hun-62-18">
+    <EXTENT>Indiában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE53" task="NE" type="PER" start_token="NW_WSJ_ENG_0176_20060331.hun-63-16" end_token="NW_WSJ_ENG_0176_20060331.hun-63-16">
+    <EXTENT>Krisnamurti</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE54" task="NE" type="LOC" start_token="NW_WSJ_ENG_0176_20060331.hun-65-0" end_token="NW_WSJ_ENG_0176_20060331.hun-65-0">
+    <EXTENT>Sidhpurban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE55" task="NE" type="PER" start_token="NW_WSJ_ENG_0176_20060331.hun-67-0" end_token="NW_WSJ_ENG_0176_20060331.hun-67-0">
+    <EXTENT>Jath</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE56" task="NE" type="TTL" start_token="NW_WSJ_ENG_0176_20060331.hun-67-1" end_token="NW_WSJ_ENG_0176_20060331.hun-67-1">
+    <EXTENT>úr</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0176_20060331.hun-NE57" task="NE" type="PER" start_token="NW_WSJ_ENG_0176_20060331.hun-69-2" end_token="NW_WSJ_ENG_0176_20060331.hun-69-2">
+    <EXTENT>Parkhaji</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

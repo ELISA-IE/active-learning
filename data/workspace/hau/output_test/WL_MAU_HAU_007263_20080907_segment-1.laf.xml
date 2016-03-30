@@ -2,8 +2,11 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_MAU_HAU_007263_20080907" lang="">
-    <ANNOTATION id="WL_MAU_HAU_007263_20080907-NE1" task="NE" type="LOC">
-      <EXTENT start_char="147" end_char="150">Kano</EXTENT>
+    <ANNOTATION id="WL_MAU_HAU_007263_20080907-NE1" task="NE" type="ORG">
+      <EXTENT start_char="118" end_char="138">Karamar Hukumar Wudil</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007263_20080907-NE2" task="NE" type="LOC">
+      <EXTENT start_char="141" end_char="150">Jihar Kano</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

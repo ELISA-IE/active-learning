@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_005797_20141026" lang=""/>
+  <DOC id="NW_VOA_HAU_005797_20141026" lang="">
+    <ANNOTATION id="NW_VOA_HAU_005797_20141026-NE1" task="NE" type="LOC">
+      <EXTENT start_char="229" end_char="234">Guinea</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_005797_20141026-NE2" task="NE" type="LOC">
+      <EXTENT start_char="239" end_char="246">Laberiya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

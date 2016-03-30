@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_DAN_HAU_007501_20120324" lang=""/>
+  <DOC id="WL_DAN_HAU_007501_20120324" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007501_20120324-NE1" task="NE" type="LOC">
+      <EXTENT start_char="396" end_char="402">Twitter</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007501_20120324-NE2" task="NE" type="LOC">
+      <EXTENT start_char="503" end_char="512">kasar Mali</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

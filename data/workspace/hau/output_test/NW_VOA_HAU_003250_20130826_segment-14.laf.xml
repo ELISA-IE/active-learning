@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_003250_20130826" lang=""/>
+  <DOC id="NW_VOA_HAU_003250_20130826" lang="">
+    <ANNOTATION id="NW_VOA_HAU_003250_20130826-NE1" task="NE" type="TTL">
+      <EXTENT start_char="1173" end_char="1180">Tattalin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003250_20130826-NE2" task="NE" type="PER">
+      <EXTENT start_char="1182" end_char="1194">Arzikin Jihar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003250_20130826-NE3" task="NE" type="PER">
+      <EXTENT start_char="1196" end_char="1200">Gombe</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

@@ -2,8 +2,11 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_ALM_HAU_006220_20110516" lang="">
-    <ANNOTATION id="WL_ALM_HAU_006220_20110516-NE1" task="NE" type="PER">
-      <EXTENT start_char="1750" end_char="1752">Iwu</EXTENT>
+    <ANNOTATION id="WL_ALM_HAU_006220_20110516-NE1" task="NE" type="LOC">
+      <EXTENT start_char="1629" end_char="1638">kasar INEC</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_ALM_HAU_006220_20110516-NE2" task="NE" type="LOC">
+      <EXTENT start_char="1742" end_char="1752">Maurice Iwu</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

@@ -2,8 +2,14 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_NUR_HAU_007862_20100705" lang="">
-    <ANNOTATION id="WL_NUR_HAU_007862_20100705-NE1" task="NE" type="LOC">
-      <EXTENT start_char="1170" end_char="1173">Sadr</EXTENT>
+    <ANNOTATION id="WL_NUR_HAU_007862_20100705-NE1" task="NE" type="PER">
+      <EXTENT start_char="1145" end_char="1149">Allah</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007862_20100705-NE2" task="NE" type="ORG">
+      <EXTENT start_char="1157" end_char="1162">Sayyid</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007862_20100705-NE3" task="NE" type="LOC">
+      <EXTENT start_char="1164" end_char="1173">Bakir Sadr</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

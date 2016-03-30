@@ -2,8 +2,11 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="NW_VOA_HAU_005655_20141002" lang="">
-    <ANNOTATION id="NW_VOA_HAU_005655_20141002-NE1" task="NE" type="LOC">
-      <EXTENT start_char="730" end_char="742">Muhammed Baba</EXTENT>
+    <ANNOTATION id="NW_VOA_HAU_005655_20141002-NE1" task="NE" type="PER">
+      <EXTENT start_char="723" end_char="737">Hafsat Muhammed</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_005655_20141002-NE2" task="NE" type="LOC">
+      <EXTENT start_char="739" end_char="742">Baba</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

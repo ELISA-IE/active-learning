@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_CNN_ENG_0097_20001208.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_CNN_ENG_0097_20001208.hun" lang="HUN">
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE1" task="NE" type="LOC" start_token="NW_CNN_ENG_0097_20001208.hun-0-1" end_token="NW_CNN_ENG_0097_20001208.hun-0-1">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE2" task="NE" type="ORG" start_token="NW_CNN_ENG_0097_20001208.hun-0-2" end_token="NW_CNN_ENG_0097_20001208.hun-0-4">
+    <EXTENT>Elnöki Kegyelmi Bizottság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE3" task="NE" type="PER" start_token="NW_CNN_ENG_0097_20001208.hun-0-6" end_token="NW_CNN_ENG_0097_20001208.hun-0-7">
+    <EXTENT>Vlagyimir Putyin</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE4" task="NE" type="TTL" start_token="NW_CNN_ENG_0097_20001208.hun-0-8" end_token="NW_CNN_ENG_0097_20001208.hun-0-8">
+    <EXTENT>elnök</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE5" task="NE" type="LOC" start_token="NW_CNN_ENG_0097_20001208.hun-0-18" end_token="NW_CNN_ENG_0097_20001208.hun-0-18">
+    <EXTENT>amerikai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE6" task="NE" type="PER" start_token="NW_CNN_ENG_0097_20001208.hun-0-21" end_token="NW_CNN_ENG_0097_20001208.hun-0-22">
+    <EXTENT>Edmund Pope</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE7" task="NE" type="PER" start_token="NW_CNN_ENG_0097_20001208.hun-1-0" end_token="NW_CNN_ENG_0097_20001208.hun-1-0">
+    <EXTENT>Putyin</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE8" task="NE" type="PER" start_token="NW_CNN_ENG_0097_20001208.hun-1-7" end_token="NW_CNN_ENG_0097_20001208.hun-1-7">
+    <EXTENT>Pope</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE9" task="NE" type="LOC" start_token="NW_CNN_ENG_0097_20001208.hun-2-1" end_token="NW_CNN_ENG_0097_20001208.hun-2-1">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE10" task="NE" type="PER" start_token="NW_CNN_ENG_0097_20001208.hun-2-5" end_token="NW_CNN_ENG_0097_20001208.hun-2-5">
+    <EXTENT>Putyin</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE11" task="NE" type="PER" start_token="NW_CNN_ENG_0097_20001208.hun-3-0" end_token="NW_CNN_ENG_0097_20001208.hun-3-2">
+    <EXTENT>Pope - ot</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE12" task="NE" type="LOC" start_token="NW_CNN_ENG_0097_20001208.hun-3-6" end_token="NW_CNN_ENG_0097_20001208.hun-3-6">
+    <EXTENT>Moszkvában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE13" task="NE" type="PER" start_token="NW_CNN_ENG_0097_20001208.hun-4-9" end_token="NW_CNN_ENG_0097_20001208.hun-4-9">
+    <EXTENT>Putyint</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0097_20001208.hun-NE14" task="NE" type="LOC" start_token="NW_CNN_ENG_0097_20001208.hun-4-13" end_token="NW_CNN_ENG_0097_20001208.hun-4-15">
+    <EXTENT>az Egyesült Államokba</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

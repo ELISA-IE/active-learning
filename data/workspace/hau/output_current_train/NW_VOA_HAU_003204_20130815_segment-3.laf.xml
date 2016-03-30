@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_003204_20130815" lang=""/>
+  <DOC id="NW_VOA_HAU_003204_20130815" lang="">
+    <ANNOTATION id="NW_VOA_HAU_003204_20130815-NE1" task="NE" type="PER">
+      <EXTENT start_char="482" end_char="493">Sashen Hausa</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003204_20130815-NE2" task="NE" type="PER">
+      <EXTENT start_char="520" end_char="534">Mallam Hussaini</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

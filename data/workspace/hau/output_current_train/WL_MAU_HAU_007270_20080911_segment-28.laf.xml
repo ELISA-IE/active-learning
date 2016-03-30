@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_MAU_HAU_007270_20080911" lang=""/>
+  <DOC id="WL_MAU_HAU_007270_20080911" lang="">
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE1" task="NE" type="LOC">
+      <EXTENT start_char="3343" end_char="3347">Media</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE2" task="NE" type="PER">
+      <EXTENT start_char="3349" end_char="3361">Trust Limited</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE3" task="NE" type="LOC">
+      <EXTENT start_char="3398" end_char="3409">Weekly Trust</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE4" task="NE" type="LOC">
+      <EXTENT start_char="3433" end_char="3439">Aminiya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

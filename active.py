@@ -17,23 +17,10 @@ import multiprocessing as mp
 from subprocess import Popen
 from itertools import repeat
 from multiprocessing import cpu_count
+import shutil
 
 
 #GLOBAL VARIABLES (MODIFY MODULE AS NEEDED)
-
-il = 'hau'
-WORKING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                           'data/workspace/%s' % il)
-PROBS_DIR = os.path.join(WORKING_DIR,'probs')
-MODEL_DIR = os.path.join(WORKING_DIR,'model')
-LAF_CURRENT_TRAIN_DIR = os.path.join(WORKING_DIR,'laf_current_train')
-LTF_TRAIN_DIR = os.path.join(WORKING_DIR,'ltf_train')
-OUT_DIR = os.path.join(WORKING_DIR,'output_current_train')
-TRAIN = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                     'train.py')
-TAG = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                   'tagger.py')
-NUM_PROC = cpu_count() / 2 if cpu_count() / 2 < 10 else 10  # use half of the cpus, maximum is 10.
 
 
 class ActiveLearning(object):
@@ -46,7 +33,7 @@ class ActiveLearning(object):
     ## batch_size - The numer of samples per iteration
     ## select - The selection mode. Default mode entropy
     ## verbose - Debugging purposes
-    def __init__(self, working_dir=None, unlabeled_data=[], max_iter=50,
+    def __init__(self, il, working_dir=None, unlabeled_ltf=[], max_iter=50,
                  init_size=50, max_size=100, batch_size=5, select='select_entropy', verbose=False):
 
         if not working_dir == None:
@@ -57,10 +44,28 @@ class ActiveLearning(object):
             exit()
 
         #UNLABELED DATA (LTF FILES)
-        self.train_set = set([item.replace('ltf', 'laf') for item in unlabeled_data])
+        # self.train_set = set([item.replace('ltf', 'laf') for item in unlabeled_data])
+        self.unlabeled_ltf = set(unlabeled_ltf)
+        self.labled_ltf = set()
+
+        # path config
+        self.WORKING_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                        'data/workspace/%s' % il)
+        self.LAF_CURRENT_TRAIN_DIR = os.path.join(working_dir, 'laf_current_train')
+        self.LTF_CURRENT_TRAIN_DIR = os.path.join(working_dir, 'ltf_current_train')
+        self.PROBS_DIR = os.path.join(WORKING_DIR,'probs')
+        self.MODEL_DIR = os.path.join(WORKING_DIR,'model')
+        # LAF_CURRENT_TRAIN_DIR = os.path.join(WORKING_DIR,'laf_current_train')
+        # LTF_TRAIN_DIR = os.path.join(WORKING_DIR,'ltf_train')
+        self.OUT_DIR = os.path.join(WORKING_DIR,'output_current_train')
+        self.TRAIN = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                  'train.py')
+        self.TAG = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                'tagger.py')
+        self.NUM_PROC = cpu_count() / 2 if cpu_count() / 2 < 10 else 10  # use half of the cpus, maximum is 10.
 
         if verbose:
-            print "INFO: Unlabeled data: " + str(len(unlabeled_data))
+            print "INFO: Unlabeled data: " + str(len(unlabeled_ltf))
 
         # self.frequency = dict()
         # sum = 0.0
@@ -95,19 +100,30 @@ class ActiveLearning(object):
         self.max_size = max_size
 
         #COMMANDS FOR MODEL PROCESSING
-        self.cmd_del_model = ['rm', '-r', MODEL_DIR]
-        self.cmd_del_syslaf = ['rm', '-r', OUT_DIR]
-        self.cmd_mk_syslaf = ['mkdir', OUT_DIR]
-        self.cmd_del_probs = ['rm', '-r', PROBS_DIR]
-        self.cmd_mk_probs = ['mkdir', PROBS_DIR]
+        self.cmd_del_model = ['rm', '-r', self.MODEL_DIR]
+        self.cmd_del_syslaf = ['rm', '-r', self.OUT_DIR]
+        self.cmd_mk_syslaf = ['mkdir', self.OUT_DIR]
+        self.cmd_del_probs = ['rm', '-r', self.PROBS_DIR]
+        self.cmd_mk_probs = ['mkdir', self.PROBS_DIR]
 
         #BEGINNING DATA (LAF FILES)
-        self.init_train_set = set()
-        self.current_train_set = set()
-        self.current_test_set = set()
+        # self.current_train_set = set()
+        # self.current_test_set = set()
+
+        # clear ltf and laf current_train directory for annotation
+        if os.path.exists(self.LAF_CURRENT_TRAIN_DIR):
+            shutil.rmtree(self.LAF_CURRENT_TRAIN_DIR)
+        os.mkdir(self.LAF_CURRENT_TRAIN_DIR)
+        if os.path.exists(self.LTF_CURRENT_TRAIN_DIR):
+            shutil.rmtree(self.LTF_CURRENT_TRAIN_DIR)
+        os.mkdir(self.LTF_CURRENT_TRAIN_DIR)
 
     def init_set(self):
-        return self.select_random(self.init_size, LTF_TRAIN_DIR)
+        ltf_to_label = self.select_random(self.init_size)
+        self.labled_ltf = set(ltf_to_label)
+        self.unlabeled_ltf -= self.labled_ltf
+
+        return ltf_to_label
 
     def select(self, size):
         if self.mode == 'select_entropy':
@@ -140,7 +156,7 @@ class ActiveLearning(object):
         # for item in results[1:]:
         #     sum_TK.update(item)
 
-        sum_TK = prob_score(PROBS_DIR, self.current_test_set)
+        sum_TK = prob_score(self.PROBS_DIR, self.unlabeled_ltf)
         sorted_entropy = sorted(sum_TK.items(), key=operator.itemgetter(1), reverse=True)
         ############################################
 
@@ -149,42 +165,33 @@ class ActiveLearning(object):
 
         for item in sorted_entropy[:sample_size]:
             sent_doc = item[0]
-            sent_doc_xml = sent_doc.replace('ltf', 'laf')
-            if sent_doc_xml not in self.current_train_set:
-                training_set_to_add.append(sent_doc_xml)
+            training_set_to_add.append(sent_doc)
 
         return training_set_to_add
 
-    def select_random(self, size, dir):
+    def select_random(self, size):
         if self.verbose:
             print 'INFO: Randomly selecting', size, 'sentences'
-        training_set_to_add = []
-        sub = len(self.train_set) - len(self.current_train_set)
+        if len(self.unlabeled_ltf) < size:
+            return self.unlabeled_ltf
 
-        if sub < size:
-            sample_size = sub
-
-        candidates = list(set(os.listdir(dir)) - self.current_train_set)
-
-        while len(training_set_to_add) < size:
-            temp = random.randint(0, (len(candidates) - 1))
-            training_set_to_add.append(candidates[temp])
-
-        return set(training_set_to_add)
+        return random.sample(self.unlabeled_ltf, size)
 
     def select_info_div(self, size):
         pass
 
-    def retrain(self, annotated_files):
+    def train(self):
         subprocess.call(self.cmd_del_model)
-        self.current_train_set.update(annotated_files)
+        # self.current_train_set.update(annotated_files)
+
         # print annotated_files
-        train_list = [os.path.join(LAF_CURRENT_TRAIN_DIR, file) for file in self.current_train_set] # get the name list of training set
+        train_list = [os.path.join(self.LAF_CURRENT_TRAIN_DIR, fn) for fn in os.listdir(self.LAF_CURRENT_TRAIN_DIR)] # get the name list of training set
 
         if self.verbose:
-            print 'INFO: Beginning Training (%d sents)' % len(self.current_train_set)
+            print 'INFO: Beginning Training (%d files)' % len(train_list)
 
-        train_command = [TRAIN, MODEL_DIR, os.path.join(WORKING_DIR, 'frequency.txt'), LTF_TRAIN_DIR] + train_list
+        train_command = [self.TRAIN, self.MODEL_DIR, os.path.join(self.WORKING_DIR, 'frequency.txt'),
+                         self.LTF_CURRENT_TRAIN_DIR] + train_list
         # train_command = [TRAIN, MODEL_DIR, os.path.join(WORKING_DIR, 'frequency.txt'), LTF_TRAIN_DIR] + train_list
 
         subprocess.call(train_command)
@@ -196,10 +203,10 @@ class ActiveLearning(object):
         if self.verbose:
             print 'INFO: Training Completed'
 
-        self.current_test_set = [item.replace('laf', 'ltf') for item in list(self.train_set - self.current_train_set)]
+        # self.current_test_set = [item.replace('laf', 'ltf') for item in list(self.train_set - self.current_train_set)]
 
         if self.verbose:
-            print 'INFO: Beginning Tagging (%d sents)' % len(self.current_test_set)
+            print 'INFO: Beginning Tagging (%d files)' % len(self.unlabeled_ltf)
 
         # tag_mul_list = [[]]
         # len_chunk = len(test_set)/NUM_PROC
@@ -217,13 +224,12 @@ class ActiveLearning(object):
 
         # *********** multiprocessing *********** #
         # chunk test_set
-        n = int(math.ceil(len(self.current_test_set) / float(NUM_PROC)))
-        args = [self.current_test_set[i:i+n] for i in xrange(0, len(self.current_test_set), n)]
+        n = int(math.ceil(len(self.unlabeled_ltf) / float(self.NUM_PROC)))
+        args = [list(self.unlabeled_ltf)[i:i+n] for i in xrange(0, len(self.unlabeled_ltf), n)]
 
         cmds = []
         for item in args:
-            cmds.append([TAG, '-L', OUT_DIR, MODEL_DIR] +
-                        [os.path.join(LTF_TRAIN_DIR, ltf) for ltf in item])
+            cmds.append([self.TAG, '-L', self.OUT_DIR, self.MODEL_DIR] + item)
         processes = [Popen(cmd) for cmd in cmds]
         for p in processes: p.wait()
 
@@ -235,14 +241,16 @@ class ActiveLearning(object):
             print 'INFO: Finished Tagging'
 
     def done(self):
-        if self.iter_num >= self.max_iter or len(self.current_train_set) >= self.max_size:
+        if self.iter_num >= self.max_iter or len(self.labled_ltf) >= self.max_size:
             return True
         return False
 
     def iterate(self):
         self.iter_num += 1
-        selection = self.select(self.increment)
-        return selection
+        ltf_to_label = self.select(self.increment)
+        self.labled_ltf |= set(ltf_to_label)
+        self.unlabeled_ltf -= self.labled_ltf
+        return ltf_to_label
 
 # END ACTIVE LEARNING CLASS
 
@@ -281,10 +289,10 @@ class ActiveLearning(object):
 #     return sum_score
 
 
-def prob_score(probs_dir, file_list):
+def prob_score(probs_dir, unlabeled_ltf):
     sum_score = dict()
-    for item in file_list:
-        f = codecs.open(probs_dir +'/'+item+'.txt', 'r', encoding='utf-8')
+    for fn in unlabeled_ltf:
+        f = codecs.open(probs_dir +'/'+fn.split('/')[-1]+'.txt', 'r', encoding='utf-8')
         tag_prob_list = []
         for line in f.readlines():
             line = line.strip().split(':')
@@ -295,7 +303,7 @@ def prob_score(probs_dir, file_list):
             tag_prob_list.append((tag, prob))
 
         # sentence uncertainty calculation
-        sum_score[item] = sequence_length_uncertainty(tag_prob_list)
+        sum_score[fn.replace('.txt', '')] = sequence_length_uncertainty(tag_prob_list)
 
     return sum_score
 

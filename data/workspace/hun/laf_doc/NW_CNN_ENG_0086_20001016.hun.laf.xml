@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_CNN_ENG_0086_20001016.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_CNN_ENG_0086_20001016.hun" lang="HUN">
+  <ANNOTATION id="NW_CNN_ENG_0086_20001016.hun-NE1" task="NE" type="LOC" start_token="NW_CNN_ENG_0086_20001016.hun-0-6" end_token="NW_CNN_ENG_0086_20001016.hun-0-8">
+    <EXTENT>a Nyugati part</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0086_20001016.hun-NE2" task="NE" type="LOC" start_token="NW_CNN_ENG_0086_20001016.hun-0-10" end_token="NW_CNN_ENG_0086_20001016.hun-0-13">
+    <EXTENT>a Gaza - övezet</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0086_20001016.hun-NE3" task="NE" type="LOC" start_token="NW_CNN_ENG_0086_20001016.hun-1-8" end_token="NW_CNN_ENG_0086_20001016.hun-1-8">
+    <EXTENT>Hebron</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0086_20001016.hun-NE4" task="NE" type="LOC" start_token="NW_CNN_ENG_0086_20001016.hun-2-3" end_token="NW_CNN_ENG_0086_20001016.hun-2-3">
+    <EXTENT>izraeli</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0086_20001016.hun-NE5" task="NE" type="LOC" start_token="NW_CNN_ENG_0086_20001016.hun-3-2" end_token="NW_CNN_ENG_0086_20001016.hun-3-2">
+    <EXTENT>palesztin</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0086_20001016.hun-NE6" task="NE" type="ORG" start_token="NW_CNN_ENG_0086_20001016.hun-3-9" end_token="NW_CNN_ENG_0086_20001016.hun-3-10">
+    <EXTENT>az Izraellel</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

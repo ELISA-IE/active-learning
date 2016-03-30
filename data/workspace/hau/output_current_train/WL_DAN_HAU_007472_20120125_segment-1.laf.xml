@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_DAN_HAU_007472_20120125" lang=""/>
+  <DOC id="WL_DAN_HAU_007472_20120125" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007472_20120125-NE1" task="NE" type="LOC">
+      <EXTENT start_char="109" end_char="121">Tsamiyar Boka</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007472_20120125-NE2" task="NE" type="LOC">
+      <EXTENT start_char="150" end_char="160">birnin Kano</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007472_20120125-NE3" task="NE" type="ORG">
+      <EXTENT start_char="278" end_char="287">Boko Haram</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007472_20120125-NE4" task="NE" type="ORG">
+      <EXTENT start_char="353" end_char="362">Boko Haram</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

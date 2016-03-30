@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_MAU_HAU_007268_20080909" lang=""/>
+  <DOC id="WL_MAU_HAU_007268_20080909" lang="">
+    <ANNOTATION id="WL_MAU_HAU_007268_20080909-NE1" task="NE" type="PER">
+      <EXTENT start_char="412" end_char="418">Kishiya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007268_20080909-NE2" task="NE" type="PER">
+      <EXTENT start_char="420" end_char="427">Ba Laifi</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

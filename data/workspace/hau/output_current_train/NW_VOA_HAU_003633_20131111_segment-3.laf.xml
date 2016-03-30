@@ -2,8 +2,17 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="NW_VOA_HAU_003633_20131111" lang="">
-    <ANNOTATION id="NW_VOA_HAU_003633_20131111-NE1" task="NE" type="LOC">
-      <EXTENT start_char="650" end_char="655">Muryar</EXTENT>
+    <ANNOTATION id="NW_VOA_HAU_003633_20131111-NE1" task="NE" type="PER">
+      <EXTENT start_char="650" end_char="662">Muryar Amurka</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003633_20131111-NE2" task="NE" type="LOC">
+      <EXTENT start_char="693" end_char="697">Asiya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003633_20131111-NE3" task="NE" type="PER">
+      <EXTENT start_char="700" end_char="713">Daniel Schearf</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003633_20131111-NE4" task="NE" type="LOC">
+      <EXTENT start_char="883" end_char="893">Philippines</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_WSJ_ENG_0187_20060331.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_WSJ_ENG_0187_20060331.hun" lang="HUN">
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE1" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-0-0" end_token="NW_WSJ_ENG_0187_20060331.hun-0-1">
+    <EXTENT>Walter Sisulu</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE2" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-0-3" end_token="NW_WSJ_ENG_0187_20060331.hun-0-6">
+    <EXTENT>az Afrikai Nemzeti Kongresszus</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE3" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-1-4" end_token="NW_WSJ_ENG_0187_20060331.hun-1-4">
+    <EXTENT>Sisulut</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE4" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-2-4" end_token="NW_WSJ_ENG_0187_20060331.hun-2-7">
+    <EXTENT>az ANK - tól</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE5" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-3-7" end_token="NW_WSJ_ENG_0187_20060331.hun-3-8">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE6" task="NE" type="LOC" start_token="NW_WSJ_ENG_0187_20060331.hun-3-16" end_token="NW_WSJ_ENG_0187_20060331.hun-3-18">
+    <EXTENT>Dél - Afrikában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE7" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-4-8" end_token="NW_WSJ_ENG_0187_20060331.hun-4-8">
+    <EXTENT>ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE8" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-4-12" end_token="NW_WSJ_ENG_0187_20060331.hun-4-12">
+    <EXTENT>Sisulu</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE9" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-4-24" end_token="NW_WSJ_ENG_0187_20060331.hun-4-25">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE10" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-5-0" end_token="NW_WSJ_ENG_0187_20060331.hun-5-1">
+    <EXTENT>Elias Motsoaledi</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE11" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-5-4" end_token="NW_WSJ_ENG_0187_20060331.hun-5-4">
+    <EXTENT>ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE12" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-5-12" end_token="NW_WSJ_ENG_0187_20060331.hun-5-15">
+    <EXTENT>az Umkhonto we Sizwének</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE13" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-5-26" end_token="NW_WSJ_ENG_0187_20060331.hun-5-26">
+    <EXTENT>ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE14" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-5-34" end_token="NW_WSJ_ENG_0187_20060331.hun-5-34">
+    <EXTENT>ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE15" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-6-12" end_token="NW_WSJ_ENG_0187_20060331.hun-6-12">
+    <EXTENT>Sisulu</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE16" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-7-10" end_token="NW_WSJ_ENG_0187_20060331.hun-7-10">
+    <EXTENT>ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE17" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-7-12" end_token="NW_WSJ_ENG_0187_20060331.hun-7-12">
+    <EXTENT>ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE18" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-9-4" end_token="NW_WSJ_ENG_0187_20060331.hun-9-5">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE19" task="NE" type="LOC" start_token="NW_WSJ_ENG_0187_20060331.hun-9-16" end_token="NW_WSJ_ENG_0187_20060331.hun-9-16">
+    <EXTENT>Lusakában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE20" task="NE" type="LOC" start_token="NW_WSJ_ENG_0187_20060331.hun-9-18" end_token="NW_WSJ_ENG_0187_20060331.hun-9-18">
+    <EXTENT>Zambiában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE21" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-10-11" end_token="NW_WSJ_ENG_0187_20060331.hun-10-12">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE22" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-11-8" end_token="NW_WSJ_ENG_0187_20060331.hun-11-11">
+    <EXTENT>az ANK - t</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE23" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-11-17" end_token="NW_WSJ_ENG_0187_20060331.hun-11-18">
+    <EXTENT>Cassim Saloojee</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE24" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-11-23" end_token="NW_WSJ_ENG_0187_20060331.hun-11-23">
+    <EXTENT>Sisulut</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE25" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-14-5" end_token="NW_WSJ_ENG_0187_20060331.hun-14-6">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE26" task="NE" type="LOC" start_token="NW_WSJ_ENG_0187_20060331.hun-14-17" end_token="NW_WSJ_ENG_0187_20060331.hun-14-21">
+    <EXTENT>a Szent Kereszt Anglikán Templomba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE27" task="NE" type="LOC" start_token="NW_WSJ_ENG_0187_20060331.hun-14-22" end_token="NW_WSJ_ENG_0187_20060331.hun-14-22">
+    <EXTENT>Sowetóban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE28" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-14-33" end_token="NW_WSJ_ENG_0187_20060331.hun-14-33">
+    <EXTENT>ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE29" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-15-3" end_token="NW_WSJ_ENG_0187_20060331.hun-15-3">
+    <EXTENT>ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE30" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-15-7" end_token="NW_WSJ_ENG_0187_20060331.hun-15-9">
+    <EXTENT>Umkhonto we Sizwe</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE31" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-15-26" end_token="NW_WSJ_ENG_0187_20060331.hun-15-27">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE32" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-16-8" end_token="NW_WSJ_ENG_0187_20060331.hun-16-9">
+    <EXTENT>Nelson Mandelát</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE33" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-16-11" end_token="NW_WSJ_ENG_0187_20060331.hun-16-12">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE34" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-17-3" end_token="NW_WSJ_ENG_0187_20060331.hun-17-3">
+    <EXTENT>Sisulu</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE35" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-18-0" end_token="NW_WSJ_ENG_0187_20060331.hun-18-5">
+    <EXTENT>F . W . de Klerk</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE36" task="NE" type="TTL" start_token="NW_WSJ_ENG_0187_20060331.hun-18-6" end_token="NW_WSJ_ENG_0187_20060331.hun-18-6">
+    <EXTENT>elnök</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE37" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-18-7" end_token="NW_WSJ_ENG_0187_20060331.hun-18-8">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE38" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-18-11" end_token="NW_WSJ_ENG_0187_20060331.hun-18-13">
+    <EXTENT>a Pánafrikai Kongresszus</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE39" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-19-5" end_token="NW_WSJ_ENG_0187_20060331.hun-19-5">
+    <EXTENT>Pretoria</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE40" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-20-6" end_token="NW_WSJ_ENG_0187_20060331.hun-20-6">
+    <EXTENT>Lengyelország</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE41" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-20-8" end_token="NW_WSJ_ENG_0187_20060331.hun-20-9">
+    <EXTENT>a Szovjetunió</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE42" task="NE" type="LOC" start_token="NW_WSJ_ENG_0187_20060331.hun-21-4" end_token="NW_WSJ_ENG_0187_20060331.hun-21-6">
+    <EXTENT>dél - afrikai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE43" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-21-15" end_token="NW_WSJ_ENG_0187_20060331.hun-21-15">
+    <EXTENT>Mandela</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE44" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-21-20" end_token="NW_WSJ_ENG_0187_20060331.hun-21-21">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE45" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-22-12" end_token="NW_WSJ_ENG_0187_20060331.hun-22-15">
+    <EXTENT>az ANK - val</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE46" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-24-4" end_token="NW_WSJ_ENG_0187_20060331.hun-24-4">
+    <EXTENT>ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE47" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-25-24" end_token="NW_WSJ_ENG_0187_20060331.hun-25-24">
+    <EXTENT>Pretoria</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE48" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-25-30" end_token="NW_WSJ_ENG_0187_20060331.hun-25-30">
+    <EXTENT>Mandela</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE49" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-26-0" end_token="NW_WSJ_ENG_0187_20060331.hun-26-0">
+    <EXTENT>Pretoria</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE50" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-27-13" end_token="NW_WSJ_ENG_0187_20060331.hun-27-14">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE51" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-28-4" end_token="NW_WSJ_ENG_0187_20060331.hun-28-4">
+    <EXTENT>Mandela</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE52" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-28-18" end_token="NW_WSJ_ENG_0187_20060331.hun-28-19">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE53" task="NE" type="LOC" start_token="NW_WSJ_ENG_0187_20060331.hun-28-21" end_token="NW_WSJ_ENG_0187_20060331.hun-28-21">
+    <EXTENT>Lusakában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE54" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-30-0" end_token="NW_WSJ_ENG_0187_20060331.hun-30-1">
+    <EXTENT>Peter Mokaba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE55" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-30-3" end_token="NW_WSJ_ENG_0187_20060331.hun-30-8">
+    <EXTENT>a Dél - Afrikai Ifjúsági Kongresszus</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE56" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-30-22" end_token="NW_WSJ_ENG_0187_20060331.hun-30-23">
+    <EXTENT>az ANK</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE57" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-33-18" end_token="NW_WSJ_ENG_0187_20060331.hun-33-19">
+    <EXTENT>Andrew Mlangeni</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE58" task="NE" type="ORG" start_token="NW_WSJ_ENG_0187_20060331.hun-33-24" end_token="NW_WSJ_ENG_0187_20060331.hun-33-24">
+    <EXTENT>Umkhonto</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0187_20060331.hun-NE59" task="NE" type="PER" start_token="NW_WSJ_ENG_0187_20060331.hun-34-5" end_token="NW_WSJ_ENG_0187_20060331.hun-34-6">
+    <EXTENT>Nelson Mandelát</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

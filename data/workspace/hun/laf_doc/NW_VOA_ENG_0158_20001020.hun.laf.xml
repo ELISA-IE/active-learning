@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_VOA_ENG_0158_20001020.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_VOA_ENG_0158_20001020.hun" lang="HUN">
+  <ANNOTATION id="NW_VOA_ENG_0158_20001020.hun-NE1" task="NE" type="LOC" start_token="NW_VOA_ENG_0158_20001020.hun-0-1" end_token="NW_VOA_ENG_0158_20001020.hun-0-1">
+    <EXTENT>moszkvai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_VOA_ENG_0158_20001020.hun-NE2" task="NE" type="PER" start_token="NW_VOA_ENG_0158_20001020.hun-0-9" end_token="NW_VOA_ENG_0158_20001020.hun-0-10">
+    <EXTENT>Edmond Pope</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_VOA_ENG_0158_20001020.hun-NE3" task="NE" type="PER" start_token="NW_VOA_ENG_0158_20001020.hun-1-0" end_token="NW_VOA_ENG_0158_20001020.hun-1-0">
+    <EXTENT>Pope</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_VOA_ENG_0158_20001020.hun-NE4" task="NE" type="ORG" start_token="NW_VOA_ENG_0158_20001020.hun-2-0" end_token="NW_VOA_ENG_0158_20001020.hun-2-0">
+    <EXTENT>Oroszország</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_VOA_ENG_0158_20001020.hun-NE5" task="NE" type="LOC" start_token="NW_VOA_ENG_0158_20001020.hun-2-3" end_token="NW_VOA_ENG_0158_20001020.hun-2-3">
+    <EXTENT>amerikai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_VOA_ENG_0158_20001020.hun-NE6" task="NE" type="LOC" start_token="NW_VOA_ENG_0158_20001020.hun-2-17" end_token="NW_VOA_ENG_0158_20001020.hun-2-17">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_VOA_ENG_0158_20001020.hun-NE7" task="NE" type="LOC" start_token="NW_VOA_ENG_0158_20001020.hun-3-18" end_token="NW_VOA_ENG_0158_20001020.hun-3-18">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

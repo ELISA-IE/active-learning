@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_003028_20130711" lang=""/>
+  <DOC id="NW_VOA_HAU_003028_20130711" lang="">
+    <ANNOTATION id="NW_VOA_HAU_003028_20130711-NE1" task="NE" type="LOC">
+      <EXTENT start_char="745" end_char="755">jihar Borno</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

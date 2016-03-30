@@ -3,13 +3,22 @@
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_DAN_HAU_007539_20120613" lang="">
     <ANNOTATION id="WL_DAN_HAU_007539_20120613-NE1" task="NE" type="LOC">
-      <EXTENT start_char="36" end_char="47">Kasar Brazil</EXTENT>
+      <EXTENT start_char="0" end_char="6">Darasin</EXTENT>
     </ANNOTATION>
-    <ANNOTATION id="WL_DAN_HAU_007539_20120613-NE2" task="NE" type="LOC">
-      <EXTENT start_char="59" end_char="66">Bunkasar</EXTENT>
+    <ANNOTATION id="WL_DAN_HAU_007539_20120613-NE2" task="NE" type="PER">
+      <EXTENT start_char="8" end_char="18">Da Nijeriya</EXTENT>
     </ANNOTATION>
     <ANNOTATION id="WL_DAN_HAU_007539_20120613-NE3" task="NE" type="PER">
-      <EXTENT start_char="68" end_char="71">Noma</EXTENT>
+      <EXTENT start_char="23" end_char="29">Ta Koya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007539_20120613-NE4" task="NE" type="LOC">
+      <EXTENT start_char="36" end_char="47">Kasar Brazil</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007539_20120613-NE5" task="NE" type="PER">
+      <EXTENT start_char="49" end_char="57">Ta Fuskar</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007539_20120613-NE6" task="NE" type="LOC">
+      <EXTENT start_char="59" end_char="71">Bunkasar Noma</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

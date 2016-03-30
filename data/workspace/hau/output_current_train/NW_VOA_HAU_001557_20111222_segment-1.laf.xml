@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_001557_20111222" lang=""/>
+  <DOC id="NW_VOA_HAU_001557_20111222" lang="">
+    <ANNOTATION id="NW_VOA_HAU_001557_20111222-NE1" task="NE" type="LOC">
+      <EXTENT start_char="377" end_char="385">Bil Adama</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

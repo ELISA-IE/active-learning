@@ -2,8 +2,11 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_FAS_HAU_007804_20130213" lang="">
-    <ANNOTATION id="WL_FAS_HAU_007804_20130213-NE1" task="NE" type="LOC">
-      <EXTENT start_char="622" end_char="629">Facebook</EXTENT>
+    <ANNOTATION id="WL_FAS_HAU_007804_20130213-NE1" task="NE" type="PER">
+      <EXTENT start_char="527" end_char="531">Allah</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_FAS_HAU_007804_20130213-NE2" task="NE" type="LOC">
+      <EXTENT start_char="613" end_char="629">Dandalin Facebook</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

@@ -2,8 +2,11 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_MAU_HAU_007270_20080911" lang="">
-    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE1" task="NE" type="LOC">
-      <EXTENT start_char="1925" end_char="1940">Rediyon Nijeriya</EXTENT>
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE1" task="NE" type="PER">
+      <EXTENT start_char="1891" end_char="1894">Fari</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007270_20080911-NE2" task="NE" type="LOC">
+      <EXTENT start_char="1945" end_char="1950">Kaduna</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

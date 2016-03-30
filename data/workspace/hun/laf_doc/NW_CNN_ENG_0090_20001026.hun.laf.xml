@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_CNN_ENG_0090_20001026.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_CNN_ENG_0090_20001026.hun" lang="HUN">
+  <ANNOTATION id="NW_CNN_ENG_0090_20001026.hun-NE1" task="NE" type="LOC" start_token="NW_CNN_ENG_0090_20001026.hun-0-15" end_token="NW_CNN_ENG_0090_20001026.hun-0-15">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0090_20001026.hun-NE2" task="NE" type="LOC" start_token="NW_CNN_ENG_0090_20001026.hun-5-1" end_token="NW_CNN_ENG_0090_20001026.hun-5-1">
+    <EXTENT>norvég</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0090_20001026.hun-NE3" task="NE" type="ORG" start_token="NW_CNN_ENG_0090_20001026.hun-6-14" end_token="NW_CNN_ENG_0090_20001026.hun-6-14">
+    <EXTENT>Oroszország</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0090_20001026.hun-NE4" task="NE" type="LOC" start_token="NW_CNN_ENG_0090_20001026.hun-7-11" end_token="NW_CNN_ENG_0090_20001026.hun-7-11">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_CNN_ENG_0090_20001026.hun-NE5" task="NE" type="LOC" start_token="NW_CNN_ENG_0090_20001026.hun-11-10" end_token="NW_CNN_ENG_0090_20001026.hun-11-10">
+    <EXTENT>orosz</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

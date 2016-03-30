@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_005292_20140726" lang=""/>
+  <DOC id="NW_VOA_HAU_005292_20140726" lang="">
+    <ANNOTATION id="NW_VOA_HAU_005292_20140726-NE1" task="NE" type="ORG">
+      <EXTENT start_char="778" end_char="789">kiwon lafiya</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_005292_20140726-NE2" task="NE" type="LOC">
+      <EXTENT start_char="835" end_char="840">Afirka</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_005292_20140726-NE3" task="NE" type="LOC">
+      <EXTENT start_char="845" end_char="849">Yamma</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_005292_20140726-NE4" task="NE" type="LOC">
+      <EXTENT start_char="879" end_char="890">kasar Guinea</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_005292_20140726-NE5" task="NE" type="LOC">
+      <EXTENT start_char="924" end_char="937">kasar Liberiya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

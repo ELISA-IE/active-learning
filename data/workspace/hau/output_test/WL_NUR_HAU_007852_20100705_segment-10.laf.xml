@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_NUR_HAU_007852_20100705" lang=""/>
+  <DOC id="WL_NUR_HAU_007852_20100705" lang="">
+    <ANNOTATION id="WL_NUR_HAU_007852_20100705-NE1" task="NE" type="ORG">
+      <EXTENT start_char="2327" end_char="2335">Hizbullah</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007852_20100705-NE2" task="NE" type="LOC">
+      <EXTENT start_char="2340" end_char="2352">kasar Labanon</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007852_20100705-NE3" task="NE" type="LOC">
+      <EXTENT start_char="2371" end_char="2384">kasar Israʼila</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007852_20100705-NE4" task="NE" type="TTL">
+      <EXTENT start_char="2387" end_char="2392">Sheikh</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007852_20100705-NE5" task="NE" type="PER">
+      <EXTENT start_char="2394" end_char="2398">Ubaid</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007852_20100705-NE6" task="NE" type="LOC">
+      <EXTENT start_char="2457" end_char="2462">kasar,</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

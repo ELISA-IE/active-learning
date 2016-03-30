@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_005040_20140609" lang=""/>
+  <DOC id="NW_VOA_HAU_005040_20140609" lang="">
+    <ANNOTATION id="NW_VOA_HAU_005040_20140609-NE1" task="NE" type="LOC">
+      <EXTENT start_char="53" end_char="63">jihar Borno</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_005040_20140609-NE2" task="NE" type="ORG">
+      <EXTENT start_char="231" end_char="240">Boko Haram</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

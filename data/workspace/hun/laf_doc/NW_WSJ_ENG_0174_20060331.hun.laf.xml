@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_WSJ_ENG_0174_20060331.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_WSJ_ENG_0174_20060331.hun" lang="HUN">
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE1" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-0-8" end_token="NW_WSJ_ENG_0174_20060331.hun-0-10">
+    <EXTENT>Mario Vargas Llosa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE2" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-1-2" end_token="NW_WSJ_ENG_0174_20060331.hun-1-2">
+    <EXTENT>Peru</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE3" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-1-22" end_token="NW_WSJ_ENG_0174_20060331.hun-1-24">
+    <EXTENT>latin - amerikai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE4" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-2-18" end_token="NW_WSJ_ENG_0174_20060331.hun-2-19">
+    <EXTENT>Vargas Llosa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE5" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-3-0" end_token="NW_WSJ_ENG_0174_20060331.hun-3-1">
+    <EXTENT>Vargas Llosa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE6" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-3-13" end_token="NW_WSJ_ENG_0174_20060331.hun-3-13">
+    <EXTENT>spanyol</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE7" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-3-16" end_token="NW_WSJ_ENG_0174_20060331.hun-3-16">
+    <EXTENT>Barcelonától</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE8" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-3-17" end_token="NW_WSJ_ENG_0174_20060331.hun-3-17">
+    <EXTENT>Ushuaiáig</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE9" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-3-32" end_token="NW_WSJ_ENG_0174_20060331.hun-3-32">
+    <EXTENT>Peru</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE10" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-4-14" end_token="NW_WSJ_ENG_0174_20060331.hun-4-14">
+    <EXTENT>Peruról</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE11" task="NE" type="NO_ANNOTATION" start_token="NW_WSJ_ENG_0174_20060331.hun-5-5" end_token="NW_WSJ_ENG_0174_20060331.hun-5-9">
+    <EXTENT>Farrar , Straus &amp; Giroux</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE12" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-5-19" end_token="NW_WSJ_ENG_0174_20060331.hun-5-20">
+    <EXTENT>Helen Lane</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE13" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-5-35" end_token="NW_WSJ_ENG_0174_20060331.hun-5-35">
+    <EXTENT>perui</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE14" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-7-5" end_token="NW_WSJ_ENG_0174_20060331.hun-7-5">
+    <EXTENT>Peru</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE15" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-8-10" end_token="NW_WSJ_ENG_0174_20060331.hun-8-10">
+    <EXTENT>andesi</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE16" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-8-20" end_token="NW_WSJ_ENG_0174_20060331.hun-8-20">
+    <EXTENT>Peru</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE17" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-9-3" end_token="NW_WSJ_ENG_0174_20060331.hun-9-3">
+    <EXTENT>Peru</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE18" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-9-13" end_token="NW_WSJ_ENG_0174_20060331.hun-9-13">
+    <EXTENT>amazóniai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE19" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-10-2" end_token="NW_WSJ_ENG_0174_20060331.hun-10-3">
+    <EXTENT>Vargas Llosa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE20" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-11-0" end_token="NW_WSJ_ENG_0174_20060331.hun-11-0">
+    <EXTENT>Firenzében</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE21" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-11-5" end_token="NW_WSJ_ENG_0174_20060331.hun-11-5">
+    <EXTENT>Perutól</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE22" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-11-15" end_token="NW_WSJ_ENG_0174_20060331.hun-11-16">
+    <EXTENT>Vargas Llosa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE23" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-11-17" end_token="NW_WSJ_ENG_0174_20060331.hun-11-17">
+    <EXTENT>Párizsba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE24" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-11-24" end_token="NW_WSJ_ENG_0174_20060331.hun-11-24">
+    <EXTENT>Londonba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE25" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-12-12" end_token="NW_WSJ_ENG_0174_20060331.hun-12-12">
+    <EXTENT>perui</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE26" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-12-13" end_token="NW_WSJ_ENG_0174_20060331.hun-12-13">
+    <EXTENT>Amazóniában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE27" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-13-12" end_token="NW_WSJ_ENG_0174_20060331.hun-13-12">
+    <EXTENT>limai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE28" task="NE" type="ORG" start_token="NW_WSJ_ENG_0174_20060331.hun-13-13" end_token="NW_WSJ_ENG_0174_20060331.hun-13-15">
+    <EXTENT>San Marcos Egyetemen</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE29" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-13-19" end_token="NW_WSJ_ENG_0174_20060331.hun-13-22">
+    <EXTENT>Saul Zuratas - szal</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE30" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-14-0" end_token="NW_WSJ_ENG_0174_20060331.hun-14-0">
+    <EXTENT>Saul</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE31" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-14-26" end_token="NW_WSJ_ENG_0174_20060331.hun-14-26">
+    <EXTENT>Mascaritának</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE32" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-15-0" end_token="NW_WSJ_ENG_0174_20060331.hun-15-0">
+    <EXTENT>Saul</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE33" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-15-28" end_token="NW_WSJ_ENG_0174_20060331.hun-15-28">
+    <EXTENT>spanyol</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE34" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-16-1" end_token="NW_WSJ_ENG_0174_20060331.hun-16-1">
+    <EXTENT>Saul</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE35" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-17-0" end_token="NW_WSJ_ENG_0174_20060331.hun-17-0">
+    <EXTENT>Saul</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE36" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-21-1" end_token="NW_WSJ_ENG_0174_20060331.hun-21-1">
+    <EXTENT>Taszurincsi</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE37" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-27-3" end_token="NW_WSJ_ENG_0174_20060331.hun-27-4">
+    <EXTENT>Vargas Llosa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE38" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-29-11" end_token="NW_WSJ_ENG_0174_20060331.hun-29-11">
+    <EXTENT>amazóniai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE39" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-30-8" end_token="NW_WSJ_ENG_0174_20060331.hun-30-9">
+    <EXTENT>Vargas Llosa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE40" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-31-10" end_token="NW_WSJ_ENG_0174_20060331.hun-31-10">
+    <EXTENT>Bach</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE41" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-31-24" end_token="NW_WSJ_ENG_0174_20060331.hun-31-25">
+    <EXTENT>Vargas Llosa</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE42" task="NE" type="LOC" start_token="NW_WSJ_ENG_0174_20060331.hun-32-10" end_token="NW_WSJ_ENG_0174_20060331.hun-32-10">
+    <EXTENT>Amazóniába</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0174_20060331.hun-NE43" task="NE" type="PER" start_token="NW_WSJ_ENG_0174_20060331.hun-36-11" end_token="NW_WSJ_ENG_0174_20060331.hun-36-11">
+    <EXTENT>kafkai</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

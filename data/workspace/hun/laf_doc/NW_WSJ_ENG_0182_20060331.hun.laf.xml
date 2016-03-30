@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_WSJ_ENG_0182_20060331.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_WSJ_ENG_0182_20060331.hun" lang="HUN">
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE1" task="NE" type="ORG" start_token="NW_WSJ_ENG_0182_20060331.hun-0-0" end_token="NW_WSJ_ENG_0182_20060331.hun-0-4">
+    <EXTENT>Az Élelmiszeripari és Gyógyszerészeti Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE2" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-0-8" end_token="NW_WSJ_ENG_0182_20060331.hun-0-8">
+    <EXTENT>Kínából</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE3" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-0-12" end_token="NW_WSJ_ENG_0182_20060331.hun-0-12">
+    <EXTENT>kínai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE4" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-1-8" end_token="NW_WSJ_ENG_0182_20060331.hun-1-8">
+    <EXTENT>Kínában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE5" task="NE" type="ORG" start_token="NW_WSJ_ENG_0182_20060331.hun-1-22" end_token="NW_WSJ_ENG_0182_20060331.hun-1-23">
+    <EXTENT>az FDA</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE6" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-2-6" end_token="NW_WSJ_ENG_0182_20060331.hun-2-6">
+    <EXTENT>kínai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE7" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-2-15" end_token="NW_WSJ_ENG_0182_20060331.hun-2-17">
+    <EXTENT>az Egyesült Államokba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE8" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-2-26" end_token="NW_WSJ_ENG_0182_20060331.hun-2-26">
+    <EXTENT>Kínában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE9" task="NE" type="ORG" start_token="NW_WSJ_ENG_0182_20060331.hun-3-4" end_token="NW_WSJ_ENG_0182_20060331.hun-3-5">
+    <EXTENT>az FDA</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE10" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-3-12" end_token="NW_WSJ_ENG_0182_20060331.hun-3-12">
+    <EXTENT>kínai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE11" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-3-25" end_token="NW_WSJ_ENG_0182_20060331.hun-3-25">
+    <EXTENT>Mississippiben</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE12" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-3-27" end_token="NW_WSJ_ENG_0182_20060331.hun-3-28">
+    <EXTENT>New Yorkban</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE13" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-3-30" end_token="NW_WSJ_ENG_0182_20060331.hun-3-30">
+    <EXTENT>Pennsylvaniában</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE14" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-4-12" end_token="NW_WSJ_ENG_0182_20060331.hun-4-12">
+    <EXTENT>kínai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE15" task="NE" type="ORG" start_token="NW_WSJ_ENG_0182_20060331.hun-7-3" end_token="NW_WSJ_ENG_0182_20060331.hun-7-3">
+    <EXTENT>Kína</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE16" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-7-9" end_token="NW_WSJ_ENG_0182_20060331.hun-7-11">
+    <EXTENT>az Egyesült Államokba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE17" task="NE" type="ORG" start_token="NW_WSJ_ENG_0182_20060331.hun-9-2" end_token="NW_WSJ_ENG_0182_20060331.hun-9-3">
+    <EXTENT>Kínai Nagykövetség</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0182_20060331.hun-NE18" task="NE" type="LOC" start_token="NW_WSJ_ENG_0182_20060331.hun-9-9" end_token="NW_WSJ_ENG_0182_20060331.hun-9-9">
+    <EXTENT>pekingi</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

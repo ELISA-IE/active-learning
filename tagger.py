@@ -89,7 +89,9 @@ def tag_file(ltf, aligner, enc, chunker, modelf, tagged_dir, tagged_ext):
                 subprocess.call(' '.join(cmd), shell=True, stdout=f);  # option when running in command line
 
         # Load tagged output.
-        probf = os.getcwd() + '/data/workspace/hau/probs/' + ltf.split('/')[-1] + '.txt'
+        # probf = os.getcwd() + '/data/workspace/hun/probs/' + ltf.split('/')[-1] + '.txt'
+        probf = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data/workspace/hun/probs',
+                             ltf.split('/')[-1] + '.txt')
         # print probf
         cmd_ = ['crfsuite', 'tag',
                '-m', modelf, '-i',

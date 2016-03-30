@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_NBC_ENG_0128_20001009.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_NBC_ENG_0128_20001009.hun" lang="HUN">
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE1" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-0-12" end_token="NW_NBC_ENG_0128_20001009.hun-0-15">
+    <EXTENT>a Közel - Keleten</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE2" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-2-0" end_token="NW_NBC_ENG_0128_20001009.hun-2-0">
+    <EXTENT>Clinton</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE3" task="NE" type="TTL" start_token="NW_NBC_ENG_0128_20001009.hun-2-1" end_token="NW_NBC_ENG_0128_20001009.hun-2-1">
+    <EXTENT>elnök</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE4" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-2-7" end_token="NW_NBC_ENG_0128_20001009.hun-2-10">
+    <EXTENT>a Közel - Keletre</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE5" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-4-1" end_token="NW_NBC_ENG_0128_20001009.hun-4-2">
+    <EXTENT>Andrea Mitchell</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE6" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-6-4" end_token="NW_NBC_ENG_0128_20001009.hun-6-4">
+    <EXTENT>Washingtonba</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE7" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-6-15" end_token="NW_NBC_ENG_0128_20001009.hun-6-17">
+    <EXTENT>közel - keleti</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE8" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-8-8" end_token="NW_NBC_ENG_0128_20001009.hun-8-9">
+    <EXTENT>Camp Davidben</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE9" task="NE" type="ORG" start_token="NW_NBC_ENG_0128_20001009.hun-11-21" end_token="NW_NBC_ENG_0128_20001009.hun-11-23">
+    <EXTENT>az Egyesült Államokra</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE10" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-11-27" end_token="NW_NBC_ENG_0128_20001009.hun-11-27">
+    <EXTENT>Arafatot</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE11" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-11-37" end_token="NW_NBC_ENG_0128_20001009.hun-11-37">
+    <EXTENT>izraeli</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE12" task="NE" type="TTL" start_token="NW_NBC_ENG_0128_20001009.hun-11-38" end_token="NW_NBC_ENG_0128_20001009.hun-11-38">
+    <EXTENT>miniszterelnököt</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE13" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-11-40" end_token="NW_NBC_ENG_0128_20001009.hun-11-40">
+    <EXTENT>Barakot</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE14" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-12-9" end_token="NW_NBC_ENG_0128_20001009.hun-12-9">
+    <EXTENT>Arafat</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE15" task="NE" type="TTL" start_token="NW_NBC_ENG_0128_20001009.hun-12-10" end_token="NW_NBC_ENG_0128_20001009.hun-12-10">
+    <EXTENT>elnök</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE16" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-12-13" end_token="NW_NBC_ENG_0128_20001009.hun-12-13">
+    <EXTENT>Jeruzsálem</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE17" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-13-10" end_token="NW_NBC_ENG_0128_20001009.hun-13-10">
+    <EXTENT>Jeruzsálem</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE18" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-15-0" end_token="NW_NBC_ENG_0128_20001009.hun-15-0">
+    <EXTENT>Arafat</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE19" task="NE" type="ORG" start_token="NW_NBC_ENG_0128_20001009.hun-15-4" end_token="NW_NBC_ENG_0128_20001009.hun-15-5">
+    <EXTENT>a Hamasz</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE20" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-16-0" end_token="NW_NBC_ENG_0128_20001009.hun-16-0">
+    <EXTENT>Arafat</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE21" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-19-5" end_token="NW_NBC_ENG_0128_20001009.hun-19-5">
+    <EXTENT>Barak</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE22" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-19-12" end_token="NW_NBC_ENG_0128_20001009.hun-19-12">
+    <EXTENT>Arafatnak</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE23" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-20-3" end_token="NW_NBC_ENG_0128_20001009.hun-20-3">
+    <EXTENT>Barak</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE24" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-20-10" end_token="NW_NBC_ENG_0128_20001009.hun-20-11">
+    <EXTENT>Camp Davidben</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE25" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-21-0" end_token="NW_NBC_ENG_0128_20001009.hun-21-0">
+    <EXTENT>Arafat</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE26" task="NE" type="ORG" start_token="NW_NBC_ENG_0128_20001009.hun-23-9" end_token="NW_NBC_ENG_0128_20001009.hun-23-9">
+    <EXTENT>Washington</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE27" task="NE" type="ORG" start_token="NW_NBC_ENG_0128_20001009.hun-24-0" end_token="NW_NBC_ENG_0128_20001009.hun-24-2">
+    <EXTENT>Az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE28" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-24-8" end_token="NW_NBC_ENG_0128_20001009.hun-24-8">
+    <EXTENT>Clinton</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE29" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-25-6" end_token="NW_NBC_ENG_0128_20001009.hun-25-6">
+    <EXTENT>egyiptomi</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE30" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-25-7" end_token="NW_NBC_ENG_0128_20001009.hun-25-7">
+    <EXTENT>Mubarak</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE31" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-25-10" end_token="NW_NBC_ENG_0128_20001009.hun-25-12">
+    <EXTENT>szaúd - arábiai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE32" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-25-13" end_token="NW_NBC_ENG_0128_20001009.hun-25-13">
+    <EXTENT>Fahd</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE33" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-25-21" end_token="NW_NBC_ENG_0128_20001009.hun-25-21">
+    <EXTENT>Arafatot</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE34" task="NE" type="PER" start_token="NW_NBC_ENG_0128_20001009.hun-26-13" end_token="NW_NBC_ENG_0128_20001009.hun-26-13">
+    <EXTENT>Arafat</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE35" task="NE" type="ORG" start_token="NW_NBC_ENG_0128_20001009.hun-27-3" end_token="NW_NBC_ENG_0128_20001009.hun-27-5">
+    <EXTENT>az Egyesült Államok</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_NBC_ENG_0128_20001009.hun-NE36" task="NE" type="LOC" start_token="NW_NBC_ENG_0128_20001009.hun-31-0" end_token="NW_NBC_ENG_0128_20001009.hun-31-0">
+    <EXTENT>Washington</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

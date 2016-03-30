@@ -2,8 +2,14 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_NUR_HAU_007862_20100705" lang="">
-    <ANNOTATION id="WL_NUR_HAU_007862_20100705-NE1" task="NE" type="LOC">
-      <EXTENT start_char="499" end_char="513">Sadruddin wanda</EXTENT>
+    <ANNOTATION id="WL_NUR_HAU_007862_20100705-NE1" task="NE" type="TTL">
+      <EXTENT start_char="492" end_char="497">Sayyid</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007862_20100705-NE2" task="NE" type="PER">
+      <EXTENT start_char="499" end_char="507">Sadruddin</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007862_20100705-NE3" task="NE" type="ORG">
+      <EXTENT start_char="686" end_char="695">Birtaniyya</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_001785_20120303" lang=""/>
+  <DOC id="NW_VOA_HAU_001785_20120303" lang="">
+    <ANNOTATION id="NW_VOA_HAU_001785_20120303-NE1" task="NE" type="LOC">
+      <EXTENT start_char="540" end_char="551">jihar Kaduna</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

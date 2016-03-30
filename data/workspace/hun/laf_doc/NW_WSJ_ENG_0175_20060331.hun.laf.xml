@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.1.dtd">
+<LCTL_ANNOTATIONS lang="HUN" lctl_text_file="NW_WSJ_ENG_0175_20060331.hun.ltf.xml" encoding="UTF-8">
+<DOC id="NW_WSJ_ENG_0175_20060331.hun" lang="HUN">
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE1" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-1-8" end_token="NW_WSJ_ENG_0175_20060331.hun-1-9">
+    <EXTENT>Sylvia Tsao</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE2" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-1-14" end_token="NW_WSJ_ENG_0175_20060331.hun-1-14">
+    <EXTENT>Evant</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE3" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-4-3" end_token="NW_WSJ_ENG_0175_20060331.hun-4-5">
+    <EXTENT>a United Airlines</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE4" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-5-18" end_token="NW_WSJ_ENG_0175_20060331.hun-5-18">
+    <EXTENT>Tsao</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE5" task="NE" type="TTL" start_token="NW_WSJ_ENG_0175_20060331.hun-5-19" end_token="NW_WSJ_ENG_0175_20060331.hun-5-19">
+    <EXTENT>asszony</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE6" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-7-1" end_token="NW_WSJ_ENG_0175_20060331.hun-7-1">
+    <EXTENT>Evan</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE7" task="NE" type="LOC" start_token="NW_WSJ_ENG_0175_20060331.hun-8-2" end_token="NW_WSJ_ENG_0175_20060331.hun-8-5">
+    <EXTENT>Sioux City - beli</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE8" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-10-0" end_token="NW_WSJ_ENG_0175_20060331.hun-10-3">
+    <EXTENT>A Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE9" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-11-0" end_token="NW_WSJ_ENG_0175_20060331.hun-11-3">
+    <EXTENT>A Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE10" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-12-0" end_token="NW_WSJ_ENG_0175_20060331.hun-12-3">
+    <EXTENT>A Harvard Orvosi Iskola</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE11" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-13-0" end_token="NW_WSJ_ENG_0175_20060331.hun-13-3">
+    <EXTENT>A Nemzeti Közlekedésbiztonsági Bizottság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE12" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-14-23" end_token="NW_WSJ_ENG_0175_20060331.hun-14-23">
+    <EXTENT>Tsao</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE13" task="NE" type="TTL" start_token="NW_WSJ_ENG_0175_20060331.hun-14-24" end_token="NW_WSJ_ENG_0175_20060331.hun-14-24">
+    <EXTENT>asszony</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE14" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-16-1" end_token="NW_WSJ_ENG_0175_20060331.hun-16-4">
+    <EXTENT>a Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE15" task="NE" type="LOC" start_token="NW_WSJ_ENG_0175_20060331.hun-19-0" end_token="NW_WSJ_ENG_0175_20060331.hun-19-4">
+    <EXTENT>A Sioux City - beli</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE16" task="NE" type="LOC" start_token="NW_WSJ_ENG_0175_20060331.hun-19-7" end_token="NW_WSJ_ENG_0175_20060331.hun-19-7">
+    <EXTENT>cincinnati</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE17" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-19-8" end_token="NW_WSJ_ENG_0175_20060331.hun-19-9">
+    <EXTENT>Lori Michaelson</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE18" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-20-9" end_token="NW_WSJ_ENG_0175_20060331.hun-20-9">
+    <EXTENT>Sabrina</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE19" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-21-0" end_token="NW_WSJ_ENG_0175_20060331.hun-21-3">
+    <EXTENT>A Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE20" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-22-1" end_token="NW_WSJ_ENG_0175_20060331.hun-22-2">
+    <EXTENT>Vanessa Merton</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE21" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-22-4" end_token="NW_WSJ_ENG_0175_20060331.hun-22-8">
+    <EXTENT>a Pace Egyetem Jogi Iskolájának</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE22" task="NE" type="LOC" start_token="NW_WSJ_ENG_0175_20060331.hun-22-17" end_token="NW_WSJ_ENG_0175_20060331.hun-22-17">
+    <EXTENT>Európába</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE23" task="NE" type="LOC" start_token="NW_WSJ_ENG_0175_20060331.hun-25-0" end_token="NW_WSJ_ENG_0175_20060331.hun-25-4">
+    <EXTENT>A Sioux City - beli</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE24" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-25-7" end_token="NW_WSJ_ENG_0175_20060331.hun-25-8">
+    <EXTENT>Lori Michaelson</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE25" task="NE" type="LOC" start_token="NW_WSJ_ENG_0175_20060331.hun-25-14" end_token="NW_WSJ_ENG_0175_20060331.hun-25-14">
+    <EXTENT>Cincinnatibe</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE26" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-26-13" end_token="NW_WSJ_ENG_0175_20060331.hun-26-13">
+    <EXTENT>Sabrinát</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE27" task="NE" type="LOC" start_token="NW_WSJ_ENG_0175_20060331.hun-27-6" end_token="NW_WSJ_ENG_0175_20060331.hun-27-7">
+    <EXTENT>Sioux City</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE28" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-28-21" end_token="NW_WSJ_ENG_0175_20060331.hun-28-22">
+    <EXTENT>Stephanie Tombrello</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE29" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-28-24" end_token="NW_WSJ_ENG_0175_20060331.hun-28-31">
+    <EXTENT>a Los Angeles és Körzete Gyermek Utasbiztonsági Szövetség</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE30" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-28-38" end_token="NW_WSJ_ENG_0175_20060331.hun-28-41">
+    <EXTENT>a Szövetségi Repülési Igazgatóságtól</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE31" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-29-0" end_token="NW_WSJ_ENG_0175_20060331.hun-29-3">
+    <EXTENT>A Légi Utaskísérők Szövetsége</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE32" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-30-0" end_token="NW_WSJ_ENG_0175_20060331.hun-30-3">
+    <EXTENT>A Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE33" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-34-0" end_token="NW_WSJ_ENG_0175_20060331.hun-34-1">
+    <EXTENT>Anthony Broderick</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE34" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-34-3" end_token="NW_WSJ_ENG_0175_20060331.hun-34-6">
+    <EXTENT>a Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE35" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-39-0" end_token="NW_WSJ_ENG_0175_20060331.hun-39-1">
+    <EXTENT>Walter Coleman</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE36" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-39-3" end_token="NW_WSJ_ENG_0175_20060331.hun-39-5">
+    <EXTENT>a Légiszállítási Szövetség</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE37" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-41-5" end_token="NW_WSJ_ENG_0175_20060331.hun-41-8">
+    <EXTENT>a Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE38" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-48-7" end_token="NW_WSJ_ENG_0175_20060331.hun-48-10">
+    <EXTENT>a Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE39" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-49-1" end_token="NW_WSJ_ENG_0175_20060331.hun-49-2">
+    <EXTENT>James Lightfoot</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE40" task="NE" type="LOC" start_token="NW_WSJ_ENG_0175_20060331.hun-49-5" end_token="NW_WSJ_ENG_0175_20060331.hun-49-5">
+    <EXTENT>iowai</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE41" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-49-7" end_token="NW_WSJ_ENG_0175_20060331.hun-49-10">
+    <EXTENT>a Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE42" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-49-13" end_token="NW_WSJ_ENG_0175_20060331.hun-49-14">
+    <EXTENT>James Busey</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE43" task="NE" type="ORG" start_token="NW_WSJ_ENG_0175_20060331.hun-50-1" end_token="NW_WSJ_ENG_0175_20060331.hun-50-4">
+    <EXTENT>a Szövetségi Repülési Igazgatóság</EXTENT>
+  </ANNOTATION>
+  <ANNOTATION id="NW_WSJ_ENG_0175_20060331.hun-NE44" task="NE" type="PER" start_token="NW_WSJ_ENG_0175_20060331.hun-50-10" end_token="NW_WSJ_ENG_0175_20060331.hun-50-10">
+    <EXTENT>Lightfoot</EXTENT>
+  </ANNOTATION>
+</DOC>
+</LCTL_ANNOTATIONS>

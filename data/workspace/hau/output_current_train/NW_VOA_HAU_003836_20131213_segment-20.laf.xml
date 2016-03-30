@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_003836_20131213" lang=""/>
+  <DOC id="NW_VOA_HAU_003836_20131213" lang="">
+    <ANNOTATION id="NW_VOA_HAU_003836_20131213-NE1" task="NE" type="TTL">
+      <EXTENT start_char="2160" end_char="2165">Masana</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003836_20131213-NE2" task="NE" type="PER">
+      <EXTENT start_char="2167" end_char="2180">Harkokin Tsaro</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003836_20131213-NE3" task="NE" type="PER">
+      <EXTENT start_char="2182" end_char="2187">Sun Ce</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

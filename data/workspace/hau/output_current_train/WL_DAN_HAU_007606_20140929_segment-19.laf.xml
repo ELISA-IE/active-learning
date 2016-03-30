@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_DAN_HAU_007606_20140929" lang=""/>
+  <DOC id="WL_DAN_HAU_007606_20140929" lang="">
+    <ANNOTATION id="WL_DAN_HAU_007606_20140929-NE1" task="NE" type="LOC">
+      <EXTENT start_char="2159" end_char="2160">So</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

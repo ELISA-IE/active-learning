@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_004543_20140404" lang=""/>
+  <DOC id="NW_VOA_HAU_004543_20140404" lang="">
+    <ANNOTATION id="NW_VOA_HAU_004543_20140404-NE1" task="NE" type="LOC">
+      <EXTENT start_char="401" end_char="408">Nijeriya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

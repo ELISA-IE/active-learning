@@ -3,10 +3,13 @@
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_DAN_HAU_007495_20120216" lang="">
     <ANNOTATION id="WL_DAN_HAU_007495_20120216-NE1" task="NE" type="PER">
-      <EXTENT start_char="28" end_char="35">Mutallab</EXTENT>
+      <EXTENT start_char="0" end_char="3">Kotu</EXTENT>
     </ANNOTATION>
     <ANNOTATION id="WL_DAN_HAU_007495_20120216-NE2" task="NE" type="PER">
-      <EXTENT start_char="37" end_char="43">Hukunci</EXTENT>
+      <EXTENT start_char="5" end_char="14">Ta Yankewa</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_DAN_HAU_007495_20120216-NE3" task="NE" type="ORG">
+      <EXTENT start_char="16" end_char="35">Umar Farouk Mutallab</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

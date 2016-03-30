@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_MAU_HAU_007263_20080907" lang=""/>
+  <DOC id="WL_MAU_HAU_007263_20080907" lang="">
+    <ANNOTATION id="WL_MAU_HAU_007263_20080907-NE1" task="NE" type="LOC">
+      <EXTENT start_char="598" end_char="601">Kano</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_MAU_HAU_007263_20080907-NE2" task="NE" type="LOC">
+      <EXTENT start_char="792" end_char="799">ANA Kano</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_002654_20130405" lang=""/>
+  <DOC id="NW_VOA_HAU_002654_20130405" lang="">
+    <ANNOTATION id="NW_VOA_HAU_002654_20130405-NE1" task="NE" type="LOC">
+      <EXTENT start_char="48" end_char="58">kasar Rasha</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_002654_20130405-NE2" task="NE" type="LOC">
+      <EXTENT start_char="62" end_char="70">Pyongyang</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_002654_20130405-NE3" task="NE" type="LOC">
+      <EXTENT start_char="80" end_char="92">birnin Koriya</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>

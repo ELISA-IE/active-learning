@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="NW_VOA_HAU_003956_20140103" lang=""/>
+  <DOC id="NW_VOA_HAU_003956_20140103" lang="">
+    <ANNOTATION id="NW_VOA_HAU_003956_20140103-NE1" task="NE" type="ORG">
+      <EXTENT start_char="518" end_char="524">Clinton</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003956_20140103-NE2" task="NE" type="PER">
+      <EXTENT start_char="526" end_char="542">Access Initiative</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003956_20140103-NE3" task="NE" type="TTL">
+      <EXTENT start_char="545" end_char="550">Mallam</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="NW_VOA_HAU_003956_20140103-NE4" task="NE" type="PER">
+      <EXTENT start_char="552" end_char="565">Lamid Tajudeen</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>
