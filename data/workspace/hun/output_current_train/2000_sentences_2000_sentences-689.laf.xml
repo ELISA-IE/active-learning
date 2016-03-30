@@ -1,30 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="207144" end_char="207144">-</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="207182" end_char="207182">a</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="207191" end_char="207191">,</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="207206" end_char="207211">végéig</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="207219" end_char="207230">már 200 ezer</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
-      <EXTENT start_char="207258" end_char="207270">közölte Kunos</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="ORG">
-      <EXTENT start_char="207282" end_char="207307">Samsung Electronics Magyar</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
-      <EXTENT start_char="207333" end_char="207344">értékesítési</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

@@ -1,33 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="264031" end_char="264049">amely 49 százalékos</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="ORG">
-      <EXTENT start_char="264065" end_char="264071">PanTel-</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="264078" end_char="264126">és az amerikai Qwest Communications International</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="264151" end_char="264265">új üzleti vállalkozás keretében nagy kapacitású optikai üvegszálas internet protocol alapú hálózatot építenek ki és</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="ORG">
-      <EXTENT start_char="264280" end_char="264293">majd Európában</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="ORG">
-      <EXTENT start_char="264304" end_char="264314">Qwest észak</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
-      <EXTENT start_char="264325" end_char="264352">hálózatához csatlakozva adat</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
-      <EXTENT start_char="264361" end_char="264362">és</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="ORG">
-      <EXTENT start_char="264376" end_char="264404">szolgáltatásokat fog nyújtani</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

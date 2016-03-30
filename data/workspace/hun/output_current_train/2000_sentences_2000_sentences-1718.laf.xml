@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="461106" end_char="461123">az előzőeken felül</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="461129" end_char="461146">azzal is segítette</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="461148" end_char="461153">az AH-</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="461162" end_char="461189">olyan részvényeket bocsátott</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="461202" end_char="461220">az opciós szerződés</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
-      <EXTENT start_char="461233" end_char="461236">, de</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
-      <EXTENT start_char="461268" end_char="461293">nem biztosítanak szavazati</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

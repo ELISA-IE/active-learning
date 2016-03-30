@@ -1,36 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="3988" end_char="3993">Kalmár</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="4003" end_char="4013">az MP elnök</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="4031" end_char="4038">korábban</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="4066" end_char="4105">társasága megszerzi a szolgáltatás jogát</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="4119" end_char="4130">kezd egyebek</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="ORG">
-      <EXTENT start_char="4142" end_char="4149">Matáv Rt</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
-      <EXTENT start_char="4157" end_char="4169">illetve annak</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
-      <EXTENT start_char="4190" end_char="4236">az analóg hálózaton üzemelő Westel Rádiótelefon</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
-      <EXTENT start_char="4258" end_char="4260">cég</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
-      <EXTENT start_char="4274" end_char="4289">igénybevételéről</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

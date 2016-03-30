@@ -1,24 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="ORG">
-      <EXTENT start_char="416248" end_char="416302">román televízió Quentin Quayle Románia brit nagykövetét</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="416330" end_char="416340">a bukaresti</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="416374" end_char="416384">a korrupció</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="416406" end_char="416415">amennyiben</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="416425" end_char="416432">szeretne</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
-      <EXTENT start_char="416455" end_char="416472">az Európai Unióhoz</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

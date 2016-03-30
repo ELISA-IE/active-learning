@@ -1,42 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="57337" end_char="57351">Az új szerződés</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="ORG">
-      <EXTENT start_char="57387" end_char="57394">Matáv Rt</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="57401" end_char="57402">és</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="ORG">
-      <EXTENT start_char="57406" end_char="57482">korábbi ingatlankiszervezéseken túl további ötven fő kihelyezését is lehetővé</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="57510" end_char="57511">-é</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="ORG">
-      <EXTENT start_char="57520" end_char="57539">Matáv ingatlankezelő</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
-      <EXTENT start_char="57566" end_char="57570">Matáv</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
-      <EXTENT start_char="57593" end_char="57596">hajt</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
-      <EXTENT start_char="57604" end_char="57623">ingatlangazdálkodási</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
-      <EXTENT start_char="57666" end_char="57672">adta el</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
-      <EXTENT start_char="57688" end_char="57688">a</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
-      <EXTENT start_char="57714" end_char="57718">Matáv</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

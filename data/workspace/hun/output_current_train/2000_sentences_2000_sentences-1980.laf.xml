@@ -1,36 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="519925" end_char="519934">Frischmann</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="ORG">
-      <EXTENT start_char="519945" end_char="519965">Hírközlési Felügyelet</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="ORG">
-      <EXTENT start_char="519972" end_char="519996">Hírközlési Döntőbizottság</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="520004" end_char="520012">elnökének</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="ORG">
-      <EXTENT start_char="520038" end_char="520066">HDB a távközlési szolgáltatók</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
-      <EXTENT start_char="520076" end_char="520101">megtartotta első nyilvános</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
-      <EXTENT start_char="520118" end_char="520122">annak</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
-      <EXTENT start_char="520133" end_char="520133">,</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
-      <EXTENT start_char="520148" end_char="520188">hozzon a jelentős piaci erővel rendelkező</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
-      <EXTENT start_char="520203" end_char="520238">azonosítására vonatkozó alapelvekről</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

@@ -1,36 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="514340" end_char="514345">Straub</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="514374" end_char="514393">a piacnyitás után ne</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="514401" end_char="514407">verseny</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="514411" end_char="514426">hazai távközlési</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="514436" end_char="514441">hiszen</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
-      <EXTENT start_char="514451" end_char="514486">van a vezetékes és mobilszolgáltatók</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
-      <EXTENT start_char="514498" end_char="514518">nemzetközi hívások és</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="ORG">
-      <EXTENT start_char="514522" end_char="514553">belföldi helyközi hívások piacán</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
-      <EXTENT start_char="514565" end_char="514593">az üzleti és adatkommunikáció</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="ORG">
-      <EXTENT start_char="514595" end_char="514607">területén is.</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

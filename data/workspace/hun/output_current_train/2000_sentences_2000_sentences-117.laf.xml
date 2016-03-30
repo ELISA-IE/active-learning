@@ -1,48 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="43282" end_char="43289">Egyelőre</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="43308" end_char="43308">a</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="43336" end_char="43340">Matáv</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="43355" end_char="43360">a BTC-</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="43420" end_char="43446">szolgáltatójának befektetői</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="ORG">
-      <EXTENT start_char="43485" end_char="43491">Matáv a</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="ORG">
-      <EXTENT start_char="43493" end_char="43513">BTC privatizációjából</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="ORG">
-      <EXTENT start_char="43525" end_char="43535">Matáv kelet</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
-      <EXTENT start_char="43542" end_char="43544">nem</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
-      <EXTENT start_char="43576" end_char="43580">Matáv</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
-      <EXTENT start_char="43586" end_char="43589">vesz</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE12" task="NE" type="ORG">
-      <EXTENT start_char="43625" end_char="43631">Matáv a</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
-      <EXTENT start_char="43633" end_char="43638">bolgár</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE14" task="NE" type="PER">
-      <EXTENT start_char="43648" end_char="43648">,</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

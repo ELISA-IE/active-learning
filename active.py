@@ -235,11 +235,15 @@ class ActiveLearning(object):
         cmds = []
         for item in args:
             cmds.append([self.TAG, '-L', self.OUT_DIR, self.MODEL_DIR] + item)
-        processes = [Popen(cmd) for cmd in cmds]
-        for p in processes: p.wait()
+
+        # processes = [Popen(cmd) for cmd in cmds]
+        # for p in processes: p.wait()
+
+        for cmd in cmds:  # single process, avoid args too long error
+            subprocess.call(cmd)
 
         # *********** single process *********** #
-        # cmd = [TAG, '-L', OUT_DIR, MODEL_DIR] + [os.path.join(LTF_TRAIN_DIR, ltf) for ltf in test_set]
+        # cmd = [self.TAG, '-L', self.OUT_DIR, self.MODEL_DIR] + list(self.unlabeled_ltf)
         # subprocess.call(cmd)
 
         if self.verbose:

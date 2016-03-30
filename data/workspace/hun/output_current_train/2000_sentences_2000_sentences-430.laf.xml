@@ -1,45 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="137514" end_char="137525">Antennamikro</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="137551" end_char="137562">közül többen</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="137576" end_char="137579">hogy</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="137583" end_char="137602">módosított Általános</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="137635" end_char="137635">.</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
-      <EXTENT start_char="137649" end_char="137667">az Antenna Hungária</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
-      <EXTENT start_char="137673" end_char="137690">az indulócsomagnál</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
-      <EXTENT start_char="137700" end_char="137706">alapnál</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
-      <EXTENT start_char="137716" end_char="137731">prémium esetében</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
-      <EXTENT start_char="137739" end_char="137752">5515 forintban</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
-      <EXTENT start_char="137764" end_char="137766">meg</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
-      <EXTENT start_char="137779" end_char="137804">cég honlapján is olvasható</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
-      <EXTENT start_char="137819" end_char="137849">4080 forintos akciós tarifákkal</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

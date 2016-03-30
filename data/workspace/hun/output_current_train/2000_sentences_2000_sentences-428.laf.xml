@@ -1,48 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="136956" end_char="136988">A konfliktusban sajátos helyzetbe</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="ORG">
-      <EXTENT start_char="136999" end_char="137013">Vivendi Telecom</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="137034" end_char="137058">az internetes telefonálás</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="137065" end_char="137072">megkapja</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="137076" end_char="137086">percenkénti</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
-      <EXTENT start_char="137093" end_char="137107">forintos állami</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
-      <EXTENT start_char="137121" end_char="137121">s</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
-      <EXTENT start_char="137131" end_char="137165">ugyanúgy képes lenne árcsökkentésre</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="ORG">
-      <EXTENT start_char="137175" end_char="137180">Matáv-</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
-      <EXTENT start_char="137181" end_char="137187">Axelero</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
-      <EXTENT start_char="137208" end_char="137209">és</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE12" task="NE" type="ORG">
-      <EXTENT start_char="137214" end_char="137226">órás csomagja</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
-      <EXTENT start_char="137228" end_char="137239">már ma is 30</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE14" task="NE" type="PER">
-      <EXTENT start_char="137261" end_char="137281">a vezető szolgáltatók</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

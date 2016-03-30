@@ -1,45 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="170092" end_char="170096">ukrán</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="170106" end_char="170138">az utóbbi időben több intézkedést</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="170147" end_char="170147">a</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="ORG">
-      <EXTENT start_char="170149" end_char="170177">távközlési ágazat átrendezése</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="PER">
-      <EXTENT start_char="170210" end_char="170242">a távolsági telefonszolgáltatásra</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
-      <EXTENT start_char="170256" end_char="170266">Utel vegyes</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="ORG">
-      <EXTENT start_char="170291" end_char="170312">Deutsche Telekomtól és</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="ORG">
-      <EXTENT start_char="170332" end_char="170334">, s</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
-      <EXTENT start_char="170345" end_char="170347">sző</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
-      <EXTENT start_char="170368" end_char="170388">a legnagyobb belföldi</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
-      <EXTENT start_char="170402" end_char="170402">-</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
-      <EXTENT start_char="170416" end_char="170452">az Ukrainian Mobile Communicationsban</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
-      <EXTENT start_char="170459" end_char="170472">részesedésének</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

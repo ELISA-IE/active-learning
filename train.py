@@ -221,10 +221,11 @@ if __name__ == '__main__':
             #     subprocess.call(cmd, stderr=f)
             # else:
             #     subprocess.call(cmd, stderr=f, stdout=f)
-            if os.environ.get('CRFSUITE'):
-                subprocess.call(' '.join(cmd), shell=True, stderr=f, stdout=f, env={'CRFSUITE': '/usr/local/bin'});
-            else:
-                subprocess.call(' '.join(cmd), shell=True, stdout=f);  # option when running in command line
+            subprocess.call(' '.join(cmd), shell=True, stdout=f);
+            # if os.environ.get('CRFSUITE'):
+            #     subprocess.call(' '.join(cmd), shell=True, stderr=f, stdout=f, env={'CRFSUITE': '/usr/local/bin'});
+            # else:
+            #     subprocess.call(' '.join(cmd), shell=True, stdout=f);  # option when running in command line
     else:
         logger.error('Training file contains no features/targets. Exiting.') 
 

@@ -1,57 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="91560" end_char="91580">néven közös céget hoz</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="91594" end_char="91603">százalékos</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="ORG">
-      <EXTENT start_char="91626" end_char="91641">Deutsche Telekom</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="91656" end_char="91679">álló ingatlanszolgáltató</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="ORG">
-      <EXTENT start_char="91684" end_char="91702">DeTeImmobilien GmbH</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="ORG">
-      <EXTENT start_char="91709" end_char="91723">Wallis Ingatlan</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="ORG">
-      <EXTENT start_char="91752" end_char="91762">DT többségi</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
-      <EXTENT start_char="91777" end_char="91786">álló Matáv</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
-      <EXTENT start_char="91796" end_char="91825">keddi közgyűlési döntés nyomán</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="ORG">
-      <EXTENT start_char="91829" end_char="91842">jövőben Magyar</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
-      <EXTENT start_char="91871" end_char="91934">augusztusban a távközlési cég ingatlanüzemeltetésére létrehozott</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
-      <EXTENT start_char="91942" end_char="91952">Szolgáltató</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
-      <EXTENT start_char="91961" end_char="91989">utóbbit az ügyletsorozat első</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE14" task="NE" type="ORG">
-      <EXTENT start_char="92004" end_char="92008">DTI 2</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE15" task="NE" type="PER">
-      <EXTENT start_char="92027" end_char="92035">vásárolta</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE16" task="NE" type="PER">
-      <EXTENT start_char="92047" end_char="92071">49 százalékos részesedést</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE17" task="NE" type="ORG">
-      <EXTENT start_char="92090" end_char="92092">WI.</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

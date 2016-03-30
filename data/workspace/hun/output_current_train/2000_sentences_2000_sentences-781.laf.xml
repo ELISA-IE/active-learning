@@ -1,57 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="230841" end_char="230845">Index</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="230865" end_char="230883">többségi tulajdonra</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="230896" end_char="230900">Mucsi</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="230933" end_char="230941">és Sándor</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE5" task="NE" type="ORG">
-      <EXTENT start_char="230943" end_char="230949">István,</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE6" task="NE" type="PER">
-      <EXTENT start_char="230953" end_char="230966">Danubius Rádió</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE7" task="NE" type="PER">
-      <EXTENT start_char="230990" end_char="230990">A</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE8" task="NE" type="PER">
-      <EXTENT start_char="231019" end_char="231030">Mucsi György</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE9" task="NE" type="PER">
-      <EXTENT start_char="231041" end_char="231046">Sándor</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE10" task="NE" type="PER">
-      <EXTENT start_char="231061" end_char="231079">harminc százalékban</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE11" task="NE" type="PER">
-      <EXTENT start_char="231086" end_char="231094">az Index.</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE12" task="NE" type="PER">
-      <EXTENT start_char="231117" end_char="231117">A</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE13" task="NE" type="PER">
-      <EXTENT start_char="231147" end_char="231181">a jelenleg szintén tulajdonosváltás</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE14" task="NE" type="PER">
-      <EXTENT start_char="231189" end_char="231192">álló</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE15" task="NE" type="PER">
-      <EXTENT start_char="231210" end_char="231218">a Wallis-</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE16" task="NE" type="PER">
-      <EXTENT start_char="231227" end_char="231267">informatikai szolgáltatásokra szakosodott</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE17" task="NE" type="ORG">
-      <EXTENT start_char="231280" end_char="231293">Wallitrade Kft</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>
