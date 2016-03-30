@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="12126" end_char="12138">Világgazdaság</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="12168" end_char="12173">Hírlap</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="12223" end_char="12236">Matáv elnyerte</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE4" task="NE" type="PER">
-      <EXTENT start_char="12307" end_char="12319">Magyar Nemzet</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

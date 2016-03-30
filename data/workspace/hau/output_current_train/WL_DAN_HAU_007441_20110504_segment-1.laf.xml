@@ -2,11 +2,8 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_DAN_HAU_007441_20110504" lang="">
-    <ANNOTATION id="WL_DAN_HAU_007441_20110504-NE1" task="NE" type="PER">
-      <EXTENT start_char="44" end_char="48">Osama</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="WL_DAN_HAU_007441_20110504-NE2" task="NE" type="PER">
-      <EXTENT start_char="50" end_char="58">Bin Laden</EXTENT>
+    <ANNOTATION id="WL_DAN_HAU_007441_20110504-NE1" task="NE" type="ORG">
+      <EXTENT start_char="50" end_char="52">Bin</EXTENT>
     </ANNOTATION>
   </DOC>
 </LCTL_ANNOTATIONS>

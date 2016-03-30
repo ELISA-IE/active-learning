@@ -2,19 +2,13 @@
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
   <DOC id="WL_DAN_HAU_007487_20120123" lang="">
-    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE1" task="NE" type="PER">
-      <EXTENT start_char="0" end_char="6">Wasikar</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE2" task="NE" type="ORG">
+    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE1" task="NE" type="ORG">
       <EXTENT start_char="8" end_char="17">Boko Haram</EXTENT>
     </ANNOTATION>
-    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE3" task="NE" type="PER">
-      <EXTENT start_char="19" end_char="22">Zuwa</EXTENT>
+    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE2" task="NE" type="ORG">
+      <EXTENT start_char="27" end_char="42">Mahukuntan Jihar</EXTENT>
     </ANNOTATION>
-    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE4" task="NE" type="PER">
-      <EXTENT start_char="24" end_char="42">Ga Mahukuntan Jihar</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE5" task="NE" type="LOC">
+    <ANNOTATION id="WL_DAN_HAU_007487_20120123-NE3" task="NE" type="LOC">
       <EXTENT start_char="44" end_char="47">Kano</EXTENT>
     </ANNOTATION>
   </DOC>

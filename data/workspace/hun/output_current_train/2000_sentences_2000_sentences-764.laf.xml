@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="2000_sentences" lang="">
-    <ANNOTATION id="2000_sentences-NE1" task="NE" type="PER">
-      <EXTENT start_char="226599" end_char="226613">Magyar Tőkepiac</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE2" task="NE" type="PER">
-      <EXTENT start_char="226773" end_char="226785">Magyar Hírlap</EXTENT>
-    </ANNOTATION>
-    <ANNOTATION id="2000_sentences-NE3" task="NE" type="PER">
-      <EXTENT start_char="226817" end_char="226829">Magyar nemzet</EXTENT>
-    </ANNOTATION>
-  </DOC>
+  <DOC id="2000_sentences" lang=""/>
 </LCTL_ANNOTATIONS>

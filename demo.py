@@ -33,6 +33,7 @@ LTF_TEST_DIR = os.path.join(WORKING_DIR,'ltf_test')
 LAF_TRAIN_DIR = os.path.join(WORKING_DIR,'laf_train')
 LAF_TEST_DIR = os.path.join(WORKING_DIR,'laf_test')
 LAF_CURRENT_TRAIN_DIR = os.path.join(WORKING_DIR,'laf_current_train')
+LTF_CURRENT_TRAIN_DIR = os.path.join(WORKING_DIR, 'ltf_current_train')
 OUT_DIR = os.path.join(WORKING_DIR,'output_current_train')
 OUT_TEST_DIR = os.path.join(WORKING_DIR, 'output_test')
 EVAL_DIR = os.path.join(WORKING_DIR, 'eval')
@@ -47,6 +48,7 @@ def annotate(files):
     for file in files:
         laf = file.split('/')[-1].replace('ltf', 'laf')
         subprocess.call(['cp', os.path.join(LAF_TRAIN_DIR, laf), os.path.join(LAF_CURRENT_TRAIN_DIR, laf)])
+        subprocess.call(['cp', file, os.path.join(LTF_CURRENT_TRAIN_DIR, laf.replace('laf', 'ltf'))])
         ann_files.append(file.replace('ltf','laf'))
     return ann_files
 

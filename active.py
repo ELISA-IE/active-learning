@@ -6,6 +6,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 import codecs
 import os
+import io
 import random
 import re
 import operator
@@ -67,28 +68,32 @@ class ActiveLearning(object):
         if verbose:
             print "INFO: Unlabeled data: " + str(len(unlabeled_ltf))
 
-        # self.frequency = dict()
-        # sum = 0.0
-        # for f in self.train_set:
-        #     try:
-        #         contents = open(os.path.join(LTF_TRAIN_DIR,f)).read()
-        #     except IOError:
-        #         print "ERROR: Skipping training file (not found): " + f
-        #         continue
-        #     soup = BeautifulSoup(contents, 'html.parser')
-        #     for token in soup.find_all('token'):
-        #         tmp = token.string
-        #         if tmp in self.frequency.keys():
-        #             self.frequency[tmp] = self.frequency.get(tmp) + 1
-        #         else:
-        #             self.frequency[tmp] = 1
-        #         sum += 1
-        # self.frequency.update((k, v / sum) for (k, v) in self.frequency.iteritems())  # get frequency of every word
-        #
-        # f_fre = codecs.open(os.path.join(WORKING_DIR, 'frequency.txt'), 'w', encoding='utf-8')  # take down the frequency to debug
-        # for key in self.frequency.keys():
-        #     f_fre.write(key+'\t'+str(self.frequency.get(key))+'\n')
-        # f_fre.close()
+        frequency_file_path = os.path.join(WORKING_DIR, 'frequency.txt')
+        # create frequency file if not exits
+        if not os.path.exists(frequency_file_path):
+            print 'INFO: generating frequency file'
+            self.frequency = dict()
+            sum = 0.0
+            for f in self.unlabeled_ltf:
+                try:
+                    contents = io.open(f, 'r', -1, 'utf-8').read()
+                except IOError:
+                    print "ERROR: Skipping training file (not found): " + f
+                    continue
+                soup = BeautifulSoup(contents, 'html.parser')
+                for token in soup.find_all('token'):
+                    tmp = token.string
+                    if tmp in self.frequency.keys():
+                        self.frequency[tmp] = self.frequency.get(tmp) + 1
+                    else:
+                        self.frequency[tmp] = 1
+                    sum += 1
+            self.frequency.update((k, v / sum) for (k, v) in self.frequency.iteritems())  # get frequency of every word
+
+            f_fre = codecs.open(os.path.join(WORKING_DIR, 'frequency.txt'), 'w', encoding='utf-8')  # take down the frequency to debug
+            for key in self.frequency.keys():
+                f_fre.write(key+'\t'+str(self.frequency.get(key))+'\n')
+            f_fre.close()
 
         self.max_train_sentences = int(max_size)
         self.max_iter = int(max_iter)

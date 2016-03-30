@@ -84,7 +84,7 @@ def tag_file(ltf, aligner, enc, chunker, modelf, tagged_dir, tagged_ext):
                featsf]
         with open(tagsf, 'w') as f:
             if os.environ.get('CRFSUITE'):
-                subprocess.call(' '.join(cmd), shell=True, stdout=f, env={'CRFSUITE': '/usr/local/bin'});
+                subprocess.call(' '.join(cmd), shell=True, stdout=f, env={'CRFSUITE': os.environ.get('CRFSUITE')});
             else:
                 subprocess.call(' '.join(cmd), shell=True, stdout=f);  # option when running in command line
 
@@ -99,7 +99,7 @@ def tag_file(ltf, aligner, enc, chunker, modelf, tagged_dir, tagged_ext):
         with open(probf, 'w') as f:
             # subprocess.call(cmd_, stdout=f)
             if os.environ.get('CRFSUITE'):
-                subprocess.call(' '.join(cmd_), shell=True, stderr=f, stdout=f, env={'CRFSUITE': '/usr/local/bin'});
+                subprocess.call(' '.join(cmd_), shell=True, stderr=f, stdout=f, env={'CRFSUITE': os.environ.get('CRFSUITE')});
             else:
                 subprocess.call(' '.join(cmd_), shell=True, stdout=f);  # option when running in command line
 

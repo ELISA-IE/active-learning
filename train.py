@@ -222,13 +222,11 @@ if __name__ == '__main__':
             # else:
             #     subprocess.call(cmd, stderr=f, stdout=f)
             if os.environ.get('CRFSUITE'):
-                subprocess.call(' '.join(cmd), shell=True, stderr=f, stdout=f, env={'CRFSUITE': '/usr/local/bin'});
+                subprocess.call(' '.join(cmd), shell=True, stderr=f, stdout=f, env={'CRFSUITE': os.environ.get('CRFSUITE')});
             else:
                 subprocess.call(' '.join(cmd), shell=True, stdout=f);  # option when running in command line
     else:
         logger.error('Training file contains no features/targets. Exiting.') 
 
     # Clean up.
-    # os.system('mv' + ' ' + trainf + ' ' + '~/Desktop')
-
     shutil.rmtree(temp_dir)

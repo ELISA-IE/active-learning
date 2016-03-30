@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE LCTL_ANNOTATIONS SYSTEM "laf.v1.2.dtd">
 <LCTL_ANNOTATIONS lang="">
-  <DOC id="WL_NUR_HAU_007828_20091123" lang=""/>
+  <DOC id="WL_NUR_HAU_007828_20091123" lang="">
+    <ANNOTATION id="WL_NUR_HAU_007828_20091123-NE1" task="NE" type="ORG">
+      <EXTENT start_char="1472" end_char="1512">KARA MUNA SON ANNABI DANA IYALEN GIDAN SA</EXTENT>
+    </ANNOTATION>
+    <ANNOTATION id="WL_NUR_HAU_007828_20091123-NE2" task="NE" type="ORG">
+      <EXTENT start_char="1522" end_char="1549">SANYA MU A KAN HANYA ZUWA GA</EXTENT>
+    </ANNOTATION>
+  </DOC>
 </LCTL_ANNOTATIONS>
