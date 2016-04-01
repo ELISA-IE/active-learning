@@ -1,9 +1,35 @@
-data/workspace/hun/laf_current_train/
-data/workspace/hun/ltf_current_train/
-data/workspace/hun/output_current_train/
-data/workspace/hun/probs/
-data/workspace/hau/
-data/cache/
+################################################################################
+# OSX.gitignore
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+################################################################################
+# Python.gitignore
+# ignore *.pyc
+*.pyc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -58,6 +84,13 @@ coverage.xml
 
 # Django stuff:
 *.log
+local_settings.py
+
+# Flask instance folder
+instance/
+
+# Scrapy stuff:
+.scrapy
 
 # Sphinx documentation
 docs/_build/
@@ -65,5 +98,21 @@ docs/_build/
 # PyBuilder
 target/
 
-#Ipython Notebook
+# IPython Notebook
 .ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
