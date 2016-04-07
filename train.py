@@ -217,15 +217,9 @@ if __name__ == '__main__':
                '-p', 'feature.possible_transitions=0',
                trainf] 
         with open(os.devnull, 'w') as f:
-            # if args.display_progress:
-            #     subprocess.call(cmd, stderr=f)
-            # else:
-            #     subprocess.call(cmd, stderr=f, stdout=f)
-            subprocess.call(' '.join(cmd), shell=True, stdout=f);
-            # if os.environ.get('CRFSUITE'):
-            #     subprocess.call(' '.join(cmd), shell=True, stderr=f, stdout=f, env={'CRFSUITE': '/usr/local/bin'});
-            # else:
-            #     subprocess.call(' '.join(cmd), shell=True, stdout=f);  # option when running in command line
+            os.environ['PATH'] += os.pathsep + '/usr/local/bin'
+            subprocess.call(cmd, stdout=f, env=os.environ)
+
     else:
         logger.error('Training file contains no features/targets. Exiting.') 
 
